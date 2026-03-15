@@ -147,8 +147,53 @@ def classify_post(content: str) -> list[dict]:
 
 
 # =====================================================================
-# ③ 快照 Polymarket 價格
+# ③ 雙快照：Polymarket + 美股，同時抓
 # =====================================================================
+
+def snapshot_sp500() -> dict[str, Any]:
+    """
+    即時抓 S&P 500 價格（用 yfinance 抓 SPY ETF 的最新報價）。
+    SPY ≈ S&P 500 的 1/10。
+    盤外時段用最後收盤價 + 期貨方向。
+    """
+    try:
+        import yfinance as yf
+
+        # SPY = S&P 500 ETF，流動性最高
+        spy = yf.Ticker("SPY")
+        info = spy.fast_info
+
+        current = float(info.last_price) if hasattr(info, 'last_price') else None
+        prev_close = float(info.previous_close) if hasattr(info, 'previous_close') else None
+
+        if current and prev_close and prev_close > 0:
+            change_pct = (current - prev_close) / prev_close * 100
+        else:
+            change_pct = None
+
+        # 也抓 ES=F（S&P 500 期貨）看盤外方向
+        es_price = None
+        try:
+            es = yf.Ticker("ES=F")
+            es_info = es.fast_info
+            es_price = float(es_info.last_price) if hasattr(es_info, 'last_price') else None
+        except Exception:
+            pass
+
+        return {
+            'timestamp': now_str(),
+            'spy_price': round(current, 2) if current else None,
+            'spy_prev_close': round(prev_close, 2) if prev_close else None,
+            'spy_change_pct': round(change_pct, 3) if change_pct else None,
+            'es_futures': round(es_price, 2) if es_price else None,
+            'source': 'yfinance',
+        }
+
+    except ImportError:
+        return {'error': 'yfinance not installed', 'timestamp': now_str()}
+    except Exception as e:
+        return {'error': str(e), 'timestamp': now_str()}
+
 
 def snapshot_pm_prices() -> dict[str, Any]:
     """即時抓 Polymarket 的 Trump 相關市場價格。"""
@@ -195,14 +240,15 @@ def make_prediction(
     post: dict,
     signals: list[dict],
     pm_snapshot: dict,
+    stock_snapshot: dict | None = None,
 ) -> dict[str, Any] | None:
     """
-    根據推文信號 + 當前 PM 價格，做出即時預測。
+    根據推文信號 + PM 價格 + 美股價格，做出即時雙軌預測。
 
-    預測什麼：
-      - 信號方向（TARIFF → PM 該漲/跌）
-      - 預期變化幅度
-      - 應該追蹤哪些市場
+    同時預測：
+      - 預測市場（Polymarket）的方向
+      - 美股（S&P 500）的方向
+      - 兩者的反應可能不同 → 差異本身是套利信號
     """
     if not signals:
         return None
@@ -252,15 +298,32 @@ def make_prediction(
         'signal_types': sig_types,
         'predicted_direction': direction,
         'confidence': round(confidence, 2),
-        'tracked_markets': tracked_markets[:5],  # 最多追蹤 5 個市場
 
-        # 驗證欄位（後續回填）
-        'verify_1h': None,   # 1 小時後的價格
-        'verify_3h': None,   # 3 小時後
-        'verify_6h': None,   # 6 小時後
-        'direction_correct_1h': None,
-        'direction_correct_3h': None,
-        'status': 'LIVE',    # LIVE → VERIFIED → EXPIRED
+        # === 雙軌追蹤 ===
+
+        # 預測市場軌
+        'tracked_markets': tracked_markets[:5],
+        'pm_price_at_signal': tracked_markets[0]['price_at_signal'] if tracked_markets else None,
+        'pm_verify_1h': None,
+        'pm_verify_3h': None,
+        'pm_verify_6h': None,
+        'pm_correct_1h': None,
+        'pm_correct_3h': None,
+
+        # 美股軌
+        'spy_at_signal': stock_snapshot.get('spy_price') if stock_snapshot else None,
+        'es_at_signal': stock_snapshot.get('es_futures') if stock_snapshot else None,
+        'spy_change_at_signal': stock_snapshot.get('spy_change_pct') if stock_snapshot else None,
+        'spy_verify_1h': None,
+        'spy_verify_3h': None,
+        'spy_correct_1h': None,
+        'spy_correct_3h': None,
+
+        # 雙軌比較（驗證後回填）
+        'pm_vs_stock_divergence': None,  # PM 和美股反應是否不同
+        'divergence_detail': None,       # 具體差異
+
+        'status': 'LIVE',
     }
 
     return prediction
@@ -336,34 +399,69 @@ def verify_predictions() -> dict[str, Any]:
                 pred['status'] = 'EXPIRED'
             continue
 
-        avg_change = sum(price_changes) / len(price_changes)
+        avg_pm_change = sum(price_changes) / len(price_changes)
 
-        # 填入 1h 驗證
-        if hours_elapsed >= 1 and pred.get('verify_1h') is None:
-            pred['verify_1h'] = round(avg_change, 4)
+        # --- PM 軌驗證 ---
+        if hours_elapsed >= 1 and pred.get('pm_verify_1h') is None:
+            pred['pm_verify_1h'] = round(avg_pm_change, 4)
             if direction == 'UP':
-                pred['direction_correct_1h'] = avg_change > 0
+                pred['pm_correct_1h'] = avg_pm_change > 0
             elif direction == 'DOWN':
-                pred['direction_correct_1h'] = avg_change < 0
-            else:
-                pred['direction_correct_1h'] = None
+                pred['pm_correct_1h'] = avg_pm_change < 0
 
-        # 填入 3h 驗證
-        if hours_elapsed >= 3 and pred.get('verify_3h') is None:
-            pred['verify_3h'] = round(avg_change, 4)
+        if hours_elapsed >= 3 and pred.get('pm_verify_3h') is None:
+            pred['pm_verify_3h'] = round(avg_pm_change, 4)
             if direction == 'UP':
-                pred['direction_correct_3h'] = avg_change > 0
+                pred['pm_correct_3h'] = avg_pm_change > 0
             elif direction == 'DOWN':
-                pred['direction_correct_3h'] = avg_change < 0
+                pred['pm_correct_3h'] = avg_pm_change < 0
+
+        # --- 美股軌驗證 ---
+        spy_at = pred.get('spy_at_signal')
+        if spy_at and api_ok:
+            try:
+                stock_now = snapshot_sp500()
+                spy_now = stock_now.get('spy_price')
+                if spy_now and spy_at > 0:
+                    spy_change = (spy_now - spy_at) / spy_at * 100
+
+                    if hours_elapsed >= 1 and pred.get('spy_verify_1h') is None:
+                        pred['spy_verify_1h'] = round(spy_change, 3)
+                        if direction == 'UP':
+                            pred['spy_correct_1h'] = spy_change > 0
+                        elif direction == 'DOWN':
+                            pred['spy_correct_1h'] = spy_change < 0
+
+                    if hours_elapsed >= 3 and pred.get('spy_verify_3h') is None:
+                        pred['spy_verify_3h'] = round(spy_change, 3)
+                        if direction == 'UP':
+                            pred['spy_correct_3h'] = spy_change > 0
+                        elif direction == 'DOWN':
+                            pred['spy_correct_3h'] = spy_change < 0
+
+                    # 雙軌比較：PM 和美股反應不同嗎？
+                    if pred.get('pm_verify_1h') is not None:
+                        pm_dir = 'UP' if avg_pm_change > 0 else 'DOWN'
+                        stock_dir = 'UP' if spy_change > 0 else 'DOWN'
+                        if pm_dir != stock_dir:
+                            pred['pm_vs_stock_divergence'] = True
+                            pred['divergence_detail'] = (
+                                f"PM {pm_dir} {avg_pm_change:+.3f} vs "
+                                f"SPY {stock_dir} {spy_change:+.3f}%"
+                            )
+                        else:
+                            pred['pm_vs_stock_divergence'] = False
+            except Exception:
+                pass
 
         # 6h 後標為 VERIFIED
         if hours_elapsed >= 6:
-            pred['verify_6h'] = round(avg_change, 4)
+            pred['pm_verify_6h'] = round(avg_pm_change, 4)
             pred['status'] = 'VERIFIED'
             verified_count += 1
-            if pred.get('direction_correct_1h'):
+            if pred.get('pm_correct_1h'):
                 correct_1h += 1
-            if pred.get('direction_correct_3h'):
+            if pred.get('pm_correct_3h'):
                 correct_3h += 1
 
     # 存檔
@@ -377,14 +475,31 @@ def verify_predictions() -> dict[str, Any]:
         c1 = sum(1 for p in all_verified if p.get('direction_correct_1h'))
         c3 = sum(1 for p in all_verified if p.get('direction_correct_3h'))
 
+        # 美股命中率
+        spy_c1 = sum(1 for p in all_verified if p.get('spy_correct_1h'))
+        spy_c3 = sum(1 for p in all_verified if p.get('spy_correct_3h'))
+        divergences = sum(1 for p in all_verified if p.get('pm_vs_stock_divergence'))
+
         learning = {
             'updated_at': now_str(),
             'total_verified': total,
-            'hit_rate_1h': round(c1 / total * 100, 1),
-            'hit_rate_3h': round(c3 / total * 100, 1),
-            'avg_change_1h': round(
-                sum(p.get('verify_1h', 0) for p in all_verified) / total, 4
+
+            # 預測市場命中率
+            'pm_hit_rate_1h': round(c1 / total * 100, 1),
+            'pm_hit_rate_3h': round(c3 / total * 100, 1),
+
+            # 美股命中率
+            'spy_hit_rate_1h': round(spy_c1 / total * 100, 1),
+            'spy_hit_rate_3h': round(spy_c3 / total * 100, 1),
+
+            # 雙軌比較
+            'divergence_count': divergences,
+            'divergence_rate': round(divergences / total * 100, 1),
+            'insight': (
+                'PM 和美股反應一致' if divergences < total * 0.2
+                else 'PM 和美股經常反應不同 — 有套利空間'
             ),
+
             'by_signal': _stats_by_signal(all_verified),
         }
 
@@ -440,8 +555,13 @@ def run_once() -> dict[str, Any]:
         log(f"🆕 偵測到 {len(new_posts)} 篇新推文！")
         result['new_posts'] = len(new_posts)
 
-        # 2. 快照 PM 價格
+        # 2. 同時快照 PM 價格 + 美股
         pm_snapshot = snapshot_pm_prices()
+        stock_snapshot = snapshot_sp500()
+        if stock_snapshot.get('spy_price'):
+            log(f"   📈 SPY: ${stock_snapshot['spy_price']} ({stock_snapshot.get('spy_change_pct', 0):+.2f}%)")
+        if stock_snapshot.get('es_futures'):
+            log(f"   📊 ES 期貨: ${stock_snapshot['es_futures']}")
 
         # 3. 對每篇新推文做即時預測
         predictions: list[dict] = []
@@ -457,7 +577,7 @@ def run_once() -> dict[str, Any]:
                 sig_str = ', '.join(f"{s['type']}({s['confidence']:.0%})" for s in signals)
                 log(f"      信號: {sig_str}")
 
-                pred = make_prediction(post, signals, pm_snapshot)
+                pred = make_prediction(post, signals, pm_snapshot, stock_snapshot)
                 if pred:
                     predictions.append(pred)
                     result['predictions_made'] += 1
