@@ -1,0 +1,251 @@
+{
+  "audit_date": "2026-03-15T06:40:34.768994+00:00",
+  "repo": "sstklen/trump-code",
+  "status": "ISSUES_FOUND_AND_FIXED",
+  "section_1_git_history": {
+    "description": "Git 歷史敏感字串掃描",
+    "items": [
+      {
+        "keyword": "***REDACTED*** (X API Key)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (X Secret)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (Bearer)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (password)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (GitHub username)",
+        "found_in_history": 7,
+        "status": "OK_PUBLIC_INFO",
+        "note": "GitHub username, not sensitive"
+      },
+      {
+        "keyword": "***REDACTED*** (local path)",
+        "found_in_history": 3,
+        "status": "RISK_IN_HISTORY",
+        "note": "Exposed macOS username in data_stats.json and FIXSPEC.md. Current files fixed. Needs git filter-repo to fully clean history."
+      },
+      {
+        "keyword": "***REDACTED*** (JWT)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (admin password)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (Resend key)",
+        "found_in_history": 0,
+        "status": "CLEAN"
+      },
+      {
+        "keyword": "***REDACTED*** (Gemini API Key)",
+        "found_in_history": 1,
+        "status": "CRITICAL_IN_HISTORY",
+        "note": "3 Gemini API keys hardcoded in chatbot_server.py commit 0620f42. Current file fixed. MUST run git filter-repo to purge from history, then revoke and re-issue keys."
+      },
+      {
+        "keyword": "***REDACTED*** (Truth Social JWT)",
+        "found_in_history": 3,
+        "status": "OK_REDACTED",
+        "note": "Token was already ***REDACTED*** in all commits, never leaked in cleartext."
+      }
+    ]
+  },
+  "section_2_current_files": {
+    "description": "當前檔案敏感字串掃描",
+    "items": [
+      {
+        "check": "Hardcoded API keys",
+        "found": 0,
+        "status": "CLEAN",
+        "note": "Fixed: removed 3 Gemini keys from chatbot_server.py, now reads from env vars"
+      },
+      {
+        "check": "/Users/tkman path",
+        "found": 0,
+        "status": "CLEAN",
+        "note": "Fixed: replaced in FIXSPEC.md and handoff.md"
+      },
+      {
+        "check": "subprocess.run pip install",
+        "found": 0,
+        "status": "CLEAN",
+        "note": "Already removed in Phase 0 security fix"
+      },
+      {
+        "check": "os.system()",
+        "found": 0,
+        "status": "CLEAN"
+      },
+      {
+        "check": "eval()",
+        "found": 0,
+        "status": "CLEAN"
+      },
+      {
+        "check": "exec()",
+        "found": 0,
+        "status": "CLEAN"
+      },
+      {
+        "check": "URL with token param",
+        "found": 2,
+        "status": "OK",
+        "note": "token=0 is a fixed public value for Twitter syndication embed API, not a secret"
+      },
+      {
+        "check": ".env reading method",
+        "status": "SAFE",
+        "note": "multi_source_fetcher.py and chatbot_server.py both use os.environ.get() with .env fallback, no hardcoded values"
+      }
+    ]
+  },
+  "section_3_gitignore": {
+    "description": ".gitignore 覆蓋檢查",
+    "items": [
+      {
+        "file": ".env",
+        "ignored": true
+      },
+      {
+        "file": "*.key",
+        "ignored": true
+      },
+      {
+        "file": "*.pem",
+        "ignored": true
+      },
+      {
+        "file": "venv/",
+        "ignored": true
+      },
+      {
+        "file": "clean_all.json",
+        "ignored": true
+      },
+      {
+        "file": "clean_all.csv",
+        "ignored": true
+      },
+      {
+        "file": "clean_president.json",
+        "ignored": true
+      },
+      {
+        "file": "clean_president.csv",
+        "ignored": true
+      },
+      {
+        "file": "raw_archive.csv",
+        "ignored": true
+      }
+    ],
+    "missing": [
+      {
+        "file": "pipeline.log",
+        "note": "VPS generates this but not in .gitignore. Add *.log pattern."
+      },
+      {
+        "file": "archive_build.log",
+        "note": "VPS has this untracked file."
+      }
+    ]
+  },
+  "section_4_vps": {
+    "description": "VPS 安全檢查",
+    "items": [
+      {
+        "check": ".env permission",
+        "value": "600",
+        "status": "CORRECT"
+      },
+      {
+        "check": "Untracked files in trump-code",
+        "found": [
+          "data/own_archive.json (modified)",
+          "archive_build.log (untracked)"
+        ],
+        "status": "OK",
+        "note": "No sensitive files untracked"
+      },
+      {
+        "check": "Crontab passwords",
+        "status": "WARNING_NOT_THIS_REPO",
+        "note": "VPS crontab contains Resend API key and admin password in cleartext for washin-api cron jobs. Not related to trump-code repo but should be fixed."
+      }
+    ]
+  },
+  "section_5_code_security": {
+    "description": "程式碼安全",
+    "items": [
+      {
+        "check": "daily_pipeline.py git push safety",
+        "status": "GOOD",
+        "note": "Has pre-push check for .env/.key/.pem/credential files"
+      },
+      {
+        "check": "multi_source_fetcher.py env reading",
+        "status": "SAFE",
+        "note": "Uses os.environ.get() with .env file fallback, no hardcoded credentials"
+      },
+      {
+        "check": "overnight_search.py runtime pip install",
+        "status": "CLEAN",
+        "note": "Already removed in Phase 0"
+      },
+      {
+        "check": "chatbot_server.py Gemini keys",
+        "status": "FIXED",
+        "note": "Moved from hardcoded to environment variables"
+      }
+    ]
+  },
+  "section_6_critical_actions_needed": {
+    "description": "需要立即處理的項目",
+    "items": [
+      {
+        "priority": "CRITICAL",
+        "issue": "Gemini API Keys in git history",
+        "action": "Run git filter-repo to purge **** from history, then force push. Revoke old keys in Google Cloud Console and re-issue new ones.",
+        "commands": [
+          "pip install git-filter-repo",
+          "Create a replacements.txt file with each leaked key mapped to ***REMOVED***",
+          "git filter-repo --replace-text replacements.txt --force",
+          "git push --force",
+          "Revoke all 3 keys in Google Cloud Console and re-issue"
+        ],
+        "note": "Actual key values omitted from this report for safety. Check git log -p --all -S *** to find them."
+      },
+      {
+        "priority": "MEDIUM",
+        "issue": "/Users/tkman in git history",
+        "action": "Expose macOS username. Can be cleaned with the same git filter-repo run."
+      },
+      {
+        "priority": "LOW",
+        "issue": ".gitignore missing *.log pattern",
+        "action": "Add *.log to .gitignore"
+      }
+    ]
+  },
+  "fixes_applied_this_session": [
+    "chatbot_server.py: Removed 3 hardcoded Gemini API keys, replaced with os.environ.get()",
+    "FIXSPEC.md: Replaced /Users/tkman with /Users/USERNAME",
+    "handoff.md: Replaced tkman with maintainer"
+  ]
+}
