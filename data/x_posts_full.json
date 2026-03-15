@@ -1,0 +1,2810 @@
+{
+  "total_from_api": 313,
+  "second_term_total": 168,
+  "second_term_originals": 154,
+  "second_term_retweets": 14,
+  "tweets": [
+    {
+      "public_metrics": {
+        "retweet_count": 75929,
+        "reply_count": 94960,
+        "like_count": 584292,
+        "quote_count": 6252,
+        "bookmark_count": 54950,
+        "impression_count": 102910563
+      },
+      "edit_history_tweet_ids": [
+        "2028505632123326484"
+      ],
+      "id": "2028505632123326484",
+      "text": "https://t.co/uAxTGrJisv",
+      "created_at": "2026-03-02T16:20:05.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 157029,
+        "reply_count": 137751,
+        "like_count": 1003358,
+        "quote_count": 26822,
+        "bookmark_count": 117193,
+        "impression_count": 173157961
+      },
+      "edit_history_tweet_ids": [
+        "2027651077865157033"
+      ],
+      "id": "2027651077865157033",
+      "text": "https://t.co/BZuJDudLej",
+      "created_at": "2026-02-28T07:44:23.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 12255,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 877
+      },
+      "edit_history_tweet_ids": [
+        "2018512054379004088"
+      ],
+      "id": "2018512054379004088",
+      "text": "RT @DanScavino: On behalf of Erin and me, thank you to everyone for the love and support we've received. We both had an unforgettable weddi…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "2018445404027896054"
+        }
+      ],
+      "created_at": "2026-02-03T02:29:10.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 3780,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 791
+      },
+      "edit_history_tweet_ids": [
+        "2018466683707625610"
+      ],
+      "id": "2018466683707625610",
+      "text": "RT @THR: Box Office: ‘Melania’ Heads for $8 Million Opening, the Best Showing in a Decade for a Doc https://t.co/2FKjEMRoxW",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "2017734677436445106"
+        }
+      ],
+      "created_at": "2026-02-02T23:28:53.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 6533,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 510
+      },
+      "edit_history_tweet_ids": [
+        "2018466659422687405"
+      ],
+      "id": "2018466659422687405",
+      "text": "RT @FoxNews: RECORD BREAKER: “Melania,” a documentary following the first lady in the 20 days before President Trump’s second inauguration,…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "2017926543629009209"
+        }
+      ],
+      "created_at": "2026-02-02T23:28:47.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 11306,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 679
+      },
+      "edit_history_tweet_ids": [
+        "2017675831116521939"
+      ],
+      "id": "2017675831116521939",
+      "text": "RT @MELANIATRUMP: MELANIA, the film.\n#1 Highest Opening In 10 Yrs (Doc)\nLoved By All - “A” CinemaScore https://t.co/HTVM0Cu2Jv",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "2017663305876176951"
+        }
+      ],
+      "created_at": "2026-01-31T19:06:19.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 36303,
+        "reply_count": 48867,
+        "like_count": 310951,
+        "quote_count": 3850,
+        "bookmark_count": 7105,
+        "impression_count": 40782275
+      },
+      "edit_history_tweet_ids": [
+        "2017417980594827718"
+      ],
+      "id": "2017417980594827718",
+      "text": "Last night I saw, “MELANIA,” for the second time. The audience loved it, and so do I. Check it out — A MUST SEE! https://t.co/rjwd5Appkv",
+      "created_at": "2026-01-31T02:01:43.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 43137,
+        "reply_count": 65523,
+        "like_count": 410742,
+        "quote_count": 5405,
+        "bookmark_count": 11647,
+        "impression_count": 49014940
+      },
+      "edit_history_tweet_ids": [
+        "2015833393917747502"
+      ],
+      "id": "2015833393917747502",
+      "text": "MELANIA, the Movie, is a MUST WATCH. Get your tickets today — Selling out, FAST!\n\nPhoto: Regine Mahaux\nhttps://t.co/rjwd5Appkv https://t.co/vFpXfV0Mg0",
+      "created_at": "2026-01-26T17:05:08.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 38652,
+        "reply_count": 31422,
+        "like_count": 284926,
+        "quote_count": 2421,
+        "bookmark_count": 10737,
+        "impression_count": 53001085
+      },
+      "edit_history_tweet_ids": [
+        "2014874759473828043"
+      ],
+      "id": "2014874759473828043",
+      "text": "I have been briefed on the Record Cold Wave and Historic Winter Storm that will be hitting much of the United States this weekend. The Trump Administration is coordinating with State and Local Officials. FEMA is fully prepared to respond. Stay Safe and Stay Warm! President DJT https://t.co/t524rfMjvj",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "2014828034075803679"
+        }
+      ],
+      "created_at": "2026-01-24T01:35:51.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 49179,
+        "reply_count": 40119,
+        "like_count": 394705,
+        "quote_count": 4029,
+        "bookmark_count": 26843,
+        "impression_count": 64514518
+      },
+      "edit_history_tweet_ids": [
+        "2014772963719991311"
+      ],
+      "id": "2014772963719991311",
+      "text": "COUNTDOWN: 7 Days until the World will witness an unforgettable, behind-the-scenes, look at one of the most important events of our time.\n\nMELANIA: TWENTY DAYS TO HISTORY:\nhttps://t.co/rjwd5Appkv https://t.co/AHD0rn1M7C",
+      "created_at": "2026-01-23T18:51:21.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 88847,
+        "reply_count": 110296,
+        "like_count": 800856,
+        "quote_count": 11840,
+        "bookmark_count": 29211,
+        "impression_count": 79510849
+      },
+      "edit_history_tweet_ids": [
+        "2004012442427277591"
+      ],
+      "id": "2004012442427277591",
+      "text": "Merry Christmas to all, including the Radical Left Scum that is doing everything possible to destroy our Country, but are failing badly. We no longer have Open Borders, Men in Women’s Sports, Transgender for Everyone, or Weak Law Enforcement. What we do have is a Record Stock",
+      "created_at": "2025-12-25T02:12:53.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 22087,
+        "reply_count": 30165,
+        "like_count": 165434,
+        "quote_count": 2204,
+        "bookmark_count": 6752,
+        "impression_count": 48869656
+      },
+      "edit_history_tweet_ids": [
+        "2003565251816554746"
+      ],
+      "id": "2003565251816554746",
+      "text": "THE TRUMP KENNEDY CENTER HONORS will be broadcast tonight, on CBS, and Stream on Paramount+. Tune in at 8 P.M. EST! At the request of the Board, and just about everybody else in America, I am hosting the event. Tell me what you think of my “Master of Ceremony” abilities. If",
+      "created_at": "2025-12-23T20:35:55.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 30171,
+        "reply_count": 33676,
+        "like_count": 153996,
+        "quote_count": 1169,
+        "bookmark_count": 3339,
+        "impression_count": 35867396
+      },
+      "edit_history_tweet_ids": [
+        "1995898845134303294"
+      ],
+      "id": "1995898845134303294",
+      "text": "I am asking all America First Patriots in Tennessee’s 7th Congressional District to please GET OUT AND VOTE for a phenomenal Candidate and MAGA Warrior, Matt Van Epps! You can win this Election for Matt, who has my Complete and Total Endorsement. HE WILL BE A GREAT CONGRESSMAN",
+      "created_at": "2025-12-02T16:52:21.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 34418,
+        "reply_count": 16892,
+        "like_count": 164017,
+        "quote_count": 1256,
+        "bookmark_count": 3212,
+        "impression_count": 29401003
+      },
+      "edit_history_tweet_ids": [
+        "1995676855651664182"
+      ],
+      "id": "1995676855651664182",
+      "text": "I am asking all America First Patriots in Tennessee’s 7th Congressional District to please GET OUT AND VOTE TOMORROW for a phenomenal Candidate, Matt Van Epps, on Election Day, Tuesday, December 2nd! You can win this Election for MAGA Warrior Matt Van Epps, who has my Complete",
+      "created_at": "2025-12-02T02:10:14.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 76772,
+        "reply_count": 39356,
+        "like_count": 593230,
+        "quote_count": 13598,
+        "bookmark_count": 22749,
+        "impression_count": 91356255
+      },
+      "edit_history_tweet_ids": [
+        "1994760100376891748"
+      ],
+      "id": "1994760100376891748",
+      "text": "To all Airlines, Pilots, Drug Dealers, and Human Traffickers, please consider THE AIRSPACE ABOVE AND SURROUNDING VENEZUELA TO BE CLOSED IN ITS ENTIRETY. Thank you for your attention to this matter! PRESIDENT DONALD J. TRUMP",
+      "created_at": "2025-11-29T13:27:23.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 75766,
+        "reply_count": 38426,
+        "like_count": 524728,
+        "quote_count": 8596,
+        "bookmark_count": 23864,
+        "impression_count": 66416732
+      },
+      "edit_history_tweet_ids": [
+        "1994438728237064270"
+      ],
+      "id": "1994438728237064270",
+      "text": "The United States did not attend the G20 in South Africa, because the South African Government refuses to acknowledge or address the horrific Human Right Abuses endured by Afrikaners, and other descendants of Dutch, French, and German settlers. To put it more bluntly, they are",
+      "created_at": "2025-11-28T16:10:22.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 32220,
+        "reply_count": 13922,
+        "like_count": 198963,
+        "quote_count": 2113,
+        "bookmark_count": 6535,
+        "impression_count": 36432433
+      },
+      "edit_history_tweet_ids": [
+        "1994438342403141889"
+      ],
+      "id": "1994438342403141889",
+      "text": "Democracy is on trial in the coming Elections in the beautiful country of Honduras on November 30th. Will Maduro and his Narcoterrorists take over another country like they have taken over Cuba, Nicaragua, and Venezuela? The man who is standing up for Democracy, and fighting",
+      "created_at": "2025-11-28T16:08:50.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 81387,
+        "reply_count": 41871,
+        "like_count": 543277,
+        "quote_count": 13288,
+        "bookmark_count": 45309,
+        "impression_count": 84826200
+      },
+      "edit_history_tweet_ids": [
+        "1994272683387687053"
+      ],
+      "id": "1994272683387687053",
+      "text": "A very Happy Thanksgiving salutation to all of our Great American Citizens and Patriots who have been so nice in allowing our Country to be divided, disrupted, carved up, murdered, beaten, mugged, and laughed at, along with certain other foolish countries throughout the World,",
+      "created_at": "2025-11-28T05:10:34.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 52261,
+        "reply_count": 24642,
+        "like_count": 431074,
+        "quote_count": 2340,
+        "bookmark_count": 9167,
+        "impression_count": 51705984
+      },
+      "edit_history_tweet_ids": [
+        "1993801758326616561"
+      ],
+      "id": "1993801758326616561",
+      "text": "https://t.co/oQK0HLgf88",
+      "created_at": "2025-11-26T21:59:16.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 38030,
+        "reply_count": 16668,
+        "like_count": 166912,
+        "quote_count": 1430,
+        "bookmark_count": 3959,
+        "impression_count": 24454731
+      },
+      "edit_history_tweet_ids": [
+        "1993469230528790869"
+      ],
+      "id": "1993469230528790869",
+      "text": "I am asking all America First Patriots in Tennessee’s 7th Congressional District, who haven’t voted yet, to please GET OUT AND VOTE for MAGA Warrior Matt Van Epps, tomorrow, November 26th, the last day to vote early in person. You can win this Election for Matt! PLEASE VOTE FOR",
+      "created_at": "2025-11-25T23:57:56.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 17150,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 640
+      },
+      "edit_history_tweet_ids": [
+        "1978283219461030105"
+      ],
+      "id": "1978283219461030105",
+      "text": "RT @kaitrump: I had an amazing time filming with my Grandpa to kick off my new series called 1 on 1 with Kai. In the video, everyone gets t…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1977042287533125837"
+        }
+      ],
+      "created_at": "2025-10-15T02:14:08.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 51710,
+        "reply_count": 78056,
+        "like_count": 384548,
+        "quote_count": 5457,
+        "bookmark_count": 9831,
+        "impression_count": 45610697
+      },
+      "edit_history_tweet_ids": [
+        "1978148814776046046"
+      ],
+      "id": "1978148814776046046",
+      "text": "Don’t forget to get a copy of my son Eric’s book, “UNDER SIEGE,” which is breaking records everywhere. It’s a phenomenal book, that’s a must read for everyone—Congratulations Eric, you deserve it!!! https://t.co/na0jBJ1nxp https://t.co/jUtJ6xrP5P",
+      "created_at": "2025-10-14T17:20:04.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 55746,
+        "reply_count": 51108,
+        "like_count": 389707,
+        "quote_count": 2729,
+        "bookmark_count": 17390,
+        "impression_count": 30676671
+      },
+      "edit_history_tweet_ids": [
+        "1977928905169269143"
+      ],
+      "id": "1977928905169269143",
+      "text": "https://t.co/08KV4EtQDZ",
+      "created_at": "2025-10-14T02:46:13.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 40522,
+        "reply_count": 20216,
+        "like_count": 332246,
+        "quote_count": 2029,
+        "bookmark_count": 8415,
+        "impression_count": 49442096
+      },
+      "edit_history_tweet_ids": [
+        "1977233745997381756"
+      ],
+      "id": "1977233745997381756",
+      "text": "I am pleased to announce that the great Dan Scavino, in addition to remaining Deputy Chief of Staff of the Trump Administration, will head the White House Presidential Personnel Office, replacing Sergio Gor, who did a wonderful job in that position, and will now become the",
+      "created_at": "2025-10-12T04:43:54.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 54920,
+        "reply_count": 22398,
+        "like_count": 317932,
+        "quote_count": 4460,
+        "bookmark_count": 26337,
+        "impression_count": 34060927
+      },
+      "edit_history_tweet_ids": [
+        "1973954507001507920"
+      ],
+      "id": "1973954507001507920",
+      "text": "https://t.co/BlX7O7Idjj",
+      "created_at": "2025-10-03T03:33:23.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 51730,
+        "reply_count": 46745,
+        "like_count": 483614,
+        "quote_count": 5070,
+        "bookmark_count": 20637,
+        "impression_count": 77305619
+      },
+      "edit_history_tweet_ids": [
+        "1973953812517040164"
+      ],
+      "id": "1973953812517040164",
+      "text": "https://t.co/na2ivYVFoT",
+      "created_at": "2025-10-03T03:30:37.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 31506,
+        "reply_count": 19368,
+        "like_count": 413492,
+        "quote_count": 1920,
+        "bookmark_count": 10310,
+        "impression_count": 44841678
+      },
+      "edit_history_tweet_ids": [
+        "1973221986429222933"
+      ],
+      "id": "1973221986429222933",
+      "text": "It was great being with King Charles, Queen Camilla, and the Royal Family! https://t.co/XFxJAH7aF2",
+      "created_at": "2025-10-01T03:02:36.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 31457,
+        "reply_count": 14765,
+        "like_count": 494956,
+        "quote_count": 1117,
+        "bookmark_count": 10627,
+        "impression_count": 34159249
+      },
+      "edit_history_tweet_ids": [
+        "1973221796427211262"
+      ],
+      "id": "1973221796427211262",
+      "text": "Yes, I’m watching. Congratulations! https://t.co/3iN3YnTUnn",
+      "created_at": "2025-10-01T03:01:51.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 37622,
+        "reply_count": 13374,
+        "like_count": 447316,
+        "quote_count": 2477,
+        "bookmark_count": 15280,
+        "impression_count": 64956270
+      },
+      "edit_history_tweet_ids": [
+        "1973221572585595221"
+      ],
+      "id": "1973221572585595221",
+      "text": "https://t.co/NNNumraCkN",
+      "created_at": "2025-10-01T03:00:58.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 28987,
+        "reply_count": 11476,
+        "like_count": 266912,
+        "quote_count": 1720,
+        "bookmark_count": 6512,
+        "impression_count": 32652907
+      },
+      "edit_history_tweet_ids": [
+        "1973218687831384293"
+      ],
+      "id": "1973218687831384293",
+      "text": "https://t.co/AdZzv7LJLt",
+      "created_at": "2025-10-01T02:49:30.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 46990,
+        "reply_count": 21398,
+        "like_count": 272534,
+        "quote_count": 5411,
+        "bookmark_count": 17503,
+        "impression_count": 29928463
+      },
+      "edit_history_tweet_ids": [
+        "1973218518893207825"
+      ],
+      "id": "1973218518893207825",
+      "text": "https://t.co/2yyuRkm9r8",
+      "created_at": "2025-10-01T02:48:50.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 21276,
+        "reply_count": 7519,
+        "like_count": 280077,
+        "quote_count": 638,
+        "bookmark_count": 9439,
+        "impression_count": 61665095
+      },
+      "edit_history_tweet_ids": [
+        "1973218327330955749"
+      ],
+      "id": "1973218327330955749",
+      "text": "What a great couple—Congratulations! President DJT https://t.co/pTmr43r784",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1971001852591550845"
+        }
+      ],
+      "created_at": "2025-10-01T02:48:04.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 80532,
+        "reply_count": 37265,
+        "like_count": 458893,
+        "quote_count": 10703,
+        "bookmark_count": 34499,
+        "impression_count": 41814057
+      },
+      "edit_history_tweet_ids": [
+        "1972822596397003159"
+      ],
+      "id": "1972822596397003159",
+      "text": "https://t.co/JzQYLShOCt",
+      "created_at": "2025-09-30T00:35:34.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 44950,
+        "reply_count": 31493,
+        "like_count": 317103,
+        "quote_count": 7719,
+        "bookmark_count": 29374,
+        "impression_count": 43439281
+      },
+      "edit_history_tweet_ids": [
+        "1968134929080082432"
+      ],
+      "id": "1968134929080082432",
+      "text": "https://t.co/gZgTprtUvt",
+      "created_at": "2025-09-17T02:08:27.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 49242,
+        "reply_count": 32462,
+        "like_count": 339556,
+        "quote_count": 2401,
+        "bookmark_count": 8890,
+        "impression_count": 33059109
+      },
+      "edit_history_tweet_ids": [
+        "1967654825308590378"
+      ],
+      "id": "1967654825308590378",
+      "text": "MY son Eric’s just out book, “UNDER SIEGE,” immediately went to NUMBER ONE on Amazon. Great going Eric, you deserve it!!! https://t.co/na0jBJ1VmX https://t.co/LBnGcsLMWH",
+      "created_at": "2025-09-15T18:20:42.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 21725,
+        "reply_count": 13515,
+        "like_count": 162864,
+        "quote_count": 575,
+        "bookmark_count": 4937,
+        "impression_count": 27560761
+      },
+      "edit_history_tweet_ids": [
+        "1966125485894648215"
+      ],
+      "id": "1966125485894648215",
+      "text": "https://t.co/HGH3yQKdO7",
+      "created_at": "2025-09-11T13:03:39.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 189330,
+        "reply_count": 64428,
+        "like_count": 1301757,
+        "quote_count": 21087,
+        "bookmark_count": 106215,
+        "impression_count": 157808360
+      },
+      "edit_history_tweet_ids": [
+        "1965947311718269341"
+      ],
+      "id": "1965947311718269341",
+      "text": "TO MY GREAT FELLOW AMERICANS… https://t.co/oRsrE5TTHr",
+      "created_at": "2025-09-11T01:15:39.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 47201,
+        "reply_count": 47157,
+        "like_count": 438919,
+        "quote_count": 7872,
+        "bookmark_count": 17401,
+        "impression_count": 57666967
+      },
+      "edit_history_tweet_ids": [
+        "1963790032939933822"
+      ],
+      "id": "1963790032939933822",
+      "text": "https://t.co/uCKSkNF0D3",
+      "created_at": "2025-09-05T02:23:23.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 27836,
+        "reply_count": 20668,
+        "like_count": 227552,
+        "quote_count": 3781,
+        "bookmark_count": 9655,
+        "impression_count": 45653719
+      },
+      "edit_history_tweet_ids": [
+        "1963788861743530185"
+      ],
+      "id": "1963788861743530185",
+      "text": "https://t.co/KBZz0iosQX",
+      "created_at": "2025-09-05T02:18:44.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 48114,
+        "reply_count": 18186,
+        "like_count": 409508,
+        "quote_count": 5889,
+        "bookmark_count": 21983,
+        "impression_count": 41448114
+      },
+      "edit_history_tweet_ids": [
+        "1963609005844017347"
+      ],
+      "id": "1963609005844017347",
+      "text": "https://t.co/jauBk37XWF",
+      "created_at": "2025-09-04T14:24:03.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 24074,
+        "reply_count": 11841,
+        "like_count": 179181,
+        "quote_count": 1940,
+        "bookmark_count": 6556,
+        "impression_count": 36967488
+      },
+      "edit_history_tweet_ids": [
+        "1963586403943481687"
+      ],
+      "id": "1963586403943481687",
+      "text": "https://t.co/tIFFgTibCa",
+      "created_at": "2025-09-04T12:54:15.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 35272,
+        "reply_count": 21779,
+        "like_count": 271810,
+        "quote_count": 5161,
+        "bookmark_count": 15167,
+        "impression_count": 70248316
+      },
+      "edit_history_tweet_ids": [
+        "1963585926354923597"
+      ],
+      "id": "1963585926354923597",
+      "text": "https://t.co/IVIHaB3DYr",
+      "created_at": "2025-09-04T12:52:21.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 62593,
+        "reply_count": 62227,
+        "like_count": 451791,
+        "quote_count": 4499,
+        "bookmark_count": 17680,
+        "impression_count": 81306166
+      },
+      "edit_history_tweet_ids": [
+        "1950379902789964153"
+      ],
+      "id": "1950379902789964153",
+      "text": "Due to a massive earthquake that occurred in the Pacific Ocean, a Tsunami Warning is in effect for those living in Hawaii. A Tsunami Watch is in effect for Alaska and the Pacific Coast of the United States. Japan is also in the way. Please visit https://t.co/wdFzeu1I0h for the",
+      "created_at": "2025-07-30T02:16:19.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 45391,
+        "reply_count": 58952,
+        "like_count": 255072,
+        "quote_count": 3304,
+        "bookmark_count": 14710,
+        "impression_count": 46586668
+      },
+      "edit_history_tweet_ids": [
+        "1947365170784669754"
+      ],
+      "id": "1947365170784669754",
+      "text": "https://t.co/W4F1joXP8E",
+      "created_at": "2025-07-21T18:36:51.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 13470,
+        "reply_count": 27187,
+        "like_count": 80611,
+        "quote_count": 855,
+        "bookmark_count": 3528,
+        "impression_count": 32742545
+      },
+      "edit_history_tweet_ids": [
+        "1945851150948876456"
+      ],
+      "id": "1945851150948876456",
+      "text": "https://t.co/iDGcFKBR9r",
+      "created_at": "2025-07-17T14:20:41.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 54093,
+        "reply_count": 41848,
+        "like_count": 486897,
+        "quote_count": 2618,
+        "bookmark_count": 10685,
+        "impression_count": 37944337
+      },
+      "edit_history_tweet_ids": [
+        "1941341699374186746"
+      ],
+      "id": "1941341699374186746",
+      "text": "HAPPY 4TH OF JULY!\n🎇🎆🇺🇸🦅https://t.co/54aoHX14mj",
+      "created_at": "2025-07-05T03:41:44.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 23332,
+        "reply_count": 16080,
+        "like_count": 140182,
+        "quote_count": 715,
+        "bookmark_count": 4076,
+        "impression_count": 38598945
+      },
+      "edit_history_tweet_ids": [
+        "1941244891578904902"
+      ],
+      "id": "1941244891578904902",
+      "text": "https://t.co/PTPGtD7bjV",
+      "created_at": "2025-07-04T21:17:03.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 62246,
+        "reply_count": 53367,
+        "like_count": 476196,
+        "quote_count": 3850,
+        "bookmark_count": 11863,
+        "impression_count": 79665301
+      },
+      "edit_history_tweet_ids": [
+        "1937917613989859810"
+      ],
+      "id": "1937917613989859810",
+      "text": "https://t.co/dQgHNdzAXb",
+      "created_at": "2025-06-25T16:55:38.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 64510,
+        "reply_count": 48775,
+        "like_count": 534268,
+        "quote_count": 4890,
+        "bookmark_count": 14971,
+        "impression_count": 89003274
+      },
+      "edit_history_tweet_ids": [
+        "1937689416501187006"
+      ],
+      "id": "1937689416501187006",
+      "text": "https://t.co/z5HB3iOgwQ",
+      "created_at": "2025-06-25T01:48:52.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 111209,
+        "reply_count": 155160,
+        "like_count": 1208232,
+        "quote_count": 16958,
+        "bookmark_count": 26346,
+        "impression_count": 183585083
+      },
+      "edit_history_tweet_ids": [
+        "1936612737875956028"
+      ],
+      "id": "1936612737875956028",
+      "text": "https://t.co/2uweRciDEo",
+      "created_at": "2025-06-22T02:30:31.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 64072,
+        "reply_count": 47435,
+        "like_count": 419777,
+        "quote_count": 6433,
+        "bookmark_count": 34565,
+        "impression_count": 87972384
+      },
+      "edit_history_tweet_ids": [
+        "1936603680805097741"
+      ],
+      "id": "1936603680805097741",
+      "text": "https://t.co/2OYrMFlw46",
+      "created_at": "2025-06-22T01:54:32.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 136517,
+        "reply_count": 174916,
+        "like_count": 1249394,
+        "quote_count": 58189,
+        "bookmark_count": 62985,
+        "impression_count": 264100236
+      },
+      "edit_history_tweet_ids": [
+        "1936573183634645387"
+      ],
+      "id": "1936573183634645387",
+      "text": "https://t.co/wu9mMkxtUg",
+      "created_at": "2025-06-21T23:53:21.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 61413,
+        "reply_count": 83730,
+        "like_count": 593896,
+        "quote_count": 11988,
+        "bookmark_count": 16673,
+        "impression_count": 135173164
+      },
+      "edit_history_tweet_ids": [
+        "1935016621569179804"
+      ],
+      "id": "1935016621569179804",
+      "text": "https://t.co/4sy7jjESGk",
+      "created_at": "2025-06-17T16:48:08.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 58361,
+        "reply_count": 64895,
+        "like_count": 513097,
+        "quote_count": 10309,
+        "bookmark_count": 21071,
+        "impression_count": 103824375
+      },
+      "edit_history_tweet_ids": [
+        "1935016557224050887"
+      ],
+      "id": "1935016557224050887",
+      "text": "https://t.co/VoUY2xVnyK",
+      "created_at": "2025-06-17T16:47:52.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 51344,
+        "reply_count": 54017,
+        "like_count": 562560,
+        "quote_count": 7339,
+        "bookmark_count": 20276,
+        "impression_count": 107334886
+      },
+      "edit_history_tweet_ids": [
+        "1935016454644023767"
+      ],
+      "id": "1935016454644023767",
+      "text": "https://t.co/QcySkOWWGN",
+      "created_at": "2025-06-17T16:47:28.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 50420,
+        "reply_count": 35939,
+        "like_count": 310835,
+        "quote_count": 2958,
+        "bookmark_count": 14212,
+        "impression_count": 60334590
+      },
+      "edit_history_tweet_ids": [
+        "1934008938334228752"
+      ],
+      "id": "1934008938334228752",
+      "text": "https://t.co/8C5WxKK3nc",
+      "created_at": "2025-06-14T22:03:57.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 27299,
+        "reply_count": 33418,
+        "like_count": 178632,
+        "quote_count": 1218,
+        "bookmark_count": 4277,
+        "impression_count": 38007168
+      },
+      "edit_history_tweet_ids": [
+        "1929687626216280184"
+      ],
+      "id": "1929687626216280184",
+      "text": "https://t.co/U8OkJT3IEK",
+      "created_at": "2025-06-02T23:52:36.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 56097,
+        "reply_count": 40036,
+        "like_count": 409139,
+        "quote_count": 3001,
+        "bookmark_count": 10023,
+        "impression_count": 72884685
+      },
+      "edit_history_tweet_ids": [
+        "1929591031139360976"
+      ],
+      "id": "1929591031139360976",
+      "text": "https://t.co/GmmP5VddGr",
+      "created_at": "2025-06-02T17:28:46.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 59045,
+        "reply_count": 31476,
+        "like_count": 451448,
+        "quote_count": 4612,
+        "bookmark_count": 12134,
+        "impression_count": 38075730
+      },
+      "edit_history_tweet_ids": [
+        "1928797140408533377"
+      ],
+      "id": "1928797140408533377",
+      "text": "https://t.co/ttc8fsXNVF",
+      "created_at": "2025-05-31T12:54:08.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 43007,
+        "reply_count": 23731,
+        "like_count": 322290,
+        "quote_count": 1833,
+        "bookmark_count": 7454,
+        "impression_count": 47131678
+      },
+      "edit_history_tweet_ids": [
+        "1927090010353721796"
+      ],
+      "id": "1927090010353721796",
+      "text": "https://t.co/b19JtrkCiS",
+      "created_at": "2025-05-26T19:50:36.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 20664,
+        "reply_count": 13968,
+        "like_count": 118857,
+        "quote_count": 667,
+        "bookmark_count": 4066,
+        "impression_count": 47715626
+      },
+      "edit_history_tweet_ids": [
+        "1926281665929691590"
+      ],
+      "id": "1926281665929691590",
+      "text": "https://t.co/ymnea3Wf69",
+      "created_at": "2025-05-24T14:18:32.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 54222,
+        "reply_count": 42573,
+        "like_count": 351231,
+        "quote_count": 5451,
+        "bookmark_count": 15432,
+        "impression_count": 63289191
+      },
+      "edit_history_tweet_ids": [
+        "1925548216243703820"
+      ],
+      "id": "1925548216243703820",
+      "text": "“THE ONE, BIG, BEAUTIFUL BILL” has PASSED the House of Representatives! This is arguably the most significant piece of Legislation that will ever be signed in the History of our Country! The Bill includes MASSIVE Tax CUTS, No Tax on Tips, No Tax on Overtime, Tax Deductions when",
+      "created_at": "2025-05-22T13:44:04.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 65647,
+        "reply_count": 45250,
+        "like_count": 546609,
+        "quote_count": 8440,
+        "bookmark_count": 18660,
+        "impression_count": 91552048
+      },
+      "edit_history_tweet_ids": [
+        "1925201677914603580"
+      ],
+      "id": "1925201677914603580",
+      "text": "https://t.co/ZuagVWL4KS",
+      "created_at": "2025-05-21T14:47:03.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 61872,
+        "reply_count": 40069,
+        "like_count": 461046,
+        "quote_count": 6838,
+        "bookmark_count": 18073,
+        "impression_count": 66746069
+      },
+      "edit_history_tweet_ids": [
+        "1924523182909747657"
+      ],
+      "id": "1924523182909747657",
+      "text": "https://t.co/q5CPyHZkLD",
+      "created_at": "2025-05-19T17:50:57.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 26734,
+        "reply_count": 14346,
+        "like_count": 190493,
+        "quote_count": 1302,
+        "bookmark_count": 9657,
+        "impression_count": 42625303
+      },
+      "edit_history_tweet_ids": [
+        "1923793436068487574"
+      ],
+      "id": "1923793436068487574",
+      "text": "🇦🇪🇺🇸 https://t.co/7fRFm4zCL5",
+      "created_at": "2025-05-17T17:31:12.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 43606,
+        "reply_count": 15564,
+        "like_count": 320646,
+        "quote_count": 1924,
+        "bookmark_count": 13377,
+        "impression_count": 58367385
+      },
+      "edit_history_tweet_ids": [
+        "1923793069138178293"
+      ],
+      "id": "1923793069138178293",
+      "text": "🇶🇦🇺🇸 https://t.co/v1NwTQPWLO",
+      "created_at": "2025-05-17T17:29:44.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 46608,
+        "reply_count": 12936,
+        "like_count": 325636,
+        "quote_count": 1978,
+        "bookmark_count": 18788,
+        "impression_count": 53399334
+      },
+      "edit_history_tweet_ids": [
+        "1923792625028497464"
+      ],
+      "id": "1923792625028497464",
+      "text": "🇸🇦🇺🇸 https://t.co/i5cRnVmaFv",
+      "created_at": "2025-05-17T17:27:58.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 49628,
+        "reply_count": 33133,
+        "like_count": 318059,
+        "quote_count": 4844,
+        "bookmark_count": 6954,
+        "impression_count": 55237057
+      },
+      "edit_history_tweet_ids": [
+        "1923432648103333919"
+      ],
+      "id": "1923432648103333919",
+      "text": "THE SUPREME COURT IS BEING PLAYED BY THE RADICAL LEFT LOSERS, WHO HAVE NO SUPPORT, THE PUBLIC HATES THEM, AND THEIR ONLY HOPE IS THE INTIMIDATION OF THE COURT, ITSELF. WE CAN’T LET THAT HAPPEN TO OUR COUNTRY!",
+      "created_at": "2025-05-16T17:37:33.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 40742,
+        "reply_count": 19513,
+        "like_count": 233794,
+        "quote_count": 2490,
+        "bookmark_count": 4762,
+        "impression_count": 39526528
+      },
+      "edit_history_tweet_ids": [
+        "1923427418913616200"
+      ],
+      "id": "1923427418913616200",
+      "text": "Republicans MUST UNITE behind, “THE ONE, BIG BEAUTIFUL BILL!” Not only does it cut Taxes for ALL Americans, but it will kick millions of Illegal Aliens off of Medicaid to PROTECT it for those who are the ones in real need. The Country will suffer greatly without this Legislation,",
+      "created_at": "2025-05-16T17:16:46.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 27580,
+        "reply_count": 15759,
+        "like_count": 142550,
+        "quote_count": 1186,
+        "bookmark_count": 6408,
+        "impression_count": 35965642
+      },
+      "edit_history_tweet_ids": [
+        "1922347924987474196"
+      ],
+      "id": "1922347924987474196",
+      "text": "https://t.co/DskIpIscnd",
+      "created_at": "2025-05-13T17:47:15.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 52355,
+        "reply_count": 27911,
+        "like_count": 443985,
+        "quote_count": 4530,
+        "bookmark_count": 10166,
+        "impression_count": 71861164
+      },
+      "edit_history_tweet_ids": [
+        "1921911904429088892"
+      ],
+      "id": "1921911904429088892",
+      "text": "https://t.co/9uLRtPVKpp",
+      "created_at": "2025-05-12T12:54:40.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 38219,
+        "reply_count": 26893,
+        "like_count": 276206,
+        "quote_count": 2896,
+        "bookmark_count": 6104,
+        "impression_count": 54956006
+      },
+      "edit_history_tweet_ids": [
+        "1921911844026954234"
+      ],
+      "id": "1921911844026954234",
+      "text": "https://t.co/1Y5vg9zbEx",
+      "created_at": "2025-05-12T12:54:25.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 42358,
+        "reply_count": 17091,
+        "like_count": 347663,
+        "quote_count": 2086,
+        "bookmark_count": 6084,
+        "impression_count": 51353545
+      },
+      "edit_history_tweet_ids": [
+        "1921699954696855934"
+      ],
+      "id": "1921699954696855934",
+      "text": "https://t.co/ifaRjPPHvv",
+      "created_at": "2025-05-11T22:52:27.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 118183,
+        "reply_count": 121497,
+        "like_count": 989584,
+        "quote_count": 35796,
+        "bookmark_count": 24916,
+        "impression_count": 136070298
+      },
+      "edit_history_tweet_ids": [
+        "1921174163848401313"
+      ],
+      "id": "1921174163848401313",
+      "text": "https://t.co/lRPhZpugBV",
+      "created_at": "2025-05-10T12:03:09.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 71421,
+        "reply_count": 30834,
+        "like_count": 472115,
+        "quote_count": 7695,
+        "bookmark_count": 24588,
+        "impression_count": 74959079
+      },
+      "edit_history_tweet_ids": [
+        "1921008311492624867"
+      ],
+      "id": "1921008311492624867",
+      "text": "Today, I signed an Executive Order to launch the first-ever self-deportation program. Illegal aliens who stay in America face punishments, including—sudden deportation, in a place and manner solely of our discretion. TO ALL ILLEGAL ALIENS: BOOK YOUR FREE FLIGHT RIGHT NOW! https://t.co/LO4eyfhZOq",
+      "created_at": "2025-05-10T01:04:06.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 32976,
+        "reply_count": 13741,
+        "like_count": 282801,
+        "quote_count": 1255,
+        "bookmark_count": 9174,
+        "impression_count": 52056163
+      },
+      "edit_history_tweet_ids": [
+        "1920670100987740317"
+      ],
+      "id": "1920670100987740317",
+      "text": "🇺🇸🇬🇧 https://t.co/rGKLly0JtS",
+      "created_at": "2025-05-09T02:40:11.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 17524,
+        "reply_count": 8721,
+        "like_count": 95038,
+        "quote_count": 645,
+        "bookmark_count": 3435,
+        "impression_count": 33751838
+      },
+      "edit_history_tweet_ids": [
+        "1920519130941170088"
+      ],
+      "id": "1920519130941170088",
+      "text": "https://t.co/0sUAawNN8S",
+      "created_at": "2025-05-08T16:40:16.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 6537,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1060
+      },
+      "edit_history_tweet_ids": [
+        "1920412577470795798"
+      ],
+      "id": "1920412577470795798",
+      "text": "RT @nypost: Democratic Rep. Jasmine Crockett accused of ‘abusing her power’ at airport after she cut passengers in wheelchairs https://t.co…",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1919821368733888617"
+        }
+      ],
+      "created_at": "2025-05-08T09:36:52.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 27847,
+        "reply_count": 17397,
+        "like_count": 208991,
+        "quote_count": 1051,
+        "bookmark_count": 5123,
+        "impression_count": 40818582
+      },
+      "edit_history_tweet_ids": [
+        "1919944872020127980"
+      ],
+      "id": "1919944872020127980",
+      "text": "https://t.co/44glnqT0VM",
+      "created_at": "2025-05-07T02:38:22.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 11776,
+        "reply_count": 7954,
+        "like_count": 60290,
+        "quote_count": 320,
+        "bookmark_count": 1405,
+        "impression_count": 22688189
+      },
+      "edit_history_tweet_ids": [
+        "1919447302982299811"
+      ],
+      "id": "1919447302982299811",
+      "text": "https://t.co/JgZKhj4K1Z",
+      "created_at": "2025-05-05T17:41:13.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 29463,
+        "reply_count": 17163,
+        "like_count": 358719,
+        "quote_count": 2346,
+        "bookmark_count": 10433,
+        "impression_count": 72047004
+      },
+      "edit_history_tweet_ids": [
+        "1919420490663288913"
+      ],
+      "id": "1919420490663288913",
+      "text": "This was so wonderful, 9 years ago today! https://t.co/1jDZHObj5T",
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "728297587418247168"
+        }
+      ],
+      "created_at": "2025-05-05T15:54:40.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 24440,
+        "reply_count": 6219,
+        "like_count": 150332,
+        "quote_count": 848,
+        "bookmark_count": 4366,
+        "impression_count": 34075376
+      },
+      "edit_history_tweet_ids": [
+        "1919398681423299068"
+      ],
+      "id": "1919398681423299068",
+      "text": "https://t.co/EejkjieL01",
+      "created_at": "2025-05-05T14:28:01.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 21252,
+        "reply_count": 4954,
+        "like_count": 125658,
+        "quote_count": 705,
+        "bookmark_count": 3174,
+        "impression_count": 23030618
+      },
+      "edit_history_tweet_ids": [
+        "1919397513032790522"
+      ],
+      "id": "1919397513032790522",
+      "text": "https://t.co/dZONBuFjpB",
+      "created_at": "2025-05-05T14:23:22.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 34783,
+        "reply_count": 18134,
+        "like_count": 207092,
+        "quote_count": 2585,
+        "bookmark_count": 6699,
+        "impression_count": 37614895
+      },
+      "edit_history_tweet_ids": [
+        "1919396921593958754"
+      ],
+      "id": "1919396921593958754",
+      "text": "The Democrats are really out of control. They have lost everything, especially their minds! These Radical Left Lunatics are into the “Impeachment thing” again. They have already got two “No Name,” little respected Congressmen, total Whackjobs both, throwing the “Impeachment” of",
+      "created_at": "2025-05-05T14:21:01.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 38878,
+        "reply_count": 24044,
+        "like_count": 245456,
+        "quote_count": 5229,
+        "bookmark_count": 8097,
+        "impression_count": 35546645
+      },
+      "edit_history_tweet_ids": [
+        "1919395973802897676"
+      ],
+      "id": "1919395973802897676",
+      "text": "REBUILD, AND OPEN ALCATRAZ! For too long, America has been plagued by vicious, violent, and repeat Criminal Offenders, the dregs of society, who will never contribute anything other than Misery and Suffering. When we were a more serious Nation, in times past, we did not hesitate https://t.co/u1jOCMXeW5",
+      "created_at": "2025-05-05T14:17:15.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 26206,
+        "reply_count": 17172,
+        "like_count": 228836,
+        "quote_count": 2173,
+        "bookmark_count": 4499,
+        "impression_count": 40858170
+      },
+      "edit_history_tweet_ids": [
+        "1919395751030923738"
+      ],
+      "id": "1919395751030923738",
+      "text": "https://t.co/omDhYkn2PN",
+      "created_at": "2025-05-05T14:16:22.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 31118,
+        "reply_count": 15657,
+        "like_count": 170115,
+        "quote_count": 1548,
+        "bookmark_count": 6956,
+        "impression_count": 24524544
+      },
+      "edit_history_tweet_ids": [
+        "1918125229420732456"
+      ],
+      "id": "1918125229420732456",
+      "text": "https://t.co/IDaLzWW3H5",
+      "created_at": "2025-05-02T02:07:46.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 37846,
+        "reply_count": 9616,
+        "like_count": 170818,
+        "quote_count": 1316,
+        "bookmark_count": 5053,
+        "impression_count": 27831732
+      },
+      "edit_history_tweet_ids": [
+        "1918125161058058627"
+      ],
+      "id": "1918125161058058627",
+      "text": "https://t.co/30CHzvOXUY",
+      "created_at": "2025-05-02T02:07:30.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 20210,
+        "reply_count": 18271,
+        "like_count": 108078,
+        "quote_count": 1111,
+        "bookmark_count": 1750,
+        "impression_count": 35897170
+      },
+      "edit_history_tweet_ids": [
+        "1916861996021989540"
+      ],
+      "id": "1916861996021989540",
+      "text": "Join me tomorrow, April 29th—in Warren, Michigan at 6:00PM Eastern! https://t.co/TptdFccVat",
+      "created_at": "2025-04-28T14:28:08.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 11981,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 734
+      },
+      "edit_history_tweet_ids": [
+        "1915192938537111835"
+      ],
+      "id": "1915192938537111835",
+      "text": "RT @johnrich: A conversation about online child predators with Homeland Security and John Rich: PLS Repost! https://t.co/zChy4K5HQU",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1915190100058923202"
+        }
+      ],
+      "created_at": "2025-04-23T23:55:53.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 53129,
+        "reply_count": 57664,
+        "like_count": 373994,
+        "quote_count": 5331,
+        "bookmark_count": 10695,
+        "impression_count": 77044299
+      },
+      "edit_history_tweet_ids": [
+        "1913359413215142354"
+      ],
+      "id": "1913359413215142354",
+      "text": "Sleepy Joe Biden, THE WORST PRESIDENT IN THE HISTORY OF THE UNITED STATES, has allowed millions and millions of Criminals, many of them murderers, drug dealers, and people released from prisons and mental institutions from all around the world, to enter our Country through it’s",
+      "created_at": "2025-04-18T22:30:07.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 32749,
+        "reply_count": 17156,
+        "like_count": 195233,
+        "quote_count": 2382,
+        "bookmark_count": 5316,
+        "impression_count": 49846727
+      },
+      "edit_history_tweet_ids": [
+        "1913359035132158083"
+      ],
+      "id": "1913359035132158083",
+      "text": "Following my Day One Executive Order, the Office of Personnel Management will be issuing new Civil Service Regulations for career government employees. Moving forward, career government employees, working on policy matters, will be classified as “Schedule Policy/Career,” and will",
+      "created_at": "2025-04-18T22:28:37.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 76834,
+        "reply_count": 39834,
+        "like_count": 472386,
+        "quote_count": 6357,
+        "bookmark_count": 17389,
+        "impression_count": 81200530
+      },
+      "edit_history_tweet_ids": [
+        "1913358867708493982"
+      ],
+      "id": "1913358867708493982",
+      "text": "This is the hand of the man that the Democrats feel should be brought back to the United States, because he is such “a fine and innocent person.” They said he is not a member of MS-13, even though he’s got MS-13 tattooed onto his knuckles, and two Highly Respected Courts found https://t.co/31sNr2k1SK",
+      "created_at": "2025-04-18T22:27:57.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 21892,
+        "reply_count": 18672,
+        "like_count": 146156,
+        "quote_count": 1883,
+        "bookmark_count": 10107,
+        "impression_count": 41932698
+      },
+      "edit_history_tweet_ids": [
+        "1912502477359894605"
+      ],
+      "id": "1912502477359894605",
+      "text": "https://t.co/Y6OFeGKS4l",
+      "created_at": "2025-04-16T13:44:57.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 68444,
+        "reply_count": 65930,
+        "like_count": 484407,
+        "quote_count": 10273,
+        "bookmark_count": 15241,
+        "impression_count": 94901682
+      },
+      "edit_history_tweet_ids": [
+        "1909258878035828788"
+      ],
+      "id": "1909258878035828788",
+      "text": "The United States has a chance to do something that should have been done DECADES AGO. Don’t be Weak! Don’t be Stupid! Don’t be a PANICAN (A new party based on Weak and Stupid people!). Be Strong, Courageous, and Patient, and GREATNESS will be the result!",
+      "created_at": "2025-04-07T14:56:03.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 65006,
+        "reply_count": 53374,
+        "like_count": 482842,
+        "quote_count": 9402,
+        "bookmark_count": 20368,
+        "impression_count": 109130613
+      },
+      "edit_history_tweet_ids": [
+        "1909258777380974625"
+      ],
+      "id": "1909258777380974625",
+      "text": "Oil prices are down, interest rates are down (the slow moving Fed should cut rates!), food prices are down, there is NO INFLATION, and the long time abused USA is bringing in Billions of Dollars a week from the abusing countries on Tariffs that are already in place. This is",
+      "created_at": "2025-04-07T14:55:39.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 57746,
+        "reply_count": 70466,
+        "like_count": 457449,
+        "quote_count": 22991,
+        "bookmark_count": 38345,
+        "impression_count": 143839920
+      },
+      "edit_history_tweet_ids": [
+        "1908300360810479821"
+      ],
+      "id": "1908300360810479821",
+      "text": "These Houthis gathered for instructions on an attack. Oops, there will be no attack by these Houthis! \n\nThey will never sink our ships again! https://t.co/lEzfyDgWP5",
+      "created_at": "2025-04-04T23:27:15.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 30148,
+        "reply_count": 25966,
+        "like_count": 174205,
+        "quote_count": 1957,
+        "bookmark_count": 6440,
+        "impression_count": 39841701
+      },
+      "edit_history_tweet_ids": [
+        "1907782254572470670"
+      ],
+      "id": "1907782254572470670",
+      "text": "https://t.co/ZoSf5TdLqo",
+      "created_at": "2025-04-03T13:08:29.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 22703,
+        "reply_count": 13605,
+        "like_count": 114203,
+        "quote_count": 1261,
+        "bookmark_count": 4584,
+        "impression_count": 41460541
+      },
+      "edit_history_tweet_ids": [
+        "1907525286150754745"
+      ],
+      "id": "1907525286150754745",
+      "text": "https://t.co/CdTzF2sfMZ",
+      "created_at": "2025-04-02T20:07:22.000Z"
+    },
+    {
+      "public_metrics": {
+        "retweet_count": 28288,
+        "reply_count": 12525,
+        "like_count": 151253,
+        "quote_count": 1637,
+        "bookmark_count": 7505,
+        "impression_count": 47635795
+      },
+      "edit_history_tweet_ids": [
+        "1907459922113028104"
+      ],
+      "id": "1907459922113028104",
+      "text": "https://t.co/k8Eh7B8fq3",
+      "created_at": "2025-04-02T15:47:38.000Z"
+    },
+    {
+      "created_at": "2025-04-02T13:42:29.000Z",
+      "id": "1907428426648023398",
+      "edit_history_tweet_ids": [
+        "1907428426648023398"
+      ],
+      "public_metrics": {
+        "retweet_count": 44563,
+        "reply_count": 37152,
+        "like_count": 363330,
+        "quote_count": 4562,
+        "bookmark_count": 5960,
+        "impression_count": 79029444
+      },
+      "text": "https://t.co/RPXb6Y9E6y"
+    },
+    {
+      "created_at": "2025-04-01T20:53:05.000Z",
+      "id": "1907174400144589035",
+      "edit_history_tweet_ids": [
+        "1907174400144589035"
+      ],
+      "public_metrics": {
+        "retweet_count": 36859,
+        "reply_count": 21381,
+        "like_count": 252247,
+        "quote_count": 3746,
+        "bookmark_count": 4044,
+        "impression_count": 66575761
+      },
+      "text": "REPUBLICANS MUST DEFUND AND TOTALLY DISASSOCIATE THEMSELVES FROM NPR &amp; PBS, THE RADICAL LEFT “MONSTERS” THAT SO BADLY HURT OUR COUNTRY!"
+    },
+    {
+      "created_at": "2025-03-31T18:49:47.000Z",
+      "id": "1906780985888522694",
+      "edit_history_tweet_ids": [
+        "1906780985888522694"
+      ],
+      "public_metrics": {
+        "retweet_count": 37347,
+        "reply_count": 23539,
+        "like_count": 256101,
+        "quote_count": 2917,
+        "bookmark_count": 6401,
+        "impression_count": 66246144
+      },
+      "text": "The Iran-backed Houthi Terrorists have been decimated by the relentless strikes over the past two weeks. Many of their Fighters and Leaders are no longer with us. We hit them every day and night — Harder and harder. Their capabilities that threaten Shipping and the Region are"
+    },
+    {
+      "created_at": "2025-03-31T18:49:06.000Z",
+      "id": "1906780813204836475",
+      "edit_history_tweet_ids": [
+        "1906780813204836475"
+      ],
+      "public_metrics": {
+        "retweet_count": 48638,
+        "reply_count": 35294,
+        "like_count": 353035,
+        "quote_count": 4035,
+        "bookmark_count": 8452,
+        "impression_count": 74896995
+      },
+      "text": "There will never have been a transformation of a Country like the transformation that is happening, for all to see, in the United States of America. Companies are pouring into our Country at levels never seen before, with Jobs (and Money!) to follow. It is a beautiful thing to"
+    },
+    {
+      "created_at": "2025-03-31T18:48:06.000Z",
+      "id": "1906780560141250562",
+      "edit_history_tweet_ids": [
+        "1906780560141250562"
+      ],
+      "public_metrics": {
+        "retweet_count": 23892,
+        "reply_count": 9765,
+        "like_count": 170795,
+        "quote_count": 952,
+        "bookmark_count": 2271,
+        "impression_count": 52792511
+      },
+      "text": "In two months, there has been more Private Investment spoken for, and/or committed to, than in four years of the Sleepy Joe Biden Administration — A fact that the Fake News hates talking about!"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1906703745158660177"
+        }
+      ],
+      "created_at": "2025-03-31T18:16:47.000Z",
+      "id": "1906772680805646368",
+      "edit_history_tweet_ids": [
+        "1906772680805646368"
+      ],
+      "public_metrics": {
+        "retweet_count": 54278,
+        "reply_count": 12814,
+        "like_count": 342945,
+        "quote_count": 1994,
+        "bookmark_count": 8837,
+        "impression_count": 65050398
+      },
+      "text": "Thank you President Bukele, of El Salvador, for taking the criminals that were so stupidly allowed, by the Crooked Joe Biden Administration, to enter our Country, and giving them such a wonderful place to live! https://t.co/NGciZozCxe"
+    },
+    {
+      "created_at": "2025-03-31T13:33:55.000Z",
+      "id": "1906701492192420117",
+      "edit_history_tweet_ids": [
+        "1906701492192420117"
+      ],
+      "public_metrics": {
+        "retweet_count": 21964,
+        "reply_count": 11360,
+        "like_count": 119739,
+        "quote_count": 1267,
+        "bookmark_count": 5103,
+        "impression_count": 39697803
+      },
+      "text": "https://t.co/PRHm1dTtSX"
+    },
+    {
+      "created_at": "2025-03-31T13:30:28.000Z",
+      "id": "1906700623615078744",
+      "edit_history_tweet_ids": [
+        "1906700623615078744"
+      ],
+      "public_metrics": {
+        "retweet_count": 20095,
+        "reply_count": 9656,
+        "like_count": 100516,
+        "quote_count": 1138,
+        "bookmark_count": 1456,
+        "impression_count": 64418953
+      },
+      "text": "America First Patriot Randy Fine is running to represent the Wonderful People of Florida’s 6th Congressional District! A highly successful, Harvard educated businessman, and greatly respected State Legislator, Randy has been a tremendous Voice for MAGA. In Congress, Randy will be"
+    },
+    {
+      "created_at": "2025-03-31T13:30:06.000Z",
+      "id": "1906700533240680783",
+      "edit_history_tweet_ids": [
+        "1906700533240680783"
+      ],
+      "public_metrics": {
+        "retweet_count": 18237,
+        "reply_count": 3199,
+        "like_count": 88810,
+        "quote_count": 337,
+        "bookmark_count": 955,
+        "impression_count": 29246277
+      },
+      "text": "Jimmy Patronis, Chief Financial Officer and Fire Marshall for the Great State of Florida, is running an incredible Campaign for Congress in Florida’s 1st Congressional District! A fourth generation Floridian from the beautiful Panhandle, and owner of an iconic seafood restaurant,"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1905233167272779893"
+        }
+      ],
+      "created_at": "2025-03-30T20:39:21.000Z",
+      "id": "1906446171146531088",
+      "edit_history_tweet_ids": [
+        "1906446171146531088"
+      ],
+      "public_metrics": {
+        "retweet_count": 24573,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 500
+      },
+      "text": "RT @OcrazioCornPop: 🚨 SIGNAL SCANDAL:  Katherine Maher, the leftist NPR CEO, is currently the Chair of the Board of Signal!\n\nWHAT ARE THE O…"
+    },
+    {
+      "created_at": "2025-03-28T18:31:34.000Z",
+      "id": "1905689237749727368",
+      "edit_history_tweet_ids": [
+        "1905689237749727368"
+      ],
+      "public_metrics": {
+        "retweet_count": 48895,
+        "reply_count": 25119,
+        "like_count": 293376,
+        "quote_count": 6177,
+        "bookmark_count": 23670,
+        "impression_count": 68831834
+      },
+      "text": "https://t.co/i1rW9HroWn"
+    },
+    {
+      "created_at": "2025-03-25T02:40:12.000Z",
+      "id": "1904362652987429338",
+      "edit_history_tweet_ids": [
+        "1904362652987429338"
+      ],
+      "public_metrics": {
+        "retweet_count": 45384,
+        "reply_count": 24237,
+        "like_count": 253173,
+        "quote_count": 2689,
+        "bookmark_count": 11365,
+        "impression_count": 24247341
+      },
+      "text": "FIGHT, FIGHT, FIGHT!!! https://t.co/irQ5B6TRE2"
+    },
+    {
+      "created_at": "2025-03-21T22:39:57.000Z",
+      "id": "1903215026682380513",
+      "edit_history_tweet_ids": [
+        "1903215026682380513"
+      ],
+      "public_metrics": {
+        "retweet_count": 63247,
+        "reply_count": 42794,
+        "like_count": 300660,
+        "quote_count": 4646,
+        "bookmark_count": 9359,
+        "impression_count": 51184239
+      },
+      "text": "https://t.co/6TBzTaF8iM"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1903169887318819153"
+        }
+      ],
+      "created_at": "2025-03-21T22:39:42.000Z",
+      "id": "1903214966338912603",
+      "edit_history_tweet_ids": [
+        "1903214966338912603"
+      ],
+      "public_metrics": {
+        "retweet_count": 10201,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 355
+      },
+      "text": "RT @mrddmia: 🚨 Newly Filed Motion To Disqualify Radical Obama Judge Beryl Howell From Trump Case\n\nRead More: https://t.co/CyEILbUhyq https:…"
+    },
+    {
+      "created_at": "2025-03-20T20:23:52.000Z",
+      "id": "1902818394946277485",
+      "edit_history_tweet_ids": [
+        "1902818394946277485"
+      ],
+      "public_metrics": {
+        "retweet_count": 19383,
+        "reply_count": 10949,
+        "like_count": 99994,
+        "quote_count": 666,
+        "bookmark_count": 2523,
+        "impression_count": 30539052
+      },
+      "text": "https://t.co/7l5mGYjROe"
+    },
+    {
+      "created_at": "2025-03-12T01:44:49.000Z",
+      "id": "1899637674241048800",
+      "edit_history_tweet_ids": [
+        "1899637674241048800"
+      ],
+      "public_metrics": {
+        "retweet_count": 42232,
+        "reply_count": 44263,
+        "like_count": 314446,
+        "quote_count": 3145,
+        "bookmark_count": 7224,
+        "impression_count": 46204247
+      },
+      "text": "Elon Musk: “As a function of the great policies of President Trump and his administration, and as an act of faith in America, Tesla is going to DOUBLE vehicle output in the United States within the next two years…” https://t.co/g8jY77yxtP"
+    },
+    {
+      "created_at": "2025-03-12T01:41:44.000Z",
+      "id": "1899636898533867969",
+      "edit_history_tweet_ids": [
+        "1899636898533867969"
+      ],
+      "public_metrics": {
+        "retweet_count": 45468,
+        "reply_count": 30566,
+        "like_count": 378639,
+        "quote_count": 3726,
+        "bookmark_count": 9013,
+        "impression_count": 56213746
+      },
+      "text": "Number one, it's a great product, as good as it gets—and number two, because @ElonMusk has devoted his energy and his life to doing this and I think he has been treated very unfairly… https://t.co/6qrfwrbT0f"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1899573054474461464"
+        }
+      ],
+      "created_at": "2025-03-12T01:39:56.000Z",
+      "id": "1899636446149087529",
+      "edit_history_tweet_ids": [
+        "1899636446149087529"
+      ],
+      "public_metrics": {
+        "retweet_count": 9219,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 232
+      },
+      "text": "RT @Scavino47: President Trump, @Elon, and X leave the Oval Office and head over to the South Portico of the @WhiteHouse where Elon helped…"
+    },
+    {
+      "created_at": "2025-03-07T03:28:16.000Z",
+      "id": "1897851767817216426",
+      "edit_history_tweet_ids": [
+        "1897851767817216426"
+      ],
+      "public_metrics": {
+        "retweet_count": 39626,
+        "reply_count": 30290,
+        "like_count": 236306,
+        "quote_count": 2236,
+        "bookmark_count": 10919,
+        "impression_count": 37604192
+      },
+      "text": "https://t.co/ReyOK1CGPF"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1897291442982437353"
+        }
+      ],
+      "created_at": "2025-03-07T03:27:17.000Z",
+      "id": "1897851519489261605",
+      "edit_history_tweet_ids": [
+        "1897851519489261605"
+      ],
+      "public_metrics": {
+        "retweet_count": 9165,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 309
+      },
+      "text": "RT @america: America is Back. Thank you, @realDonaldTrump! https://t.co/ABazdwMFt8"
+    },
+    {
+      "created_at": "2025-03-05T02:20:15.000Z",
+      "id": "1897109875856920752",
+      "edit_history_tweet_ids": [
+        "1897109875856920752"
+      ],
+      "public_metrics": {
+        "retweet_count": 30858,
+        "reply_count": 25093,
+        "like_count": 178855,
+        "quote_count": 1808,
+        "bookmark_count": 9239,
+        "impression_count": 41203049
+      },
+      "text": "https://t.co/LwOIz29x2t"
+    },
+    {
+      "created_at": "2025-02-28T20:08:06.000Z",
+      "id": "1895566669281636846",
+      "edit_history_tweet_ids": [
+        "1895566669281636846"
+      ],
+      "public_metrics": {
+        "retweet_count": 92742,
+        "reply_count": 126020,
+        "like_count": 752502,
+        "quote_count": 10848,
+        "bookmark_count": 26534,
+        "impression_count": 108591093
+      },
+      "text": "https://t.co/Ja8HQTFpf7"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1895194651646370296"
+        }
+      ],
+      "created_at": "2025-02-28T15:07:07.000Z",
+      "id": "1895490923854798913",
+      "edit_history_tweet_ids": [
+        "1895490923854798913"
+      ],
+      "public_metrics": {
+        "retweet_count": 7303,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 262
+      },
+      "text": "RT @Scavino47: Behind the scenes at the @WhiteHouse as President @realDonaldTrump welcomes UK Prime Minister @Keir_Starmer to the West Wing…"
+    },
+    {
+      "created_at": "2025-02-27T20:32:25.000Z",
+      "id": "1895210401891262760",
+      "edit_history_tweet_ids": [
+        "1895210401891262760"
+      ],
+      "public_metrics": {
+        "retweet_count": 16105,
+        "reply_count": 15213,
+        "like_count": 90647,
+        "quote_count": 587,
+        "bookmark_count": 2926,
+        "impression_count": 35237844
+      },
+      "text": "https://t.co/tJ22x6ldl3"
+    },
+    {
+      "created_at": "2025-02-26T21:31:55.000Z",
+      "id": "1894862986138808530",
+      "edit_history_tweet_ids": [
+        "1894862986138808530"
+      ],
+      "public_metrics": {
+        "retweet_count": 21468,
+        "reply_count": 33248,
+        "like_count": 113705,
+        "quote_count": 774,
+        "bookmark_count": 4906,
+        "impression_count": 35426331
+      },
+      "text": "https://t.co/qpU1uT8B8Z"
+    },
+    {
+      "created_at": "2025-02-24T20:45:03.000Z",
+      "id": "1894126415932526802",
+      "edit_history_tweet_ids": [
+        "1894126415932526802"
+      ],
+      "public_metrics": {
+        "retweet_count": 41478,
+        "reply_count": 55213,
+        "like_count": 296944,
+        "quote_count": 3524,
+        "bookmark_count": 9017,
+        "impression_count": 58661479
+      },
+      "text": "https://t.co/9pZeARuStB"
+    },
+    {
+      "created_at": "2025-02-24T19:52:33.000Z",
+      "id": "1894113204319424674",
+      "edit_history_tweet_ids": [
+        "1894113204319424674"
+      ],
+      "public_metrics": {
+        "retweet_count": 15932,
+        "reply_count": 13659,
+        "like_count": 81874,
+        "quote_count": 456,
+        "bookmark_count": 2750,
+        "impression_count": 29222649
+      },
+      "text": "https://t.co/BlCIdTrJDd"
+    },
+    {
+      "created_at": "2025-02-20T02:14:31.000Z",
+      "id": "1892397388595093561",
+      "edit_history_tweet_ids": [
+        "1892397388595093561"
+      ],
+      "public_metrics": {
+        "retweet_count": 41126,
+        "reply_count": 45055,
+        "like_count": 291978,
+        "quote_count": 2734,
+        "bookmark_count": 4308,
+        "impression_count": 57772808
+      },
+      "text": "https://t.co/nmaExq4VMw"
+    },
+    {
+      "created_at": "2025-02-19T22:42:43.000Z",
+      "id": "1892344088172646484",
+      "edit_history_tweet_ids": [
+        "1892344088172646484"
+      ],
+      "public_metrics": {
+        "retweet_count": 17873,
+        "reply_count": 11560,
+        "like_count": 100229,
+        "quote_count": 662,
+        "bookmark_count": 3436,
+        "impression_count": 32267912
+      },
+      "text": "https://t.co/BlidhHnH2i"
+    },
+    {
+      "created_at": "2025-02-19T15:59:32.000Z",
+      "id": "1892242622623699357",
+      "edit_history_tweet_ids": [
+        "1892242622623699357"
+      ],
+      "public_metrics": {
+        "retweet_count": 101256,
+        "reply_count": 84973,
+        "like_count": 610194,
+        "quote_count": 21822,
+        "bookmark_count": 36069,
+        "impression_count": 114047865
+      },
+      "text": "https://t.co/PMcrOwXejI"
+    },
+    {
+      "created_at": "2025-02-19T00:44:13.000Z",
+      "id": "1892012275789135905",
+      "edit_history_tweet_ids": [
+        "1892012275789135905"
+      ],
+      "public_metrics": {
+        "retweet_count": 67919,
+        "reply_count": 40646,
+        "like_count": 466948,
+        "quote_count": 5699,
+        "bookmark_count": 9294,
+        "impression_count": 58476324
+      },
+      "text": "https://t.co/xcDIB8Pi30"
+    },
+    {
+      "created_at": "2025-02-19T00:43:25.000Z",
+      "id": "1892012075603382664",
+      "edit_history_tweet_ids": [
+        "1892012075603382664"
+      ],
+      "public_metrics": {
+        "retweet_count": 26487,
+        "reply_count": 14972,
+        "like_count": 193152,
+        "quote_count": 2295,
+        "bookmark_count": 6060,
+        "impression_count": 43904686
+      },
+      "text": "https://t.co/vtx3xYvguL"
+    },
+    {
+      "created_at": "2025-02-17T19:35:50.000Z",
+      "id": "1891572283161944433",
+      "edit_history_tweet_ids": [
+        "1891572283161944433"
+      ],
+      "public_metrics": {
+        "retweet_count": 64114,
+        "reply_count": 33126,
+        "like_count": 421434,
+        "quote_count": 7614,
+        "bookmark_count": 21357,
+        "impression_count": 76082818
+      },
+      "text": "On Trade, I have decided, for purposes of Fairness, that I will charge a RECIPROCAL Tariff meaning, whatever Countries charge the United States of America, we will charge them - No more, no less!\n\nFor purposes of this United States Policy, we will consider Countries that use the"
+    },
+    {
+      "created_at": "2025-02-17T19:34:32.000Z",
+      "id": "1891571953682481498",
+      "edit_history_tweet_ids": [
+        "1891571953682481498"
+      ],
+      "public_metrics": {
+        "retweet_count": 50011,
+        "reply_count": 20870,
+        "like_count": 537575,
+        "quote_count": 1834,
+        "bookmark_count": 8305,
+        "impression_count": 60045917
+      },
+      "text": "https://t.co/eZUiPWNEEE"
+    },
+    {
+      "created_at": "2025-02-17T19:34:13.000Z",
+      "id": "1891571874498232512",
+      "edit_history_tweet_ids": [
+        "1891571874498232512"
+      ],
+      "public_metrics": {
+        "retweet_count": 37929,
+        "reply_count": 16260,
+        "like_count": 404313,
+        "quote_count": 1244,
+        "bookmark_count": 5559,
+        "impression_count": 42494877
+      },
+      "text": "https://t.co/WTZYKOPVnK"
+    },
+    {
+      "created_at": "2025-02-15T18:32:31.000Z",
+      "id": "1890831570535055759",
+      "edit_history_tweet_ids": [
+        "1890831570535055759"
+      ],
+      "public_metrics": {
+        "retweet_count": 101361,
+        "reply_count": 71449,
+        "like_count": 716287,
+        "quote_count": 32542,
+        "bookmark_count": 26008,
+        "impression_count": 244966893
+      },
+      "text": "He who saves his Country does not violate any Law."
+    },
+    {
+      "created_at": "2025-02-12T04:19:57.000Z",
+      "id": "1889529852757201368",
+      "edit_history_tweet_ids": [
+        "1889529852757201368"
+      ],
+      "public_metrics": {
+        "retweet_count": 45965,
+        "reply_count": 23350,
+        "like_count": 411287,
+        "quote_count": 2114,
+        "bookmark_count": 9395,
+        "impression_count": 52583257
+      },
+      "text": "WELCOME HOME, MARC!🇺🇸 https://t.co/0b2Igcqudp"
+    },
+    {
+      "created_at": "2025-02-11T15:15:30.000Z",
+      "id": "1889332439241085203",
+      "edit_history_tweet_ids": [
+        "1889332439241085203"
+      ],
+      "public_metrics": {
+        "retweet_count": 71264,
+        "reply_count": 38683,
+        "like_count": 399154,
+        "quote_count": 3429,
+        "bookmark_count": 5124,
+        "impression_count": 43326972
+      },
+      "text": "https://t.co/J5xnOUDsw1"
+    },
+    {
+      "created_at": "2025-02-11T15:14:56.000Z",
+      "id": "1889332296919998557",
+      "edit_history_tweet_ids": [
+        "1889332296919998557"
+      ],
+      "public_metrics": {
+        "retweet_count": 42220,
+        "reply_count": 18271,
+        "like_count": 263378,
+        "quote_count": 2110,
+        "bookmark_count": 4218,
+        "impression_count": 40219235
+      },
+      "text": "https://t.co/TEXWLRe6pl"
+    },
+    {
+      "created_at": "2025-02-09T23:03:50.000Z",
+      "id": "1888725523393904876",
+      "edit_history_tweet_ids": [
+        "1888725523393904876"
+      ],
+      "public_metrics": {
+        "retweet_count": 48147,
+        "reply_count": 29738,
+        "like_count": 387852,
+        "quote_count": 2490,
+        "bookmark_count": 14091,
+        "impression_count": 41643801
+      },
+      "text": "https://t.co/M1HzBZKrnA"
+    },
+    {
+      "created_at": "2025-02-09T22:18:37.000Z",
+      "id": "1888714144435851295",
+      "edit_history_tweet_ids": [
+        "1888714144435851295"
+      ],
+      "public_metrics": {
+        "retweet_count": 55326,
+        "reply_count": 16507,
+        "like_count": 343141,
+        "quote_count": 2822,
+        "bookmark_count": 25028,
+        "impression_count": 44938827
+      },
+      "text": "https://t.co/KyCbNARsA9"
+    },
+    {
+      "created_at": "2025-02-07T17:27:20.000Z",
+      "id": "1887916067491574108",
+      "edit_history_tweet_ids": [
+        "1887916067491574108"
+      ],
+      "public_metrics": {
+        "retweet_count": 36691,
+        "reply_count": 32988,
+        "like_count": 417388,
+        "quote_count": 11009,
+        "bookmark_count": 8706,
+        "impression_count": 77189736
+      },
+      "text": "https://t.co/fT2wFwfU0A"
+    },
+    {
+      "created_at": "2025-02-07T17:27:06.000Z",
+      "id": "1887916006523166886",
+      "edit_history_tweet_ids": [
+        "1887916006523166886"
+      ],
+      "public_metrics": {
+        "retweet_count": 51524,
+        "reply_count": 17733,
+        "like_count": 314076,
+        "quote_count": 2135,
+        "bookmark_count": 4345,
+        "impression_count": 60953848
+      },
+      "text": "https://t.co/6MGaxjbHUz"
+    },
+    {
+      "created_at": "2025-02-06T22:52:11.000Z",
+      "id": "1887635430385885279",
+      "edit_history_tweet_ids": [
+        "1887635430385885279"
+      ],
+      "public_metrics": {
+        "retweet_count": 53748,
+        "reply_count": 18058,
+        "like_count": 431353,
+        "quote_count": 2978,
+        "bookmark_count": 5682,
+        "impression_count": 51304599
+      },
+      "text": "https://t.co/0DvI2cPDBo"
+    },
+    {
+      "created_at": "2025-02-06T16:45:43.000Z",
+      "id": "1887543203953275347",
+      "edit_history_tweet_ids": [
+        "1887543203953275347"
+      ],
+      "public_metrics": {
+        "retweet_count": 70619,
+        "reply_count": 26183,
+        "like_count": 395193,
+        "quote_count": 3799,
+        "bookmark_count": 7431,
+        "impression_count": 48734224
+      },
+      "text": "https://t.co/UeyP7NHjAo"
+    },
+    {
+      "created_at": "2025-02-06T16:45:30.000Z",
+      "id": "1887543148781461806",
+      "edit_history_tweet_ids": [
+        "1887543148781461806"
+      ],
+      "public_metrics": {
+        "retweet_count": 39154,
+        "reply_count": 43218,
+        "like_count": 299520,
+        "quote_count": 9023,
+        "bookmark_count": 17099,
+        "impression_count": 65707941
+      },
+      "text": "https://t.co/JivikzDa3v"
+    },
+    {
+      "created_at": "2025-02-04T19:14:15.000Z",
+      "id": "1886855810451485180",
+      "edit_history_tweet_ids": [
+        "1886855810451485180"
+      ],
+      "public_metrics": {
+        "retweet_count": 34307,
+        "reply_count": 14633,
+        "like_count": 431002,
+        "quote_count": 1124,
+        "bookmark_count": 4172,
+        "impression_count": 59342851
+      },
+      "text": "https://t.co/aw80b4Y6oN"
+    },
+    {
+      "created_at": "2025-02-03T16:45:58.000Z",
+      "id": "1886456105372459141",
+      "edit_history_tweet_ids": [
+        "1886456105372459141"
+      ],
+      "public_metrics": {
+        "retweet_count": 61216,
+        "reply_count": 28663,
+        "like_count": 576706,
+        "quote_count": 7725,
+        "bookmark_count": 16780,
+        "impression_count": 75363350
+      },
+      "text": "https://t.co/DC5Mx8yCiB"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1885740103223648412"
+        }
+      ],
+      "created_at": "2025-02-03T16:36:30.000Z",
+      "id": "1886453721871319097",
+      "edit_history_tweet_ids": [
+        "1886453721871319097"
+      ],
+      "public_metrics": {
+        "retweet_count": 33793,
+        "reply_count": 14421,
+        "like_count": 302785,
+        "quote_count": 5498,
+        "bookmark_count": 21899,
+        "impression_count": 86254906
+      },
+      "text": "https://t.co/PK1V8YklhY https://t.co/DB2rvH3vzr"
+    },
+    {
+      "created_at": "2025-02-01T22:44:15.000Z",
+      "id": "1885821495080825305",
+      "edit_history_tweet_ids": [
+        "1885821495080825305"
+      ],
+      "public_metrics": {
+        "retweet_count": 50524,
+        "reply_count": 42440,
+        "like_count": 386516,
+        "quote_count": 5914,
+        "bookmark_count": 11653,
+        "impression_count": 77609398
+      },
+      "text": "https://t.co/SWZtSm6NMX"
+    },
+    {
+      "created_at": "2025-02-01T17:20:50.000Z",
+      "id": "1885740103223648412",
+      "edit_history_tweet_ids": [
+        "1885740103223648412"
+      ],
+      "public_metrics": {
+        "retweet_count": 95388,
+        "reply_count": 41391,
+        "like_count": 743465,
+        "quote_count": 12667,
+        "bookmark_count": 25084,
+        "impression_count": 167039349
+      },
+      "text": "This morning I ordered precision Military air strikes on the Senior ISIS Attack Planner and other terrorists he recruited and led in Somalia. These killers, who we found hiding in caves, threatened the United States and our Allies. The strikes destroyed the caves they live in,"
+    },
+    {
+      "created_at": "2025-02-01T17:20:43.000Z",
+      "id": "1885740072705650821",
+      "edit_history_tweet_ids": [
+        "1885740072705650821"
+      ],
+      "public_metrics": {
+        "retweet_count": 40387,
+        "reply_count": 12146,
+        "like_count": 280578,
+        "quote_count": 1915,
+        "bookmark_count": 4162,
+        "impression_count": 37719289
+      },
+      "text": "https://t.co/ltyGcGiiKR"
+    },
+    {
+      "created_at": "2025-02-01T17:20:17.000Z",
+      "id": "1885739966350667907",
+      "edit_history_tweet_ids": [
+        "1885739966350667907"
+      ],
+      "public_metrics": {
+        "retweet_count": 21879,
+        "reply_count": 6649,
+        "like_count": 275342,
+        "quote_count": 777,
+        "bookmark_count": 2374,
+        "impression_count": 52291898
+      },
+      "text": "https://t.co/0qevDBhdLk"
+    },
+    {
+      "created_at": "2025-02-01T17:19:46.000Z",
+      "id": "1885739833399619760",
+      "edit_history_tweet_ids": [
+        "1885739833399619760"
+      ],
+      "public_metrics": {
+        "retweet_count": 40237,
+        "reply_count": 10677,
+        "like_count": 312982,
+        "quote_count": 2335,
+        "bookmark_count": 5347,
+        "impression_count": 53494890
+      },
+      "text": "It is so good to have the Venezuela Hostages back home and, very important to note, that Venezuela has agreed to receive, back into their Country, all Venezuela illegal aliens who were encamped in the U.S., including gang members of Tren de Aragua. Venezuela has further agreed to"
+    },
+    {
+      "created_at": "2025-02-01T00:29:37.000Z",
+      "id": "1885485623735124467",
+      "edit_history_tweet_ids": [
+        "1885485623735124467"
+      ],
+      "public_metrics": {
+        "retweet_count": 46094,
+        "reply_count": 12484,
+        "like_count": 471529,
+        "quote_count": 2254,
+        "bookmark_count": 4838,
+        "impression_count": 70879467
+      },
+      "text": "Just been informed that we are bringing six hostages home from Venezuela. Thank you to Ric Grenell and my entire staff. Great job!"
+    },
+    {
+      "created_at": "2025-01-31T23:39:34.000Z",
+      "id": "1885473025476145386",
+      "edit_history_tweet_ids": [
+        "1885473025476145386"
+      ],
+      "public_metrics": {
+        "retweet_count": 70627,
+        "reply_count": 26662,
+        "like_count": 524195,
+        "quote_count": 5115,
+        "bookmark_count": 12617,
+        "impression_count": 67401588
+      },
+      "text": "Photo of beautiful water flow that I just opened in California. Today, 1.6 billion gallons and, in 3 days, it will be 5.2 billion gallons. Everybody should be happy about this long fought Victory! I only wish they listened to me six years ago – There would have been no fire! https://t.co/Oaz92ZeiTh"
+    },
+    {
+      "created_at": "2025-01-31T15:14:36.000Z",
+      "id": "1885345948047462910",
+      "edit_history_tweet_ids": [
+        "1885345948047462910"
+      ],
+      "public_metrics": {
+        "retweet_count": 28071,
+        "reply_count": 10783,
+        "like_count": 191369,
+        "quote_count": 2030,
+        "bookmark_count": 4651,
+        "impression_count": 64059311
+      },
+      "text": "https://t.co/jIOdjGiwi0"
+    },
+    {
+      "created_at": "2025-01-31T15:11:48.000Z",
+      "id": "1885345244167745561",
+      "edit_history_tweet_ids": [
+        "1885345244167745561"
+      ],
+      "public_metrics": {
+        "retweet_count": 28864,
+        "reply_count": 12765,
+        "like_count": 176396,
+        "quote_count": 1547,
+        "bookmark_count": 7378,
+        "impression_count": 36178816
+      },
+      "text": "https://t.co/0qNyRa9km3"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1884672621138100423"
+        }
+      ],
+      "created_at": "2025-01-31T12:19:54.000Z",
+      "id": "1885301983973650885",
+      "edit_history_tweet_ids": [
+        "1885301983973650885"
+      ],
+      "public_metrics": {
+        "retweet_count": 23444,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 85
+      },
+      "text": "RT @NicoleShanahan: Proud of you, Bobby, for taking the lead—and of every American who has every reason to give up but refuses to stop figh…"
+    },
+    {
+      "created_at": "2025-01-28T18:33:20.000Z",
+      "id": "1884308797239554429",
+      "edit_history_tweet_ids": [
+        "1884308797239554429"
+      ],
+      "public_metrics": {
+        "retweet_count": 42356,
+        "reply_count": 29161,
+        "like_count": 401345,
+        "quote_count": 3561,
+        "bookmark_count": 4486,
+        "impression_count": 57366254
+      },
+      "text": "https://t.co/matfK2s03a"
+    },
+    {
+      "created_at": "2025-01-28T18:33:07.000Z",
+      "id": "1884308740792541440",
+      "edit_history_tweet_ids": [
+        "1884308740792541440"
+      ],
+      "public_metrics": {
+        "retweet_count": 37728,
+        "reply_count": 18513,
+        "like_count": 394576,
+        "quote_count": 2263,
+        "bookmark_count": 3729,
+        "impression_count": 60450624
+      },
+      "text": "https://t.co/XkdLbwRePR"
+    },
+    {
+      "created_at": "2025-01-26T02:12:42.000Z",
+      "id": "1883337238198829126",
+      "edit_history_tweet_ids": [
+        "1883337238198829126"
+      ],
+      "public_metrics": {
+        "retweet_count": 44797,
+        "reply_count": 26977,
+        "like_count": 318932,
+        "quote_count": 2588,
+        "bookmark_count": 6057,
+        "impression_count": 48034144
+      },
+      "text": "https://t.co/hmxumW2iC0"
+    },
+    {
+      "created_at": "2025-01-25T17:33:42.000Z",
+      "id": "1883206626787881080",
+      "edit_history_tweet_ids": [
+        "1883206626787881080"
+      ],
+      "public_metrics": {
+        "retweet_count": 68895,
+        "reply_count": 38601,
+        "like_count": 501537,
+        "quote_count": 5188,
+        "bookmark_count": 20640,
+        "impression_count": 55480994
+      },
+      "text": "THE GOLDEN AGE OF AMERICA BEGINS RIGHT NOW! https://t.co/PSfDlAFpeO"
+    },
+    {
+      "created_at": "2025-01-25T16:50:55.000Z",
+      "id": "1883195857237062111",
+      "edit_history_tweet_ids": [
+        "1883195857237062111"
+      ],
+      "public_metrics": {
+        "retweet_count": 52203,
+        "reply_count": 22413,
+        "like_count": 563954,
+        "quote_count": 1918,
+        "bookmark_count": 8187,
+        "impression_count": 41411750
+      },
+      "text": "MAKE AMERICA GREAT AGAIN! https://t.co/K6FkyX1AZp"
+    },
+    {
+      "created_at": "2025-01-22T20:01:23.000Z",
+      "id": "1882156626028929186",
+      "edit_history_tweet_ids": [
+        "1882156626028929186"
+      ],
+      "public_metrics": {
+        "retweet_count": 84372,
+        "reply_count": 58648,
+        "like_count": 1341803,
+        "quote_count": 5281,
+        "bookmark_count": 15760,
+        "impression_count": 103565383
+      },
+      "text": "Happy 20th Anniversary to Melania! https://t.co/VIcXSQb4QO"
+    },
+    {
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1880446012168249386"
+        }
+      ],
+      "created_at": "2025-01-21T23:19:06.000Z",
+      "id": "1881843998849130673",
+      "edit_history_tweet_ids": [
+        "1881843998849130673"
+      ],
+      "public_metrics": {
+        "retweet_count": 63730,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 83
+      },
+      "text": "RT @realDonaldTrump: My NEW Official Trump Meme is HERE! It’s time to celebrate everything we stand for: WINNING! Join my very special Trum…"
+    },
+    {
+      "created_at": "2025-01-20T19:13:14.000Z",
+      "id": "1881419736648499257",
+      "edit_history_tweet_ids": [
+        "1881419736648499257"
+      ],
+      "public_metrics": {
+        "retweet_count": 51675,
+        "reply_count": 22590,
+        "like_count": 415733,
+        "quote_count": 1916,
+        "bookmark_count": 11050,
+        "impression_count": 82286695
+      },
+      "text": "Donald J. Trump Attends the Presidential Parade https://t.co/xath35WNXE"
+    },
+    {
+      "created_at": "2025-01-20T16:07:16.000Z",
+      "id": "1881372933710589978",
+      "edit_history_tweet_ids": [
+        "1881372933710589978"
+      ],
+      "public_metrics": {
+        "retweet_count": 109319,
+        "reply_count": 41584,
+        "like_count": 697446,
+        "quote_count": 8802,
+        "bookmark_count": 27111,
+        "impression_count": 80938034
+      },
+      "text": "The 60th Presidential Inauguration Ceremony https://t.co/kTB4w2VCdI"
+    }
+  ]
+}

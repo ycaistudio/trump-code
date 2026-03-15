@@ -481,3 +481,83 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# ============================================================
+# 來源 4: X (Twitter) API — 用 Bearer Token 直接抓
+# ============================================================
+def fetch_x_api():
+    """用 X API v2 抓 Trump 在 X 上的推文"""
+    import os
+    bearer = os.environ.get('X_BEARER_TOKEN', '')
+
+    if not bearer:
+        # 嘗試從 .env 讀
+        env_file = Path(__file__).parent / '.env'
+        if env_file.exists():
+            with open(env_file) as f:
+                for line in f:
+                    if line.startswith('X_BEARER_TOKEN='):
+                        bearer = line.strip().split('=', 1)[1]
+
+    if not bearer:
+        return {
+            'status': 'not_configured',
+            'source': 'x_api',
+            'count': 0,
+            'posts': [],
+            'note': '需要設定 X_BEARER_TOKEN 環境變數',
+        }
+
+    try:
+        import urllib.request
+        all_tweets = []
+        next_token = None
+
+        for _ in range(10):  # 最多 10 頁
+            url = f'https://api.twitter.com/2/users/25073877/tweets?max_results=100&tweet.fields=created_at,text&start_time=2025-01-20T00:00:00Z'
+            if next_token:
+                url += f'&pagination_token={next_token}'
+
+            req = urllib.request.Request(url, headers={
+                'Authorization': f'Bearer {bearer}',
+            })
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read().decode('utf-8'))
+
+            if 'data' not in data:
+                break
+
+            all_tweets.extend(data['data'])
+            next_token = data.get('meta', {}).get('next_token')
+            if not next_token:
+                break
+            import time
+            time.sleep(1)
+
+        posts = []
+        for t in all_tweets:
+            if not t['text'].startswith('RT @'):
+                posts.append({
+                    'id': t['id'],
+                    'created_at': t.get('created_at', ''),
+                    'content': t['text'],
+                    'url': f"https://x.com/realDonaldTrump/status/{t['id']}",
+                    'source': 'x_api',
+                })
+
+        return {
+            'status': 'ok',
+            'source': 'x_api',
+            'count': len(posts),
+            'posts': posts,
+        }
+
+    except Exception as e:
+        return {
+            'status': 'error',
+            'source': 'x_api',
+            'error': str(e),
+            'count': 0,
+            'posts': [],
+        }
