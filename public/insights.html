@@ -11,7 +11,7 @@
   --gold:#FFD700;--red:#CC0000;--blue:#4488FF;--green:#44CC66;
   --text:#e8e8e8;--dim:#8899aa;--border:#1e2e44;
 }
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7}
+body{font-size:14px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans TC','Noto Sans JP',sans-serif;background:var(--bg);color:var(--text);line-height:1.7}
 a{color:var(--gold);text-decoration:none}
 a:hover{text-decoration:underline}
 
@@ -29,7 +29,7 @@ a:hover{text-decoration:underline}
 
 /* 區塊 */
 .section{margin-top:32px}
-.section h2{font-size:18px;color:var(--gold);border-bottom:1px solid var(--border);padding-bottom:8px;margin-bottom:16px}
+.section h2{font-size:16px;color:var(--gold);border-bottom:1px solid var(--border);padding-bottom:8px;margin-bottom:16px}
 
 /* 發現卡片 */
 .discoveries{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
@@ -39,7 +39,7 @@ a:hover{text-decoration:underline}
 .disc.gold{background:rgba(255,215,0,0.08);border:1px solid rgba(255,215,0,0.3)}
 .disc.blue{background:rgba(68,136,255,0.08);border:1px solid rgba(68,136,255,0.3)}
 .disc .tag{font-size:12px;font-weight:700;margin-bottom:8px}
-.disc .val{font-size:20px;font-weight:700;color:var(--text)}
+.disc .val{font-size:17px;font-weight:700;color:var(--text)}
 .disc .desc{font-size:12px;color:var(--dim);margin-top:6px}
 
 /* 狀態格 */
@@ -116,9 +116,35 @@ tr:hover{background:rgba(255,215,0,0.03)}
     <div class="stat"><div class="n">11</div><div class="l">Models 模型<br>モデル</div></div>
     <div class="stat"><div class="n">2</div><div class="l">Markets 市場<br>マーケット</div></div>
   </div>
+
+  <!-- 開場故事 -->
+  <div style="max-width:680px;margin:24px auto 0;padding:0 20px;text-align:left;font-size:13px;color:var(--dim);line-height:1.9">
+    <p>我把他就任以來 <strong style="color:var(--gold)">7,400+</strong> 篇推文全部抓下來，拆成 <strong style="color:var(--gold)">316</strong> 個信號特徵，跑了 <strong style="color:var(--gold)">3,155 萬</strong>組預測模型，只有 <strong style="color:var(--gold)">50,872</strong> 組通過雙段驗證活了下來。</p>
+    <p style="margin-top:12px">目前找到的：</p>
+    <ul style="margin-top:4px;padding-left:20px;list-style:none">
+      <li>→ 他盤前說「暫緩」，當天 S&P 平均漲 <strong style="color:var(--green)">+1.12%</strong></li>
+      <li>→ 關稅→Deal 的轉折間隔，中位數 <strong style="color:var(--gold)">17.4 小時</strong></li>
+      <li>→ 大跌前一天他反而語氣更正面（像在安撫）</li>
+      <li>→ 他 2025-08 偷偷換了簽名格式，我們抓到了</li>
+      <li>→ 中國相關推文 <strong style="color:var(--gold)">100%</strong> 不放 X，203 篇全藏在 Truth Social</li>
+      <li>→ 四信號齊發（關稅+談判+炫耀+寬減）= 平均 <strong style="color:var(--green)">+2.792%</strong></li>
+      <li>→ 他閉嘴的時候市場最好 — <strong style="color:var(--green)">80%</strong> 上漲</li>
+    </ul>
+  </div>
 </div>
 
 <div class="w">
+
+<!-- 即時狀態 -->
+<div class="section">
+  <h2>📊 Live Status 即時狀態 ライブ</h2>
+  <div class="status-row" id="status-grid">
+    <div class="scard"><div class="l">System 系統 システム</div><div class="v" id="s-health">--</div><div class="l" id="s-health2"></div></div>
+    <div class="scard"><div class="l">Posts 推文 投稿</div><div class="v" id="s-posts">--</div><div class="l" id="s-posts2"></div></div>
+    <div class="scard"><div class="l">Direction 方向 方向</div><div class="v" id="s-dir">--</div><div class="l" id="s-dir2"></div></div>
+    <div class="scard"><div class="l">VIX 恐慌 恐怖指数</div><div class="v" id="s-vix">--</div><div class="l" id="s-vix2"></div></div>
+  </div>
+</div>
 
 <!-- 重大發現 -->
 <div class="section">
@@ -187,7 +213,7 @@ Trump 發推文 Truth Social
                │
 ┌──────────────┼───────────────────────────┐
 │  Three Brains 三個大腦                    │
-│  🧠 Opus — 因果分析（本機，不花錢）        │
+│  🧠 Opus — 因果分析        │
 │  🧬 Evolver — 自動產生新規則              │
 │  🔒 Breaker — 全錯了就停 + 從錯誤學       │
 └──────────────┬───────────────────────────┘
@@ -200,16 +226,6 @@ Trump 發推文 Truth Social
   </div>
 </div>
 
-<!-- 即時狀態 -->
-<div class="section">
-  <h2>📊 Live Status 即時狀態 ライブ</h2>
-  <div class="status-row" id="status-grid">
-    <div class="scard"><div class="l">System 系統 システム</div><div class="v" id="s-health">--</div><div class="l" id="s-health2"></div></div>
-    <div class="scard"><div class="l">Posts 推文 投稿</div><div class="v" id="s-posts">--</div><div class="l" id="s-posts2"></div></div>
-    <div class="scard"><div class="l">Direction 方向 方向</div><div class="v" id="s-dir">--</div><div class="l" id="s-dir2"></div></div>
-    <div class="scard"><div class="l">VIX 恐慌 恐怖指数</div><div class="v" id="s-vix">--</div><div class="l" id="s-vix2"></div></div>
-  </div>
-</div>
 
 <!-- 最近信號 -->
 <div class="section" id="signals">
