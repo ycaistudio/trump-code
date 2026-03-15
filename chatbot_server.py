@@ -32,6 +32,15 @@ from typing import Any
 BASE = Path(__file__).parent
 DATA = BASE / "data"
 
+
+def _load(filename: str) -> dict | list | None:
+    """安全載入 data/ 下的 JSON 檔案。"""
+    path = DATA / filename
+    if not path.exists():
+        return None
+    with open(path, encoding='utf-8') as f:
+        return json.load(f)
+
 # === 每日額度門檻 ===
 # 1 把 Gemini key 的免費額度 ≈ 500 次/天
 # 3 把 key 共 1500，但只用 1 把的量當每日上限（其他留 buffer）
