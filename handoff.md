@@ -1,63 +1,53 @@
 # 交接文件
-> 日期：2026-03-16 | 摘要：史詩級 session — 前端重寫 + i18n + Polymarket API + GitHub 大整理 + SEO/AEO + 跟單機器人研究
+> 日期：2026-03-16 (Session 2) | 摘要：即時引擎大升級 — 三源抓取 + Polymarket 修復 + 48h 追蹤 + systemd 常駐 + Devvit App 起步
 
 ## 已完成
 
-### 官網 (trumpcode.washinmura.jp)
-- [x] 前端 insights.html 從零重寫 — 1,500+ 行
-- [x] i18n 語言切換 EN/中/日 — 174 組三語，左上角按鈕，localStorage 記住
-- [x] Polymarket 接上正確的 `/public-search` API — 315+ 個 Trump 市場即時顯示
-- [x] 川普推文展示 — `/api/recent-posts` 最近 20 篇 + 信號分析
-- [x] SEO 最高標準 — JSON-LD (WebApp + FAQ)、meta tags、canonical、OG locale
-- [x] AEO 最高標準 — llms.txt、robots.txt（歡迎 AI 爬蟲）、sitemap.xml
-- [x] 訪客統計 — `/api/analytics`（每日/每小時/UA 分類/頁面排行）
-- [x] 聊天記錄 — `/api/chat-log`（保留 10,000 筆）
-- [x] 兄弟網站互連 — Trump Code ↔ AEO Hub 頂部+底部雙向導流
-- [x] Buy Me a Claude Max — 右上角 + Footer
-- [x] Active Computation 搬到 Live Status 上面 + 掃描動畫
-- [x] Cron 改每天都跑（原本只有週一到五）
-- [x] 80 個獨立訪客（上線第一天）
+### 即時引擎（realtime_loop.py）
+- [x] 推文抓取從 CNN 單源 → CNN + trumpstruth.org + X API 三源齊發
+- [x] 新推文自動寫入 trump_posts_all.json — 前端即時顯示（44,070→44,076 篇）
+- [x] Polymarket 快照修復 — 改用 /public-search API（390 個市場）
+- [x] 追蹤窗口從 6h 延長到 48h（1h/3h/6h/12h/24h/48h）
+- [x] VPS systemd 常駐服務 — 每 5 分鐘掃一次，掛了 30 秒重啟，開機自動啟動
+- [x] X API Bearer Token 更新到 VPS .env（新 Token 測試通過）
+- [x] Truth Social 帳號已設定在 VPS .env（API 被 Cloudflare 擋，備用）
+- [x] commit + push 到 GitHub ✅
 
-### GitHub
-- [x] README 重寫 — 純英文 + docs/README.zh.md + docs/README.ja.md
-- [x] Repo 整理 — 31 → 15 個（刪 11 fork、合併 7+3+4、封存 16）
-- [x] 9 個公開 repo 全部三語 README + 三語 description
-- [x] Profile README 優化 — 故事感 + Usage 數據 + GitHub Stats + 三語
-- [x] Discussions 開通 — 5 個討論帖
-- [x] ⭐ 189 stars, 18 forks（第一天）
-- [x] washin-playbook 新 repo（合併 7 個展示 repo）
-- [x] washin-travel 新 repo（合併 4 個旅遊 repo）
-- [x] ClawAPI 吸收 drclaw + internal，README 三語更新
+### Reddit / Devvit
+- [x] Devvit CLI 安裝成功 — v0.12.14
+- [x] Devvit 帳號登入成功 — PipeAccording5302
+- [x] Devvit App 專案建立 — /tmp/trump-code-bot/trumpcode/（bare 模板）
+- [x] Devvit MCP 設定到 ~/.claude/.mcp.json
 
 ### 推廣
-- [x] X 推文三語文案 — EN/ZH/JA + @mentions + hashtags
-- [x] 發文排程建議 — 日文中午12點/中文晚上7點/英文晚上10點（JST）
-- [x] FB OG tags 修復（FB 仍擋新網域，建議用 GitHub 連結或短網址）
+- [x] 日文版 X 推文文案（翻譯完成，待發）
 
 ## 進行中
-- [ ] 跟單 AI 機器人 — 已完成研究，建議做 $TRUMP 幣跟單（最簡單）
-- [ ] 即時推文更新 — realtime_loop.py 偵測的新推文需寫回 trump_posts_all.json
-- [ ] 根目錄 43 個 .py 檔案整理 — 決定暫不動（怕改 import 影響線上）
+- [ ] Devvit 預測遊戲 App — 已建專案，還沒改程式碼
+- [ ] Reddit API 申請被擋 — Responsible Builder Policy 2025/11 後要人工審核，create app 頁面過不去
+- [ ] Reddit 手動推廣文案 — 還沒寫 r/sideproject、r/dataisbeautiful 版本
 
 ## 已知問題
-- FB 封鎖新網域 — trumpcode.washinmura.jp 在 FB 分享會「找不到頁面」，需等 24-48h 或申訴
-- Gamma API `slug_contains` 壞掉 — 已改用 `public-search`，但 polymarket_client.py 還是舊的
-- BrokenPipeError — server log 有斷管錯誤（訪客斷開），不影響功能但應加 try/except
-- og:image 還沒做 — 需要一張 OG 預覽圖（1200×630）
+- Reddit API 無法自助申請 — 被 Responsible Builder Policy 擋住，只能走 Devvit 或手動
+- Truth Social 直接 API 被 Cloudflare 403 擋 — client_id/secret 是佔位符，暫不影響（CNN+trumpstruth 已覆蓋）
+- VPS 上 polymarket_client.py 還是舊版 — 不影響（realtime_loop 已自己實作 /public-search）
+- og:image 還沒做 — 需要 1200×630 社群分享圖
 
 ## 下一步（按優先順序）
-1. 跟單機器人 — $TRUMP 幣信號→Binance API 自動下單
-2. Telegram Bot — 信號即時推送給訂閱者
-3. 即時推文 — 讓網站顯示最新的川普推文（不只到 3/14）
-4. OG 預覽圖 — 做一張漂亮的 1200×630 社群分享圖
-5. FB 申訴 — https://www.facebook.com/help/contact/571927962827151
-6. Pin 6 個 repo — 手動去 GitHub 操作（trump-code/yes.md/infinite-gratitude/washin-playbook/5x-cto/ai-md）
+1. Devvit 預測遊戲 — `cd /tmp/trump-code-bot/trumpcode && npm run dev`
+   - 川普發文 → Reddit 用戶投票漲跌 → 6h 後比對真實市場 → 排行榜
+   - 建一個 subreddit r/TrumpCodeGame 安裝 App
+2. Reddit 推廣文案 — 寫好 r/sideproject、r/dataisbeautiful、r/Python 的貼文
+3. 跟單機器人 — $TRUMP 幣信號→Binance API 自動下單
+4. Telegram Bot — 信號即時推送給訂閱者
+5. OG 預覽圖 — 做一張 1200×630 社群分享圖
 
 ## 重要連結
 - 線上：https://trumpcode.washinmura.jp
 - GitHub：https://github.com/sstklen/trump-code
-- AEO Hub：https://aeo.washinmura.jp
-- 訪客統計：https://trumpcode.washinmura.jp/api/analytics
-- 聊天記錄：https://trumpcode.washinmura.jp/api/chat-log
-- VPS：/home/ubuntu/trump-code/（python3 chatbot_server.py）
+- VPS 即時引擎：`sudo systemctl status trump-realtime`
+- VPS 即時 log：`tail -f /home/ubuntu/trump-code/realtime.log`
+- Devvit 專案：/tmp/trump-code-bot/trumpcode/
+- Devvit Token：~/.devvit/token
+- Reddit 帳號：PipeAccording5302
 - Cron：每天 22:30 UTC 跑 daily_pipeline.py
