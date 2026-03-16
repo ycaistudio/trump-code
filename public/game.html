@@ -992,20 +992,18 @@ function renderApp(force = false) {
 
   if (game && game.active) {
     const expired = timeRemaining(game.expires_at) === 0;
+    // 倒數計時永遠在標題正下方
+    parts.push(renderCountdown(game));
     parts.push(renderSignalCard(game));
     if (game.resolved) {
-      // 已開獎 → 顯示結果
       parts.push(renderVoteBars(game));
       parts.push(renderResultPanel(game));
     } else if (expired) {
-      // 過期但未開獎 → 等待開獎或等新信號
       parts.push(renderVoteBars(game));
       parts.push('<section class="panel" style="text-align:center;padding:24px"><div style="font-size:32px">⏳</div><p style="color:var(--gold);font-size:18px;margin:8px 0">' + escapeHtml(t('expiredTitle')) + '</p><p style="color:var(--muted);font-size:13px">' + escapeHtml(t('expiredDesc')) + '</p></section>');
     } else {
-      // 進行中 → 可以投票
       parts.push(renderVoteSection(game));
       parts.push(renderVoteBars(game));
-      parts.push(renderCountdown(game));
     }
   } else {
     parts.push(renderWaitingState());
