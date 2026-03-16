@@ -600,15 +600,16 @@ def _maybe_start_new_round():
     current = _load_game_current()
     now_ts = time.time()
 
-    if current and not current.get('resolved') and _is_game_expired(current, now_ts):
-        current = _resolve_if_needed(current)
-
+    # 有進行中的局且未過期 → 繼續玩
     if current and not current.get('resolved') and not _is_game_expired(current, now_ts):
         return current
 
+    # 過期且未 resolve → 嘗試開獎
     if current and not current.get('resolved') and _is_game_expired(current, now_ts):
-        return current
+        current = _resolve_if_needed(current)
+        # resolve 成功或失敗都繼續往下找新局
 
+    # 已 resolve 或無局 → 找新信號開新局
     latest_signal = _find_latest_signal()
     current_signal_id = current.get('signal_id') if isinstance(current, dict) else None
     if latest_signal and latest_signal.get('id') != current_signal_id:
@@ -617,6 +618,7 @@ def _maybe_start_new_round():
             _save_game_current(new_game)
             return new_game
 
+    # 沒有新信號 → 回傳現有局（即使已過期/已 resolve，前端會顯示結果或等待狀態）
     return current
 
 
@@ -642,6 +644,16 @@ def _resolve_if_needed(game):
     verify_value, verify_source = _pick_verify_value(signal)
     actual_direction = _direction_from_change(verify_value)
     if actual_direction is None:
+        # 過期超過 2 小時仍無 verify 數據 → 強制 VOID，不卡死
+        expires_ts = _iso_to_ts(game.get('expires_at')) or 0
+        if time.time() - expires_ts > 7200:
+            game['resolved'] = True
+            game['result'] = {'actual_direction': 'VOID', 'spy_change': None, 'verify_source': None,
+                              'ai_correct': None, 'crowd_correct': None, 'crowd_direction': None,
+                              'winning_votes': 0, 'total_votes': len(game.get('votes', {})),
+                              'void_reason': 'no verify data after 2h timeout'}
+            game['resolved_at'] = _now_iso()
+            _save_game_current(game)
         return game
 
     votes = game.get('votes')
