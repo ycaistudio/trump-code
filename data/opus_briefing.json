@@ -1,139 +1,69 @@
 {
-  "date": "2026-03-16",
-  "prepared_at": "2026-03-16T22:30:06Z",
+  "date": "2026-03-17",
+  "prepared_at": "2026-03-17T22:30:06Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 8,
-    "latest": "Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know but, unfortunately, she has been diagnosed with early stage breast cancer, and has decided to take o",
-    "earliest_time": "2026-03-16T02:30:04.645Z",
-    "latest_time": "2026-03-16T15:57:47.583Z",
+    "count": 5,
+    "latest": "The United States has been informed by most of our NATO \"Allies\" that they don't want to get involved with our Military Operation against the Terrorist Regime of Iran, in the Middle East, this, despit",
+    "earliest_time": "2026-03-17T01:39:27.615Z",
+    "latest_time": "2026-03-17T15:18:36.677Z",
     "sample": [
       {
-        "time": "02:30",
-        "text": "Mark Levin, a truly Great American Patriot, is somewhat under siege by other people with far less Intellect, Capability, and Love for our Country. Mark is Tough, Strong, and Brilliant, hence the nickname, \"THE GREAT ONE,\" conceived by our MAGA friend, the wonderful Sean Hannity, after years of deali"
+        "time": "01:39",
+        "text": "\"Hang Out with Sean Hannity\" is a GREAT  New Podcast, Streaming Now!!! Sean is a fantastic guy, and has been right from my political beginnings! President DJT"
       },
       {
-        "time": "02:45",
-        "text": "The decision that mattered most to me was TARIFFS! The Court knew where I stood, how badly I wanted this Victory for our Country, and instead decided to, potentially, give away Trillions of Dollars to Countries and Companies who have been taking advantage of the United States for decades. Our Suprem"
+        "time": "03:14",
+        "text": "Wow! Venezuela defeated Italy tonight, 4-2, in the WBC (Baseball!) Semifinal. They are looking really great. Good things are happening to Venezuela lately! I wonder what this magic is all about? STATEHOOD, #51, ANYONE? President DONALD J. TRUMP"
       },
       {
-        "time": "02:46",
-        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116236559151421767The Courts treat Republicans, and me, so unfairly, always seeming to protect those who should not be protected. They are highly politicized. Cases don't matter, the Judge does! As an example, how is this absolutely terrible"
+        "time": "09:01",
+        "text": "The US-Israeli strategy against Iran is working. Here is why: https://www.aljazeera.com/opinions/2026/3/16/the-us-israeli-strategy-against-iran-is-working-here-is-why"
       },
       {
-        "time": "08:13",
-        "text": "The Courts treat Republicans, and me, so unfairly, always seeming to protect those who should not be protected. They are highly politicized. Cases don’t matter, the Judge does! As an example, how is this absolutely terrible Federal Reserve Chairman, Jerome “Too Late” Powell, not even allowed to be i"
+        "time": "12:21",
+        "text": "The Save America Act is one of the most IMPORTANT & CONSEQUENTIAL pieces of legislation in the history of Congress, and America itself. NO MORE RIGGED ELECTIONS! Voter I.D., Proof of Citizenship, No Rigged Mail-In Voting (We are the only Country in the World that allows this!), No Men in Women's Spo"
       },
       {
-        "time": "11:50",
-        "text": "Michael Whatley is so Great! Running against a really bad former Governor who set murderers free to kill again, and was grossly incompetent on the big hurricane cleanup. I had to get it done when I took office on January 20th, and I did! I hope the Great people of North Carolina remember how BAD Roy"
-      },
-      {
-        "time": "13:16",
-        "text": "The crazed Democrats are not allowing TSA Agents to get paid. The deal was made a long time ago. They broke it in order to get money for Sanctuary Cities and illegal aliens, many of them hardened criminals. The Radical  Left Democrats are hopeless!!! President DJT"
-      },
-      {
-        "time": "13:19",
-        "text": "News Conference today, prior to Trump Kennedy Center Board Meeting. Thank you!"
-      },
-      {
-        "time": "15:57",
-        "text": "Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know but, unfortunately, she has been diagnosed with early stage breast cancer, and has decided to take on this challenge, IMMEDIATELY, as opposed to waiting. She has a fantastic medical team, and her prog"
+        "time": "15:18",
+        "text": "The United States has been informed by most of our NATO \"Allies\" that they don't want to get involved with our Military Operation against the Terrorist Regime of Iran, in the Middle East, this, despite the fact that almost every Country strongly agreed with what we are doing, and that Iran cannot, i"
       }
     ]
   },
   "keyword_signals": [
-    "TARIFF",
-    "DEAL",
     "IRAN"
   ],
   "today_features": {
-    "posts_6_10": true,
-    "avg_len_very_long": true,
-    "caps_medium": true,
+    "posts_1_5": true,
+    "avg_len_long": true,
+    "caps_high": true,
     "excl_extreme": true,
     "questions_yes": true,
     "has_night": true,
-    "heavy_night": true,
-    "kw_tariff": true,
-    "kw_tariff_2plus": true,
-    "pre_tariff": true,
-    "kw_tariffs": true,
-    "kw_deal": true,
-    "kw_deal_2plus": true,
-    "pre_deal": true,
-    "kw_immediately": true,
-    "open_immediately": true,
+    "kw_japan": true,
+    "open_japan": true,
     "kw_iran": true,
-    "kw_dow": true,
-    "kw_dow_2plus": true,
-    "pre_dow": true,
+    "kw_iran_2plus": true,
+    "pre_iran": true,
+    "open_iran": true,
+    "kw_israel": true,
+    "pre_israel": true,
+    "kw_korea": true,
+    "open_korea": true,
     "kw_billion": true,
-    "kw_billion_2plus": true,
-    "pre_billion": true,
-    "kw_trillion": true,
+    "open_billion": true,
     "kw_great": true,
     "kw_great_2plus": true,
-    "pre_great": true,
-    "open_great": true,
-    "kw_incredible": true,
-    "open_incredible": true,
     "kw_fantastic": true,
-    "kw_fantastic_2plus": true,
-    "pre_fantastic": true,
-    "open_fantastic": true,
-    "kw_wonderful": true,
-    "kw_wonderful_2plus": true,
-    "open_wonderful": true,
-    "kw_corrupt": true,
-    "kw_corrupt_2plus": true,
-    "pre_corrupt": true,
-    "kw_terrible": true,
-    "kw_terrible_2plus": true,
-    "pre_terrible": true,
-    "kw_horrible": true,
-    "kw_horrible_2plus": true,
-    "pre_horrible": true,
-    "kw_disaster": true,
-    "kw_disaster_2plus": true,
-    "pre_disaster": true,
-    "kw_disgrace": true,
-    "kw_disgrace_2plus": true,
-    "pre_disgrace": true,
-    "kw_incompetent": true,
-    "kw_incompetent_2plus": true,
-    "pre_incompetent": true,
-    "kw_biden": true,
-    "kw_maga": true,
+    "kw_save_america": true,
+    "pre_save_america": true,
     "kw_president_djt": true,
-    "kw_president_djt_2plus": true,
-    "pre_president_djt": true,
     "kw_president_of_the_united_states": true,
+    "open_president_of_the_united_states": true,
     "kw_thank_you_for_your_attention": true,
     "kw_thank_you_for_your_attention_2plus": true,
-    "is_monday": true,
-    "volume_falling_3d": true,
-    "both_tariff_and_deal": true
-  },
-  "triggered_rules": {
-    "total": 1,
-    "long": 0,
-    "short": 1,
-    "sample": [
-      {
-        "id": "R0084",
-        "features": [
-          "both_tariff_and_deal",
-          "kw_disaster",
-          "kw_incredible"
-        ],
-        "direction": "SHORT",
-        "hold": 3,
-        "train_wr": 100.0,
-        "test_wr": 100.0,
-        "score": 100.0
-      }
-    ]
+    "pre_thank_you_for_your_attention": true,
+    "open_thank_you_for_your_attention": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -239,22 +169,21 @@
     "promoted": 4,
     "demoted": 1,
     "eliminated": 1,
-    "signal_adjusted": 2
+    "signal_adjusted": 1
   },
   "evolution_latest": {
-    "date": "2026-03-16",
-    "crossover": 15,
+    "date": "2026-03-17",
+    "crossover": 16,
     "mutation": 12,
-    "distill": 17,
+    "distill": 16,
     "total_new": 44,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_tariffs_2plus",
+          "kw_interest_rate",
           "kw_thank_you_for_your_attention",
-          "open_tariff",
-          "kw_beautiful"
+          "kw_economy"
         ],
         "direction": "LONG",
         "hold": 3,
@@ -263,25 +192,23 @@
       },
       {
         "features": [
-          "kw_thank_you_for_your_attention",
-          "open_china",
-          "kw_deal"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 92.9,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_thank_you_for_your_attention",
-          "both_tariff_and_deal",
+          "kw_beautiful",
           "volume_falling_3d"
         ],
         "direction": "LONG",
-        "hold": 3,
-        "score": 90.0,
-        "origin": "crossover"
+        "hold": 2,
+        "score": 87.5,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "open_tariff",
+          "volume_falling_3d"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 84.6,
+        "origin": "mutation_remove"
       }
     ]
   },
@@ -289,7 +216,7 @@
     "TARIFF": 0.7,
     "DEAL": 0.55,
     "RELIEF": 0.95,
-    "ACTION": 0.815,
+    "ACTION": 0.828,
     "THREAT": 0.6,
     "CHINA": 0.6,
     "IRAN": 0.55,
@@ -297,10 +224,8 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-16",
+    "date": "2026-03-17",
     "signals": [
-      "TARIFF",
-      "DEAL",
       "IRAN"
     ],
     "opportunities": [],

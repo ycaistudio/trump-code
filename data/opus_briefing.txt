@@ -1,26 +1,20 @@
-# 川普密碼 Opus 簡報 — 2026-03-16
-準備時間: 2026-03-16T22:30:06Z
+# 川普密碼 Opus 簡報 — 2026-03-17
+準備時間: 2026-03-17T22:30:06Z
 
-## 今日推文: 8 篇
-時間: 2026-03-16T02:30:04.645Z ~ 2026-03-16T15:57:47.583Z
+## 今日推文: 5 篇
+時間: 2026-03-17T01:39:27.615Z ~ 2026-03-17T15:18:36.677Z
 
-[02:30] Mark Levin, a truly Great American Patriot, is somewhat under siege by other people with far less Intellect, Capability, and Love for our Country. Mark is Tough, Strong, and Brilliant, hence the nickname, "THE GREAT ONE," conceived by our MAGA friend, the wonderful Sean Hannity, after years of deali
+[01:39] "Hang Out with Sean Hannity" is a GREAT  New Podcast, Streaming Now!!! Sean is a fantastic guy, and has been right from my political beginnings! President DJT
 
-[02:45] The decision that mattered most to me was TARIFFS! The Court knew where I stood, how badly I wanted this Victory for our Country, and instead decided to, potentially, give away Trillions of Dollars to Countries and Companies who have been taking advantage of the United States for decades. Our Suprem
+[03:14] Wow! Venezuela defeated Italy tonight, 4-2, in the WBC (Baseball!) Semifinal. They are looking really great. Good things are happening to Venezuela lately! I wonder what this magic is all about? STATEHOOD, #51, ANYONE? President DONALD J. TRUMP
 
-[02:46] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116236559151421767The Courts treat Republicans, and me, so unfairly, always seeming to protect those who should not be protected. They are highly politicized. Cases don't matter, the Judge does! As an example, how is this absolutely terrible
+[09:01] The US-Israeli strategy against Iran is working. Here is why: https://www.aljazeera.com/opinions/2026/3/16/the-us-israeli-strategy-against-iran-is-working-here-is-why
 
-[08:13] The Courts treat Republicans, and me, so unfairly, always seeming to protect those who should not be protected. They are highly politicized. Cases don’t matter, the Judge does! As an example, how is this absolutely terrible Federal Reserve Chairman, Jerome “Too Late” Powell, not even allowed to be i
+[12:21] The Save America Act is one of the most IMPORTANT & CONSEQUENTIAL pieces of legislation in the history of Congress, and America itself. NO MORE RIGGED ELECTIONS! Voter I.D., Proof of Citizenship, No Rigged Mail-In Voting (We are the only Country in the World that allows this!), No Men in Women's Spo
 
-[11:50] Michael Whatley is so Great! Running against a really bad former Governor who set murderers free to kill again, and was grossly incompetent on the big hurricane cleanup. I had to get it done when I took office on January 20th, and I did! I hope the Great people of North Carolina remember how BAD Roy
+[15:18] The United States has been informed by most of our NATO "Allies" that they don't want to get involved with our Military Operation against the Terrorist Regime of Iran, in the Middle East, this, despite the fact that almost every Country strongly agreed with what we are doing, and that Iran cannot, i
 
-[13:16] The crazed Democrats are not allowing TSA Agents to get paid. The deal was made a long time ago. They broke it in order to get money for Sanctuary Cities and illegal aliens, many of them hardened criminals. The Radical  Left Democrats are hopeless!!! President DJT
-
-[13:19] News Conference today, prior to Trump Kennedy Center Board Meeting. Thank you!
-
-[15:57] Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know but, unfortunately, she has been diagnosed with early stage breast cancer, and has decided to take on this challenge, IMMEDIATELY, as opposed to waiting. She has a fantastic medical team, and her prog
-
-## 關鍵字偵測到的信號: TARIFF, DEAL, IRAN
+## 關鍵字偵測到的信號: IRAN
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -47,7 +41,7 @@
 ## 規則進化: 新增 44 條規則
 
 ## 信號信心度
-  ACTION: 0.815
+  ACTION: 0.828
   CHINA: 0.6
   DEAL: 0.55
   DEAL_ONLY: 0.65

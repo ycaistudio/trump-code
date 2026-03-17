@@ -1,0 +1,6222 @@
+{
+  "run_at": "2026-03-17T09:02:38.286183Z",
+  "elapsed_minutes": 0.1,
+  "total_posts": 44791,
+  "total_features": 61,
+  "feature_list": [
+    "ai_absent",
+    "ai_dominant",
+    "ai_minor",
+    "attack_absent",
+    "attack_day",
+    "attack_minor",
+    "bearish_combo",
+    "bullish_combo",
+    "crypto_absent",
+    "crypto_day",
+    "crypto_dominant",
+    "crypto_minor",
+    "doge_absent",
+    "doge_dominant",
+    "doge_minor",
+    "doge_pump",
+    "eng_drop",
+    "eng_spike",
+    "hyper_day",
+    "long_tweets",
+    "meme_lord",
+    "money_absent",
+    "money_dominant",
+    "money_minor",
+    "money_talk",
+    "multi_topic",
+    "negative_absent",
+    "negative_day",
+    "negative_minor",
+    "personal_absent",
+    "personal_dominant",
+    "personal_heavy",
+    "personal_minor",
+    "politics_absent",
+    "politics_dominant",
+    "politics_minor",
+    "positive_absent",
+    "positive_day",
+    "positive_dominant",
+    "positive_heavy",
+    "positive_minor",
+    "product_absent",
+    "product_day",
+    "product_dominant",
+    "product_minor",
+    "quiet_day",
+    "serious_day",
+    "short_tweets",
+    "spacex_absent",
+    "spacex_dominant",
+    "spacex_heavy",
+    "spacex_minor",
+    "tesla_absent",
+    "tesla_dominant",
+    "tesla_focus",
+    "tesla_heavy",
+    "tesla_minor",
+    "vol_drop_50",
+    "vol_drop_75",
+    "vol_spike_100",
+    "vol_spike_50"
+  ],
+  "total_candidates": 411,
+  "candidates": [
+    {
+      "features": [
+        "money_minor",
+        "negative_day",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "3/3",
+      "test_rate": 100.0,
+      "combined": 87.5
+    },
+    {
+      "features": [
+        "personal_absent",
+        "politics_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 87.5
+    },
+    {
+      "features": [
+        "personal_absent",
+        "politics_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 87.5
+    },
+    {
+      "features": [
+        "negative_day",
+        "personal_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/7",
+      "train_rate": 71.4,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 85.7
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "4/4",
+      "test_rate": 100.0,
+      "combined": 83.3
+    },
+    {
+      "features": [
+        "ai_minor",
+        "hyper_day",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "3/3",
+      "test_rate": 100.0,
+      "combined": 83.3
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "4/4",
+      "test_rate": 100.0,
+      "combined": 83.3
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "product_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 83.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "4/4",
+      "test_rate": 100.0,
+      "combined": 83.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/15",
+      "train_rate": 66.7,
+      "test": "4/4",
+      "test_rate": 100.0,
+      "combined": 83.3
+    },
+    {
+      "features": [
+        "ai_minor",
+        "personal_absent",
+        "spacex_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "3/3",
+      "test_rate": 100.0,
+      "combined": 81.2
+    },
+    {
+      "features": [
+        "doge_absent",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 81.2
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "8/15",
+      "train_rate": 53.3,
+      "test": "4/4",
+      "test_rate": 100.0,
+      "combined": 76.7
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_pump",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "3/3",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_talk",
+        "product_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "3/3",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "crypto_day",
+        "money_minor",
+        "negative_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "crypto_day",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "crypto_day",
+        "money_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "doge_absent",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "5/5",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "money_talk",
+        "personal_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "negative_minor",
+        "positive_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "ai_minor",
+        "personal_absent",
+        "spacex_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "3/3",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "money_talk",
+        "personal_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/2",
+      "test_rate": 100.0,
+      "combined": 75.0
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/11",
+      "train_rate": 72.7,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 73.9
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "8/11",
+      "train_rate": 72.7,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 73.9
+    },
+    {
+      "features": [
+        "money_minor",
+        "positive_absent",
+        "product_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/21",
+      "train_rate": 47.6,
+      "test": "6/6",
+      "test_rate": 100.0,
+      "combined": 73.8
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/9",
+      "train_rate": 66.7,
+      "test": "4/5",
+      "test_rate": 80.0,
+      "combined": 73.3
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_absent",
+        "product_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "4/4",
+      "test_rate": 100.0,
+      "combined": 73.1
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/3",
+      "train_rate": 100.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 71.4
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/3",
+      "train_rate": 100.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 71.4
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "3/3",
+      "train_rate": 100.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 71.4
+    },
+    {
+      "features": [
+        "hyper_day",
+        "product_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 70.8
+    },
+    {
+      "features": [
+        "hyper_day",
+        "product_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 70.8
+    },
+    {
+      "features": [
+        "doge_pump",
+        "negative_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/7",
+      "train_rate": 71.4,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 69.0
+    },
+    {
+      "features": [
+        "doge_minor",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/5",
+      "train_rate": 80.0,
+      "test": "4/7",
+      "test_rate": 57.1,
+      "combined": 68.6
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "6/7",
+      "test_rate": 85.7,
+      "combined": 67.9
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "personal_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/10",
+      "train_rate": 60.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 67.5
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/8",
+      "train_rate": 75.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 67.5
+    },
+    {
+      "features": [
+        "ai_minor",
+        "money_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 66.7
+    },
+    {
+      "features": [
+        "attack_minor",
+        "negative_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 66.7
+    },
+    {
+      "features": [
+        "doge_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "5/6",
+      "test_rate": 83.3,
+      "combined": 66.7
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_absent",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 66.1
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "4/5",
+      "test_rate": 80.0,
+      "combined": 65.0
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "spacex_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/20",
+      "train_rate": 55.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 65.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "4/5",
+      "test_rate": 80.0,
+      "combined": 65.0
+    },
+    {
+      "features": [
+        "attack_absent",
+        "crypto_minor",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/11",
+      "train_rate": 54.5,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 64.8
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 64.6
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 64.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/13",
+      "train_rate": 53.8,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 64.4
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/21",
+      "train_rate": 61.9,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 64.3
+    },
+    {
+      "features": [
+        "ai_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/19",
+      "train_rate": 47.4,
+      "test": "4/5",
+      "test_rate": 80.0,
+      "combined": 63.7
+    },
+    {
+      "features": [
+        "doge_minor",
+        "money_talk",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "5/7",
+      "test_rate": 71.4,
+      "combined": 63.5
+    },
+    {
+      "features": [
+        "attack_absent",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 63.3
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "personal_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 63.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "product_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 63.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "product_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 63.3
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/22",
+      "train_rate": 59.1,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 62.9
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 62.5
+    },
+    {
+      "features": [
+        "hyper_day",
+        "personal_minor",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 62.5
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_day",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 62.5
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 62.5
+    },
+    {
+      "features": [
+        "hyper_day",
+        "personal_minor",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 62.5
+    },
+    {
+      "features": [
+        "personal_absent",
+        "politics_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 62.5
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "7/9",
+      "test_rate": 77.8,
+      "combined": 62.2
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_absent",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "7/9",
+      "test_rate": 77.8,
+      "combined": 62.2
+    },
+    {
+      "features": [
+        "doge_pump",
+        "negative_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 61.9
+    },
+    {
+      "features": [
+        "doge_pump",
+        "tesla_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 61.2
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "15/27",
+      "train_rate": 55.6,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 61.1
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_day",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 61.1
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_day",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 61.1
+    },
+    {
+      "features": [
+        "doge_minor",
+        "doge_pump",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/17",
+      "train_rate": 47.1,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 61.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/20",
+      "train_rate": 55.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 60.8
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "product_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/20",
+      "train_rate": 55.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 60.8
+    },
+    {
+      "features": [
+        "ai_absent",
+        "attack_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/7",
+      "train_rate": 71.4,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 60.7
+    },
+    {
+      "features": [
+        "ai_absent",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/6",
+      "train_rate": 83.3,
+      "test": "8/21",
+      "test_rate": 38.1,
+      "combined": 60.7
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/14",
+      "train_rate": 57.1,
+      "test": "9/14",
+      "test_rate": 64.3,
+      "combined": 60.7
+    },
+    {
+      "features": [
+        "eng_drop",
+        "money_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "10/14",
+      "test_rate": 71.4,
+      "combined": 60.7
+    },
+    {
+      "features": [
+        "ai_absent",
+        "attack_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/7",
+      "train_rate": 71.4,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 60.7
+    },
+    {
+      "features": [
+        "attack_absent",
+        "hyper_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/9",
+      "train_rate": 66.7,
+      "test": "6/11",
+      "test_rate": 54.5,
+      "combined": 60.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "positive_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "6/13",
+      "test_rate": 46.2,
+      "combined": 60.6
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_absent",
+        "politics_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/11",
+      "train_rate": 54.5,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 60.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "3/4",
+      "test_rate": 75.0,
+      "combined": 60.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "positive_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "6/13",
+      "test_rate": 46.2,
+      "combined": 60.6
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 60.2
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 60.2
+    },
+    {
+      "features": [
+        "attack_minor",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/5",
+      "train_rate": 80.0,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 60.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "8/18",
+      "test_rate": 44.4,
+      "combined": 59.7
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "vol_spike_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/21",
+      "train_rate": 52.4,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 59.5
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/19",
+      "train_rate": 57.9,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 58.9
+    },
+    {
+      "features": [
+        "doge_minor",
+        "personal_absent",
+        "product_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 58.9
+    },
+    {
+      "features": [
+        "doge_absent",
+        "money_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/11",
+      "train_rate": 72.7,
+      "test": "8/18",
+      "test_rate": 44.4,
+      "combined": 58.6
+    },
+    {
+      "features": [
+        "politics_minor",
+        "serious_day",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/5",
+      "train_rate": 80.0,
+      "test": "7/19",
+      "test_rate": 36.8,
+      "combined": 58.4
+    },
+    {
+      "features": [
+        "ai_absent",
+        "attack_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "4/8",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "ai_absent",
+        "bearish_combo",
+        "money_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/26",
+      "train_rate": 50.0,
+      "test": "10/15",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "ai_absent",
+        "doge_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "6/9",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "ai_minor",
+        "bullish_combo",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "5/12",
+      "test_rate": 41.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "money_talk",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "personal_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "bullish_combo",
+        "negative_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_day",
+        "short_tweets",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "eng_drop",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "eng_drop",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "money_talk",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_day",
+        "politics_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "doge_minor",
+        "serious_day",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "eng_drop",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "money_talk",
+        "politics_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "ai_minor",
+        "money_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "10/20",
+      "train_rate": 50.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/4",
+      "train_rate": 75.0,
+      "test": "5/12",
+      "test_rate": 41.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_talk",
+        "product_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "negative_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "money_talk",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "eng_drop",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "money_talk",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "11/22",
+      "train_rate": 50.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "eng_drop",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "money_talk",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "eng_drop",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "eng_drop",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 58.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "doge_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "7/13",
+      "test_rate": 53.8,
+      "combined": 58.2
+    },
+    {
+      "features": [
+        "politics_minor",
+        "serious_day",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 57.8
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "serious_day",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "7/12",
+      "test_rate": 58.3,
+      "combined": 57.7
+    },
+    {
+      "features": [
+        "negative_day",
+        "serious_day",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "7/12",
+      "test_rate": 58.3,
+      "combined": 57.7
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/20",
+      "train_rate": 55.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 57.5
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/8",
+      "train_rate": 75.0,
+      "test": "24/60",
+      "test_rate": 40.0,
+      "combined": 57.5
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/13",
+      "train_rate": 69.2,
+      "test": "10/22",
+      "test_rate": 45.5,
+      "combined": 57.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "10/21",
+      "train_rate": 47.6,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 57.1
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "money_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/19",
+      "train_rate": 47.4,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 57.0
+    },
+    {
+      "features": [
+        "ai_absent",
+        "negative_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/13",
+      "train_rate": 53.8,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 56.9
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "8/17",
+      "test_rate": 47.1,
+      "combined": 56.9
+    },
+    {
+      "features": [
+        "negative_minor",
+        "spacex_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/8",
+      "train_rate": 75.0,
+      "test": "5/13",
+      "test_rate": 38.5,
+      "combined": 56.7
+    },
+    {
+      "features": [
+        "negative_minor",
+        "spacex_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/8",
+      "train_rate": 75.0,
+      "test": "5/13",
+      "test_rate": 38.5,
+      "combined": 56.7
+    },
+    {
+      "features": [
+        "doge_pump",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "2/3",
+      "test_rate": 66.7,
+      "combined": 56.4
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "10/19",
+      "train_rate": 52.6,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 56.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "14/28",
+      "test_rate": 50.0,
+      "combined": 56.2
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 56.1
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "product_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "9/20",
+      "train_rate": 45.0,
+      "test": "4/6",
+      "test_rate": 66.7,
+      "combined": 55.8
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/14",
+      "train_rate": 64.3,
+      "test": "13/28",
+      "test_rate": 46.4,
+      "combined": 55.4
+    },
+    {
+      "features": [
+        "ai_minor",
+        "doge_pump",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/10",
+      "train_rate": 60.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "doge_pump",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/10",
+      "train_rate": 60.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "doge_minor",
+        "money_talk",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_day",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "doge_pump",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "hyper_day",
+        "politics_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/20",
+      "train_rate": 50.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "tesla_absent",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "3/6",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "personal_absent",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "negative_minor",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "product_minor",
+        "tesla_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "doge_absent",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "doge_pump",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "tesla_absent",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "3/6",
+      "test_rate": 50.0,
+      "combined": 55.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "6/14",
+      "test_rate": 42.9,
+      "combined": 54.8
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 54.8
+    },
+    {
+      "features": [
+        "attack_absent",
+        "hyper_day",
+        "vol_spike_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/12",
+      "train_rate": 58.3,
+      "test": "3/6",
+      "test_rate": 50.0,
+      "combined": 54.2
+    },
+    {
+      "features": [
+        "attack_minor",
+        "negative_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "5/12",
+      "test_rate": 41.7,
+      "combined": 54.2
+    },
+    {
+      "features": [
+        "attack_minor",
+        "negative_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "5/12",
+      "test_rate": 41.7,
+      "combined": 54.2
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "5/8",
+      "test_rate": 62.5,
+      "combined": 54.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 54.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "serious_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 54.0
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/21",
+      "train_rate": 47.6,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 53.8
+    },
+    {
+      "features": [
+        "money_minor",
+        "politics_absent",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/19",
+      "train_rate": 47.4,
+      "test": "6/10",
+      "test_rate": 60.0,
+      "combined": 53.7
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "4/7",
+      "test_rate": 57.1,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_talk",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "doge_minor",
+        "personal_absent",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "4/8",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "doge_minor",
+        "tesla_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "4/7",
+      "test_rate": 57.1,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_absent",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/14",
+      "train_rate": 57.1,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "money_talk",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_absent",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_talk",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "eng_drop",
+        "money_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "8/14",
+      "test_rate": 57.1,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "money_talk",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "money_talk",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 53.6
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "8/13",
+      "train_rate": 61.5,
+      "test": "10/22",
+      "test_rate": 45.5,
+      "combined": 53.5
+    },
+    {
+      "features": [
+        "ai_absent",
+        "product_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_pump",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "negative_day",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "negative_minor",
+        "spacex_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/9",
+      "train_rate": 66.7,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "eng_drop",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "eng_drop",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "2/3",
+      "train_rate": 66.7,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 53.3
+    },
+    {
+      "features": [
+        "ai_minor",
+        "money_talk",
+        "product_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 53.1
+    },
+    {
+      "features": [
+        "ai_absent",
+        "bearish_combo",
+        "money_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "12/26",
+      "train_rate": 46.2,
+      "test": "9/15",
+      "test_rate": 60.0,
+      "combined": 53.1
+    },
+    {
+      "features": [
+        "attack_absent",
+        "hyper_day",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "5/9",
+      "test_rate": 55.6,
+      "combined": 52.8
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "negative_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 52.8
+    },
+    {
+      "features": [
+        "eng_spike",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 52.8
+    },
+    {
+      "features": [
+        "money_minor",
+        "serious_day",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "4/8",
+      "test_rate": 50.0,
+      "combined": 52.8
+    },
+    {
+      "features": [
+        "eng_spike",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 52.8
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "hyper_day",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "9/20",
+      "train_rate": 45.0,
+      "test": "3/5",
+      "test_rate": 60.0,
+      "combined": 52.5
+    },
+    {
+      "features": [
+        "money_talk",
+        "positive_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/10",
+      "train_rate": 60.0,
+      "test": "4/9",
+      "test_rate": 44.4,
+      "combined": 52.2
+    },
+    {
+      "features": [
+        "ai_absent",
+        "crypto_minor",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/6",
+      "train_rate": 66.7,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 52.1
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "personal_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "16/34",
+      "test_rate": 47.1,
+      "combined": 52.1
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_pump",
+        "negative_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "4/7",
+      "test_rate": 57.1,
+      "combined": 51.3
+    },
+    {
+      "features": [
+        "eng_spike",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/9",
+      "train_rate": 66.7,
+      "test": "5/14",
+      "test_rate": 35.7,
+      "combined": 51.2
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/10",
+      "train_rate": 60.0,
+      "test": "10/24",
+      "test_rate": 41.7,
+      "combined": 50.8
+    },
+    {
+      "features": [
+        "attack_minor",
+        "personal_absent",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 50.5
+    },
+    {
+      "features": [
+        "attack_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "5/9",
+      "test_rate": 55.6,
+      "combined": 50.5
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "negative_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/22",
+      "train_rate": 45.5,
+      "test": "5/9",
+      "test_rate": 55.6,
+      "combined": 50.5
+    },
+    {
+      "features": [
+        "negative_minor",
+        "spacex_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "5/8",
+      "train_rate": 62.5,
+      "test": "5/13",
+      "test_rate": 38.5,
+      "combined": 50.5
+    },
+    {
+      "features": [
+        "negative_minor",
+        "product_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/17",
+      "train_rate": 58.8,
+      "test": "13/31",
+      "test_rate": 41.9,
+      "combined": 50.4
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/15",
+      "train_rate": 60.0,
+      "test": "17/42",
+      "test_rate": 40.5,
+      "combined": 50.2
+    },
+    {
+      "features": [
+        "attack_absent",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/14",
+      "train_rate": 50.0,
+      "test": "7/14",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "bullish_combo",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "6/15",
+      "test_rate": 40.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "ai_minor",
+        "eng_drop",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "3/6",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "attack_absent",
+        "doge_minor",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/11",
+      "train_rate": 54.5,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_absent",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "eng_spike",
+        "politics_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/18",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "short_tweets",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "bullish_combo",
+        "crypto_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_day",
+        "politics_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/14",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "doge_pump",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "negative_day",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "doge_pump",
+        "product_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "doge_pump",
+        "spacex_absent",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "spacex_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "spacex_absent",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "money_talk",
+        "politics_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "negative_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "short_tweets",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "negative_minor",
+        "personal_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "personal_absent",
+        "politics_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "6/15",
+      "test_rate": 40.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "ai_minor",
+        "doge_pump",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "ai_minor",
+        "eng_drop",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "3/6",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "short_tweets",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "negative_day",
+        "personal_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "doge_minor",
+        "personal_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "3/6",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "spacex_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "money_talk",
+        "politics_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "money_talk",
+        "politics_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "short_tweets",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "negative_minor",
+        "positive_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "ai_minor",
+        "doge_pump",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "negative_minor",
+        "positive_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 50.0
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/17",
+      "train_rate": 58.8,
+      "test": "15/37",
+      "test_rate": 40.5,
+      "combined": 49.7
+    },
+    {
+      "features": [
+        "hyper_day",
+        "short_tweets",
+        "vol_spike_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/19",
+      "train_rate": 57.9,
+      "test": "14/34",
+      "test_rate": 41.2,
+      "combined": 49.5
+    },
+    {
+      "features": [
+        "negative_minor",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/19",
+      "train_rate": 57.9,
+      "test": "18/44",
+      "test_rate": 40.9,
+      "combined": 49.4
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/16",
+      "train_rate": 56.2,
+      "test": "14/33",
+      "test_rate": 42.4,
+      "combined": 49.3
+    },
+    {
+      "features": [
+        "attack_minor",
+        "negative_day",
+        "product_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "7/17",
+      "test_rate": 41.2,
+      "combined": 49.2
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "personal_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "14/34",
+      "test_rate": 41.2,
+      "combined": 49.2
+    },
+    {
+      "features": [
+        "ai_absent",
+        "bearish_combo",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "12/24",
+      "train_rate": 50.0,
+      "test": "14/29",
+      "test_rate": 48.3,
+      "combined": 49.1
+    },
+    {
+      "features": [
+        "ai_absent",
+        "bearish_combo",
+        "doge_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/24",
+      "train_rate": 45.8,
+      "test": "13/25",
+      "test_rate": 52.0,
+      "combined": 48.9
+    },
+    {
+      "features": [
+        "money_minor",
+        "short_tweets",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "11/23",
+      "test_rate": 47.8,
+      "combined": 48.9
+    },
+    {
+      "features": [
+        "negative_minor",
+        "serious_day",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/19",
+      "train_rate": 47.4,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 48.7
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/16",
+      "train_rate": 56.2,
+      "test": "24/59",
+      "test_rate": 40.7,
+      "combined": 48.5
+    },
+    {
+      "features": [
+        "doge_minor",
+        "money_talk",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/13",
+      "train_rate": 53.8,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 48.4
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/20",
+      "train_rate": 55.0,
+      "test": "20/48",
+      "test_rate": 41.7,
+      "combined": 48.3
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "15/28",
+      "train_rate": 53.6,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 48.2
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "doge_minor",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "12/26",
+      "train_rate": 46.2,
+      "test": "31/62",
+      "test_rate": 50.0,
+      "combined": 48.1
+    },
+    {
+      "features": [
+        "ai_absent",
+        "negative_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "5/10",
+      "test_rate": 50.0,
+      "combined": 48.1
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "doge_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "6/13",
+      "test_rate": 46.2,
+      "combined": 48.1
+    },
+    {
+      "features": [
+        "money_minor",
+        "personal_absent",
+        "product_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 48.1
+    },
+    {
+      "features": [
+        "ai_absent",
+        "doge_pump",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "5/14",
+      "test_rate": 35.7,
+      "combined": 47.9
+    },
+    {
+      "features": [
+        "negative_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/5",
+      "train_rate": 60.0,
+      "test": "5/14",
+      "test_rate": 35.7,
+      "combined": 47.9
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/13",
+      "train_rate": 53.8,
+      "test": "15/36",
+      "test_rate": 41.7,
+      "combined": 47.8
+    },
+    {
+      "features": [
+        "ai_absent",
+        "doge_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "attack_absent",
+        "hyper_day",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_day",
+        "crypto_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "tesla_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "serious_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "4/8",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "doge_absent",
+        "positive_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "eng_drop",
+        "positive_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "negative_day",
+        "tesla_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_absent",
+        "positive_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/22",
+      "train_rate": 45.5,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "ai_absent",
+        "doge_minor",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_day",
+        "crypto_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "1/2",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "tesla_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "negative_day",
+        "tesla_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "2/4",
+      "test_rate": 50.0,
+      "combined": 47.7
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "money_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/15",
+      "train_rate": 53.3,
+      "test": "10/24",
+      "test_rate": 41.7,
+      "combined": 47.5
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/20",
+      "train_rate": 50.0,
+      "test": "12/27",
+      "test_rate": 44.4,
+      "combined": 47.2
+    },
+    {
+      "features": [
+        "short_tweets",
+        "tesla_minor",
+        "vol_spike_100"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "4/9",
+      "test_rate": 44.4,
+      "combined": 47.2
+    },
+    {
+      "features": [
+        "attack_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "8/18",
+      "test_rate": 44.4,
+      "combined": 47.2
+    },
+    {
+      "features": [
+        "negative_minor",
+        "product_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "10/17",
+      "train_rate": 58.8,
+      "test": "11/31",
+      "test_rate": 35.5,
+      "combined": 47.2
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "negative_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "17/37",
+      "train_rate": 45.9,
+      "test": "11/23",
+      "test_rate": 47.8,
+      "combined": 46.9
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "product_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "7/16",
+      "test_rate": 43.8,
+      "combined": 46.9
+    },
+    {
+      "features": [
+        "doge_pump",
+        "money_talk",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/13",
+      "train_rate": 53.8,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 46.9
+    },
+    {
+      "features": [
+        "negative_day",
+        "product_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "7/16",
+      "test_rate": 43.8,
+      "combined": 46.9
+    },
+    {
+      "features": [
+        "ai_absent",
+        "bearish_combo",
+        "positive_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "16/34",
+      "train_rate": 47.1,
+      "test": "13/28",
+      "test_rate": 46.4,
+      "combined": 46.7
+    },
+    {
+      "features": [
+        "ai_minor",
+        "attack_absent",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/15",
+      "train_rate": 53.3,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 46.7
+    },
+    {
+      "features": [
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/24",
+      "train_rate": 54.2,
+      "test": "43/110",
+      "test_rate": 39.1,
+      "combined": 46.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "product_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "22/51",
+      "test_rate": 43.1,
+      "combined": 46.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_minor",
+        "product_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "28/65",
+      "test_rate": 43.1,
+      "combined": 46.5
+    },
+    {
+      "features": [
+        "hyper_day",
+        "positive_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/21",
+      "train_rate": 52.4,
+      "test": "39/96",
+      "test_rate": 40.6,
+      "combined": 46.5
+    },
+    {
+      "features": [
+        "negative_minor",
+        "short_tweets",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/11",
+      "train_rate": 54.5,
+      "test": "15/39",
+      "test_rate": 38.5,
+      "combined": 46.5
+    },
+    {
+      "features": [
+        "ai_minor",
+        "attack_absent",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "hyper_day",
+        "product_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/14",
+      "train_rate": 57.1,
+      "test": "21/59",
+      "test_rate": 35.6,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "money_minor",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/21",
+      "train_rate": 47.6,
+      "test": "14/31",
+      "test_rate": 45.2,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "money_minor",
+        "product_absent",
+        "vol_spike_100"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/18",
+      "train_rate": 50.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "negative_minor",
+        "positive_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "7/14",
+      "train_rate": 50.0,
+      "test": "6/14",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "3/7",
+      "test_rate": 42.9,
+      "combined": 46.4
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_absent",
+        "money_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "16/34",
+      "test_rate": 47.1,
+      "combined": 46.3
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "doge_pump",
+        "money_talk"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/19",
+      "train_rate": 52.6,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 46.3
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "hyper_day",
+        "money_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "20/47",
+      "test_rate": 42.6,
+      "combined": 46.3
+    },
+    {
+      "features": [
+        "ai_absent",
+        "hyper_day",
+        "money_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/7",
+      "train_rate": 57.1,
+      "test": "6/17",
+      "test_rate": 35.3,
+      "combined": 46.2
+    },
+    {
+      "features": [
+        "ai_minor",
+        "hyper_day",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "16/35",
+      "test_rate": 45.7,
+      "combined": 46.2
+    },
+    {
+      "features": [
+        "ai_minor",
+        "serious_day",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "7/19",
+      "test_rate": 36.8,
+      "combined": 46.2
+    },
+    {
+      "features": [
+        "doge_minor",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/21",
+      "train_rate": 52.4,
+      "test": "35/88",
+      "test_rate": 39.8,
+      "combined": 46.1
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "money_minor",
+        "negative_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "14/28",
+      "train_rate": 50.0,
+      "test": "28/67",
+      "test_rate": 41.8,
+      "combined": 45.9
+    },
+    {
+      "features": [
+        "doge_absent",
+        "money_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/27",
+      "train_rate": 48.1,
+      "test": "14/32",
+      "test_rate": 43.8,
+      "combined": 45.9
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_minor",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/16",
+      "train_rate": 56.2,
+      "test": "6/17",
+      "test_rate": 35.3,
+      "combined": 45.8
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "8/18",
+      "test_rate": 44.4,
+      "combined": 45.6
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_minor",
+        "spacex_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "8/18",
+      "test_rate": 44.4,
+      "combined": 45.6
+    },
+    {
+      "features": [
+        "eng_spike",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/9",
+      "train_rate": 55.6,
+      "test": "5/14",
+      "test_rate": 35.7,
+      "combined": 45.6
+    },
+    {
+      "features": [
+        "ai_absent",
+        "attack_minor",
+        "personal_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 45.5
+    },
+    {
+      "features": [
+        "eng_spike",
+        "negative_minor",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "5/11",
+      "test_rate": 45.5,
+      "combined": 45.5
+    },
+    {
+      "features": [
+        "ai_absent",
+        "doge_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/28",
+      "train_rate": 46.4,
+      "test": "7/16",
+      "test_rate": 43.8,
+      "combined": 45.1
+    },
+    {
+      "features": [
+        "eng_spike",
+        "money_minor",
+        "negative_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/19",
+      "train_rate": 47.4,
+      "test": "9/21",
+      "test_rate": 42.9,
+      "combined": 45.1
+    },
+    {
+      "features": [
+        "money_minor",
+        "spacex_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "13/29",
+      "test_rate": 44.8,
+      "combined": 45.1
+    },
+    {
+      "features": [
+        "attack_minor",
+        "money_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "8/20",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "eng_spike",
+        "money_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "negative_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "doge_minor",
+        "money_minor",
+        "negative_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "7/16",
+      "test_rate": 43.8,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "money_minor",
+        "positive_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/12",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "money_talk",
+        "negative_minor",
+        "product_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "personal_absent",
+        "short_tweets",
+        "spacex_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "eng_spike",
+        "money_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "negative_day",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "negative_minor",
+        "personal_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "doge_absent",
+        "personal_absent",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 45.0
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "19/44",
+      "test_rate": 43.2,
+      "combined": 44.9
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "product_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "21/53",
+      "test_rate": 39.6,
+      "combined": 44.8
+    },
+    {
+      "features": [
+        "attack_minor",
+        "negative_absent",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "23/51",
+      "train_rate": 45.1,
+      "test": "30/68",
+      "test_rate": 44.1,
+      "combined": 44.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "11/28",
+      "test_rate": 39.3,
+      "combined": 44.6
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/18",
+      "train_rate": 50.0,
+      "test": "39/100",
+      "test_rate": 39.0,
+      "combined": 44.5
+    },
+    {
+      "features": [
+        "negative_minor",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "10/19",
+      "train_rate": 52.6,
+      "test": "16/44",
+      "test_rate": 36.4,
+      "combined": 44.5
+    },
+    {
+      "features": [
+        "doge_minor",
+        "short_tweets",
+        "vol_spike_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "17/37",
+      "train_rate": 45.9,
+      "test": "12/28",
+      "test_rate": 42.9,
+      "combined": 44.4
+    },
+    {
+      "features": [
+        "hyper_day",
+        "short_tweets",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/18",
+      "train_rate": 50.0,
+      "test": "31/80",
+      "test_rate": 38.8,
+      "combined": 44.4
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "16/30",
+      "train_rate": 53.3,
+      "test": "16/45",
+      "test_rate": 35.6,
+      "combined": 44.4
+    },
+    {
+      "features": [
+        "attack_minor",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/28",
+      "train_rate": 46.4,
+      "test": "8/19",
+      "test_rate": 42.1,
+      "combined": 44.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "short_tweets",
+        "spacex_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/21",
+      "train_rate": 52.4,
+      "test": "33/91",
+      "test_rate": 36.3,
+      "combined": 44.3
+    },
+    {
+      "features": [
+        "eng_spike",
+        "negative_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "5/12",
+      "test_rate": 41.7,
+      "combined": 44.2
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_minor",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "17/36",
+      "train_rate": 47.2,
+      "test": "48/117",
+      "test_rate": 41.0,
+      "combined": 44.1
+    },
+    {
+      "features": [
+        "ai_absent",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "8/21",
+      "test_rate": 38.1,
+      "combined": 44.0
+    },
+    {
+      "features": [
+        "ai_absent",
+        "bearish_combo",
+        "serious_day"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "5/12",
+      "test_rate": 41.7,
+      "combined": 43.9
+    },
+    {
+      "features": [
+        "attack_minor",
+        "doge_minor",
+        "positive_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "3/8",
+      "test_rate": 37.5,
+      "combined": 43.8
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "3/8",
+      "test_rate": 37.5,
+      "combined": 43.8
+    },
+    {
+      "features": [
+        "negative_day",
+        "personal_minor",
+        "product_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/10",
+      "train_rate": 50.0,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 43.8
+    },
+    {
+      "features": [
+        "negative_minor",
+        "spacex_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/14",
+      "train_rate": 50.0,
+      "test": "15/40",
+      "test_rate": 37.5,
+      "combined": 43.8
+    },
+    {
+      "features": [
+        "ai_absent",
+        "crypto_minor",
+        "hyper_day"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 43.8
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "hyper_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "3/8",
+      "test_rate": 37.5,
+      "combined": 43.8
+    },
+    {
+      "features": [
+        "ai_absent",
+        "money_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "9/19",
+      "train_rate": 47.4,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 43.7
+    },
+    {
+      "features": [
+        "ai_absent",
+        "positive_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "17/36",
+      "train_rate": 47.2,
+      "test": "10/25",
+      "test_rate": 40.0,
+      "combined": 43.6
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "19/51",
+      "test_rate": 37.3,
+      "combined": 43.6
+    },
+    {
+      "features": [
+        "ai_minor",
+        "spacex_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/17",
+      "train_rate": 47.1,
+      "test": "8/20",
+      "test_rate": 40.0,
+      "combined": 43.5
+    },
+    {
+      "features": [
+        "eng_spike",
+        "product_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/17",
+      "train_rate": 47.1,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 43.5
+    },
+    {
+      "features": [
+        "doge_absent",
+        "politics_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "11/22",
+      "train_rate": 50.0,
+      "test": "15/41",
+      "test_rate": 36.6,
+      "combined": 43.3
+    },
+    {
+      "features": [
+        "hyper_day",
+        "money_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "22/60",
+      "test_rate": 36.7,
+      "combined": 43.3
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "hyper_day",
+        "tesla_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "27/66",
+      "test_rate": 40.9,
+      "combined": 43.2
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "4/11",
+      "test_rate": 36.4,
+      "combined": 43.2
+    },
+    {
+      "features": [
+        "personal_absent",
+        "politics_minor",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "3/6",
+      "train_rate": 50.0,
+      "test": "4/11",
+      "test_rate": 36.4,
+      "combined": 43.2
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "product_absent",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "4/11",
+      "test_rate": 36.4,
+      "combined": 43.2
+    },
+    {
+      "features": [
+        "doge_minor",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "12/33",
+      "test_rate": 36.4,
+      "combined": 43.2
+    },
+    {
+      "features": [
+        "negative_day",
+        "serious_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "4/11",
+      "test_rate": 36.4,
+      "combined": 43.2
+    },
+    {
+      "features": [
+        "ai_absent",
+        "negative_day",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 3.0,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 43.1
+    },
+    {
+      "features": [
+        "crypto_absent",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "9/20",
+      "train_rate": 45.0,
+      "test": "11/27",
+      "test_rate": 40.7,
+      "combined": 42.9
+    },
+    {
+      "features": [
+        "money_minor",
+        "serious_day",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "8/17",
+      "train_rate": 47.1,
+      "test": "15/39",
+      "test_rate": 38.5,
+      "combined": 42.8
+    },
+    {
+      "features": [
+        "ai_minor",
+        "short_tweets",
+        "vol_spike_100"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "4/10",
+      "test_rate": 40.0,
+      "combined": 42.7
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "positive_absent",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "2/5",
+      "test_rate": 40.0,
+      "combined": 42.7
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "negative_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "17/44",
+      "test_rate": 38.6,
+      "combined": 42.7
+    },
+    {
+      "features": [
+        "negative_minor",
+        "vol_drop_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "4/8",
+      "train_rate": 50.0,
+      "test": "6/17",
+      "test_rate": 35.3,
+      "combined": 42.6
+    },
+    {
+      "features": [
+        "ai_absent",
+        "politics_minor",
+        "spacex_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "13/28",
+      "train_rate": 46.4,
+      "test": "19/49",
+      "test_rate": 38.8,
+      "combined": 42.6
+    },
+    {
+      "features": [
+        "hyper_day",
+        "negative_minor",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "41/105",
+      "test_rate": 39.0,
+      "combined": 42.6
+    },
+    {
+      "features": [
+        "negative_minor",
+        "politics_minor",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "8/16",
+      "train_rate": 50.0,
+      "test": "6/17",
+      "test_rate": 35.3,
+      "combined": 42.6
+    },
+    {
+      "features": [
+        "ai_absent",
+        "hyper_day",
+        "product_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "2/4",
+      "train_rate": 50.0,
+      "test": "7/20",
+      "test_rate": 35.0,
+      "combined": 42.5
+    },
+    {
+      "features": [
+        "ai_minor",
+        "hyper_day",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "31/81",
+      "test_rate": 38.3,
+      "combined": 42.5
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_minor",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "9/20",
+      "train_rate": 45.0,
+      "test": "6/15",
+      "test_rate": 40.0,
+      "combined": 42.5
+    },
+    {
+      "features": [
+        "money_minor",
+        "product_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "7/18",
+      "test_rate": 38.9,
+      "combined": 42.5
+    },
+    {
+      "features": [
+        "attack_minor",
+        "short_tweets",
+        "vol_spike_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "10/22",
+      "train_rate": 45.5,
+      "test": "13/33",
+      "test_rate": 39.4,
+      "combined": 42.4
+    },
+    {
+      "features": [
+        "short_tweets",
+        "spacex_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "17/36",
+      "train_rate": 47.2,
+      "test": "12/32",
+      "test_rate": 37.5,
+      "combined": 42.4
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "14/29",
+      "train_rate": 48.3,
+      "test": "20/55",
+      "test_rate": 36.4,
+      "combined": 42.3
+    },
+    {
+      "features": [
+        "crypto_minor",
+        "negative_absent",
+        "tesla_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "14/30",
+      "train_rate": 46.7,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 42.1
+    },
+    {
+      "features": [
+        "attack_minor",
+        "hyper_day",
+        "politics_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "42/113",
+      "test_rate": 37.2,
+      "combined": 41.9
+    },
+    {
+      "features": [
+        "attack_minor",
+        "short_tweets",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "7/15",
+      "train_rate": 46.7,
+      "test": "17/46",
+      "test_rate": 37.0,
+      "combined": 41.8
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "money_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "8/21",
+      "test_rate": 38.1,
+      "combined": 41.8
+    },
+    {
+      "features": [
+        "money_minor",
+        "negative_day",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "8/21",
+      "test_rate": 38.1,
+      "combined": 41.8
+    },
+    {
+      "features": [
+        "politics_minor",
+        "spacex_minor",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 41.8
+    },
+    {
+      "features": [
+        "politics_minor",
+        "spacex_minor",
+        "vol_spike_100"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 41.8
+    },
+    {
+      "features": [
+        "eng_spike",
+        "hyper_day",
+        "positive_minor"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "6/13",
+      "train_rate": 46.2,
+      "test": "10/27",
+      "test_rate": 37.0,
+      "combined": 41.6
+    },
+    {
+      "features": [
+        "doge_minor",
+        "serious_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "3/8",
+      "test_rate": 37.5,
+      "combined": 41.5
+    },
+    {
+      "features": [
+        "eng_spike",
+        "positive_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "15/33",
+      "train_rate": 45.5,
+      "test": "6/16",
+      "test_rate": 37.5,
+      "combined": 41.5
+    },
+    {
+      "features": [
+        "doge_minor",
+        "serious_day",
+        "spacex_absent"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "3/8",
+      "test_rate": 37.5,
+      "combined": 41.5
+    },
+    {
+      "features": [
+        "negative_minor",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "15/32",
+      "train_rate": 46.9,
+      "test": "20/56",
+      "test_rate": 35.7,
+      "combined": 41.3
+    },
+    {
+      "features": [
+        "negative_absent",
+        "politics_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "15/33",
+      "train_rate": 45.5,
+      "test": "25/68",
+      "test_rate": 36.8,
+      "combined": 41.1
+    },
+    {
+      "features": [
+        "bearish_combo",
+        "politics_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "8/22",
+      "test_rate": 36.4,
+      "combined": 40.9
+    },
+    {
+      "features": [
+        "negative_day",
+        "politics_minor",
+        "tesla_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "8/22",
+      "test_rate": 36.4,
+      "combined": 40.9
+    },
+    {
+      "features": [
+        "doge_minor",
+        "money_minor",
+        "negative_minor"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "17/37",
+      "train_rate": 45.9,
+      "test": "28/79",
+      "test_rate": 35.4,
+      "combined": 40.7
+    },
+    {
+      "features": [
+        "negative_minor",
+        "short_tweets",
+        "tesla_absent"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 2.0,
+      "train": "5/11",
+      "train_rate": 45.5,
+      "test": "14/39",
+      "test_rate": 35.9,
+      "combined": 40.7
+    },
+    {
+      "features": [
+        "politics_minor",
+        "spacex_minor",
+        "vol_spike_50"
+      ],
+      "target": "BIG_DOWN",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "15/33",
+      "train_rate": 45.5,
+      "test": "16/45",
+      "test_rate": 35.6,
+      "combined": 40.5
+    },
+    {
+      "features": [
+        "attack_minor",
+        "crypto_minor",
+        "short_tweets"
+      ],
+      "target": "BIG_UP",
+      "asset": "TSLA",
+      "threshold": 1.5,
+      "train": "14/31",
+      "train_rate": 45.2,
+      "test": "28/80",
+      "test_rate": 35.0,
+      "combined": 40.1
+    }
+  ]
+}

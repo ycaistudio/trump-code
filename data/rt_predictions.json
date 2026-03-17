@@ -151,7 +151,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773632751",
@@ -196,7 +196,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773632751",
@@ -242,7 +242,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773632751",
@@ -280,7 +280,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773632933",
@@ -326,7 +326,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773632933",
@@ -364,7 +364,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773668718",
@@ -433,7 +433,7 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   },
   {
     "id": "rt_1773677187",
@@ -502,6 +502,6 @@
     "spy_correct_3h": null,
     "pm_vs_stock_divergence": null,
     "divergence_detail": null,
-    "status": "LIVE"
+    "status": "EXPIRED"
   }
 ]

@@ -7,14 +7,24 @@
   "ai_direction": "UP",
   "ai_confidence": 0.75,
   "spy_at_signal": 668.64,
-  "created_at": "2026-03-16T18:40:02.034390Z",
-  "expires_at": "2026-03-17T00:40:02.034389Z",
+  "created_at": "2026-03-17T12:52:24.101318Z",
+  "expires_at": "2026-03-17T18:52:24.101317Z",
   "votes": {
-    "59364fbe": "DOWN",
-    "5e3e40d2": "FLAT",
-    "1d1f467d": "FLAT",
-    "f533dccc": "UP"
+    "35c26546": "UP",
+    "b4b290b7": "FLAT",
+    "fef7da40": "UP"
   },
-  "resolved": false,
-  "result": null
+  "resolved": true,
+  "result": {
+    "actual_direction": "VOID",
+    "spy_change": null,
+    "verify_source": null,
+    "ai_correct": null,
+    "crowd_correct": null,
+    "crowd_direction": null,
+    "winning_votes": 0,
+    "total_votes": 3,
+    "void_reason": "no verify data after 2h timeout"
+  },
+  "resolved_at": "2026-03-17T20:52:24.466428Z"
 }

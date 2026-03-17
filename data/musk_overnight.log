@@ -1,0 +1,85 @@
+[0s] 載入推文...
+[0s] 1863 天, 44,791 篇
+[0s] 下載市場數據...
+[2s] TSLA: 1254 交易日
+[2s] DOGE 失敗: HTTP Error 401: Unauthorized
+[2s] 計算特徵...
+[4s] 有用特徵: 61 個
+[4s] ============================================================
+[4s] 🚀 MUSK CODE 過夜暴力搜索 開始
+[4s] ============================================================
+[4s] 
+============================================================
+[4s] 🔍 TSLA ±1.5%: 400 漲 + 375 跌
+[4s]   2-combo: 3,660 → 13 候選
+[4s]   3-combo: 71,980 → 累計 302 候選
+[4s]   ✅ 總計 75,640 組, 302 候選
+[4s] 
+============================================================
+[4s] 🔍 TSLA ±2.0%: 326 漲 + 313 跌
+[4s]   2-combo: 3,660 → 2 候選
+[4s]   3-combo: 71,980 → 累計 96 候選
+[4s]   ✅ 總計 75,640 組, 96 候選
+[4s] 
+============================================================
+[4s] 🔍 TSLA ±3.0%: 239 漲 + 218 跌
+[4s]   2-combo: 3,660 → 0 候選
+[5s]   3-combo: 71,980 → 累計 13 候選
+[5s]   ✅ 總計 75,640 組, 13 候選
+[5s] 
+============================================================
+[5s] 🔍 TSLA ±5.0%: 94 漲 + 89 跌
+[5s]   2-combo: 3,660 → 0 候選
+[5s]   3-combo: 71,980 → 累計 0 候選
+[5s]   ✅ 總計 75,640 組, 0 候選
+[5s] 
+============================================================
+[5s] 🏁 完成！耗時 0.1 分鐘
+[5s]    總候選: 411 組
+[5s]    TSLA: 411 組
+[5s]    DOGE: 0 組
+[5s] 
+🏆 TOP 20:
+[5s]   1. 💥 [TSLA ±1.5%] money_minor + negative_day + personal_absent
+[5s]      → BIG_DOWN | 訓練: 3/4=75.0% | 驗證: 3/3=100.0% | 綜合: 87.5%
+[5s]   2. 💥 [TSLA ±1.5%] personal_absent + politics_minor + positive_absent
+[5s]      → BIG_DOWN | 訓練: 3/4=75.0% | 驗證: 2/2=100.0% | 綜合: 87.5%
+[5s]   3. 💥 [TSLA ±2.0%] personal_absent + politics_minor + positive_absent
+[5s]      → BIG_DOWN | 訓練: 3/4=75.0% | 驗證: 2/2=100.0% | 綜合: 87.5%
+[5s]   4. 🚀 [TSLA ±1.5%] negative_day + personal_minor + positive_absent
+[5s]      → BIG_UP | 訓練: 5/7=71.4% | 驗證: 2/2=100.0% | 綜合: 85.7%
+[5s]   5. 🚀 [TSLA ±1.5%] hyper_day + money_talk
+[5s]      → BIG_UP | 訓練: 2/3=66.7% | 驗證: 4/4=100.0% | 綜合: 83.3%
+[5s]   6. 🚀 [TSLA ±1.5%] ai_minor + hyper_day + money_talk
+[5s]      → BIG_UP | 訓練: 2/3=66.7% | 驗證: 3/3=100.0% | 綜合: 83.3%
+[5s]   7. 🚀 [TSLA ±1.5%] doge_minor + hyper_day + money_talk
+[5s]      → BIG_UP | 訓練: 2/3=66.7% | 驗證: 4/4=100.0% | 綜合: 83.3%
+[5s]   8. 🚀 [TSLA ±1.5%] doge_pump + money_talk + product_minor
+[5s]      → BIG_UP | 訓練: 4/6=66.7% | 驗證: 2/2=100.0% | 綜合: 83.3%
+[5s]   9. 🚀 [TSLA ±1.5%] hyper_day + money_minor + money_talk
+[5s]      → BIG_UP | 訓練: 2/3=66.7% | 驗證: 4/4=100.0% | 綜合: 83.3%
+[5s]   10. 🚀 [TSLA ±1.5%] hyper_day + politics_absent + short_tweets
+[5s]      → BIG_UP | 訓練: 10/15=66.7% | 驗證: 4/4=100.0% | 綜合: 83.3%
+[5s]   11. 💥 [TSLA ±1.5%] ai_minor + personal_absent + spacex_absent
+[5s]      → BIG_DOWN | 訓練: 5/8=62.5% | 驗證: 3/3=100.0% | 綜合: 81.2%
+[5s]   12. 💥 [TSLA ±1.5%] doge_absent + money_minor + personal_absent
+[5s]      → BIG_DOWN | 訓練: 5/8=62.5% | 驗證: 2/2=100.0% | 綜合: 81.2%
+[5s]   13. 🚀 [TSLA ±2.0%] hyper_day + politics_absent + short_tweets
+[5s]      → BIG_UP | 訓練: 8/15=53.3% | 驗證: 4/4=100.0% | 綜合: 76.7%
+[5s]   14. 🚀 [TSLA ±1.5%] attack_minor + doge_pump + money_talk
+[5s]      → BIG_UP | 訓練: 3/6=50.0% | 驗證: 3/3=100.0% | 綜合: 75.0%
+[5s]   15. 🚀 [TSLA ±1.5%] attack_minor + money_talk + product_absent
+[5s]      → BIG_UP | 訓練: 2/4=50.0% | 驗證: 3/3=100.0% | 綜合: 75.0%
+[5s]   16. 💥 [TSLA ±1.5%] bearish_combo + money_minor + personal_absent
+[5s]      → BIG_DOWN | 訓練: 3/4=75.0% | 驗證: 3/4=75.0% | 綜合: 75.0%
+[5s]   17. 💥 [TSLA ±1.5%] crypto_day + money_minor + negative_minor
+[5s]      → BIG_DOWN | 訓練: 2/4=50.0% | 驗證: 2/2=100.0% | 綜合: 75.0%
+[5s]   18. 💥 [TSLA ±1.5%] crypto_day + money_minor + personal_absent
+[5s]      → BIG_DOWN | 訓練: 2/4=50.0% | 驗證: 2/2=100.0% | 綜合: 75.0%
+[5s]   19. 💥 [TSLA ±1.5%] crypto_day + money_minor + serious_day
+[5s]      → BIG_DOWN | 訓練: 3/6=50.0% | 驗證: 2/2=100.0% | 綜合: 75.0%
+[5s]   20. 💥 [TSLA ±1.5%] doge_absent + personal_absent + politics_minor
+[5s]      → BIG_DOWN | 訓練: 4/8=50.0% | 驗證: 5/5=100.0% | 綜合: 75.0%
+/home/ubuntu/trump-code/musk_overnight.py:333: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  'run_at': datetime.utcnow().isoformat() + 'Z',
+[5s] 💾 /home/ubuntu/trump-code/data/results_musk_overnight.json

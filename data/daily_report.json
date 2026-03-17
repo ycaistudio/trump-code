@@ -1,21 +1,19 @@
 {
-  "date": "2026-03-16",
-  "generated_at": "2026-03-16T22:30:01Z",
-  "posts_today": 8,
+  "date": "2026-03-17",
+  "generated_at": "2026-03-17T22:30:01Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-03-16T15:57",
-    "content_preview": "Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know "
+    "time": "2026-03-17T15:18",
+    "content_preview": "The United States has been informed by most of our NATO \"Allies\" that they don't want to get involve"
   },
   "signals_detected": [
-    "TARIFF",
-    "DEAL",
     "IRAN"
   ],
-  "models_triggered": 1,
+  "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
-    "SHORT": 1,
-    "consensus": "BEARISH"
+    "SHORT": 0,
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 0,
@@ -23,25 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-03-16",
-    "close": 6699.38
+    "date": "2026-03-17",
+    "close": 6716.09
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-16\nPosts today: 8 | Models triggered: 1\nSignals: TARIFF, DEAL, IRAN\nConsensus: 0 LONG vs 1 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know ",
-    "zh": "川普密碼每日報告 -- 2026-03-16\n今日推文: 8 篇 | 觸發模型: 1 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 0 組看多 vs 1 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know ",
-    "ja": "トランプ・コード日次レポート -- 2026-03-16\n本日の投稿: 8件 | トリガーモデル: 1組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 0組ロング vs 1組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Susie Wiles is an incredible Chief of Staff, a great person, and one of the strongest people I know "
+    "en": "Trump Code Daily Report -- 2026-03-17\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: The United States has been informed by most of our NATO \"Allies\" that they don't want to get involve",
+    "zh": "川普密碼每日報告 -- 2026-03-17\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: The United States has been informed by most of our NATO \"Allies\" that they don't want to get involve",
+    "ja": "トランプ・コード日次レポート -- 2026-03-17\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: The United States has been informed by most of our NATO \"Allies\" that they don't want to get involve"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "both_tariff_and_deal",
-        "kw_disaster",
-        "kw_incredible"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
