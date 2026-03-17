@@ -20,6 +20,8 @@
 
 *Can you decode the President's posts before the market moves?*
 
+📰 **[ABMedia: 把川普納入投資模型？台灣創業家開源「Trump Code」分析美股，命中率超過六成](https://abmedia.io/tk-lin-donald-trump-code-trade)**
+
 [中文版](docs/README.zh.md) · [日本語版](docs/README.ja.md)
 
 </div>
