@@ -1,101 +1,77 @@
 {
-  "date": "2026-03-19",
-  "prepared_at": "2026-03-19T14:45:50Z",
+  "date": "2026-03-20",
+  "prepared_at": "2026-03-20T14:43:00Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 15,
-    "latest": "Passing The Save America Act Is Indispensable To Preserve Representative Democracy: https://paulingrassia.substack.com/p/passing-the-save-america-act-is-indispensable",
-    "earliest_time": "2026-03-19T02:05:29.919Z",
-    "latest_time": "2026-03-19T14:07:19.678Z",
+    "count": 4,
+    "latest": "I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discuss various opportunities to serve our Country in a different capacity than her current run for the Un",
+    "earliest_time": "2026-03-20T13:22:29.346Z",
+    "latest_time": "2026-03-20T13:56:53.277Z",
     "sample": [
       {
-        "time": "14:01",
-        "text": "Jon McNaughton working on The Forgotten Man in The Eisenhower Executive Office Building!"
+        "time": "13:22",
+        "text": "CONGRESS, PASS THE FARM BILL, NOW! President DJT"
       },
       {
-        "time": "14:04",
-        "text": "From Douglas MacKinnon: \"This is a photo from yesterday on the drive from LA to Palm Springs. Hundreds and Hundreds of these pieces of junk windmills. No surprise to The President, but ONLY ten percent of them working as we drove past!!! Eagle and bird killers which suck the taxpayers dry!! My best "
+        "time": "13:27",
+        "text": "THE SAVE AMERICA ACT MUST BE PASSED BY THE SENATE. THERE IS NOTHING THAT IS MORE IMPORTANT FOR THE U.S.A. Voter I.D., Proof of Citizenship, etc. Get it done and watch all of the good things that will happen!!! President DJT"
       },
       {
-        "time": "14:04",
-        "text": "MORNING GLORY: Why Trump must finish what he started with Iran's regime: https://www.foxnews.com/opinion/morning-glory-why-trump-must-finish-what-he-started-irans-regime"
+        "time": "13:43",
+        "text": "Without the U.S.A., NATO IS A PAPER TIGER! They didn't want to join the fight to stop a Nuclear Powered Iran. Now that fight is Militarily WON, with very little danger for them, they complain about the high oil prices they are forced to pay, but don't want to help open the Strait of Hormuz, a simple"
       },
       {
-        "time": "14:04",
-        "text": "Khamenei's Unforced Errors Proved Fatal: https://www.wsj.com/opinion/khameneis-unforced-errors-proved-fatal-635fb5e4"
-      },
-      {
-        "time": "14:05",
-        "text": "The Left Is Petrified That Trump Will Succeed in Iran and Expose Them As Mind-Twisted Frauds: https://townhall.com/columnists/douglasmackinnon/2026/03/02/the-left-is-petrified-that-trump-will-succeed-in-iran-and-expose-them-as-mind-twisted-frauds-n2672119"
-      },
-      {
-        "time": "14:05",
-        "text": "Asia-Pacific Allies Ink $56 Billion in Deals with US Companies at Tokyo Forum, Burgum Says: https://www.newsmax.com/finance/streettalk/doug-burgum/2026/03/15/id/1249564/"
-      },
-      {
-        "time": "14:05",
-        "text": "President Trump Has Prevented Another Holocaust: https://www.israelnationalnews.com/news/423965"
-      },
-      {
-        "time": "14:06",
-        "text": "Britain had meltdown when China hacked voter files, but U.S. intel kept it secret in America: https://justthenews.com/government/security/us-intel-has-known-2020-china-gained-access-us-voter-files-memos-show"
-      },
-      {
-        "time": "14:06",
-        "text": "Michael Whatley is so Great! Running against a really bad former Governor who set murderers free to kill again, and was grossly incompetent on the big hurricane cleanup. I had to get it done when I took office on January 20th, and I did! I hope the Great people of North Carolina remember how BAD Roy"
-      },
-      {
-        "time": "14:07",
-        "text": "Passing The Save America Act Is Indispensable To Preserve Representative Democracy: https://paulingrassia.substack.com/p/passing-the-save-america-act-is-indispensable"
+        "time": "13:56",
+        "text": "I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discuss various opportunities to serve our Country in a different capacity than her current run for the United States Congress. Hope and Steven are wonderful and patriotic Veterans of our U.S. Navy, and loy"
       }
     ]
   },
   "keyword_signals": [
-    "DEAL",
-    "CHINA",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "today_features": {
-    "posts_11_20": true,
-    "avg_len_medium": true,
-    "caps_low": true,
-    "excl_normal": true,
+    "posts_1_5": true,
+    "avg_len_very_long": true,
+    "caps_high": true,
+    "excl_heavy": true,
     "questions_no": true,
-    "mostly_open": true,
-    "has_night": true,
-    "kw_deal": true,
-    "open_deal": true,
-    "kw_china": true,
-    "open_china": true,
+    "kw_ban": true,
+    "open_ban": true,
     "kw_iran": true,
-    "kw_iran_2plus": true,
-    "pre_iran": true,
     "open_iran": true,
-    "kw_israel": true,
-    "kw_israel_2plus": true,
-    "open_israel": true,
-    "kw_europe": true,
-    "kw_dow": true,
-    "kw_dow_2plus": true,
-    "pre_dow": true,
-    "open_dow": true,
-    "kw_gas": true,
-    "kw_billion": true,
-    "open_billion": true,
+    "kw_economy": true,
+    "open_economy": true,
+    "kw_inflation": true,
+    "open_inflation": true,
+    "kw_oil": true,
+    "open_oil": true,
+    "kw_energy": true,
+    "open_energy": true,
     "kw_great": true,
     "open_great": true,
+    "kw_historic": true,
+    "open_historic": true,
     "kw_fantastic": true,
     "open_fantastic": true,
-    "kw_incompetent": true,
-    "open_incompetent": true,
+    "kw_wonderful": true,
+    "open_wonderful": true,
+    "kw_corrupt": true,
+    "open_corrupt": true,
+    "kw_disaster": true,
+    "open_disaster": true,
+    "kw_maga": true,
+    "open_maga": true,
     "kw_save_america": true,
-    "open_save_america": true,
+    "pre_save_america": true,
     "kw_president_djt": true,
+    "kw_president_djt_2plus": true,
+    "pre_president_djt": true,
     "open_president_djt": true,
-    "kw_thank_you_for_your_attention": true,
-    "deal_without_tariff": true,
-    "deal_no_tariff": true
+    "kw_complete_and_total": true,
+    "open_complete_and_total": true,
+    "is_friday": true,
+    "volume_rising_3d": true,
+    "volume_drop": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -204,43 +180,41 @@
     "signal_adjusted": 1
   },
   "evolution_latest": {
-    "date": "2026-03-19",
-    "crossover": 12,
-    "mutation": 16,
+    "date": "2026-03-20",
+    "crossover": 16,
+    "mutation": 11,
     "distill": 17,
-    "total_new": 45,
+    "total_new": 44,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_beautiful",
-          "open_tariffs",
-          "kw_tariff_2plus"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 86.4,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_ban",
-          "open_trade"
+          "kw_signed",
+          "kw_tariffs"
         ],
         "direction": "LONG",
         "hold": 2,
-        "score": 83.3,
+        "score": 92.3,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_jobs",
-          "kw_thank_you_for_your_attention",
-          "kw_economy",
-          "is_friday"
+          "kw_signed",
+          "kw_deal"
         ],
         "direction": "LONG",
-        "hold": 1,
+        "hold": 2,
+        "score": 85.0,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "kw_china",
+          "kw_economy",
+          "kw_tremendous"
+        ],
+        "direction": "LONG",
+        "hold": 3,
         "score": 83.3,
         "origin": "crossover"
       }
@@ -250,7 +224,7 @@
     "TARIFF": 0.7,
     "DEAL": 0.55,
     "RELIEF": 0.95,
-    "ACTION": 0.854,
+    "ACTION": 0.867,
     "THREAT": 0.6,
     "CHINA": 0.6,
     "IRAN": 0.55,
@@ -258,12 +232,9 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "signals": [
-      "DEAL",
-      "CHINA",
-      "IRAN",
-      "DEAL_ONLY"
+      "IRAN"
     ],
     "opportunities": [],
     "total_scanned": 0

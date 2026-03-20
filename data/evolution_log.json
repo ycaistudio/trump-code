@@ -290,5 +290,46 @@
         "origin": "crossover"
       }
     ]
+  },
+  {
+    "date": "2026-03-20",
+    "crossover": 16,
+    "mutation": 11,
+    "distill": 17,
+    "total_new": 44,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_signed",
+          "kw_tariffs"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 92.3,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_signed",
+          "kw_deal"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 85.0,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "kw_china",
+          "kw_economy",
+          "kw_tremendous"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 83.3,
+        "origin": "crossover"
+      }
+    ]
   }
 ]

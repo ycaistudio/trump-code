@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-03-19T14:45:50Z",
-    "evolved_rules_added": 45
+    "last_evolution": "2026-03-20T14:43:00Z",
+    "evolved_rules_added": 44
   },
   "rules": [
     {
@@ -12398,6 +12398,30 @@
     },
     {
       "features": [
+        "kw_signed",
+        "kw_tariffs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "id": "fddd95d5b709",
+      "n_cond": 2,
+      "train_trades": 13,
+      "train_win_rate": 84.6,
+      "train_avg": 0.208,
+      "test_trades": 4,
+      "test_win_rate": 100.0,
+      "test_avg": 0.649,
+      "combined_score": 92.3,
+      "origin": "crossover",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parents": [
+        "kw_deal+kw_tariffs",
+        "is_friday+kw_signed"
+      ]
+    },
+    {
+      "features": [
         "kw_oil",
         "is_friday"
       ],
@@ -12939,7 +12963,12 @@
       "parents": [
         "kw_beautiful+kw_interest_rate",
         "is_friday+kw_economy"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -13139,6 +13168,27 @@
         "wrong": 0,
         "streak": 0
       }
+    },
+    {
+      "features": [
+        "kw_signed",
+        "kw_deal"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "id": "be88ba5fedc9",
+      "n_cond": 2,
+      "train_trades": 20,
+      "train_win_rate": 70.0,
+      "train_avg": 0.423,
+      "test_trades": 3,
+      "test_win_rate": 100.0,
+      "test_avg": 0.851,
+      "combined_score": 85.0,
+      "origin": "mutation_remove",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parent": "kw_deal+kw_signed+kw_tremendous"
     },
     {
       "features": [
@@ -13432,7 +13482,12 @@
       "parents": [
         "kw_dow_2plus+kw_executive_order",
         "kw_ban+kw_biden"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -13458,7 +13513,12 @@
       "parents": [
         "kw_agreement+kw_jobs",
         "is_friday+kw_economy"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -13483,6 +13543,36 @@
       "parents": [
         "kw_agreement+kw_deal",
         "kw_deal_2plus+kw_economy"
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
+    },
+    {
+      "features": [
+        "kw_china",
+        "kw_economy",
+        "kw_tremendous"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "id": "beb5f847aa2a",
+      "n_cond": 3,
+      "train_trades": 6,
+      "train_win_rate": 100.0,
+      "train_avg": 1.83,
+      "test_trades": 3,
+      "test_win_rate": 66.7,
+      "test_avg": 0.353,
+      "combined_score": 83.3,
+      "origin": "crossover",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parents": [
+        "kw_economy+kw_interest_rate",
+        "kw_china+kw_india"
       ]
     },
     {
@@ -13817,6 +13907,30 @@
     },
     {
       "features": [
+        "kw_thank_you_for_your_attention",
+        "kw_signed"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "id": "552e8d43c0e5",
+      "n_cond": 2,
+      "train_trades": 18,
+      "train_win_rate": 61.1,
+      "train_avg": 0.179,
+      "test_trades": 6,
+      "test_win_rate": 100.0,
+      "test_avg": 0.62,
+      "combined_score": 80.6,
+      "origin": "crossover",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parents": [
+        "kw_signed+kw_tariffs_2plus",
+        "kw_perfect+kw_thank_you_for_your_attention"
+      ]
+    },
+    {
+      "features": [
         "is_friday",
         "kw_economy"
       ],
@@ -14034,6 +14148,76 @@
     },
     {
       "features": [
+        "kw_tariffs",
+        "kw_economy",
+        "kw_inflation"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "id": "a7b717dde807",
+      "n_cond": 3,
+      "train_trades": 17,
+      "train_win_rate": 76.5,
+      "train_avg": 1.247,
+      "test_trades": 6,
+      "test_win_rate": 83.3,
+      "test_avg": 0.184,
+      "combined_score": 79.9,
+      "origin": "crossover",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parents": [
+        "kw_economy+kw_interest_rate",
+        "kw_deal+kw_inflation"
+      ]
+    },
+    {
+      "features": [
+        "kw_thank_you_for_your_attention",
+        "volume_falling_3d"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "id": "ff85b30aaefd",
+      "n_cond": 2,
+      "train_trades": 11,
+      "train_win_rate": 81.8,
+      "train_avg": 0.865,
+      "test_trades": 13,
+      "test_win_rate": 76.9,
+      "test_avg": 0.348,
+      "combined_score": 79.4,
+      "origin": "mutation_remove",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parent": "kw_tariffs_2plus+kw_thank_you_for_your_attention+volume_falling_3d"
+    },
+    {
+      "features": [
+        "kw_dow_2plus",
+        "kw_signed"
+      ],
+      "direction": "LONG",
+      "hold": 1,
+      "id": "4cacdd044b68",
+      "n_cond": 2,
+      "train_trades": 14,
+      "train_win_rate": 78.6,
+      "train_avg": 0.117,
+      "test_trades": 5,
+      "test_win_rate": 80.0,
+      "test_avg": 0.493,
+      "combined_score": 79.3,
+      "origin": "crossover",
+      "born_date": "2026-03-20",
+      "weight": 1.0,
+      "parents": [
+        "both_tariff_and_deal+kw_dow_2plus",
+        "kw_signed+kw_tariffs_2plus"
+      ]
+    },
+    {
+      "features": [
         "volume_falling_3d",
         "both_tariff_and_deal"
       ],
@@ -14080,7 +14264,12 @@
       "origin": "mutation_remove",
       "born_date": "2026-03-19",
       "weight": 1.0,
-      "parent": "kw_fake+mostly_open+volume_spike"
+      "parent": "kw_fake+mostly_open+volume_spike",
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14508,196 +14697,7 @@
       "origin": "mutation_remove",
       "born_date": "2026-03-19",
       "weight": 1.0,
-      "parent": "both_tariff_and_deal+excl_heavy+volume_falling_3d"
-    },
-    {
-      "features": [
-        "kw_economy",
-        "kw_tremendous",
-        "is_friday"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "125e56060547",
-      "n_cond": 3,
-      "train_trades": 8,
-      "train_win_rate": 75.0,
-      "train_avg": 0.056,
-      "test_trades": 4,
-      "test_win_rate": 75.0,
-      "test_avg": 0.454,
-      "combined_score": 75.0,
-      "origin": "crossover",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parents": [
-        "kw_economy+kw_interest_rate",
-        "excl_heavy+is_friday"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "kw_great_2plus",
-        "open_inflation",
-        "kw_deal"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "2d3c9ec5c10e",
-      "n_cond": 3,
-      "train_trades": 8,
-      "train_win_rate": 75.0,
-      "train_avg": 0.345,
-      "test_trades": 4,
-      "test_win_rate": 75.0,
-      "test_avg": 0.168,
-      "combined_score": 75.0,
-      "origin": "mutation_replace",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parent": "kw_deal+kw_thank_you_for_your_attention+open_inflation",
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "questions_yes",
-        "open_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "439acb3f4ddd",
-      "n_cond": 2,
-      "train_trades": 15,
-      "train_win_rate": 66.7,
-      "train_avg": 0.175,
-      "test_trades": 6,
-      "test_win_rate": 83.3,
-      "test_avg": 0.467,
-      "combined_score": 75.0,
-      "origin": "mutation_remove",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parent": "kw_tariffs+open_thank_you_for_your_attention+questions_yes",
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "kw_thank_you_for_your_attention",
-        "kw_trade",
-        "kw_energy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "ead258b2698b",
-      "n_cond": 3,
-      "train_trades": 16,
-      "train_win_rate": 75.0,
-      "train_avg": 0.815,
-      "test_trades": 8,
-      "test_win_rate": 75.0,
-      "test_avg": 0.53,
-      "combined_score": 75.0,
-      "origin": "crossover",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parents": [
-        "kw_interest_rate+kw_trade",
-        "kw_energy+kw_perfect"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "kw_dow_2plus",
-        "questions_yes"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "id": "033b239374de",
-      "n_cond": 2,
-      "train_trades": 24,
-      "train_win_rate": 62.5,
-      "train_avg": 0.673,
-      "test_trades": 8,
-      "test_win_rate": 87.5,
-      "test_avg": 0.577,
-      "combined_score": 75.0,
-      "origin": "crossover",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parents": [
-        "kw_dow_2plus+kw_interest_rate",
-        "kw_tariffs_2plus+open_thank_you_for_your_attention"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "kw_trade",
-        "kw_economy"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "id": "97701dff52b2",
-      "n_cond": 2,
-      "train_trades": 27,
-      "train_win_rate": 66.7,
-      "train_avg": 0.644,
-      "test_trades": 12,
-      "test_win_rate": 83.3,
-      "test_avg": 0.568,
-      "combined_score": 75.0,
-      "origin": "mutation_remove",
-      "born_date": "2026-03-15",
-      "weight": 1.0,
-      "parent": "kw_economy+kw_trade+open_russia",
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "kw_deal",
-        "open_inflation"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "id": "43826f63065c",
-      "n_cond": 2,
-      "train_trades": 8,
-      "train_win_rate": 75.0,
-      "train_avg": 0.345,
-      "test_trades": 4,
-      "test_win_rate": 75.0,
-      "test_avg": 0.168,
-      "combined_score": 75.0,
-      "origin": "mutation_remove",
-      "born_date": "2026-03-17",
-      "weight": 1.0,
-      "parent": "kw_deal+kw_trade+open_inflation",
+      "parent": "both_tariff_and_deal+excl_heavy+volume_falling_3d",
       "learn_stats": {
         "correct": 0,
         "wrong": 0,

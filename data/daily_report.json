@@ -1,16 +1,13 @@
 {
-  "date": "2026-03-19",
-  "generated_at": "2026-03-19T14:45:46Z",
-  "posts_today": 15,
+  "date": "2026-03-20",
+  "generated_at": "2026-03-20T14:42:55Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-03-19T14:07",
-    "content_preview": "Passing The Save America Act Is Indispensable To Preserve Representative Democracy: https://paulingr"
+    "time": "2026-03-20T13:56",
+    "content_preview": "I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discus"
   },
   "signals_detected": [
-    "DEAL",
-    "CHINA",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -24,13 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-03-19",
-    "close": 6583.06
+    "date": "2026-03-20",
+    "close": 6551.91
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-19\nPosts today: 15 | Models triggered: 0\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Passing The Save America Act Is Indispensable To Preserve Representative Democracy: https://paulingr",
-    "zh": "川普密碼每日報告 -- 2026-03-19\n今日推文: 15 篇 | 觸發模型: 0 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Passing The Save America Act Is Indispensable To Preserve Representative Democracy: https://paulingr",
-    "ja": "トランプ・コード日次レポート -- 2026-03-19\n本日の投稿: 15件 | トリガーモデル: 0組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Passing The Save America Act Is Indispensable To Preserve Representative Democracy: https://paulingr"
+    "en": "Trump Code Daily Report -- 2026-03-20\nPosts today: 4 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discus",
+    "zh": "川普密碼每日報告 -- 2026-03-20\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discus",
+    "ja": "トランプ・コード日次レポート -- 2026-03-20\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: I met with Hope Scheppelman and her husband Steven, of the Radical Left State of Colorado, to discus"
   },
   "triggered_rules_sample": []
 }
