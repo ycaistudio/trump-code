@@ -10,12 +10,17 @@ Trump RSS 高頻監控器
 """
 
 import json
+import sys
 import time
+import threading
 import xml.etree.ElementTree as ET
 import urllib.request
 import re
 from datetime import datetime, timezone
 from pathlib import Path
+
+# washin_llm 共用 LLM 模組
+sys.path.insert(0, str(Path.home() / "Projects" / "washin-llm"))
 
 # === 設定 ===
 RSS_URL = "https://www.trumpstruth.org/feed"
@@ -212,6 +217,10 @@ def on_new_post(post: dict):
         # 記錄完整鏈路到 latency log
         _append_pipeline_log(post, latency, classify_ms, predict_ms,
                              signals, direction, confidence, triggered)
+
+        # === 步驟 5: 即時三語快報生成（背景執行，不阻塞監控）===
+        if confidence and confidence >= 0.5:
+            _trigger_flash_article(post, signals, direction, confidence)
     else:
         log(f"     ⚪ 無信號 ({classify_ms:.0f}ms)")
 
@@ -249,6 +258,34 @@ def _append_pipeline_log(post, detect_latency, classify_ms, predict_ms,
             json.dump(entries, f, ensure_ascii=False, indent=2)
     except Exception as e:
         log(f"  ⚠️ pipeline log 寫入失敗: {e}")
+
+
+def _trigger_flash_article(post: dict, signals: list, direction: str, confidence: float):
+    """背景執行即時三語快報生成（不阻塞 RSS 監控迴圈）。"""
+    def _run():
+        try:
+            log(f"     📝 即時快報生成中...")
+            from article_generator import generate_flash
+            meta = generate_flash(post, signals, direction, confidence)
+            ok = sum(1 for v in meta.get('articles', {}).values() if v.get('status') == 'ok')
+            log(f"     📝 即時快報完成：{ok}/3 語言成功")
+
+            # 自動 git commit（快報）
+            if ok > 0:
+                import subprocess
+                cwd = str(Path(__file__).parent)
+                subprocess.run(["git", "add", "articles/"], cwd=cwd, capture_output=True)
+                subprocess.run(
+                    ["git", "commit", "-m", f"flash: {post['id'][:20]} 即時快報 ({direction})"],
+                    cwd=cwd, capture_output=True,
+                )
+                log(f"     📝 Git commit 完成")
+        except Exception as e:
+            log(f"     ⚠️ 即時快報失敗: {e}")
+
+    # 背景執行，不阻塞 RSS 監控
+    t = threading.Thread(target=_run, daemon=True)
+    t.start()
 
 
 # === 主程式 ===

@@ -15,14 +15,17 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+# washin_llm 共用 LLM 模組（本機 Opus + Gemini 3 Key）
+sys.path.insert(0, str(Path.home() / "Projects" / "washin-llm"))
+try:
+    from washin_llm import call_ai as _washin_call_ai
+    HAS_WASHIN_LLM = True
+except ImportError:
+    HAS_WASHIN_LLM = False
+
 BASE = Path(__file__).parent
 DATA = BASE / "data"
 ARTICLES = BASE / "articles"
-
-# LLM 設定（走 ClawAPI 或直接 Anthropic）
-LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "https://clawapi.washinmura.jp/v1")
-LLM_API_KEY = os.environ.get("LLM_API_KEY", os.environ.get("ANTHROPIC_API_KEY", ""))
-LLM_MODEL = os.environ.get("LLM_MODEL", "claude-sonnet-4-20250514")
 
 
 def log(msg):
@@ -30,10 +33,15 @@ def log(msg):
 
 
 def call_llm(prompt: str, max_tokens: int = 2000) -> str:
-    """呼叫 LLM — 優先用 claude -p（零額外成本），fallback 到 API"""
-    import subprocess
+    """呼叫 LLM — 走 washin_llm 共用模組（本機 Opus → Gemini fallback）。"""
+    if HAS_WASHIN_LLM:
+        result = _washin_call_ai(prompt, max_tokens=max_tokens, temperature=0.4)
+        if result.ok:
+            return result.text
+        raise RuntimeError(f"washin_llm 失敗: {result.error}")
 
-    # 方法 1：claude -p（本機 Claude Code，用你現有的 Max 額度）
+    # washin_llm 沒裝時的 fallback：直接用 claude -p
+    import subprocess
     try:
         result = subprocess.run(
             ["claude", "-p", "--output-format", "json"],
@@ -44,31 +52,12 @@ def call_llm(prompt: str, max_tokens: int = 2000) -> str:
         )
         if result.returncode == 0:
             data = json.loads(result.stdout)
-            return data.get("result", "")
+            text = data.get("result", "")
+            if text:
+                return text
     except (FileNotFoundError, subprocess.TimeoutExpired, json.JSONDecodeError):
         pass
-
-    # 方法 2：API fallback（需要 key）
-    if not LLM_API_KEY:
-        raise RuntimeError("claude -p 失敗且無 API key")
-
-    payload = json.dumps({
-        "model": LLM_MODEL,
-        "max_tokens": max_tokens,
-        "messages": [{"role": "user", "content": prompt}]
-    }).encode()
-
-    req = urllib.request.Request(
-        f"{LLM_BASE_URL}/chat/completions",
-        data=payload,
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {LLM_API_KEY}",
-        },
-    )
-    resp = urllib.request.urlopen(req, timeout=60)
-    result = json.loads(resp.read())
-    return result["choices"][0]["message"]["content"]
+    raise RuntimeError("所有 LLM 都失敗")
 
 
 def load_today_data(target_date: str):
@@ -278,6 +267,108 @@ def publish_to_devto(date: str, lang: str = "zh"):
         log(f"Dev.to [{lang}]: ✅ 發布成功 → {result.get('url', '?')}")
     except Exception as e:
         log(f"Dev.to [{lang}]: ❌ {e}")
+
+
+def generate_flash(post: dict, signals: list, direction: str, confidence: float):
+    """即時快報：川普發新文 → 馬上生成三語短分析（150-300 字）。
+
+    跟 generate_articles() 的差異：
+    - 只分析單篇推文（不是整天）
+    - 更短（150-300 字 vs 300-500 字）
+    - 強調即時性（剛發生的事）
+    - 檔名用 {day}-flash-{時分}-{lang}.md
+    """
+    now = datetime.now(timezone.utc)
+    target_date = now.strftime("%Y-%m-%d")
+    month = target_date[:7]
+    day = target_date[8:]
+    hm = now.strftime("%H%M")
+
+    article_dir = ARTICLES / month
+    article_dir.mkdir(parents=True, exist_ok=True)
+
+    content = post.get("content", "")[:500]
+    sig_str = ", ".join(s.get("type", "?") for s in signals)
+
+    # 如果 LLM 有因果推理，附上
+    causal = ""
+    for s in signals:
+        if s.get("reasoning"):
+            causal += f"\n- {s['type']}: {s['reasoning']}"
+        if s.get("causal_chain"):
+            causal += f"\n因果鏈: {s['causal_chain']}"
+
+    lang_config = {
+        "zh": {
+            "instruction": "你是「川普密碼」的即時分析師。用繁體中文寫一篇 150-300 字的即時快報。語氣像一個懂市場的朋友在第一時間跟你說重要的事。",
+            "audience": "台灣投資人，想知道川普剛說了什麼、對市場有什麼影響",
+            "format": "標題用「⚡ 川普密碼｜即時快報」開頭",
+        },
+        "en": {
+            "instruction": "You are the 'Trump Code' flash analyst. Write a 150-300 word flash report. Concise, urgent, data-driven.",
+            "audience": "US/EU traders who need to know what Trump just said and how it might move markets",
+            "format": "Title starts with '⚡ Trump Code | Flash'",
+        },
+        "ja": {
+            "instruction": "あなたは「トランプ・コード」の速報アナリストです。150-300字の速報を書いてください。簡潔で緊急性を感じる文体で。",
+            "audience": "日本の個人投資家。トランプの発言が日経平均・ドル円にどう影響するか知りたい",
+            "format": "タイトルは「⚡ トランプ・コード｜速報」で始める",
+        },
+    }
+
+    results = {}
+    for lang in ["zh", "en", "ja"]:
+        cfg = lang_config[lang]
+        prompt = f"""{cfg['instruction']}
+
+川普剛發了這則推文：
+---
+{content}
+---
+
+偵測到的信號：{sig_str}
+預測方向：{direction}（信心度 {confidence:.0%}）
+{f"AI 因果分析：{causal}" if causal else ""}
+
+目標讀者：{cfg['audience']}
+
+請產出一篇即時快報（150-300 字），包含：
+1. 剛說了什麼（一句話）
+2. 為什麼重要（市場影響）
+3. 建議關注什麼（具體指標）
+
+格式：{cfg['format']}
+用 Markdown 格式輸出。不要加 ```markdown 標記。"""
+
+        log(f"   [flash-{lang}] 呼叫 LLM...")
+        try:
+            article = call_llm(prompt, max_tokens=1000)
+            out_path = article_dir / f"{day}-flash-{hm}-{lang}.md"
+            out_path.write_text(article, encoding="utf-8")
+            results[lang] = {"status": "ok", "path": str(out_path), "length": len(article)}
+            log(f"   [flash-{lang}] ✅ {len(article)} 字 → {out_path}")
+        except Exception as e:
+            results[lang] = {"status": "error", "error": str(e)}
+            log(f"   [flash-{lang}] ❌ {e}")
+
+    # 存 metadata
+    meta = {
+        "type": "flash",
+        "date": target_date,
+        "generated_at": now.isoformat(),
+        "post_id": post.get("id", ""),
+        "post_content": content[:200],
+        "signals": sig_str,
+        "direction": direction,
+        "confidence": confidence,
+        "articles": results,
+    }
+    meta_path = article_dir / f"{day}-flash-{hm}-meta.json"
+    meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2))
+
+    # 更新索引
+    update_index()
+    return meta
 
 
 def full_pipeline(target_date: str = None):

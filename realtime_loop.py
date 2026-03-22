@@ -25,12 +25,21 @@ from __future__ import annotations
 import csv
 import html
 import json
+import sys
 import time
 import urllib.request
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Any
+
+# washin_llm 共用 LLM 模組（本機 Opus + Gemini 3 Key）
+sys.path.insert(0, str(Path.home() / "Projects" / "washin-llm"))
+try:
+    from washin_llm import call_ai as _washin_call_ai
+    HAS_WASHIN_LLM = True
+except ImportError:
+    HAS_WASHIN_LLM = False
 
 BASE = Path(__file__).parent
 DATA = BASE / "data"
@@ -392,31 +401,150 @@ SIGNAL_KEYWORDS: dict[str, list[str]] = {
 }
 
 
-def classify_post(content: str) -> list[dict]:
-    """即時分類一篇推文的信號。"""
+def _classify_post_keywords(content: str) -> list[dict]:
+    """關鍵字信號分類（快速 fallback，<1ms）。"""
     cl = content.lower()
     signals = []
 
     for sig_type, keywords in SIGNAL_KEYWORDS.items():
         matched = [kw for kw in keywords if kw in cl]
         if matched:
-            # 信心度根據匹配數量
             confidence = min(0.95, 0.5 + 0.15 * len(matched))
             signals.append({
                 'type': sig_type,
                 'confidence': round(confidence, 2),
                 'matched_keywords': matched,
+                'method': 'keyword',
             })
 
-    # 額外偵測
+    # 情緒強化
     caps_ratio = sum(1 for c in content if c.isupper()) / max(sum(1 for c in content if c.isalpha()), 1)
     excl_count = content.count('!')
     if caps_ratio > 0.3 or excl_count > 3:
-        # 高度情緒化
         for sig in signals:
             sig['confidence'] = min(0.95, sig['confidence'] + 0.1)
 
     return signals
+
+
+def _classify_post_llm(content: str) -> list[dict] | None:
+    """LLM 因果推理分類（深度分析，約 5-15 秒）。
+
+    川普發文 → LLM 分析：
+      1. 他在說什麼（事實提取）
+      2. 為什麼重要（因果推理）
+      3. 對市場的影響（方向預測 + 信心度）
+      4. 跟過去的模式比較
+
+    回傳跟 keyword 版相同格式的 signals list，多一個 reasoning 欄位。
+    失敗回傳 None（讓 caller 用 keyword fallback）。
+    """
+    if not HAS_WASHIN_LLM:
+        return None
+
+    prompt = f"""你是川普推文的市場信號分析師。分析以下推文，判斷對金融市場的影響。
+
+推文內容：
+---
+{content[:500]}
+---
+
+請用 JSON 格式回答（只回 JSON，不要其他文字）：
+{{
+  "signals": [
+    {{
+      "type": "TARIFF|DEAL|RELIEF|ACTION|THREAT|BULLISH|BEARISH",
+      "confidence": 0.0-1.0,
+      "reasoning": "一句話：為什麼這個信號重要、預期影響什麼"
+    }}
+  ],
+  "overall_direction": "UP|DOWN|NEUTRAL",
+  "overall_confidence": 0.0-1.0,
+  "causal_chain": "因為X → 所以Y → 預期Z",
+  "historical_pattern": "跟過去哪個事件類似（如果有的話）"
+}}
+
+信號類型說明：
+- TARIFF：關稅相關（提高/新增/威脅），通常利空
+- DEAL：談判/簽約/達成協議，通常利多
+- RELIEF：暫緩/豁免/延期，通常利多
+- ACTION：即刻行動/行政命令/已簽署，影響大但方向不定
+- THREAT：制裁/封鎖/報復，通常利空
+- BULLISH：正面經濟評論/股市創高，利多
+- BEARISH：負面經濟評論/災難描述，利空
+
+如果推文跟市場無關（日常問候、攻擊政敵但不涉經濟），signals 給空陣列。
+confidence 越高代表信號越明確。普通推文 0.3-0.5，明確政策宣布 0.7-0.9。"""
+
+    try:
+        result = _washin_call_ai(prompt, json_mode=True, max_tokens=800, temperature=0.2)
+        if not result.ok:
+            log(f"   ⚠️ LLM 分類失敗: {result.error[:80]}")
+            return None
+
+        data = result.json()
+        if not data or 'signals' not in data:
+            log(f"   ⚠️ LLM 回傳格式不正確")
+            return None
+
+        # 轉換成跟 keyword 版相同的格式
+        signals = []
+        valid_types = {'TARIFF', 'DEAL', 'RELIEF', 'ACTION', 'THREAT', 'BULLISH', 'BEARISH'}
+        for s in data['signals']:
+            sig_type = str(s.get('type', '')).upper()
+            if sig_type not in valid_types:
+                continue
+            confidence = max(0.1, min(0.95, float(s.get('confidence', 0.5))))
+            signals.append({
+                'type': sig_type,
+                'confidence': round(confidence, 2),
+                'reasoning': str(s.get('reasoning', ''))[:200],
+                'method': 'llm',
+                'llm_model': result.model,
+            })
+
+        # 附加 LLM 的整體判斷
+        if signals:
+            signals[0]['causal_chain'] = str(data.get('causal_chain', ''))[:300]
+            signals[0]['historical_pattern'] = str(data.get('historical_pattern', ''))[:200]
+            signals[0]['llm_direction'] = data.get('overall_direction', 'NEUTRAL')
+            signals[0]['llm_confidence'] = max(0.1, min(0.95, float(data.get('overall_confidence', 0.5))))
+
+        log(f"   🧠 LLM 分類完成: {len(signals)} 信號 ({result.model}, {result.elapsed_ms}ms)")
+        return signals
+
+    except Exception as e:
+        log(f"   ⚠️ LLM 分類例外: {e}")
+        return None
+
+
+def classify_post(content: str) -> list[dict]:
+    """即時分類一篇推文的信號。
+
+    策略：LLM 推理優先 → 關鍵字 fallback。
+    LLM 提供因果推理（為什麼→影響→預測），關鍵字提供速度保障。
+    兩者都跑時，取 LLM 結果但用關鍵字交叉驗證。
+    """
+    # 先跑關鍵字（<1ms，永遠有結果）
+    kw_signals = _classify_post_keywords(content)
+
+    # 再跑 LLM 推理（5-15 秒，可能失敗）
+    llm_signals = _classify_post_llm(content)
+
+    if llm_signals is not None:
+        # LLM 成功：用 LLM 結果，但用關鍵字交叉驗證
+        kw_types = {s['type'] for s in kw_signals}
+        for sig in llm_signals:
+            if sig['type'] in kw_types:
+                # 關鍵字也偵測到 → 信心度加成
+                sig['confidence'] = min(0.95, sig['confidence'] + 0.1)
+                sig['cross_validated'] = True
+            else:
+                sig['cross_validated'] = False
+        return llm_signals
+    else:
+        # LLM 失敗：用關鍵字結果
+        return kw_signals
 
 
 # =====================================================================
