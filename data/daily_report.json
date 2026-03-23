@@ -1,13 +1,15 @@
 {
-  "date": "2026-03-22",
-  "generated_at": "2026-03-22T14:28:02Z",
-  "posts_today": 10,
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T15:00:34Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-03-22T13:46",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116273127672345044"
+    "time": "2026-03-23T14:28",
+    "content_preview": "For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Viol"
   },
   "signals_detected": [
-    "IRAN"
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -21,13 +23,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-03-20",
-    "close": 6506.48
+    "date": "2026-03-23",
+    "close": NaN
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-22\nPosts today: 10 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116273127672345044",
-    "zh": "川普密碼每日報告 -- 2026-03-22\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116273127672345044",
-    "ja": "トランプ・コード日次レポート -- 2026-03-22\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116273127672345044"
+    "en": "Trump Code Daily Report -- 2026-03-23\nPosts today: 9 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Viol",
+    "zh": "川普密碼每日報告 -- 2026-03-23\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Viol",
+    "ja": "トランプ・コード日次レポート -- 2026-03-23\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Viol"
   },
   "triggered_rules_sample": []
 }

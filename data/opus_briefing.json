@@ -1,90 +1,98 @@
 {
-  "date": "2026-03-22",
-  "prepared_at": "2026-03-22T14:28:06Z",
+  "date": "2026-03-23",
+  "prepared_at": "2026-03-23T15:00:39Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 10,
-    "latest": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116273127672345044",
-    "earliest_time": "2026-03-22T02:04:34.472Z",
-    "latest_time": "2026-03-22T13:46:09.261Z",
+    "count": 9,
+    "latest": "For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Violent Criminals who should have been locked up were allowed to attack again. Democrats were also far t",
+    "earliest_time": "2026-03-23T00:31:43.742Z",
+    "latest_time": "2026-03-23T14:28:37.020Z",
     "sample": [
       {
-        "time": "02:04",
-        "text": "Tina Peters, a 73-year-old woman with cancer, was given a nine year jail sentence in Colorado because she caught the Democrats CHEATING on the Presidential Election of 2020. FREE TINA! President DJT"
+        "time": "00:31",
+        "text": "I don't think we should make any deal with the Crazy, Country Destroying, Radical Left Democrats unless, and until, they Vote with Republicans to pass \"THE SAVE AMERICA ACT.\" It is far more important than anything else we are doing in the Senate, and that includes giving these same terrible people, "
       },
       {
-        "time": "12:00",
-        "text": "On Monday, ICE will be going to airports to help our wonderful TSA Agents who have stayed on the job despite the fact that the Radical Left Democrats, who are only focused on protecting hard line criminals who have entered our Country illegally, are endangering the USA by holding back the money that"
+        "time": "03:48",
+        "text": "PEACE THROUGH STRENGTH, TO PUT IT MILDLY!!!"
       },
       {
-        "time": "12:13",
-        "text": "https://truthsocial.com/@IStandWithTrump47/116164006155671847"
+        "time": "11:23",
+        "text": "I AM PLEASED TO REPORT THAT THE UNITED STATES OF AMERICA, AND THE COUNTRY OF IRAN, HAVE HAD, OVER THE LAST TWO DAYS, VERY GOOD AND PRODUCTIVE CONVERSATIONS REGARDING A COMPLETE AND TOTAL RESOLUTION OF OUR HOSTILITIES IN THE MIDDLE EAST. BASED ON THE TENOR AND TONE OF THESE IN DEPTH, DETAILED, AND CO"
       },
       {
-        "time": "12:14",
-        "text": "https://truthsocial.com/@IStandWithTrump47/116272413318941729"
+        "time": "12:57",
+        "text": "I am a BIG proponent of ICE wearing masks as they search for, and are forced to deal with, hardened criminals, many of whom were let into our Country by Sleepy Joe Biden and his wonderful \"Border Czar,\" Kamala (she never even went to the Border!), through their absolutely INSANE Open Border Policy. "
       },
       {
-        "time": "12:14",
-        "text": "https://truthsocial.com/@IStandWithTrump47/116269851029760378"
+        "time": "14:08",
+        "text": "Kelsey Grammer calls Trump 'one of the greatest presidents we've ever had' at Kennedy Center Honors: https://nypost.com/2025/12/08/entertainment/kelsey-grammer-calls-trump-one-of-the-greatest-presidents-weve-ever-had/"
       },
       {
-        "time": "12:17",
-        "text": "https://truthsocial.com/users/CrazyCatRescuer/statuses/116268355575900202"
+        "time": "14:09",
+        "text": "https://www.theepochtimes.com/us/oklahoma-black-lives-matter-leader-indicted-over-alleged-3-15-million-embezzlement-5957229"
       },
       {
-        "time": "12:24",
-        "text": "Now with the death of Iran, the greatest enemy America has is the Radical Left, Highly Incompetent, Democrat Party! Thank you for your attention to this matter. President DJT"
+        "time": "14:09",
+        "text": "Questions Grow as Lt. Michael Byrd, Who Shot Ashli Babbitt on Jan. 6, Operates a Taxpayer-Funded Home Daycare as $190 Million in Federal Child Care Funds Flow to Maryland: https://www.thegatewaypundit.com/2026/01/developing-lt-michael-byrd-who-shot-ashli-babbitt/"
       },
       {
-        "time": "13:33",
-        "text": "SAVE America Act Hits the Achilles Heel of Democrats' Fraud Scheme: https://www.stonecoldtruth.com/p/save-america-act-hits-the-achilles"
+        "time": "14:10",
+        "text": "Trump administration cancels $109M in environmentally focused transportation grants for Colorado: https://coloradosun.com/2025/12/16/trump-administration-cuts-transportation-grants-colorado/"
       },
       {
-        "time": "13:34",
-        "text": "THE LIES OF ROBERT MUELLER AND HIS CRIMINAL GANG: https://stonezone.com/russian-collusion-lies-recycled-yet-again/"
-      },
-      {
-        "time": "13:46",
-        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116273127672345044"
+        "time": "14:28",
+        "text": "For years, Democrats ignored Violent and Vicious Crime of all shapes, sizes, colors, and types. Violent Criminals who should have been locked up were allowed to attack again. Democrats were also far too happy to let in the worst from the worst countries so they could rip off American Taxpayers. Demo"
       }
     ]
   },
   "keyword_signals": [
-    "IRAN"
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "today_features": {
     "posts_6_10": true,
-    "avg_len_medium": true,
-    "caps_medium": true,
-    "excl_normal": true,
+    "avg_len_long": true,
+    "caps_very_high": true,
+    "excl_heavy": true,
     "questions_no": true,
-    "mostly_premarket": true,
+    "mostly_open": true,
     "has_night": true,
-    "kw_signed": true,
-    "pre_signed": true,
-    "kw_russia": true,
-    "open_russia": true,
+    "kw_deal": true,
+    "kw_deal_2plus": true,
+    "pre_deal": true,
     "kw_iran": true,
     "pre_iran": true,
+    "kw_energy": true,
+    "pre_energy": true,
+    "kw_billion": true,
     "kw_great": true,
     "kw_great_2plus": true,
     "pre_great": true,
-    "kw_fantastic": true,
-    "pre_fantastic": true,
+    "open_great": true,
     "kw_wonderful": true,
     "pre_wonderful": true,
-    "kw_incompetent": true,
-    "kw_incompetent_2plus": true,
-    "pre_incompetent": true,
+    "kw_terrible": true,
+    "kw_worst": true,
+    "open_worst": true,
+    "kw_biden": true,
+    "pre_biden": true,
+    "kw_kamala": true,
+    "pre_kamala": true,
     "kw_save_america": true,
-    "open_save_america": true,
+    "kw_filibuster": true,
     "kw_president_djt": true,
     "kw_president_djt_2plus": true,
     "pre_president_djt": true,
     "kw_thank_you_for_your_attention": true,
     "pre_thank_you_for_your_attention": true,
-    "is_weekend": true
+    "kw_complete_and_total": true,
+    "pre_complete_and_total": true,
+    "is_monday": true,
+    "volume_rising_3d": true,
+    "deal_without_tariff": true,
+    "deal_no_tariff": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -193,43 +201,44 @@
     "signal_adjusted": 1
   },
   "evolution_latest": {
-    "date": "2026-03-22",
-    "crossover": 11,
-    "mutation": 16,
-    "distill": 18,
-    "total_new": 45,
+    "date": "2026-03-23",
+    "crossover": 16,
+    "mutation": 10,
+    "distill": 17,
+    "total_new": 43,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_china",
-          "kw_thank_you_for_your_attention",
-          "open_china"
+          "kw_interest_rate",
+          "kw_economy",
+          "kw_dow_2plus"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 95.5,
+        "score": 100.0,
         "origin": "crossover"
       },
       {
         "features": [
-          "volume_falling_3d",
-          "open_thank_you_for_your_attention"
-        ],
-        "direction": "LONG",
-        "hold": 2,
-        "score": 93.8,
-        "origin": "mutation_remove"
-      },
-      {
-        "features": [
-          "kw_amazing",
-          "volume_spike"
+          "is_friday",
+          "kw_dow_2plus",
+          "kw_beautiful"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 88.9,
-        "origin": "mutation_remove"
+        "score": 90.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "questions_yes",
+          "kw_tariffs_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 86.4,
+        "origin": "crossover"
       }
     ]
   },
@@ -237,7 +246,7 @@
     "TARIFF": 0.7,
     "DEAL": 0.55,
     "RELIEF": 0.95,
-    "ACTION": 0.893,
+    "ACTION": 0.906,
     "THREAT": 0.6,
     "CHINA": 0.6,
     "IRAN": 0.55,
@@ -245,9 +254,11 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-22",
+    "date": "2026-03-23",
     "signals": [
-      "IRAN"
+      "DEAL",
+      "IRAN",
+      "DEAL_ONLY"
     ],
     "opportunities": [],
     "total_scanned": 0
