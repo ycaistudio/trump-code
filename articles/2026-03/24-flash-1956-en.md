@@ -1,19 +1,25 @@
-⚡ Trump Code | Flash — Indiana State Senate Endorsement: RINO Purge, No Market Signal
+⚡ Trump Code | Flash — Indiana State Senate Endorsement vs. RINO
+
+**Signal: NEUTRAL | Confidence: LOW**
 
 ## What He Said
 
-Trump endorsed Paula Copenhaver for Indiana's 23rd State Senate District, attacking incumbent Republican Spencer Deery as a "RINO" who voted against redistricting reform. The post is a standard intra-party primary battle — local politics, not policy.
+Trump endorsed Tracey Powell for Indiana's 21st State Senate District, attacking incumbent Republican Jim Buck as a "pathetic RINO" who voted against redistricting — framing it as a threat to GOP congressional map advantages.
 
-## Why It Matters (Or Doesn't)
+## Why It Matters (Market Impact: Minimal)
 
-**Market impact: Near zero.** This is a state-level legislative endorsement with no connection to federal policy, trade, tariffs, or regulatory action. No sector, commodity, or macro indicator is directly affected.
+This is a **state-level primary endorsement** with no direct federal policy or market implications. No tariffs, no trade threats, no fiscal signals.
 
-**Political signal worth noting:** Trump continues to actively purge Republican incumbents who break ranks — even on state-level votes. This reinforces his grip on GOP primaries and signals that congressional Republicans facing 2026 midterms have even less room to dissent on federal issues (debt ceiling, tax policy, trade deals). The discipline effect is the real story, not the endorsement itself.
+However, for pattern-watchers:
+
+- **RINO purge escalation**: Trump is actively primarying sitting Republican state legislators, not just federal ones. This signals tightening grip on state-level GOP machinery ahead of 2026 midterms.
+- **Redistricting angle**: The mention of "puts the United States Congress in jeopardy" ties state races to federal House control. If GOP redistricting efforts stall, 2026 House map becomes less favorable — relevant for legislative risk pricing (tax policy, spending, debt ceiling).
+- **Indiana context**: A deep-red state (Trump +24 in this district). This is intra-party discipline, not swing-state signaling.
 
 ## What to Watch
 
-- **Not this race.** Indiana state senate seats don't move markets.
-- **GOP dissent index:** Track how many Republican legislators break with Trump on upcoming federal votes (tax bill, continuing resolutions). Each RINO-purge post tightens the leash.
-- **Federal legislative calendar:** If GOP discipline holds, Trump's tax and deregulation agenda faces fewer internal obstacles — that's the macro channel where this pattern eventually matters.
+- **No immediate trades.** This does not move indices, sectors, or FX.
+- **Medium-term**: Track Trump endorsement win-rate in 2026 primaries — a leading indicator of his policy leverage over the next Congress.
+- **If you hold positions sensitive to 2026 House composition** (healthcare, energy, defense budget), monitor whether redistricting battles spread to other states.
 
-**Bottom line:** File under political housekeeping. No position changes warranted. Resume watching tariff and Fed signals.
+**Bottom line: Political housekeeping, not a market event. File under "power consolidation" and move on.**

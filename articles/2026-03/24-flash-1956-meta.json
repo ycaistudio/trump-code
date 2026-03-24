@@ -1,9 +1,9 @@
 {
   "type": "flash",
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T19:56:11.807372+00:00",
-  "post_id": "116285900153878228",
-  "post_content": "It is my Great Honor to endorse MAGA Warrior and Fountain County GOP Chair, Paula Copenhaver, a terrific Candidate for Indiana's 23rd State Senate District (which I won by 26 points!). Paula is runnin",
+  "generated_at": "2026-03-24T19:56:51.032015+00:00",
+  "post_id": "116285893161347117",
+  "post_content": "It is my Great Honor to endorse America First Patriot Tracey Powell, a fantastic Candidate for Indiana's 21st State Senate District (which I won by 24 points!). Tracey is running against a pathetic RI",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -11,17 +11,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/24-flash-1956-zh.md",
-      "length": 420
+      "length": 415
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/24-flash-1956-en.md",
-      "length": 1592
+      "length": 1688
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/24-flash-1956-ja.md",
-      "length": 389
+      "length": 528
     }
   }
 }
