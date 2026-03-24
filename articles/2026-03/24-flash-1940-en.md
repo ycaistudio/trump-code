@@ -1,18 +1,25 @@
-⚡ Trump Code | Flash — Indiana Senate Endorsement, No Market Signal
+⚡ Trump Code | Flash — Indiana Senate Endorsement: Routine Political Signal
 
 ## What He Said
-Trump endorsed Indiana State Senator Chris Garten (R-45th District), praising him as a "MAGA Warrior" and highlighting his role as Majority Floor Leader and Marine veteran.
+
+Trump endorsed Indiana State Senator Randy Maxwell (43rd District), praising his business background and alignment with "America First" policies including tax cuts, deregulation, energy dominance, and immigration enforcement.
 
 ## Why It Matters (Or Doesn't)
-**Market impact: Near zero.** This is a standard state-level political endorsement — Trump's bread-and-butter base maintenance. No new policy signals, no federal legislation push, no trade/tariff language, no regulatory threat.
 
-The post does repeat familiar rhetorical themes — cut taxes, cut regulations, energy dominance, Made in USA — but these are boilerplate MAGA talking points directed at a local Indiana audience, not actionable policy shifts.
+**Market Impact: Minimal.** This is a standard state-level political endorsement — not a policy announcement, executive order signal, or trade threat. The language is boilerplate Trump endorsement copy: "Tremendous Champion," "GREAT Jobs," "MADE IN THE U.S.A."
 
-**Key context:** Indiana's state senate is already firmly Republican-controlled. This endorsement changes nothing in the balance of power and signals no new legislative initiative at the federal level.
+However, the embedded policy keywords are worth cataloging for pattern traders:
+
+- **"Cut Taxes and Regulations"** — Reinforces the ongoing deregulation narrative. No new specifics.
+- **"American Energy DOMINANCE"** — Consistent messaging, not a new drilling/LNG directive.
+- **"Stop Migrant Crime / LAW AND ORDER"** — Immigration enforcement rhetoric, no new border action signaled.
+
+This post functions as **political capital maintenance** — keeping state-level allies loyal — not as a market-moving communiqué.
 
 ## What to Watch
-- **Nothing immediate from this post.** No sector rotation, no commodity move expected.
-- **Pattern watch:** If Trump begins a rapid-fire endorsement series, it may signal he's pivoting to campaign mode — which historically correlates with louder trade/tariff rhetoric in subsequent posts.
-- **Indiana-specific:** Eli Lilly (LLY), Cummins (CMI), and other Hoosier-HQ companies are NOT implicated here.
 
-**Bottom line:** File under political housekeeping. Resume normal positioning. Next actionable signal will come from policy posts, not endorsements.
+- **Nothing actionable from this post alone.** Treat as noise.
+- **Pattern flag:** If endorsement volume spikes this week, it may signal a broader political mobilization push ahead of a legislative vote (tax bill, energy bill).
+- Monitor **Indiana energy sector** names only if Maxwell's district overlaps with significant fossil fuel operations.
+
+**Signal: NEUTRAL | Confidence: Low | Action: None**
