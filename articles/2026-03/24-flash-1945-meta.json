@@ -1,0 +1,27 @@
+{
+  "type": "flash",
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T19:45:27.695569+00:00",
+  "post_id": "116285855722508349",
+  "post_content": "State Senator Jim Tomes is an America First Patriot who is doing an incredible job representing Indiana’s 49th State Senate District! A Brave U.S. Army Vietnam Veteran, and Chairman of the Indiana Sen",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/24-flash-1945-zh.md",
+      "length": 366
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/24-flash-1945-en.md",
+      "length": 1605
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/24-flash-1945-ja.md",
+      "length": 442
+    }
+  }
+}
