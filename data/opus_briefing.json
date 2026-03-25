@@ -1,30 +1,49 @@
 {
-  "date": "2026-03-24",
-  "prepared_at": "2026-03-24T15:03:14Z",
+  "date": "2026-03-25",
+  "prepared_at": "2026-03-25T15:04:47Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 2,
-    "latest": "Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country. They want them to VOTE! That's why they are fighting so hard to neutralize ICE. We will fight them ",
-    "earliest_time": "2026-03-24T04:12:02.575Z",
-    "latest_time": "2026-03-24T05:48:38.818Z",
+    "count": 5,
+    "latest": "Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.com/opinion/beltway-confidential/4498245/trump-and-pirro-deserve-credit-for-big-cuts-to-washington-d",
+    "earliest_time": "2026-03-25T03:44:02.963Z",
+    "latest_time": "2026-03-25T14:08:54.659Z",
     "sample": [
       {
-        "time": "04:12",
-        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116282191339559931"
+        "time": "03:44",
+        "text": "Fishing expedition: Docs expose expansive FBI surveillance of Trump allies, possible illegality: https://justthenews.com/government/congress/fishing-expedition-new-docs-lay-bare-expansive-fbi-surveillance-targeting-trump"
       },
       {
-        "time": "05:48",
-        "text": "Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country. They want them to VOTE! That's why they are fighting so hard to neutralize ICE. We will fight them all the way, and WIN!"
+        "time": "03:44",
+        "text": "Trump admin looks to streamline permitting, lower costs to help make home ownership more attainable: https://justthenews.com/politics-policy/regulation/trump-administration-looks-streamline-home-permitting-and-bring-down"
+      },
+      {
+        "time": "03:45",
+        "text": "Iran's flex of long-range ballistic missiles vindicates Trump, may change European calculus: https://justthenews.com/government/security/irans-flex-long-range-ballistic-missiles-vindicates-trump-threat-perception"
+      },
+      {
+        "time": "03:47",
+        "text": "Terrible!https://x.com/jamesokeefeiii/status/2036527947255788007?s=46"
+      },
+      {
+        "time": "14:08",
+        "text": "Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.com/opinion/beltway-confidential/4498245/trump-and-pirro-deserve-credit-for-big-cuts-to-washington-dc-crime/"
       }
     ]
   },
+  "keyword_signals": [
+    "IRAN"
+  ],
   "today_features": {
     "posts_1_5": true,
-    "avg_len_short": true,
+    "avg_len_medium": true,
     "caps_low": true,
-    "excl_normal": true,
-    "questions_no": true,
-    "mostly_premarket": true,
+    "excl_none": true,
+    "has_night": true,
+    "heavy_night": true,
+    "kw_iran": true,
+    "kw_europe": true,
+    "kw_dow": true,
+    "kw_terrible": true,
     "volume_drop": true
   },
   "model_performance": {
@@ -134,42 +153,43 @@
     "signal_adjusted": 1
   },
   "evolution_latest": {
-    "date": "2026-03-24",
+    "date": "2026-03-25",
     "crossover": 16,
-    "mutation": 9,
+    "mutation": 14,
     "distill": 16,
-    "total_new": 41,
+    "total_new": 46,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "open_jobs",
           "open_thank_you_for_your_attention",
-          "kw_beautiful"
+          "kw_inflation",
+          "kw_trade"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 100.0,
+        "score": 85.7,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_thank_you_for_your_attention",
-          "open_inflation"
+          "open_tariffs",
+          "kw_tremendous",
+          "kw_tariff_2plus"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 88.9,
+        "score": 83.3,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_signed",
-          "open_tariff"
+          "kw_fake",
+          "volume_spike"
         ],
         "direction": "LONG",
-        "hold": 2,
-        "score": 87.5,
+        "hold": 3,
+        "score": 82.1,
         "origin": "mutation_remove"
       }
     ]
@@ -178,7 +198,7 @@
     "TARIFF": 0.7,
     "DEAL": 0.55,
     "RELIEF": 0.95,
-    "ACTION": 0.919,
+    "ACTION": 0.932,
     "THREAT": 0.6,
     "CHINA": 0.6,
     "IRAN": 0.55,
@@ -186,11 +206,9 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-23",
+    "date": "2026-03-25",
     "signals": [
-      "DEAL",
-      "IRAN",
-      "DEAL_ONLY"
+      "IRAN"
     ],
     "opportunities": [],
     "total_scanned": 0

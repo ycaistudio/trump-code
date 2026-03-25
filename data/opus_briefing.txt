@@ -1,12 +1,20 @@
-# 川普密碼 Opus 簡報 — 2026-03-24
-準備時間: 2026-03-24T15:03:14Z
+# 川普密碼 Opus 簡報 — 2026-03-25
+準備時間: 2026-03-25T15:04:47Z
 
-## 今日推文: 2 篇
-時間: 2026-03-24T04:12:02.575Z ~ 2026-03-24T05:48:38.818Z
+## 今日推文: 5 篇
+時間: 2026-03-25T03:44:02.963Z ~ 2026-03-25T14:08:54.659Z
 
-[04:12] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116282191339559931
+[03:44] Fishing expedition: Docs expose expansive FBI surveillance of Trump allies, possible illegality: https://justthenews.com/government/congress/fishing-expedition-new-docs-lay-bare-expansive-fbi-surveillance-targeting-trump
 
-[05:48] Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country. They want them to VOTE! That's why they are fighting so hard to neutralize ICE. We will fight them all the way, and WIN!
+[03:44] Trump admin looks to streamline permitting, lower costs to help make home ownership more attainable: https://justthenews.com/politics-policy/regulation/trump-administration-looks-streamline-home-permitting-and-bring-down
+
+[03:45] Iran's flex of long-range ballistic missiles vindicates Trump, may change European calculus: https://justthenews.com/government/security/irans-flex-long-range-ballistic-missiles-vindicates-trump-threat-perception
+
+[03:47] Terrible!https://x.com/jamesokeefeiii/status/2036527947255788007?s=46
+
+[14:08] Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.com/opinion/beltway-confidential/4498245/trump-and-pirro-deserve-credit-for-big-cuts-to-washington-dc-crime/
+
+## 關鍵字偵測到的信號: IRAN
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -30,10 +38,10 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 41 條規則
+## 規則進化: 新增 46 條規則
 
 ## 信號信心度
-  ACTION: 0.919
+  ACTION: 0.932
   CHINA: 0.6
   DEAL: 0.55
   DEAL_ONLY: 0.65

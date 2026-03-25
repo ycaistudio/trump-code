@@ -1,12 +1,14 @@
 {
-  "date": "2026-03-24",
-  "generated_at": "2026-03-24T15:03:11Z",
-  "posts_today": 2,
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T15:04:43Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-03-24T05:48",
-    "content_preview": "Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country."
+    "time": "2026-03-25T14:08",
+    "content_preview": "Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer."
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-03-24",
-    "close": NaN
+    "date": "2026-03-25",
+    "close": 6613.53
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-24\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country.",
-    "zh": "川普密碼每日報告 -- 2026-03-24\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country.",
-    "ja": "トランプ・コード日次レポート -- 2026-03-24\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Democrats are desperate to keep illegals, no matter how bad or dangerous they me be, in the Country."
+    "en": "Trump Code Daily Report -- 2026-03-25\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.",
+    "zh": "川普密碼每日報告 -- 2026-03-25\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.",
+    "ja": "トランプ・コード日次レポート -- 2026-03-25\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer."
   },
   "triggered_rules_sample": []
 }
