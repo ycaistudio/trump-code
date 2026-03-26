@@ -1,15 +1,15 @@
 {
   "type": "flash",
   "date": "2026-03-26",
-  "generated_at": "2026-03-26T10:45:19.954519+00:00",
-  "post_id": "116295061962439836",
-  "post_content": "I’ve Seen Enough: The Senate Is Broken, And It’s Time To Change The Rules:",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116295061962439836",
+  "generated_at": "2026-03-26T10:45:31.477468+00:00",
+  "post_id": "116295060276845350",
+  "post_content": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116295060276845350",
   "post_source": "Truth Social",
-  "post_time": "Thu, 26 Mar 2026 10:43:39 +0000",
-  "signals": "ACTION",
-  "direction": "UP",
-  "confidence": 0.4,
+  "post_time": "Thu, 26 Mar 2026 10:43:13 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
   "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
   "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
   "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1045-zh.md",
-      "length": 812
+      "length": 787
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1045-en.md",
-      "length": 1168
+      "length": 2233
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1045-ja.md",
-      "length": 870
+      "length": 869
     }
   }
 }
