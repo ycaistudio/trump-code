@@ -1,20 +1,30 @@
-# 川普密碼 Opus 簡報 — 2026-03-25
-準備時間: 2026-03-25T15:04:47Z
+# 川普密碼 Opus 簡報 — 2026-03-26
+準備時間: 2026-03-26T15:09:40Z
 
-## 今日推文: 5 篇
-時間: 2026-03-25T03:44:02.963Z ~ 2026-03-25T14:08:54.659Z
+## 今日推文: 13 篇
+時間: 2026-03-26T02:42:20.688Z ~ 2026-03-26T11:22:55.129Z
 
-[03:44] Fishing expedition: Docs expose expansive FBI surveillance of Trump allies, possible illegality: https://justthenews.com/government/congress/fishing-expedition-new-docs-lay-bare-expansive-fbi-surveillance-targeting-trump
+[06:51] When is “enough, enough” for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving
 
-[03:44] Trump admin looks to streamline permitting, lower costs to help make home ownership more attainable: https://justthenews.com/politics-policy/regulation/trump-administration-looks-streamline-home-permitting-and-bring-down
+[06:54] “You couldn’t ask for more militarily. It will be studied with envy for many years to come!” Steve Yates on Fox &amp; Friends First
 
-[03:45] Iran's flex of long-range ballistic missiles vindicates Trump, may change European calculus: https://justthenews.com/government/security/irans-flex-long-range-ballistic-missiles-vindicates-trump-threat-perception
+[10:16] NATO NATIONS HAVE DONE ABSOLUTELY NOTHING TO HELP WITH THE LUNATIC NATION, NOW MILITARILY DECIMATED, OF IRAN. THE U.S.A. NEEDS NOTHING FROM NATO, BUT "NEVER FORGET" THIS VERY IMPORTANT POINT IN TIME! President DONALD J. TRUMP
 
-[03:47] Terrible!https://x.com/jamesokeefeiii/status/2036527947255788007?s=46
+[10:39] The Iranian negotiators are very different and "strange." They are "begging" us to make a deal, which they should be doing since they have been militarily obliterated, with zero chance of a comeback, and yet they publicly state that they are only "looking at our proposal." WRONG!!! They better get s
 
-[14:08] Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.com/opinion/beltway-confidential/4498245/trump-and-pirro-deserve-credit-for-big-cuts-to-washington-dc-crime/
+[10:43] U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024
 
-## 關鍵字偵測到的信號: IRAN
+[10:43] I've Seen Enough: The Senate Is Broken, And It's Time To Change The Rules: https://www.dailywire.com/news/ive-seen-enough-the-senate-is-broken-and-its-time-to-change-the-rules
+
+[10:51] When is "enough, enough" for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving
+
+[10:54] "You couldn't ask for more militarily. It will be studied with envy for many years to come!" Steve Yates on Fox & Friends First
+
+[10:59] TERMINATE THE FILIBUSTER!
+
+[11:22] Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTER, something which they should do whether he makes a deal or not!!!
+
+## 關鍵字偵測到的信號: DEAL, IRAN, DEAL_ONLY
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -38,10 +48,10 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 46 條規則
+## 規則進化: 新增 42 條規則
 
 ## 信號信心度
-  ACTION: 0.932
+  ACTION: 0.945
   CHINA: 0.6
   DEAL: 0.55
   DEAL_ONLY: 0.65

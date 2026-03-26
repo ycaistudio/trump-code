@@ -539,5 +539,47 @@
         "origin": "mutation_remove"
       }
     ]
+  },
+  {
+    "date": "2026-03-26",
+    "crossover": 16,
+    "mutation": 10,
+    "distill": 16,
+    "total_new": 42,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "is_friday",
+          "open_thank_you_for_your_attention",
+          "kw_beautiful"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 85.7,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_jobs",
+          "kw_deal",
+          "kw_trade"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 80.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "kw_perfect"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 80.0,
+        "origin": "mutation_remove"
+      }
+    ]
   }
 ]

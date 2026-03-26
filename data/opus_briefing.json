@@ -1,50 +1,89 @@
 {
-  "date": "2026-03-25",
-  "prepared_at": "2026-03-25T15:04:47Z",
+  "date": "2026-03-26",
+  "prepared_at": "2026-03-26T15:09:40Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 5,
-    "latest": "Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.com/opinion/beltway-confidential/4498245/trump-and-pirro-deserve-credit-for-big-cuts-to-washington-d",
-    "earliest_time": "2026-03-25T03:44:02.963Z",
-    "latest_time": "2026-03-25T14:08:54.659Z",
+    "count": 13,
+    "latest": "Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTE",
+    "earliest_time": "2026-03-26T02:42:20.688Z",
+    "latest_time": "2026-03-26T11:22:55.129Z",
     "sample": [
       {
-        "time": "03:44",
-        "text": "Fishing expedition: Docs expose expansive FBI surveillance of Trump allies, possible illegality: https://justthenews.com/government/congress/fishing-expedition-new-docs-lay-bare-expansive-fbi-surveillance-targeting-trump"
+        "time": "06:51",
+        "text": "When is “enough, enough” for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving"
       },
       {
-        "time": "03:44",
-        "text": "Trump admin looks to streamline permitting, lower costs to help make home ownership more attainable: https://justthenews.com/politics-policy/regulation/trump-administration-looks-streamline-home-permitting-and-bring-down"
+        "time": "06:54",
+        "text": "“You couldn’t ask for more militarily. It will be studied with envy for many years to come!” Steve Yates on Fox &amp; Friends First"
       },
       {
-        "time": "03:45",
-        "text": "Iran's flex of long-range ballistic missiles vindicates Trump, may change European calculus: https://justthenews.com/government/security/irans-flex-long-range-ballistic-missiles-vindicates-trump-threat-perception"
+        "time": "10:16",
+        "text": "NATO NATIONS HAVE DONE ABSOLUTELY NOTHING TO HELP WITH THE LUNATIC NATION, NOW MILITARILY DECIMATED, OF IRAN. THE U.S.A. NEEDS NOTHING FROM NATO, BUT \"NEVER FORGET\" THIS VERY IMPORTANT POINT IN TIME! President DONALD J. TRUMP"
       },
       {
-        "time": "03:47",
-        "text": "Terrible!https://x.com/jamesokeefeiii/status/2036527947255788007?s=46"
+        "time": "10:39",
+        "text": "The Iranian negotiators are very different and \"strange.\" They are \"begging\" us to make a deal, which they should be doing since they have been militarily obliterated, with zero chance of a comeback, and yet they publicly state that they are only \"looking at our proposal.\" WRONG!!! They better get s"
       },
       {
-        "time": "14:08",
-        "text": "Trump and Pirro deserve credit for big cuts to Washington, DC crime: https://www.washingtonexaminer.com/opinion/beltway-confidential/4498245/trump-and-pirro-deserve-credit-for-big-cuts-to-washington-dc-crime/"
+        "time": "10:43",
+        "text": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024"
+      },
+      {
+        "time": "10:43",
+        "text": "I've Seen Enough: The Senate Is Broken, And It's Time To Change The Rules: https://www.dailywire.com/news/ive-seen-enough-the-senate-is-broken-and-its-time-to-change-the-rules"
+      },
+      {
+        "time": "10:51",
+        "text": "When is \"enough, enough\" for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving"
+      },
+      {
+        "time": "10:54",
+        "text": "\"You couldn't ask for more militarily. It will be studied with envy for many years to come!\" Steve Yates on Fox & Friends First"
+      },
+      {
+        "time": "10:59",
+        "text": "TERMINATE THE FILIBUSTER!"
+      },
+      {
+        "time": "11:22",
+        "text": "Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTER, something which they should do whether he makes a deal or not!!!"
       }
     ]
   },
   "keyword_signals": [
-    "IRAN"
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "today_features": {
-    "posts_1_5": true,
+    "posts_11_20": true,
     "avg_len_medium": true,
-    "caps_low": true,
-    "excl_none": true,
+    "caps_medium": true,
+    "excl_heavy": true,
+    "questions_no": true,
+    "mostly_premarket": true,
     "has_night": true,
-    "heavy_night": true,
+    "kw_deal": true,
+    "kw_deal_2plus": true,
+    "pre_deal": true,
+    "kw_ukraine": true,
+    "pre_ukraine": true,
     "kw_iran": true,
-    "kw_europe": true,
-    "kw_dow": true,
-    "kw_terrible": true,
-    "volume_drop": true
+    "kw_iran_2plus": true,
+    "pre_iran": true,
+    "kw_biden": true,
+    "pre_biden": true,
+    "kw_save_america": true,
+    "kw_save_america_2plus": true,
+    "pre_save_america": true,
+    "kw_filibuster": true,
+    "kw_filibuster_2plus": true,
+    "pre_filibuster": true,
+    "kw_president_djt": true,
+    "kw_president_djt_2plus": true,
+    "pre_president_djt": true,
+    "deal_without_tariff": true,
+    "deal_no_tariff": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -153,18 +192,18 @@
     "signal_adjusted": 1
   },
   "evolution_latest": {
-    "date": "2026-03-25",
+    "date": "2026-03-26",
     "crossover": 16,
-    "mutation": 14,
+    "mutation": 10,
     "distill": 16,
-    "total_new": 46,
+    "total_new": 42,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
+          "is_friday",
           "open_thank_you_for_your_attention",
-          "kw_inflation",
-          "kw_trade"
+          "kw_beautiful"
         ],
         "direction": "LONG",
         "hold": 3,
@@ -173,23 +212,23 @@
       },
       {
         "features": [
-          "open_tariffs",
-          "kw_tremendous",
-          "kw_tariff_2plus"
+          "open_jobs",
+          "kw_deal",
+          "kw_trade"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 83.3,
+        "score": 80.0,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_fake",
-          "volume_spike"
+          "kw_thank_you_for_your_attention",
+          "kw_perfect"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 82.1,
+        "score": 80.0,
         "origin": "mutation_remove"
       }
     ]
@@ -198,7 +237,7 @@
     "TARIFF": 0.7,
     "DEAL": 0.55,
     "RELIEF": 0.95,
-    "ACTION": 0.932,
+    "ACTION": 0.945,
     "THREAT": 0.6,
     "CHINA": 0.6,
     "IRAN": 0.55,
@@ -206,9 +245,11 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-25",
+    "date": "2026-03-26",
     "signals": [
-      "IRAN"
+      "DEAL",
+      "IRAN",
+      "DEAL_ONLY"
     ],
     "opportunities": [],
     "total_scanned": 0
