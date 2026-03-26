@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T20:15:46.093653+00:00",
+  "post_id": "116297295543838717",
+  "post_content": "As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time. T",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116297295543838717",
+  "post_source": "Truth Social",
+  "post_time": "Thu, 26 Mar 2026 20:11:41 +0000",
+  "signals": "RELIEF, DEAL",
+  "direction": "UP",
+  "confidence": 0.75,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-2015-zh.md",
+      "length": 773
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-2015-en.md",
+      "length": 2096
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-2015-ja.md",
+      "length": 934
+    }
+  }
+}
