@@ -1,12 +1,12 @@
 {
   "type": "flash",
   "date": "2026-03-26",
-  "generated_at": "2026-03-26T10:11:17.216714+00:00",
-  "post_id": "116294909821414284",
-  "post_content": "RT @seanhannityHANNITY MONOLOGUE: Modern-Day Democratic Party Has Lost Its Heart and Soul [WATCH]",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116294909821414284",
+  "generated_at": "2026-03-26T10:11:27.181048+00:00",
+  "post_id": "116290223606300207",
+  "post_content": "HANNITY MONOLOGUE: Modern-Day Democratic Party Has Lost Its Heart and Soul [WATCH]",
+  "post_url": "https://truthsocial.com/@seanhannity/116290223606300207",
   "post_source": "Truth Social",
-  "post_time": "Thu, 26 Mar 2026 10:04:58 +0000",
+  "post_time": "Wed, 25 Mar 2026 14:13:12 +0000",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1011-zh.md",
-      "length": 813
+      "length": 817
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1011-en.md",
-      "length": 2066
+      "length": 1238
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1011-ja.md",
-      "length": 808
+      "length": 907
     }
   }
 }
