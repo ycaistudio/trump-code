@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T11:25:46.052958+00:00",
+  "post_id": "116295216341236902",
+  "post_content": "Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn’t, Republicans will TERMINATE THE FILIBUSTE",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116295216341236902",
+  "post_source": "Truth Social",
+  "post_time": "Thu, 26 Mar 2026 11:22:55 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1125-zh.md",
+      "length": 858
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1125-en.md",
+      "length": 2218
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/26-flash-1125-ja.md",
+      "length": 816
+    }
+  }
+}
