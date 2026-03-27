@@ -1,16 +1,8 @@
-# 川普密碼 Opus 簡報 — 2026-03-26
-準備時間: 2026-03-26T15:09:40Z
+# 川普密碼 Opus 簡報 — 2026-03-27
+準備時間: 2026-03-27T14:55:30Z
 
-## 今日推文: 13 篇
-時間: 2026-03-26T02:42:20.688Z ~ 2026-03-26T11:22:55.129Z
-
-[06:51] When is “enough, enough” for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving
-
-[06:54] “You couldn’t ask for more militarily. It will be studied with envy for many years to come!” Steve Yates on Fox &amp; Friends First
-
-[10:16] NATO NATIONS HAVE DONE ABSOLUTELY NOTHING TO HELP WITH THE LUNATIC NATION, NOW MILITARILY DECIMATED, OF IRAN. THE U.S.A. NEEDS NOTHING FROM NATO, BUT "NEVER FORGET" THIS VERY IMPORTANT POINT IN TIME! President DONALD J. TRUMP
-
-[10:39] The Iranian negotiators are very different and "strange." They are "begging" us to make a deal, which they should be doing since they have been militarily obliterated, with zero chance of a comeback, and yet they publicly state that they are only "looking at our proposal." WRONG!!! They better get s
+## 今日推文: 16 篇
+時間: 2026-03-26T02:42:20.688Z ~ 2026-03-26T22:30:26.730Z
 
 [10:43] U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024
 
@@ -23,6 +15,14 @@
 [10:59] TERMINATE THE FILIBUSTER!
 
 [11:22] Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTER, something which they should do whether he makes a deal or not!!!
+
+[18:30] The Radical Left Democrats, and their “Leader,” Cryin’ Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici
+
+[20:11] As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time. Talks are ongoing and, despite erroneous statements to the contrary by the Fake News Media, and other
+
+[22:29] Congratulations to the International Olympic Committee on their decision to ban Men from Women's Sports. This is only happening because of my powerful Executive Order, standing up for Women and Girls! President DONALD J. TRUMP
+
+[22:30] The Radical Left Democrats, and their "Leader," Cryin' Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici
 
 ## 關鍵字偵測到的信號: DEAL, IRAN, DEAL_ONLY
 
@@ -48,10 +48,10 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 42 條規則
+## 規則進化: 新增 44 條規則
 
 ## 信號信心度
-  ACTION: 0.945
+  ACTION: 0.95
   CHINA: 0.6
   DEAL: 0.55
   DEAL_ONLY: 0.65

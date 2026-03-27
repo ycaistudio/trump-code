@@ -1,29 +1,13 @@
 {
-  "date": "2026-03-26",
-  "prepared_at": "2026-03-26T15:09:40Z",
+  "date": "2026-03-27",
+  "prepared_at": "2026-03-27T14:55:30Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 13,
-    "latest": "Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTE",
+    "count": 16,
+    "latest": "The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They a",
     "earliest_time": "2026-03-26T02:42:20.688Z",
-    "latest_time": "2026-03-26T11:22:55.129Z",
+    "latest_time": "2026-03-26T22:30:26.730Z",
     "sample": [
-      {
-        "time": "06:51",
-        "text": "When is “enough, enough” for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving"
-      },
-      {
-        "time": "06:54",
-        "text": "“You couldn’t ask for more militarily. It will be studied with envy for many years to come!” Steve Yates on Fox &amp; Friends First"
-      },
-      {
-        "time": "10:16",
-        "text": "NATO NATIONS HAVE DONE ABSOLUTELY NOTHING TO HELP WITH THE LUNATIC NATION, NOW MILITARILY DECIMATED, OF IRAN. THE U.S.A. NEEDS NOTHING FROM NATO, BUT \"NEVER FORGET\" THIS VERY IMPORTANT POINT IN TIME! President DONALD J. TRUMP"
-      },
-      {
-        "time": "10:39",
-        "text": "The Iranian negotiators are very different and \"strange.\" They are \"begging\" us to make a deal, which they should be doing since they have been militarily obliterated, with zero chance of a comeback, and yet they publicly state that they are only \"looking at our proposal.\" WRONG!!! They better get s"
-      },
       {
         "time": "10:43",
         "text": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024"
@@ -47,6 +31,22 @@
       {
         "time": "11:22",
         "text": "Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTER, something which they should do whether he makes a deal or not!!!"
+      },
+      {
+        "time": "18:30",
+        "text": "The Radical Left Democrats, and their “Leader,” Cryin’ Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici"
+      },
+      {
+        "time": "20:11",
+        "text": "As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time. Talks are ongoing and, despite erroneous statements to the contrary by the Fake News Media, and other"
+      },
+      {
+        "time": "22:29",
+        "text": "Congratulations to the International Olympic Committee on their decision to ban Men from Women's Sports. This is only happening because of my powerful Executive Order, standing up for Women and Girls! President DONALD J. TRUMP"
+      },
+      {
+        "time": "22:30",
+        "text": "The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici"
       }
     ]
   },
@@ -57,7 +57,7 @@
   ],
   "today_features": {
     "posts_11_20": true,
-    "avg_len_medium": true,
+    "avg_len_long": true,
     "caps_medium": true,
     "excl_heavy": true,
     "questions_no": true,
@@ -66,11 +66,25 @@
     "kw_deal": true,
     "kw_deal_2plus": true,
     "pre_deal": true,
+    "open_deal": true,
+    "kw_executive_order": true,
+    "kw_immediately": true,
+    "kw_immediately_2plus": true,
+    "open_immediately": true,
+    "kw_ban": true,
     "kw_ukraine": true,
     "pre_ukraine": true,
     "kw_iran": true,
     "kw_iran_2plus": true,
     "pre_iran": true,
+    "kw_energy": true,
+    "kw_great": true,
+    "kw_great_2plus": true,
+    "open_great": true,
+    "kw_incredible": true,
+    "kw_incredible_2plus": true,
+    "open_incredible": true,
+    "kw_fake": true,
     "kw_biden": true,
     "pre_biden": true,
     "kw_save_america": true,
@@ -82,6 +96,9 @@
     "kw_president_djt": true,
     "kw_president_djt_2plus": true,
     "pre_president_djt": true,
+    "kw_thank_you_for_your_attention": true,
+    "kw_thank_you_for_your_attention_2plus": true,
+    "open_thank_you_for_your_attention": true,
     "deal_without_tariff": true,
     "deal_no_tariff": true
   },
@@ -192,44 +209,44 @@
     "signal_adjusted": 1
   },
   "evolution_latest": {
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "crossover": 16,
-    "mutation": 10,
+    "mutation": 12,
     "distill": 16,
-    "total_new": 42,
+    "total_new": 44,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "is_friday",
-          "open_thank_you_for_your_attention",
-          "kw_beautiful"
+          "kw_signed",
+          "kw_trade",
+          "open_dow"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 91.7,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_never_let_you_down",
+          "kw_president_of_the_united_states"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 87.5,
+        "origin": "mutation_remove"
+      },
+      {
+        "features": [
+          "kw_inflation",
+          "kw_beautiful",
+          "avg_len_long"
         ],
         "direction": "LONG",
         "hold": 3,
         "score": 85.7,
         "origin": "crossover"
-      },
-      {
-        "features": [
-          "open_jobs",
-          "kw_deal",
-          "kw_trade"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 80.0,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_thank_you_for_your_attention",
-          "kw_perfect"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 80.0,
-        "origin": "mutation_remove"
       }
     ]
   },
@@ -237,7 +254,7 @@
     "TARIFF": 0.7,
     "DEAL": 0.55,
     "RELIEF": 0.95,
-    "ACTION": 0.945,
+    "ACTION": 0.95,
     "THREAT": 0.6,
     "CHINA": 0.6,
     "IRAN": 0.55,
@@ -245,7 +262,7 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "signals": [
       "DEAL",
       "IRAN",
