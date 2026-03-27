@@ -1,12 +1,12 @@
 {
   "type": "flash",
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T23:25:43.221708+00:00",
-  "post_id": "116303704274241748",
-  "post_content": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud:",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116303704274241748",
+  "generated_at": "2026-03-27T23:25:51.917683+00:00",
+  "post_id": "116303702670417000",
+  "post_content": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116303702670417000",
   "post_source": "Truth Social",
-  "post_time": "Fri, 27 Mar 2026 23:21:30 +0000",
+  "post_time": "Fri, 27 Mar 2026 23:21:06 +0000",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/27-flash-2325-zh.md",
-      "length": 877
+      "length": 875
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/27-flash-2325-en.md",
-      "length": 2199
+      "length": 2174
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/27-flash-2325-ja.md",
-      "length": 861
+      "length": 932
     }
   }
 }
