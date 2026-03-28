@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T21:50:55.110269+00:00",
+  "post_id": "116308992209421747",
+  "post_content": "Watch Mark Levin interview of Brilliant Marc Thiessen tonight at 8:00 P.M., on FoxNews. Will discuss the importance of hitting Iran, HARD!!! President DJT",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116308992209421747",
+  "post_source": "Truth Social",
+  "post_time": "Sat, 28 Mar 2026 21:46:18 +0000",
+  "signals": "THREAT, BEARISH",
+  "direction": "DOWN",
+  "confidence": 0.7,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/28-flash-2150-zh.md",
+      "length": 827
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/28-flash-2150-en.md",
+      "length": 1181
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/28-flash-2150-ja.md",
+      "length": 777
+    }
+  }
+}
