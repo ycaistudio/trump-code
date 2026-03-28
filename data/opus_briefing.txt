@@ -1,30 +1,20 @@
-# 川普密碼 Opus 簡報 — 2026-03-27
-準備時間: 2026-03-27T17:26:26Z
+# 川普密碼 Opus 簡報 — 2026-03-28
+準備時間: 2026-03-28T14:36:37Z
 
-## 今日推文: 16 篇
-時間: 2026-03-26T02:42:20.688Z ~ 2026-03-26T22:30:26.730Z
+## 今日推文: 5 篇
+時間: 2026-03-27T18:16:32.157Z ~ 2026-03-27T23:21:30.705Z
 
-[10:43] U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024
+[18:16] Going to make a big speech on economics in Miami. Our Military Operation in Iran is going GREAT! President DJT
 
-[10:43] I've Seen Enough: The Senate Is Broken, And It's Time To Change The Rules: https://www.dailywire.com/news/ive-seen-enough-the-senate-is-broken-and-its-time-to-change-the-rules
+[19:21] The Republicans should TERMINATE THE FILIBUSTER, and VOTE! Haven't they had enough of this nonsense from the Radical Left Lunatics that are looking to destroy our Country? MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
 
-[10:51] When is "enough, enough" for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving
+[23:20] TrumpRX website sees steady growth in prescription offerings, proving MAHA doubters wrong: https://justthenews.com/government/white-house/trumprx-website-sees-steady-growth-prescription-offerings-proving-maha
 
-[10:54] "You couldn't ask for more militarily. It will be studied with envy for many years to come!" Steve Yates on Fox & Friends First
+[23:21] U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024
 
-[10:59] TERMINATE THE FILIBUSTER!
+[23:21] NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: https://justthenews.com/government/courts-law/545ny-ag-letitia-james-referred-again-criminal-prosecution-homeowner
 
-[11:22] Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTER, something which they should do whether he makes a deal or not!!!
-
-[18:30] The Radical Left Democrats, and their “Leader,” Cryin’ Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici
-
-[20:11] As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time. Talks are ongoing and, despite erroneous statements to the contrary by the Fake News Media, and other
-
-[22:29] Congratulations to the International Olympic Committee on their decision to ban Men from Women's Sports. This is only happening because of my powerful Executive Order, standing up for Women and Girls! President DONALD J. TRUMP
-
-[22:30] The Radical Left Democrats, and their "Leader," Cryin' Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici
-
-## 關鍵字偵測到的信號: DEAL, IRAN, DEAL_ONLY
+## 關鍵字偵測到的信號: IRAN
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -48,7 +38,7 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 47 條規則
+## 規則進化: 新增 44 條規則
 
 ## 信號信心度
   ACTION: 0.95

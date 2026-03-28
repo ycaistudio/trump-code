@@ -1,106 +1,57 @@
 {
-  "date": "2026-03-27",
-  "prepared_at": "2026-03-27T17:26:26Z",
+  "date": "2026-03-28",
+  "prepared_at": "2026-03-28T14:36:37Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 16,
-    "latest": "The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They a",
-    "earliest_time": "2026-03-26T02:42:20.688Z",
-    "latest_time": "2026-03-26T22:30:26.730Z",
+    "count": 5,
+    "latest": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: https://justthenews.com/government/courts-law/545ny-ag-letitia-james-referred-again-criminal-prosecut",
+    "earliest_time": "2026-03-27T18:16:32.157Z",
+    "latest_time": "2026-03-27T23:21:30.705Z",
     "sample": [
       {
-        "time": "10:43",
+        "time": "18:16",
+        "text": "Going to make a big speech on economics in Miami. Our Military Operation in Iran is going GREAT! President DJT"
+      },
+      {
+        "time": "19:21",
+        "text": "The Republicans should TERMINATE THE FILIBUSTER, and VOTE! Haven't they had enough of this nonsense from the Radical Left Lunatics that are looking to destroy our Country? MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP"
+      },
+      {
+        "time": "23:20",
+        "text": "TrumpRX website sees steady growth in prescription offerings, proving MAHA doubters wrong: https://justthenews.com/government/white-house/trumprx-website-sees-steady-growth-prescription-offerings-proving-maha"
+      },
+      {
+        "time": "23:21",
         "text": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024"
       },
       {
-        "time": "10:43",
-        "text": "I've Seen Enough: The Senate Is Broken, And It's Time To Change The Rules: https://www.dailywire.com/news/ive-seen-enough-the-senate-is-broken-and-its-time-to-change-the-rules"
-      },
-      {
-        "time": "10:51",
-        "text": "When is \"enough, enough\" for our Republican Senators. There comes a time when you must do what should have been done a long time ago, and something which the Lunatic Democrats will do on day one, if they ever get the chance. TERMINATE THE FILIBUSTER, and get our airports, and everything else, moving"
-      },
-      {
-        "time": "10:54",
-        "text": "\"You couldn't ask for more militarily. It will be studied with envy for many years to come!\" Steve Yates on Fox & Friends First"
-      },
-      {
-        "time": "10:59",
-        "text": "TERMINATE THE FILIBUSTER!"
-      },
-      {
-        "time": "11:22",
-        "text": "Chuck Schumer, a desperate, crippled politician, who has lost control of the Radical Left Democrats, will make a deal now because he thinks that if he doesn't, Republicans will TERMINATE THE FILIBUSTER, something which they should do whether he makes a deal or not!!!"
-      },
-      {
-        "time": "18:30",
-        "text": "The Radical Left Democrats, and their “Leader,” Cryin’ Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici"
-      },
-      {
-        "time": "20:11",
-        "text": "As per Iranian Government request, please let this statement serve to represent that I am pausing the period of Energy Plant destruction by 10 Days to Monday, April 6, 2026, at 8 P.M., Eastern Time. Talks are ongoing and, despite erroneous statements to the contrary by the Fake News Media, and other"
-      },
-      {
-        "time": "22:29",
-        "text": "Congratulations to the International Olympic Committee on their decision to ban Men from Women's Sports. This is only happening because of my powerful Executive Order, standing up for Women and Girls! President DONALD J. TRUMP"
-      },
-      {
-        "time": "22:30",
-        "text": "The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where they stand, and that is, ON THE SIDE OF CRIMINAL ILLEGAL ALIENS, AND NOT THE AMERICAN PEOPLE. They are refusing to fund Immigration Enforcement unless the Republicans agree to their Open Border Polici"
+        "time": "23:21",
+        "text": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: https://justthenews.com/government/courts-law/545ny-ag-letitia-james-referred-again-criminal-prosecution-homeowner"
       }
     ]
   },
   "keyword_signals": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "today_features": {
-    "posts_11_20": true,
-    "avg_len_long": true,
+    "posts_1_5": true,
+    "avg_len_medium": true,
     "caps_medium": true,
-    "excl_heavy": true,
-    "questions_no": true,
-    "mostly_premarket": true,
-    "has_night": true,
-    "kw_deal": true,
-    "kw_deal_2plus": true,
-    "pre_deal": true,
-    "open_deal": true,
-    "kw_executive_order": true,
-    "kw_immediately": true,
-    "kw_immediately_2plus": true,
-    "open_immediately": true,
-    "kw_ban": true,
+    "excl_normal": true,
+    "mostly_after": true,
     "kw_ukraine": true,
-    "pre_ukraine": true,
     "kw_iran": true,
-    "kw_iran_2plus": true,
-    "pre_iran": true,
-    "kw_energy": true,
+    "open_iran": true,
     "kw_great": true,
     "kw_great_2plus": true,
     "open_great": true,
-    "kw_incredible": true,
-    "kw_incredible_2plus": true,
-    "open_incredible": true,
-    "kw_fake": true,
     "kw_biden": true,
-    "pre_biden": true,
-    "kw_save_america": true,
-    "kw_save_america_2plus": true,
-    "pre_save_america": true,
     "kw_filibuster": true,
-    "kw_filibuster_2plus": true,
-    "pre_filibuster": true,
+    "open_filibuster": true,
     "kw_president_djt": true,
-    "kw_president_djt_2plus": true,
-    "pre_president_djt": true,
-    "kw_thank_you_for_your_attention": true,
-    "kw_thank_you_for_your_attention_2plus": true,
-    "open_thank_you_for_your_attention": true,
-    "deal_without_tariff": true,
-    "deal_no_tariff": true
+    "open_president_djt": true,
+    "is_friday": true,
+    "volume_falling_3d": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -209,45 +160,43 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-03-27",
+    "date": "2026-03-28",
     "crossover": 16,
-    "mutation": 13,
+    "mutation": 10,
     "distill": 18,
-    "total_new": 47,
+    "total_new": 44,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "is_friday",
-          "kw_economy",
-          "kw_trade"
+          "kw_tariff_2plus",
+          "kw_president_of_the_united_states"
         ],
         "direction": "LONG",
         "hold": 2,
-        "score": 87.5,
+        "score": 84.4,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_jobs",
-          "posts_21_35",
-          "kw_fantastic"
+          "open_deal",
+          "kw_biden",
+          "kw_thank_you_for_your_attention"
         ],
         "direction": "LONG",
         "hold": 3,
         "score": 83.3,
-        "origin": "mutation_replace"
+        "origin": "crossover"
       },
       {
         "features": [
-          "open_dow",
-          "kw_maga",
-          "kw_thank_you_for_your_attention"
+          "is_friday",
+          "kw_economy"
         ],
         "direction": "LONG",
         "hold": 1,
-        "score": 82.9,
-        "origin": "crossover"
+        "score": 81.2,
+        "origin": "distilled"
       }
     ]
   },
@@ -263,11 +212,9 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-27",
+    "date": "2026-03-28",
     "signals": [
-      "DEAL",
-      "IRAN",
-      "DEAL_ONLY"
+      "IRAN"
     ],
     "opportunities": [],
     "total_scanned": 0

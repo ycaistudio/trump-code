@@ -666,5 +666,46 @@
         "origin": "crossover"
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "crossover": 16,
+    "mutation": 10,
+    "distill": 18,
+    "total_new": 44,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_tariff_2plus",
+          "kw_president_of_the_united_states"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 84.4,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_deal",
+          "kw_biden",
+          "kw_thank_you_for_your_attention"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 83.3,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "is_friday",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 1,
+        "score": 81.2,
+        "origin": "distilled"
+      }
+    ]
   }
 ]

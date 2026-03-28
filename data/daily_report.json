@@ -1,15 +1,13 @@
 {
-  "date": "2026-03-27",
-  "generated_at": "2026-03-27T17:26:19Z",
-  "posts_today": 16,
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T14:36:32Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-03-26T22:30",
-    "content_preview": "The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where "
+    "time": "2026-03-27T23:21",
+    "content_preview": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h"
   },
   "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -24,12 +22,12 @@
   },
   "sp500_latest": {
     "date": "2026-03-27",
-    "close": 6397.52
+    "close": 6368.85
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-27\nPosts today: 16 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where ",
-    "zh": "川普密碼每日報告 -- 2026-03-27\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where ",
-    "ja": "トランプ・コード日次レポート -- 2026-03-27\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: The Radical Left Democrats, and their \"Leader,\" Cryin' Chuck Schumer, have made it very clear where "
+    "en": "Trump Code Daily Report -- 2026-03-28\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h",
+    "zh": "川普密碼每日報告 -- 2026-03-28\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h",
+    "ja": "トランプ・コード日次レポート -- 2026-03-28\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h"
   },
   "triggered_rules_sample": []
 }
