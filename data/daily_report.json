@@ -1,14 +1,12 @@
 {
-  "date": "2026-03-28",
-  "generated_at": "2026-03-28T14:36:32Z",
-  "posts_today": 5,
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T14:38:08Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-03-27T23:21",
-    "content_preview": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h"
+    "time": "2026-03-29T13:41",
+    "content_preview": "The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma"
   },
-  "signals_detected": [
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -25,9 +23,9 @@
     "close": 6368.85
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-28\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h",
-    "zh": "川普密碼每日報告 -- 2026-03-28\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h",
-    "ja": "トランプ・コード日次レポート -- 2026-03-28\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: h"
+    "en": "Trump Code Daily Report -- 2026-03-29\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma",
+    "zh": "川普密碼每日報告 -- 2026-03-29\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma",
+    "ja": "トランプ・コード日次レポート -- 2026-03-29\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma"
   },
   "triggered_rules_sample": []
 }

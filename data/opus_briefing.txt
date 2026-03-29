@@ -1,20 +1,16 @@
-# 川普密碼 Opus 簡報 — 2026-03-28
-準備時間: 2026-03-28T14:36:37Z
+# 川普密碼 Opus 簡報 — 2026-03-29
+準備時間: 2026-03-29T14:38:12Z
 
-## 今日推文: 5 篇
-時間: 2026-03-27T18:16:32.157Z ~ 2026-03-27T23:21:30.705Z
+## 今日推文: 4 篇
+時間: 2026-03-29T09:24:02.191Z ~ 2026-03-29T13:41:43.648Z
 
-[18:16] Going to make a big speech on economics in Miami. Our Military Operation in Iran is going GREAT! President DJT
+[09:24] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311734865111326
 
-[19:21] The Republicans should TERMINATE THE FILIBUSTER, and VOTE! Haven't they had enough of this nonsense from the Radical Left Lunatics that are looking to destroy our Country? MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP
+[09:24] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311737094738589
 
-[23:20] TrumpRX website sees steady growth in prescription offerings, proving MAHA doubters wrong: https://justthenews.com/government/white-house/trumprx-website-sees-steady-growth-prescription-offerings-proving-maha
+[09:25] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311739381872611
 
-[23:21] U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024
-
-[23:21] NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: https://justthenews.com/government/courts-law/545ny-ag-letitia-james-referred-again-criminal-prosecution-homeowner
-
-## 關鍵字偵測到的信號: IRAN
+[13:41] The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being made directly to THE PEOPLE, so that they can buy their own Healthcare, rather than to bloated and uncaring Insurance Companies. ObamaCare is not and, never has been, sustainable!
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -38,7 +34,7 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 44 條規則
+## 規則進化: 新增 45 條規則
 
 ## 信號信心度
   ACTION: 0.95

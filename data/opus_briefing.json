@@ -1,57 +1,45 @@
 {
-  "date": "2026-03-28",
-  "prepared_at": "2026-03-28T14:36:37Z",
+  "date": "2026-03-29",
+  "prepared_at": "2026-03-29T14:38:12Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 5,
-    "latest": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: https://justthenews.com/government/courts-law/545ny-ag-letitia-james-referred-again-criminal-prosecut",
-    "earliest_time": "2026-03-27T18:16:32.157Z",
-    "latest_time": "2026-03-27T23:21:30.705Z",
+    "count": 4,
+    "latest": "The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being made directly to THE PEOPLE, so that they can buy their own Healthcare, rather than to bloated and unc",
+    "earliest_time": "2026-03-29T09:24:02.191Z",
+    "latest_time": "2026-03-29T13:41:43.648Z",
     "sample": [
       {
-        "time": "18:16",
-        "text": "Going to make a big speech on economics in Miami. Our Military Operation in Iran is going GREAT! President DJT"
+        "time": "09:24",
+        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311734865111326"
       },
       {
-        "time": "19:21",
-        "text": "The Republicans should TERMINATE THE FILIBUSTER, and VOTE! Haven't they had enough of this nonsense from the Radical Left Lunatics that are looking to destroy our Country? MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP"
+        "time": "09:24",
+        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311737094738589"
       },
       {
-        "time": "23:20",
-        "text": "TrumpRX website sees steady growth in prescription offerings, proving MAHA doubters wrong: https://justthenews.com/government/white-house/trumprx-website-sees-steady-growth-prescription-offerings-proving-maha"
+        "time": "09:25",
+        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311739381872611"
       },
       {
-        "time": "23:21",
-        "text": "U.S. intercepted Ukraine government messages discussing plot to route money to Biden re-election: https://justthenews.com/government/security/nsa-intercepted-ukraine-government-messages-discussing-effort-route-money-2024"
-      },
-      {
-        "time": "23:21",
-        "text": "NY AG Letitia James referred again for criminal prosecution for alleged homeowner insurance fraud: https://justthenews.com/government/courts-law/545ny-ag-letitia-james-referred-again-criminal-prosecution-homeowner"
+        "time": "13:41",
+        "text": "The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being made directly to THE PEOPLE, so that they can buy their own Healthcare, rather than to bloated and uncaring Insurance Companies. ObamaCare is not and, never has been, sustainable!"
       }
     ]
   },
-  "keyword_signals": [
-    "IRAN"
-  ],
   "today_features": {
     "posts_1_5": true,
-    "avg_len_medium": true,
-    "caps_medium": true,
-    "excl_normal": true,
-    "mostly_after": true,
-    "kw_ukraine": true,
-    "kw_iran": true,
-    "open_iran": true,
-    "kw_great": true,
-    "kw_great_2plus": true,
-    "open_great": true,
-    "kw_biden": true,
-    "kw_filibuster": true,
-    "open_filibuster": true,
-    "kw_president_djt": true,
-    "open_president_djt": true,
-    "is_friday": true,
-    "volume_falling_3d": true
+    "avg_len_short": true,
+    "caps_low": true,
+    "excl_none": true,
+    "questions_no": true,
+    "mostly_premarket": true,
+    "kw_obama": true,
+    "open_obama": true,
+    "kw_obamacare": true,
+    "open_obamacare": true,
+    "is_weekend": true,
+    "volume_falling_3d": true,
+    "volume_drop": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -160,28 +148,29 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-03-28",
+    "date": "2026-03-29",
     "crossover": 16,
-    "mutation": 10,
+    "mutation": 11,
     "distill": 18,
-    "total_new": 44,
+    "total_new": 45,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_tariff_2plus",
-          "kw_president_of_the_united_states"
+          "kw_thank_you_for_your_attention",
+          "kw_never_let_you_down",
+          "kw_jobs"
         ],
         "direction": "LONG",
-        "hold": 2,
-        "score": 84.4,
+        "hold": 3,
+        "score": 91.7,
         "origin": "crossover"
       },
       {
         "features": [
-          "open_deal",
           "kw_biden",
-          "kw_thank_you_for_your_attention"
+          "kw_tariffs",
+          "kw_tremendous"
         ],
         "direction": "LONG",
         "hold": 3,
@@ -190,13 +179,14 @@
       },
       {
         "features": [
+          "kw_trade",
           "is_friday",
-          "kw_economy"
+          "kw_tariff"
         ],
         "direction": "LONG",
-        "hold": 1,
-        "score": 81.2,
-        "origin": "distilled"
+        "hold": 2,
+        "score": 83.3,
+        "origin": "crossover"
       }
     ]
   },

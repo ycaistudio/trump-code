@@ -707,5 +707,48 @@
         "origin": "distilled"
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "crossover": 16,
+    "mutation": 11,
+    "distill": 18,
+    "total_new": 45,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "kw_never_let_you_down",
+          "kw_jobs"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 91.7,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_biden",
+          "kw_tariffs",
+          "kw_tremendous"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 83.3,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_trade",
+          "is_friday",
+          "kw_tariff"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 83.3,
+        "origin": "crossover"
+      }
+    ]
   }
 ]
