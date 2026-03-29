@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-28",
+  "generated_at": "2026-03-29T04:01:12.951453+00:00",
+  "posts_count": 5,
+  "source_urls": [
+    "https://truthsocial.com/@realDonaldTrump/posts/116308992209421747",
+    "https://truthsocial.com/@realDonaldTrump/posts/116309106577650785",
+    "https://truthsocial.com/@realDonaldTrump/posts/116309190231389438",
+    "https://truthsocial.com/@realDonaldTrump/posts/116309192353741463",
+    "https://truthsocial.com/@realDonaldTrump/posts/116309194049631675"
+  ],
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/28-zh.md",
+      "length": 1477
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/28-en.md",
+      "length": 3505
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/28-ja.md",
+      "length": 1582
+    }
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Trump Code Daily Analysis 2026-03-28",
+    "alternativeHeadline": "川普密碼日報 2026-03-28",
+    "datePublished": "2026-03-28",
+    "dateModified": "2026-03-29",
+    "author": {
+      "@type": "Organization",
+      "name": "Washin Mura (和心村)",
+      "url": "https://washinmura.jp"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "TRUMP CODE",
+      "url": "https://trumpcode.washinmura.jp"
+    },
+    "inLanguage": [
+      "zh-TW",
+      "en",
+      "ja"
+    ],
+    "url": "https://trumpcode.washinmura.jp/daily.html?date=2026-03-28",
+    "isAccessibleForFree": true,
+    "about": "AI analysis of Trump social media posts and stock market impact"
+  }
+}
