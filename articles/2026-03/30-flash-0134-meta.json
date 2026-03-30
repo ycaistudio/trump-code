@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T01:34:12.333569+00:00",
+  "post_id": "116315523560021437",
+  "post_content": "Trump admin makes new criminal referrals to DOJ targeting New York AG Letitia James:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116315523560021437",
+  "post_source": "Truth Social",
+  "post_time": "Mon, 30 Mar 2026 01:27:18 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0134-zh.md",
+      "length": 827
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0134-en.md",
+      "length": 2261
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0134-ja.md",
+      "length": 871
+    }
+  }
+}
