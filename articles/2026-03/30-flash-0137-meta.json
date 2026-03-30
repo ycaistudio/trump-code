@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T01:37:12.440046+00:00",
+  "post_id": "116315538702242081",
+  "post_content": "Bill Pulte files new criminal referral against Trump foe Letitia James:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116315538702242081",
+  "post_source": "Truth Social",
+  "post_time": "Mon, 30 Mar 2026 01:31:09 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0137-zh.md",
+      "length": 837
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0137-en.md",
+      "length": 1156
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0137-ja.md",
+      "length": 847
+    }
+  }
+}
