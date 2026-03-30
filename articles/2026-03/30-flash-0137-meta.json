@@ -1,12 +1,12 @@
 {
   "type": "flash",
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T01:37:29.912685+00:00",
-  "post_id": "116315536925726627",
-  "post_content": "Trump housing chief requests new criminal investigation into Letitia James:",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116315536925726627",
+  "generated_at": "2026-03-30T01:37:38.512999+00:00",
+  "post_id": "116315535910048103",
+  "post_content": "Top Trump housing official issues new criminal referral for New York AG Letitia James:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116315535910048103",
   "post_source": "Truth Social",
-  "post_time": "Mon, 30 Mar 2026 01:30:42 +0000",
+  "post_time": "Mon, 30 Mar 2026 01:30:27 +0000",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0137-zh.md",
-      "length": 832
+      "length": 806
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0137-en.md",
-      "length": 1240
+      "length": 1213
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-0137-ja.md",
-      "length": 890
+      "length": 939
     }
   }
 }
