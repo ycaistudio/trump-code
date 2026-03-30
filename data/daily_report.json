@@ -1,12 +1,17 @@
 {
-  "date": "2026-03-29",
-  "generated_at": "2026-03-29T14:38:08Z",
-  "posts_today": 4,
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T15:08:26Z",
+  "posts_today": 16,
   "latest_post": {
-    "time": "2026-03-29T13:41",
-    "content_preview": "The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma"
+    "time": "2026-03-30T12:27",
+    "content_preview": "The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "TARIFF",
+    "DEAL",
+    "CHINA",
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +24,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-03-27",
-    "close": 6368.85
+    "date": "2026-03-30",
+    "close": 6391.99
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-29\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma",
-    "zh": "川普密碼每日報告 -- 2026-03-29\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma",
-    "ja": "トランプ・コード日次レポート -- 2026-03-29\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being ma"
+    "en": "Trump Code Daily Report -- 2026-03-30\nPosts today: 16 | Models triggered: 0\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec",
+    "zh": "川普密碼每日報告 -- 2026-03-30\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec",
+    "ja": "トランプ・コード日次レポート -- 2026-03-30\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec"
   },
   "triggered_rules_sample": []
 }

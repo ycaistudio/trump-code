@@ -1,45 +1,94 @@
 {
-  "date": "2026-03-29",
-  "prepared_at": "2026-03-29T14:38:12Z",
+  "date": "2026-03-30",
+  "prepared_at": "2026-03-30T15:08:31Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 4,
-    "latest": "The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being made directly to THE PEOPLE, so that they can buy their own Healthcare, rather than to bloated and unc",
-    "earliest_time": "2026-03-29T09:24:02.191Z",
-    "latest_time": "2026-03-29T13:41:43.648Z",
+    "count": 16,
+    "latest": "The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-security/5804535-the-current-war-in-iran-may-prevent-much-greater-bloodshed/",
+    "earliest_time": "2026-03-30T01:06:58.861Z",
+    "latest_time": "2026-03-30T12:27:45.625Z",
     "sample": [
       {
-        "time": "09:24",
-        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311734865111326"
+        "time": "01:29",
+        "text": "JUST IN: Federal Housing Regulator Bill Pulte Criminally Refers Embattled New York Attorney General Letitia James for Homeowner Insurance Fraud: https://www.thegatewaypundit.com/2026/03/housing-regulator-pulte-criminally-refers-embattled-new-york/"
       },
       {
-        "time": "09:24",
-        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311737094738589"
+        "time": "01:30",
+        "text": "Top Trump housing official issues new criminal referral for New York AG Letitia James: https://www.cnn.com/2026/03/25/politics/bill-pulte-criminal-referral-letitia-james"
       },
       {
-        "time": "09:25",
-        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116311739381872611"
+        "time": "01:30",
+        "text": "Trump housing chief requests new criminal investigation into Letitia James: https://www.theguardian.com/us-news/2026/mar/25/trump-letitia-james-mortgage-fraud-investigation-referral"
       },
       {
-        "time": "13:41",
-        "text": "The Unaffordable Care Act, sometimes referred to as ObamaCare, must be replaced by payments being made directly to THE PEOPLE, so that they can buy their own Healthcare, rather than to bloated and uncaring Insurance Companies. ObamaCare is not and, never has been, sustainable!"
+        "time": "01:31",
+        "text": "Bill Pulte files new criminal referral against Trump foe Letitia James: https://www.washingtonexaminer.com/news/justice/4504109/bill-pulte-criminal-referral-letitia-james/"
+      },
+      {
+        "time": "01:35",
+        "text": "Top Trump Housing Official Seeks New Prosecution Of Letitia James: https://www.binnews.com/content/2026-03-26-top-trump-housing-official-seeks-new-prosecution-of-letitia-james/"
+      },
+      {
+        "time": "02:23",
+        "text": "Congratulations to a great guy, and golfer, Gary Woodland, on his big win today in the Texas Children's Houston Open. He shot 21 under par! What a GREAT comeback from a serious health problem he has achieved. Gary is a total WINNER!!! President DONALD J. TRUMP"
+      },
+      {
+        "time": "02:29",
+        "text": "Big day in Iran. Many long sought after targets have been taken out and destroyed by our GREAT MILITARY, the finest and most lethal in the World. God bless you all! President DJT"
+      },
+      {
+        "time": "10:47",
+        "text": "Birthright Citizenship is not about rich people from China, and the rest of the World, who want their children, and hundreds of thousands more, FOR PAY, to ridiculously become citizens of the United States of America. It is about the BABIES OF SLAVES! We are the only Country in the World that dignif"
+      },
+      {
+        "time": "11:26",
+        "text": "The United States of America is in serious discussions with A NEW, AND MORE REASONABLE, REGIME to end our Military Operations in Iran. Great progress has been made but, if for any reason a deal is not shortly reached, which it probably will be, and if the Hormuz Strait is not immediately \"Open for B"
+      },
+      {
+        "time": "12:27",
+        "text": "The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-security/5804535-the-current-war-in-iran-may-prevent-much-greater-bloodshed/"
       }
     ]
   },
+  "keyword_signals": [
+    "TARIFF",
+    "DEAL",
+    "CHINA",
+    "IRAN"
+  ],
   "today_features": {
-    "posts_1_5": true,
-    "avg_len_short": true,
-    "caps_low": true,
-    "excl_none": true,
-    "questions_no": true,
-    "mostly_premarket": true,
-    "kw_obama": true,
-    "open_obama": true,
-    "kw_obamacare": true,
-    "open_obamacare": true,
-    "is_weekend": true,
+    "posts_11_20": true,
+    "avg_len_medium": true,
+    "caps_medium": true,
+    "excl_normal": true,
+    "has_night": true,
+    "heavy_night": true,
+    "kw_tariff": true,
+    "pre_tariff": true,
+    "kw_tariffs": true,
+    "pre_tariffs": true,
+    "kw_deal": true,
+    "pre_deal": true,
+    "kw_immediately": true,
+    "pre_immediately": true,
+    "kw_china": true,
+    "pre_china": true,
+    "kw_iran": true,
+    "kw_iran_2plus": true,
+    "pre_iran": true,
+    "kw_oil": true,
+    "pre_oil": true,
+    "kw_great": true,
+    "kw_great_2plus": true,
+    "pre_great": true,
+    "kw_stupid": true,
+    "pre_stupid": true,
+    "kw_president_djt": true,
+    "kw_thank_you_for_your_attention": true,
+    "pre_thank_you_for_your_attention": true,
+    "is_monday": true,
     "volume_falling_3d": true,
-    "volume_drop": true
+    "both_tariff_and_deal": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -148,44 +197,44 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-03-29",
+    "date": "2026-03-30",
     "crossover": 16,
-    "mutation": 11,
+    "mutation": 16,
     "distill": 18,
-    "total_new": 45,
+    "total_new": 50,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_thank_you_for_your_attention",
-          "kw_never_let_you_down",
+          "volume_falling_3d",
+          "kw_immediately",
+          "kw_beautiful"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 92.9,
+        "origin": "mutation_replace"
+      },
+      {
+        "features": [
+          "open_dow",
+          "kw_signed",
+          "kw_tariffs"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 90.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_economy",
+          "questions_yes",
           "kw_jobs"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 91.7,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_biden",
-          "kw_tariffs",
-          "kw_tremendous"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 83.3,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_trade",
-          "is_friday",
-          "kw_tariff"
-        ],
-        "direction": "LONG",
-        "hold": 2,
-        "score": 83.3,
+        "score": 87.5,
         "origin": "crossover"
       }
     ]
@@ -202,8 +251,11 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-28",
+    "date": "2026-03-30",
     "signals": [
+      "TARIFF",
+      "DEAL",
+      "CHINA",
       "IRAN"
     ],
     "opportunities": [],
