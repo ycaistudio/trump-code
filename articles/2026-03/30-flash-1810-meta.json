@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T18:10:33.059322+00:00",
+  "post_id": "116319451196898238",
+  "post_content": "",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116319451196898238",
+  "post_source": "Truth Social",
+  "post_time": "Mon, 30 Mar 2026 18:06:09 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-1810-zh.md",
+      "length": 693
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-1810-en.md",
+      "length": 627
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/30-flash-1810-ja.md",
+      "length": 550
+    }
+  }
+}
