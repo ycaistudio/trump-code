@@ -1,15 +1,12 @@
 {
-  "date": "2026-03-30",
-  "generated_at": "2026-03-30T15:08:26Z",
-  "posts_today": 16,
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T15:06:24Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-03-30T12:27",
-    "content_preview": "The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec"
+    "time": "2026-03-31T13:21",
+    "content_preview": "Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom"
   },
   "signals_detected": [
-    "TARIFF",
-    "DEAL",
-    "CHINA",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -24,13 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-03-30",
-    "close": 6391.99
+    "date": "2026-03-31",
+    "close": 6435.77
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-03-30\nPosts today: 16 | Models triggered: 0\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec",
-    "zh": "川普密碼每日報告 -- 2026-03-30\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec",
-    "ja": "トランプ・コード日次レポート -- 2026-03-30\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-sec"
+    "en": "Trump Code Daily Report -- 2026-03-31\nPosts today: 6 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom",
+    "zh": "川普密碼每日報告 -- 2026-03-31\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom",
+    "ja": "トランプ・コード日次レポート -- 2026-03-31\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom"
   },
   "triggered_rules_sample": []
 }

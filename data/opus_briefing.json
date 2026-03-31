@@ -1,94 +1,76 @@
 {
-  "date": "2026-03-30",
-  "prepared_at": "2026-03-30T15:08:31Z",
+  "date": "2026-03-31",
+  "prepared_at": "2026-03-31T15:06:56Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 16,
-    "latest": "The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-security/5804535-the-current-war-in-iran-may-prevent-much-greater-bloodshed/",
-    "earliest_time": "2026-03-30T01:06:58.861Z",
-    "latest_time": "2026-03-30T12:27:45.625Z",
+    "count": 6,
+    "latest": "Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a b",
+    "earliest_time": "2026-03-31T09:21:00.000Z",
+    "latest_time": "2026-03-31T13:21:04.917Z",
     "sample": [
       {
-        "time": "01:29",
-        "text": "JUST IN: Federal Housing Regulator Bill Pulte Criminally Refers Embattled New York Attorney General Letitia James for Homeowner Insurance Fraud: https://www.thegatewaypundit.com/2026/03/housing-regulator-pulte-criminally-refers-embattled-new-york/"
+        "time": "09:21",
+        "text": "All of those countries that can’t get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait,"
       },
       {
-        "time": "01:30",
-        "text": "Top Trump housing official issues new criminal referral for New York AG Letitia James: https://www.cnn.com/2026/03/25/politics/bill-pulte-criminal-referral-letitia-james"
+        "time": "10:53",
+        "text": "The Country of France wouldn’t let planes headed to Israel, loaded up with military supplies, fly over French territory. France has been VERY UNHELPFUL with respect to the “Butcher of Iran,” who has been successfully eliminated! The U.S.A. will REMEMBER!!! President DJT"
       },
       {
-        "time": "01:30",
-        "text": "Trump housing chief requests new criminal investigation into Letitia James: https://www.theguardian.com/us-news/2026/mar/25/trump-letitia-james-mortgage-fraud-investigation-referral"
+        "time": "11:11",
+        "text": "All of those countries that can't get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait,"
       },
       {
-        "time": "01:31",
-        "text": "Bill Pulte files new criminal referral against Trump foe Letitia James: https://www.washingtonexaminer.com/news/justice/4504109/bill-pulte-criminal-referral-letitia-james/"
+        "time": "11:19",
+        "text": "The Country of France wouldn't let planes headed to Israel, loaded up with military supplies, fly over French territory. France has been VERY UNHELPFUL with respect to the \"Butcher of Iran,\" who has been successfully eliminated! The U.S.A. will REMEMBER!!! President DJT"
       },
       {
-        "time": "01:35",
-        "text": "Top Trump Housing Official Seeks New Prosecution Of Letitia James: https://www.binnews.com/content/2026-03-26-top-trump-housing-official-seeks-new-prosecution-of-letitia-james/"
+        "time": "13:15",
+        "text": "Netanyahu to Newsmax: Trump Has Shown 'Tremendous Leadership': https://www.newsmax.com/newsmax-tv/benjamin-netanyahu-israel-donald-trump/2026/03/30/id/1251249/"
       },
       {
-        "time": "02:23",
-        "text": "Congratulations to a great guy, and golfer, Gary Woodland, on his big win today in the Texas Children's Houston Open. He shot 21 under par! What a GREAT comeback from a serious health problem he has achieved. Gary is a total WINNER!!! President DONALD J. TRUMP"
-      },
-      {
-        "time": "02:29",
-        "text": "Big day in Iran. Many long sought after targets have been taken out and destroyed by our GREAT MILITARY, the finest and most lethal in the World. God bless you all! President DJT"
-      },
-      {
-        "time": "10:47",
-        "text": "Birthright Citizenship is not about rich people from China, and the rest of the World, who want their children, and hundreds of thousands more, FOR PAY, to ridiculously become citizens of the United States of America. It is about the BABIES OF SLAVES! We are the only Country in the World that dignif"
-      },
-      {
-        "time": "11:26",
-        "text": "The United States of America is in serious discussions with A NEW, AND MORE REASONABLE, REGIME to end our Military Operations in Iran. Great progress has been made but, if for any reason a deal is not shortly reached, which it probably will be, and if the Hormuz Strait is not immediately \"Open for B"
-      },
-      {
-        "time": "12:27",
-        "text": "The current war in Iran may prevent much greater bloodshed: https://thehill.com/opinion/national-security/5804535-the-current-war-in-iran-may-prevent-much-greater-bloodshed/"
+        "time": "13:21",
+        "text": "Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a beautiful Banquet Dinner at the White House on the evening of April 28th. This momentous occasion wil"
       }
     ]
   },
   "keyword_signals": [
-    "TARIFF",
-    "DEAL",
-    "CHINA",
     "IRAN"
   ],
   "today_features": {
-    "posts_11_20": true,
-    "avg_len_medium": true,
+    "posts_6_10": true,
+    "avg_len_long": true,
     "caps_medium": true,
-    "excl_normal": true,
-    "has_night": true,
-    "heavy_night": true,
-    "kw_tariff": true,
-    "pre_tariff": true,
-    "kw_tariffs": true,
-    "pre_tariffs": true,
-    "kw_deal": true,
-    "pre_deal": true,
-    "kw_immediately": true,
-    "pre_immediately": true,
-    "kw_china": true,
-    "pre_china": true,
+    "excl_heavy": true,
+    "questions_no": true,
+    "mostly_premarket": true,
+    "kw_delay": true,
+    "kw_delay_2plus": true,
+    "pre_delay": true,
+    "kw_ban": true,
+    "pre_ban": true,
     "kw_iran": true,
     "kw_iran_2plus": true,
     "pre_iran": true,
+    "kw_israel": true,
+    "kw_israel_2plus": true,
+    "pre_israel": true,
     "kw_oil": true,
+    "kw_oil_2plus": true,
     "pre_oil": true,
     "kw_great": true,
-    "kw_great_2plus": true,
     "pre_great": true,
-    "kw_stupid": true,
-    "pre_stupid": true,
+    "kw_tremendous": true,
+    "pre_tremendous": true,
+    "kw_historic": true,
+    "pre_historic": true,
+    "kw_beautiful": true,
+    "pre_beautiful": true,
     "kw_president_djt": true,
-    "kw_thank_you_for_your_attention": true,
-    "pre_thank_you_for_your_attention": true,
-    "is_monday": true,
-    "volume_falling_3d": true,
-    "both_tariff_and_deal": true
+    "kw_president_djt_2plus": true,
+    "pre_president_djt": true,
+    "kw_president_of_the_united_states": true,
+    "pre_president_of_the_united_states": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -197,44 +179,44 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "crossover": 16,
-    "mutation": 16,
-    "distill": 18,
-    "total_new": 50,
+    "mutation": 11,
+    "distill": 16,
+    "total_new": 43,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "volume_falling_3d",
-          "kw_immediately",
-          "kw_beautiful"
-        ],
-        "direction": "LONG",
-        "hold": 2,
-        "score": 92.9,
-        "origin": "mutation_replace"
-      },
-      {
-        "features": [
-          "open_dow",
           "kw_signed",
-          "kw_tariffs"
+          "volume_falling_3d"
         ],
         "direction": "LONG",
         "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_trade",
+          "kw_biden",
+          "kw_beautiful"
+        ],
+        "direction": "LONG",
+        "hold": 1,
         "score": 90.0,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_economy",
-          "questions_yes",
-          "kw_jobs"
+          "kw_dow_2plus",
+          "kw_corrupt",
+          "kw_tariff",
+          "kw_tremendous"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 87.5,
+        "score": 85.7,
         "origin": "crossover"
       }
     ]
@@ -251,11 +233,8 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "signals": [
-      "TARIFF",
-      "DEAL",
-      "CHINA",
       "IRAN"
     ],
     "opportunities": [],
