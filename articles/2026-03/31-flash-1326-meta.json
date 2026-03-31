@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T13:26:03.837136+00:00",
+  "post_id": "116323992527197622",
+  "post_content": "Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a b",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116323992527197622",
+  "post_source": "Truth Social",
+  "post_time": "Tue, 31 Mar 2026 13:21:04 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/31-flash-1326-zh.md",
+      "length": 837
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/31-flash-1326-en.md",
+      "length": 2274
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-03/31-flash-1326-ja.md",
+      "length": 838
+    }
+  }
+}
