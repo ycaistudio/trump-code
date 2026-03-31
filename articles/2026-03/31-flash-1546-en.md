@@ -1,34 +1,23 @@
-⚡ Trump Code | Flash — 空白貼文偵測
+抱歉，WebFetch 被擋住了。但核心問題是：**這則推文的原文內容是空的**——你傳過來的資料在兩個 `---` 之間沒有任何文字，信號偵測也顯示信心度 0%。
 
-## 發生什麼事
+這代表兩種可能：
 
-川普於 2026-03-31 15:45 UTC 在 Truth Social 發布了一則**無內容貼文**（post ID: 116324560991145598）。貼文本體為空白，無文字、無圖片、無影片附件。
+1. **RSS 抓取時內容遺失**（Truth Social 有時會回傳空 body，尤其是圖片/影片 only 的貼文）
+2. **該貼文是純圖片或轉發**，沒有文字內容可解析
 
-## 信號分析
+沒有原文內容，我無法產出有意義的快報。硬寫會違反 no-fabricate 原則。
 
-NLP 系統偵測結果：**NEUTRAL，信心度 0%**。由於貼文無可解析內容，551 條驗證規則均未觸發，z-score 5.39 反映的是系統對「無信號」的高度確信，而非對市場方向的判斷。
+**建議：**
+- 檢查 RSS pipeline 這筆 `116324560241476454` 的 raw payload，確認是否有 `content` 或 `attachment` 欄位
+- 如果是圖片貼文，pipeline 可能需要加圖片 OCR 或 attachment 偵測邏輯
 
-## 為什麼值得注意
-
-空白貼文通常代表三種情況之一：
-
-1. **草稿誤發** — 最常見，通常數分鐘內刪除或重發含內容版本
-2. **平台技術問題** — Truth Social API 偶發的內容遺失
-3. **刻意試探** — 極少見，但過去曾有政治人物用空白貼文測試媒體反應速度
-
-## 建議關注
-
-- **未來 30 分鐘**：監控該帳號是否刪除此貼文並重發新內容——若重發含政策關鍵字，市場可能延遲反應
-- **Truth Social 帳號動態**：觀察是否有後續修正貼文
-- 目前**無需調整倉位**，此貼文不構成任何方向性信號
-
-**結論：純雜訊事件，維持現有觀察頻率即可。**
+要我去查 pipeline log 看這筆的原始資料嗎？
 
 ---
 **📋 Sources & Methodology**
 - Original post: Truth Social
-- Source URL: https://truthsocial.com/@realDonaldTrump/116324560991145598
-- Posted: Tue, 31 Mar 2026 15:45:38 +0000
+- Source URL: https://truthsocial.com/@realDonaldTrump/116324560241476454
+- Posted: Tue, 31 Mar 2026 15:45:27 +0000
 - Analysis engine: Trump Code AI (Claude Opus / Gemini Flash)
 - Signal detection: 551 validated rules from 7,400+ posts (z=5.39)
 - Method: NLP keyword classification → LLM causal reasoning → confidence scoring
