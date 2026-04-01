@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T16:55:50.875977+00:00",
+  "post_id": "116330487356155648",
+  "post_content": "Republicans fully support our Great Men and Women of Law Enforcement, maybe the word should be, LOVE! America thanks each and every one of our wonderful Police, Border Patrol, ICE, and others, for the",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116330487356155648",
+  "post_source": "Truth Social",
+  "post_time": "Wed, 01 Apr 2026 16:52:48 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/01-flash-1655-zh.md",
+      "length": 820
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/01-flash-1655-en.md",
+      "length": 2039
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/01-flash-1655-ja.md",
+      "length": 836
+    }
+  }
+}
