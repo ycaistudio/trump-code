@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T23:21:03.219338+00:00",
+  "post_id": "116331993306678428",
+  "post_content": "It is my Great Honor to nominate Jeffrey Kuntz to serve as Judge on the United States District Court for the Southern District of Florida. As the Highly Respected Chief Judge of Florida’s Fourth Distr",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116331993306678428",
+  "post_source": "Truth Social",
+  "post_time": "Wed, 01 Apr 2026 23:15:47 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/01-flash-2321-zh.md",
+      "length": 788
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/01-flash-2321-en.md",
+      "length": 2131
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/01-flash-2321-ja.md",
+      "length": 818
+    }
+  }
+}
