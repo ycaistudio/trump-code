@@ -1,76 +1,58 @@
 {
-  "date": "2026-03-31",
-  "prepared_at": "2026-03-31T15:06:56Z",
+  "date": "2026-04-01",
+  "prepared_at": "2026-04-01T15:08:37Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 6,
-    "latest": "Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a b",
-    "earliest_time": "2026-03-31T09:21:00.000Z",
-    "latest_time": "2026-03-31T13:21:04.917Z",
+    "count": 3,
+    "latest": "Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success they are having in the U.S. They have moved most of their production to our great Country, largely b",
+    "earliest_time": "2026-04-01T08:44:00.000Z",
+    "latest_time": "2026-04-01T13:04:46.834Z",
     "sample": [
       {
-        "time": "09:21",
-        "text": "All of those countries that can’t get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait,"
+        "time": "08:44",
+        "text": "Iran’s New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St"
       },
       {
-        "time": "10:53",
-        "text": "The Country of France wouldn’t let planes headed to Israel, loaded up with military supplies, fly over French territory. France has been VERY UNHELPFUL with respect to the “Butcher of Iran,” who has been successfully eliminated! The U.S.A. will REMEMBER!!! President DJT"
+        "time": "12:44",
+        "text": "Iran's New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St"
       },
       {
-        "time": "11:11",
-        "text": "All of those countries that can't get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait,"
-      },
-      {
-        "time": "11:19",
-        "text": "The Country of France wouldn't let planes headed to Israel, loaded up with military supplies, fly over French territory. France has been VERY UNHELPFUL with respect to the \"Butcher of Iran,\" who has been successfully eliminated! The U.S.A. will REMEMBER!!! President DJT"
-      },
-      {
-        "time": "13:15",
-        "text": "Netanyahu to Newsmax: Trump Has Shown 'Tremendous Leadership': https://www.newsmax.com/newsmax-tv/benjamin-netanyahu-israel-donald-trump/2026/03/30/id/1251249/"
-      },
-      {
-        "time": "13:21",
-        "text": "Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a beautiful Banquet Dinner at the White House on the evening of April 28th. This momentous occasion wil"
+        "time": "13:04",
+        "text": "Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success they are having in the U.S. They have moved most of their production to our great Country, largely because of Tariffs, and the results are AMAZING!!!"
       }
     ]
   },
   "keyword_signals": [
-    "IRAN"
+    "TARIFF",
+    "IRAN",
+    "TARIFF_ONLY"
   ],
   "today_features": {
-    "posts_6_10": true,
-    "avg_len_long": true,
+    "posts_1_5": true,
+    "avg_len_medium": true,
     "caps_medium": true,
-    "excl_heavy": true,
+    "excl_extreme": true,
     "questions_no": true,
     "mostly_premarket": true,
-    "kw_delay": true,
-    "kw_delay_2plus": true,
-    "pre_delay": true,
-    "kw_ban": true,
-    "pre_ban": true,
+    "kw_tariff": true,
+    "pre_tariff": true,
+    "kw_tariffs": true,
+    "pre_tariffs": true,
     "kw_iran": true,
     "kw_iran_2plus": true,
     "pre_iran": true,
-    "kw_israel": true,
-    "kw_israel_2plus": true,
-    "pre_israel": true,
-    "kw_oil": true,
-    "kw_oil_2plus": true,
-    "pre_oil": true,
     "kw_great": true,
     "pre_great": true,
     "kw_tremendous": true,
     "pre_tremendous": true,
-    "kw_historic": true,
-    "pre_historic": true,
-    "kw_beautiful": true,
-    "pre_beautiful": true,
+    "kw_amazing": true,
+    "pre_amazing": true,
     "kw_president_djt": true,
     "kw_president_djt_2plus": true,
     "pre_president_djt": true,
-    "kw_president_of_the_united_states": true,
-    "pre_president_of_the_united_states": true
+    "volume_drop": true,
+    "tariff_without_deal": true,
+    "tariff_no_deal": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -179,17 +161,18 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-03-31",
+    "date": "2026-04-01",
     "crossover": 16,
-    "mutation": 11,
-    "distill": 16,
-    "total_new": 43,
+    "mutation": 16,
+    "distill": 17,
+    "total_new": 49,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_signed",
-          "volume_falling_3d"
+          "kw_thank_you_for_your_attention",
+          "is_friday",
+          "kw_tariffs_2plus"
         ],
         "direction": "LONG",
         "hold": 3,
@@ -198,25 +181,22 @@
       },
       {
         "features": [
-          "open_trade",
-          "kw_biden",
-          "kw_beautiful"
+          "volume_falling_3d",
+          "open_tariff"
         ],
         "direction": "LONG",
-        "hold": 1,
-        "score": 90.0,
+        "hold": 3,
+        "score": 88.5,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_dow_2plus",
-          "kw_corrupt",
-          "kw_tariff",
-          "kw_tremendous"
+          "both_tariff_and_deal",
+          "open_inflation"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 85.7,
+        "score": 87.5,
         "origin": "crossover"
       }
     ]
@@ -233,9 +213,11 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-03-31",
+    "date": "2026-04-01",
     "signals": [
-      "IRAN"
+      "TARIFF",
+      "IRAN",
+      "TARIFF_ONLY"
     ],
     "opportunities": [],
     "total_scanned": 0

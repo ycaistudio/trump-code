@@ -1,22 +1,16 @@
-# 川普密碼 Opus 簡報 — 2026-03-31
-準備時間: 2026-03-31T15:06:56Z
+# 川普密碼 Opus 簡報 — 2026-04-01
+準備時間: 2026-04-01T15:08:37Z
 
-## 今日推文: 6 篇
-時間: 2026-03-31T09:21:00.000Z ~ 2026-03-31T13:21:04.917Z
+## 今日推文: 3 篇
+時間: 2026-04-01T08:44:00.000Z ~ 2026-04-01T13:04:46.834Z
 
-[09:21] All of those countries that can’t get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait,
+[08:44] Iran’s New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St
 
-[10:53] The Country of France wouldn’t let planes headed to Israel, loaded up with military supplies, fly over French territory. France has been VERY UNHELPFUL with respect to the “Butcher of Iran,” who has been successfully eliminated! The U.S.A. will REMEMBER!!! President DJT
+[12:44] Iran's New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St
 
-[11:11] All of those countries that can't get jet fuel because of the Strait of Hormuz, like the United Kingdom, which refused to get involved in the decapitation of Iran, I have a suggestion for you: Number 1, buy from the U.S., we have plenty, and Number 2, build up some delayed courage, go to the Strait,
+[13:04] Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success they are having in the U.S. They have moved most of their production to our great Country, largely because of Tariffs, and the results are AMAZING!!!
 
-[11:19] The Country of France wouldn't let planes headed to Israel, loaded up with military supplies, fly over French territory. France has been VERY UNHELPFUL with respect to the "Butcher of Iran," who has been successfully eliminated! The U.S.A. will REMEMBER!!! President DJT
-
-[13:15] Netanyahu to Newsmax: Trump Has Shown 'Tremendous Leadership': https://www.newsmax.com/newsmax-tv/benjamin-netanyahu-israel-donald-trump/2026/03/30/id/1251249/
-
-[13:21] Melania and I are pleased to announce that Their Majesties, the King and Queen of the United Kingdom, will visit the United States for a Historic State Visit from April 27-30th, which will include a beautiful Banquet Dinner at the White House on the evening of April 28th. This momentous occasion wil
-
-## 關鍵字偵測到的信號: IRAN
+## 關鍵字偵測到的信號: TARIFF, IRAN, TARIFF_ONLY
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -40,7 +34,7 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 43 條規則
+## 規則進化: 新增 49 條規則
 
 ## 信號信心度
   ACTION: 0.95

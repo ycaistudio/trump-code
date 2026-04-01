@@ -836,5 +836,46 @@
         "origin": "crossover"
       }
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "crossover": 16,
+    "mutation": 16,
+    "distill": 17,
+    "total_new": 49,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "is_friday",
+          "kw_tariffs_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "volume_falling_3d",
+          "open_tariff"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 88.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "both_tariff_and_deal",
+          "open_inflation"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 87.5,
+        "origin": "crossover"
+      }
+    ]
   }
 ]
