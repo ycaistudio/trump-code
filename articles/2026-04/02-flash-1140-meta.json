@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T11:40:43.723390+00:00",
+  "post_id": "116334902567890770",
+  "post_content": "Victor Davis Hanson Reveals He Was Approached by Chinese Operative Fang Fang But Didn’t Fall for it Like ‘Idiot’ Eric Swalwell:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116334902567890770",
+  "post_source": "Truth Social",
+  "post_time": "Thu, 02 Apr 2026 11:35:38 +0000",
+  "signals": "",
+  "direction": "NEUTRAL",
+  "confidence": 0.0,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/02-flash-1140-zh.md",
+      "length": 852
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/02-flash-1140-en.md",
+      "length": 2063
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/02-flash-1140-ja.md",
+      "length": 857
+    }
+  }
+}
