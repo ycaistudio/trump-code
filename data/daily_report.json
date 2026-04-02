@@ -1,15 +1,14 @@
 {
-  "date": "2026-04-01",
-  "generated_at": "2026-04-01T15:08:33Z",
-  "posts_today": 3,
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T15:01:05Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-04-01T13:04",
-    "content_preview": "Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success "
+    "time": "2026-04-02T14:33",
+    "content_preview": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead"
   },
   "signals_detected": [
-    "TARIFF",
-    "IRAN",
-    "TARIFF_ONLY"
+    "CHINA",
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -23,13 +22,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-01",
-    "close": 6594.18
+    "date": "2026-04-02",
+    "close": 6569.56
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-01\nPosts today: 3 | Models triggered: 0\nSignals: TARIFF, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success ",
-    "zh": "川普密碼每日報告 -- 2026-04-01\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success ",
-    "ja": "トランプ・コード日次レポート -- 2026-04-01\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: 関税, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success "
+    "en": "Trump Code Daily Report -- 2026-04-02\nPosts today: 7 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead",
+    "zh": "川普密碼每日報告 -- 2026-04-02\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead",
+    "ja": "トランプ・コード日次レポート -- 2026-04-02\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead"
   },
   "triggered_rules_sample": []
 }

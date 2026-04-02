@@ -1,16 +1,24 @@
-# 川普密碼 Opus 簡報 — 2026-04-01
-準備時間: 2026-04-01T15:08:37Z
+# 川普密碼 Opus 簡報 — 2026-04-02
+準備時間: 2026-04-02T15:01:10Z
 
-## 今日推文: 3 篇
-時間: 2026-04-01T08:44:00.000Z ~ 2026-04-01T13:04:46.834Z
+## 今日推文: 7 篇
+時間: 2026-04-02T02:55:05.249Z ~ 2026-04-02T14:33:40.424Z
 
-[08:44] Iran’s New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St
+[02:55] Democratic pollster: Benefit of defanging Iran far outweighs cost of war: https://nypost.com/2026/04/01/opinion/democratic-pollster-benefit-of-defanging-iran-far-outweighs-cost-of-war/
 
-[12:44] Iran's New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St
+[02:55] Douglas Murray: Deranged Tucker Carlson backstabs Trump: https://nypost.com/2026/03/19/opinion/deranged-tucker-carlson-backstabs-trump/
 
-[13:04] Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success they are having in the U.S. They have moved most of their production to our great Country, largely because of Tariffs, and the results are AMAZING!!!
+[03:43] Donald Trump - Clip from every year from 1980 to 2024:https://m.youtube.com/watch?v=-luF0nLlM3A&pp=0gcJCcQBo7VqN5tD
 
-## 關鍵字偵測到的信號: TARIFF, IRAN, TARIFF_ONLY
+[11:15] Kangaroo Court!!!
+
+[11:35] Victor Davis Hanson Reveals He Was Approached by Chinese Operative Fang Fang But Didn't Fall for it Like 'Idiot' Eric Swalwell: https://www.thegatewaypundit.com/2026/04/victor-davis-hanson-reveals-he-was-approached-chinese/
+
+[11:58] Bad, and very boring singer, Bruce Springsteen, who looks like a dried up prune who has suffered greatly from the work of a really bad plastic surgeon, has long had a horrible and incurable case of Trump Derangement Syndrome, sometimes referred to as TDS. The guy is a total loser who spews hate agai
+
+[14:33] Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Leader John Thune, for their work this week. Republicans are UNIFIED, and moving forward on a plan that will reload funding for our FANTASTIC Border Patrol and Immigration Enforcement Officers. Because th
+
+## 關鍵字偵測到的信號: IRAN
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -34,7 +42,7 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 49 條規則
+## 規則進化: 新增 46 條規則
 
 ## 信號信心度
   ACTION: 0.95

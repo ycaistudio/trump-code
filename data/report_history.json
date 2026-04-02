@@ -293,5 +293,17 @@
       "TARIFF_ONLY"
     ],
     "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-04-02",
+    "posts": 7,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [
+      "CHINA",
+      "IRAN"
+    ],
+    "consensus": "NEUTRAL"
   }
 ]

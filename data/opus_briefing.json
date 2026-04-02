@@ -1,58 +1,72 @@
 {
-  "date": "2026-04-01",
-  "prepared_at": "2026-04-01T15:08:37Z",
+  "date": "2026-04-02",
+  "prepared_at": "2026-04-02T15:01:10Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 3,
-    "latest": "Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success they are having in the U.S. They have moved most of their production to our great Country, largely b",
-    "earliest_time": "2026-04-01T08:44:00.000Z",
-    "latest_time": "2026-04-01T13:04:46.834Z",
+    "count": 7,
+    "latest": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Leader John Thune, for their work this week. Republicans are UNIFIED, and moving forward on a plan that ",
+    "earliest_time": "2026-04-02T02:55:05.249Z",
+    "latest_time": "2026-04-02T14:33:40.424Z",
     "sample": [
       {
-        "time": "08:44",
-        "text": "Iran’s New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St"
+        "time": "02:55",
+        "text": "Democratic pollster: Benefit of defanging Iran far outweighs cost of war: https://nypost.com/2026/04/01/opinion/democratic-pollster-benefit-of-defanging-iran-far-outweighs-cost-of-war/"
       },
       {
-        "time": "12:44",
-        "text": "Iran's New Regime President, much less Radicalized and far more intelligent than his predecessors, has just asked the United States of America for a CEASEFIRE! We will consider when Hormuz Strait is open, free, and clear. Until then, we are blasting Iran into oblivion or, as they say, back to the St"
+        "time": "02:55",
+        "text": "Douglas Murray: Deranged Tucker Carlson backstabs Trump: https://nypost.com/2026/03/19/opinion/deranged-tucker-carlson-backstabs-trump/"
       },
       {
-        "time": "13:04",
-        "text": "Wow! Congratulations to Nissan, and Christian Meunier, Americas Chairman, on the tremendous success they are having in the U.S. They have moved most of their production to our great Country, largely because of Tariffs, and the results are AMAZING!!!"
+        "time": "03:43",
+        "text": "Donald Trump - Clip from every year from 1980 to 2024:https://m.youtube.com/watch?v=-luF0nLlM3A&pp=0gcJCcQBo7VqN5tD"
+      },
+      {
+        "time": "11:15",
+        "text": "Kangaroo Court!!!"
+      },
+      {
+        "time": "11:35",
+        "text": "Victor Davis Hanson Reveals He Was Approached by Chinese Operative Fang Fang But Didn't Fall for it Like 'Idiot' Eric Swalwell: https://www.thegatewaypundit.com/2026/04/victor-davis-hanson-reveals-he-was-approached-chinese/"
+      },
+      {
+        "time": "11:58",
+        "text": "Bad, and very boring singer, Bruce Springsteen, who looks like a dried up prune who has suffered greatly from the work of a really bad plastic surgeon, has long had a horrible and incurable case of Trump Derangement Syndrome, sometimes referred to as TDS. The guy is a total loser who spews hate agai"
+      },
+      {
+        "time": "14:33",
+        "text": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Leader John Thune, for their work this week. Republicans are UNIFIED, and moving forward on a plan that will reload funding for our FANTASTIC Border Patrol and Immigration Enforcement Officers. Because th"
       }
     ]
   },
   "keyword_signals": [
-    "TARIFF",
-    "IRAN",
-    "TARIFF_ONLY"
+    "IRAN"
   ],
   "today_features": {
-    "posts_1_5": true,
+    "posts_6_10": true,
     "avg_len_medium": true,
     "caps_medium": true,
-    "excl_extreme": true,
-    "questions_no": true,
-    "mostly_premarket": true,
-    "kw_tariff": true,
-    "pre_tariff": true,
-    "kw_tariffs": true,
-    "pre_tariffs": true,
+    "excl_normal": true,
+    "has_night": true,
+    "heavy_night": true,
+    "kw_chinese": true,
+    "pre_chinese": true,
     "kw_iran": true,
-    "kw_iran_2plus": true,
-    "pre_iran": true,
     "kw_great": true,
+    "kw_great_2plus": true,
     "pre_great": true,
-    "kw_tremendous": true,
-    "pre_tremendous": true,
-    "kw_amazing": true,
-    "pre_amazing": true,
+    "open_great": true,
+    "kw_incredible": true,
+    "open_incredible": true,
+    "kw_fantastic": true,
+    "open_fantastic": true,
+    "kw_horrible": true,
+    "pre_horrible": true,
+    "kw_maga": true,
+    "pre_maga": true,
     "kw_president_djt": true,
-    "kw_president_djt_2plus": true,
     "pre_president_djt": true,
-    "volume_drop": true,
-    "tariff_without_deal": true,
-    "tariff_no_deal": true
+    "kw_thank_you_for_your_attention": true,
+    "open_thank_you_for_your_attention": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -161,42 +175,41 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-04-01",
+    "date": "2026-04-02",
     "crossover": 16,
-    "mutation": 16,
-    "distill": 17,
-    "total_new": 49,
+    "mutation": 14,
+    "distill": 16,
+    "total_new": 46,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
           "kw_thank_you_for_your_attention",
-          "is_friday",
-          "kw_tariffs_2plus"
+          "open_china"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 100.0,
+        "score": 95.5,
         "origin": "crossover"
       },
       {
         "features": [
-          "volume_falling_3d",
-          "open_tariff"
+          "kw_maga",
+          "kw_agreement"
         ],
         "direction": "LONG",
-        "hold": 3,
-        "score": 88.5,
-        "origin": "crossover"
+        "hold": 2,
+        "score": 92.3,
+        "origin": "mutation_replace"
       },
       {
         "features": [
-          "both_tariff_and_deal",
-          "open_inflation"
+          "volume_rising_3d",
+          "kw_economy"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 87.5,
+        "score": 86.7,
         "origin": "crossover"
       }
     ]
@@ -213,11 +226,9 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-04-01",
+    "date": "2026-04-02",
     "signals": [
-      "TARIFF",
-      "IRAN",
-      "TARIFF_ONLY"
+      "IRAN"
     ],
     "opportunities": [],
     "total_scanned": 0
