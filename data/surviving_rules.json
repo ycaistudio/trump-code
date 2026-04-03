@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-04-02T15:01:10Z",
-    "evolved_rules_added": 46
+    "last_evolution": "2026-04-03T14:48:08Z",
+    "evolved_rules_added": 43
   },
   "rules": [
     {
@@ -12422,7 +12422,12 @@
       "parents": [
         "kw_inflation+kw_thank_you_for_your_attention",
         "kw_tariffs+kw_thank_you_for_your_attention"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -12670,7 +12675,12 @@
       "origin": "mutation_replace",
       "born_date": "2026-04-02",
       "weight": 1.0,
-      "parent": "kw_agreement+open_china"
+      "parent": "kw_agreement+open_china",
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -13714,6 +13724,56 @@
     },
     {
       "features": [
+        "kw_corrupt",
+        "kw_dow_2plus",
+        "kw_tariff"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "id": "bb1705176087",
+      "n_cond": 3,
+      "train_trades": 8,
+      "train_win_rate": 75.0,
+      "train_avg": 0.871,
+      "test_trades": 4,
+      "test_win_rate": 100.0,
+      "test_avg": 0.503,
+      "combined_score": 87.5,
+      "origin": "crossover",
+      "born_date": "2026-04-03",
+      "weight": 1.0,
+      "parents": [
+        "is_friday+kw_corrupt",
+        "kw_dow_2plus+open_interest_rate"
+      ]
+    },
+    {
+      "features": [
+        "open_tariff",
+        "open_thank_you_for_your_attention",
+        "kw_tariffs_2plus"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "id": "0b5708eeba63",
+      "n_cond": 3,
+      "train_trades": 8,
+      "train_win_rate": 75.0,
+      "train_avg": 2.306,
+      "test_trades": 4,
+      "test_win_rate": 100.0,
+      "test_avg": 0.572,
+      "combined_score": 87.5,
+      "origin": "crossover",
+      "born_date": "2026-04-03",
+      "weight": 1.0,
+      "parents": [
+        "kw_interest_rate+kw_trade",
+        "is_friday+kw_tariffs_2plus"
+      ]
+    },
+    {
+      "features": [
         "open_russia",
         "kw_economy"
       ],
@@ -13760,7 +13820,12 @@
       "parents": [
         "is_friday+kw_economy",
         "kw_incredible_2plus+open_incredible"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [
@@ -14722,66 +14787,6 @@
       "parents": [
         "kw_economy+kw_interest_rate",
         "kw_china+kw_india"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "open_trade",
-        "kw_tariff_2plus",
-        "kw_tariffs_2plus"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "id": "fb3075964b37",
-      "n_cond": 3,
-      "train_trades": 9,
-      "train_win_rate": 66.7,
-      "train_avg": 1.67,
-      "test_trades": 3,
-      "test_win_rate": 100.0,
-      "test_avg": 0.855,
-      "combined_score": 83.3,
-      "origin": "crossover",
-      "born_date": "2026-03-23",
-      "weight": 1.0,
-      "parents": [
-        "excl_heavy+kw_tariffs_2plus",
-        "kw_tariff_2plus+open_thank_you_for_your_attention"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "open_tariffs",
-        "kw_tremendous",
-        "kw_tariff_2plus"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "id": "bb27cc5a33d2",
-      "n_cond": 3,
-      "train_trades": 12,
-      "train_win_rate": 66.7,
-      "train_avg": 0.478,
-      "test_trades": 3,
-      "test_win_rate": 100.0,
-      "test_avg": 0.601,
-      "combined_score": 83.3,
-      "origin": "crossover",
-      "born_date": "2026-03-25",
-      "weight": 1.0,
-      "parents": [
-        "is_friday+kw_tariff_2plus",
-        "kw_beautiful+kw_interest_rate"
       ],
       "learn_stats": {
         "correct": 0,

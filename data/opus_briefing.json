@@ -1,40 +1,32 @@
 {
-  "date": "2026-04-02",
-  "prepared_at": "2026-04-02T15:01:10Z",
+  "date": "2026-04-03",
+  "prepared_at": "2026-04-03T14:48:08Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 7,
-    "latest": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Leader John Thune, for their work this week. Republicans are UNIFIED, and moving forward on a plan that ",
-    "earliest_time": "2026-04-02T02:55:05.249Z",
-    "latest_time": "2026-04-02T14:33:40.424Z",
+    "count": 5,
+    "latest": "With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WOULD BE A \"GUSHER\" FOR THE WORLD??? President DONALD J. TRUMP",
+    "earliest_time": "2026-04-03T01:21:34.616Z",
+    "latest_time": "2026-04-03T12:22:58.971Z",
     "sample": [
       {
-        "time": "02:55",
-        "text": "Democratic pollster: Benefit of defanging Iran far outweighs cost of war: https://nypost.com/2026/04/01/opinion/democratic-pollster-benefit-of-defanging-iran-far-outweighs-cost-of-war/"
+        "time": "01:21",
+        "text": "Is Bruce Springsteen going to sue his plastic surgeon?"
       },
       {
-        "time": "02:55",
-        "text": "Douglas Murray: Deranged Tucker Carlson backstabs Trump: https://nypost.com/2026/03/19/opinion/deranged-tucker-carlson-backstabs-trump/"
+        "time": "02:41",
+        "text": "Our Military, the greatest and most powerful (by far!) anywhere in the World, hasn't even started destroying what's left in Iran. Bridges next, then Electric Power Plants! New Regime leadership knows what has to be done, and has to be done, FAST! President DONALD J.TRUMP"
       },
       {
-        "time": "03:43",
-        "text": "Donald Trump - Clip from every year from 1980 to 2024:https://m.youtube.com/watch?v=-luF0nLlM3A&pp=0gcJCcQBo7VqN5tD"
+        "time": "08:05",
+        "text": "Vice President JD Vance is now in charge of “FRAUD” in the United States. It is massive and pervasive, and the job he will be doing, in conjunction with many great people within the Trump Administration, will be a major factor in how great the future of our Country will be. We will call him the “FRA"
       },
       {
-        "time": "11:15",
-        "text": "Kangaroo Court!!!"
+        "time": "12:05",
+        "text": "Vice President JD Vance is now in charge of \"FRAUD\" in the United States. It is massive and pervasive, and the job he will be doing, in conjunction with many great people within the Trump Administration, will be a major factor in how great the future of our Country will be. We will call him the \"FRA"
       },
       {
-        "time": "11:35",
-        "text": "Victor Davis Hanson Reveals He Was Approached by Chinese Operative Fang Fang But Didn't Fall for it Like 'Idiot' Eric Swalwell: https://www.thegatewaypundit.com/2026/04/victor-davis-hanson-reveals-he-was-approached-chinese/"
-      },
-      {
-        "time": "11:58",
-        "text": "Bad, and very boring singer, Bruce Springsteen, who looks like a dried up prune who has suffered greatly from the work of a really bad plastic surgeon, has long had a horrible and incurable case of Trump Derangement Syndrome, sometimes referred to as TDS. The guy is a total loser who spews hate agai"
-      },
-      {
-        "time": "14:33",
-        "text": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Leader John Thune, for their work this week. Republicans are UNIFIED, and moving forward on a plan that will reload funding for our FANTASTIC Border Patrol and Immigration Enforcement Officers. Because th"
+        "time": "12:22",
+        "text": "With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WOULD BE A \"GUSHER\" FOR THE WORLD??? President DONALD J. TRUMP"
       }
     ]
   },
@@ -42,31 +34,24 @@
     "IRAN"
   ],
   "today_features": {
-    "posts_6_10": true,
-    "avg_len_medium": true,
-    "caps_medium": true,
+    "posts_1_5": true,
+    "avg_len_long": true,
+    "caps_high": true,
     "excl_normal": true,
+    "questions_yes": true,
+    "mostly_premarket": true,
     "has_night": true,
-    "heavy_night": true,
-    "kw_chinese": true,
-    "pre_chinese": true,
     "kw_iran": true,
+    "kw_oil": true,
+    "pre_oil": true,
     "kw_great": true,
     "kw_great_2plus": true,
     "pre_great": true,
-    "open_great": true,
-    "kw_incredible": true,
-    "open_incredible": true,
-    "kw_fantastic": true,
-    "open_fantastic": true,
-    "kw_horrible": true,
-    "pre_horrible": true,
-    "kw_maga": true,
-    "pre_maga": true,
-    "kw_president_djt": true,
-    "pre_president_djt": true,
-    "kw_thank_you_for_your_attention": true,
-    "open_thank_you_for_your_attention": true
+    "kw_vance": true,
+    "kw_vance_2plus": true,
+    "pre_vance": true,
+    "is_friday": true,
+    "volume_rising_3d": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -175,41 +160,44 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-04-02",
+    "date": "2026-04-03",
     "crossover": 16,
-    "mutation": 14,
+    "mutation": 11,
     "distill": 16,
-    "total_new": 46,
+    "total_new": 43,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "kw_thank_you_for_your_attention",
-          "open_china"
+          "kw_corrupt",
+          "kw_dow_2plus",
+          "kw_tariff"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 95.5,
+        "score": 87.5,
         "origin": "crossover"
       },
       {
         "features": [
-          "kw_maga",
-          "kw_agreement"
-        ],
-        "direction": "LONG",
-        "hold": 2,
-        "score": 92.3,
-        "origin": "mutation_replace"
-      },
-      {
-        "features": [
-          "volume_rising_3d",
-          "kw_economy"
+          "open_tariff",
+          "open_thank_you_for_your_attention",
+          "kw_tariffs_2plus"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 86.7,
+        "score": 87.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_dow_2plus",
+          "open_deal",
+          "kw_jobs"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 83.3,
         "origin": "crossover"
       }
     ]
@@ -226,7 +214,7 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-04-02",
+    "date": "2026-04-03",
     "signals": [
       "IRAN"
     ],

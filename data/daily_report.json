@@ -1,13 +1,12 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T15:01:05Z",
-  "posts_today": 7,
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T14:48:04Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-04-02T14:33",
-    "content_preview": "Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead"
+    "time": "2026-04-03T12:22",
+    "content_preview": "With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO"
   },
   "signals_detected": [
-    "CHINA",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -23,12 +22,12 @@
   },
   "sp500_latest": {
     "date": "2026-04-02",
-    "close": 6569.56
+    "close": 6582.69
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-02\nPosts today: 7 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead",
-    "zh": "川普密碼每日報告 -- 2026-04-02\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead",
-    "ja": "トランプ・コード日次レポート -- 2026-04-02\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Thank you to all of our Great Congressional Republicans, House Speaker Mike Johnson, and Senate Lead"
+    "en": "Trump Code Daily Report -- 2026-04-03\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO",
+    "zh": "川普密碼每日報告 -- 2026-04-03\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO",
+    "ja": "トランプ・コード日次レポート -- 2026-04-03\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO"
   },
   "triggered_rules_sample": []
 }
