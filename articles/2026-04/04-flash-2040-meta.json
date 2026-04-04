@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T20:40:43.737825+00:00",
+  "post_id": "116348358117196662",
+  "post_content": "Many of Iran’s Military Leaders, who have led them poorly and unwisely, are terminated, along with much else, with this massive strike in Tehran! President DONALD J. TRUMP",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116348358117196662",
+  "post_source": "Truth Social",
+  "post_time": "Sat, 04 Apr 2026 20:37:34 +0000",
+  "signals": "ACTION, THREAT, BEARISH",
+  "direction": "DOWN",
+  "confidence": 0.8,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2040-zh.md",
+      "length": 893
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2040-en.md",
+      "length": 1236
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2040-ja.md",
+      "length": 896
+    }
+  }
+}
