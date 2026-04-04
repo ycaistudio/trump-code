@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T23:00:07.781527+00:00",
+  "post_id": "116332855637584819",
+  "post_content": "Democratic pollster: Benefit of defanging Iran far outweighs cost of war:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116332855637584819",
+  "post_source": "Truth Social",
+  "post_time": "Thu, 02 Apr 2026 02:55:05 +0000",
+  "signals": "THREAT, ACTION",
+  "direction": "NEUTRAL",
+  "confidence": 0.3,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2300-zh.md",
+      "length": 825
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2300-en.md",
+      "length": 1133
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2300-ja.md",
+      "length": 788
+    }
+  }
+}
