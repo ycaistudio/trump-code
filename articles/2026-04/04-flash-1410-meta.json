@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T14:10:48.039556+00:00",
+  "post_id": "116346816254869135",
+  "post_content": "Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out - 48 hours before all Hell will reign down on them. Glory be to GOD! President DONALD J. TRUMP",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116346816254869135",
+  "post_source": "Truth Social",
+  "post_time": "Sat, 04 Apr 2026 14:05:27 +0000",
+  "signals": "THREAT, BEARISH",
+  "direction": "DOWN",
+  "confidence": 0.85,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-1410-zh.md",
+      "length": 837
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-1410-en.md",
+      "length": 1998
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-1410-ja.md",
+      "length": 860
+    }
+  }
+}
