@@ -1,20 +1,22 @@
-# 川普密碼 Opus 簡報 — 2026-04-03
-準備時間: 2026-04-03T14:48:08Z
+# 川普密碼 Opus 簡報 — 2026-04-04
+準備時間: 2026-04-04T14:37:46Z
 
-## 今日推文: 5 篇
-時間: 2026-04-03T01:21:34.616Z ~ 2026-04-03T12:22:58.971Z
+## 今日推文: 6 篇
+時間: 2026-04-04T02:58:15.255Z ~ 2026-04-04T14:05:27.328Z
 
-[01:21] Is Bruce Springsteen going to sue his plastic surgeon?
+[02:58] Third rate news "anchor" Jonathan Karl of ABC Fake News, the worst and most corrupt Network in the business, wrote another made up book about me where his stories and "reporting" bare no relationship to the truth. ABC was already forced to pay me $16,000,000 because of their false and misleading rep
 
-[02:41] Our Military, the greatest and most powerful (by far!) anywhere in the World, hasn't even started destroying what's left in Iran. Bridges next, then Electric Power Plants! New Regime leadership knows what has to be done, and has to be done, FAST! President DONALD J.TRUMP
+[03:03] 178,000 new jobs in March. Unemployment DOWN. Great numbers by all accounts, even the Fake News. MAGA!
 
-[08:05] Vice President JD Vance is now in charge of “FRAUD” in the United States. It is massive and pervasive, and the job he will be doing, in conjunction with many great people within the Trump Administration, will be a major factor in how great the future of our Country will be. We will call him the “FRA
+[03:21] Believers and people of faith find safe harbor in Trump's White House this Easter: https://justthenews.com/government/white-house/he-risen-faith-finds-safe-harbor-trump-white-house
 
-[12:05] Vice President JD Vance is now in charge of "FRAUD" in the United States. It is massive and pervasive, and the job he will be doing, in conjunction with many great people within the Trump Administration, will be a major factor in how great the future of our Country will be. We will call him the "FRA
+[13:24] The Failing New York Times, whose lack of credibility, and their constant Fake News attacks on your favorite President, ME, has caused its circulation to absolutely PLUMMET, referred to our severely weakened and extremely unreliable "partner,"NATO, as the North American Treaty Organization. The corr
 
-[12:22] With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WOULD BE A "GUSHER" FOR THE WORLD??? President DONALD J. TRUMP
+[13:32] Not only were the jobs numbers GREAT yesterday, 178,000 new jobs, but the TRADE DEFICIT was down 55%, the biggest drop in history. THANK YOU MR. TARIFF! All of this and, simultaneously, getting rid of a Nuclear Iran. MAGA!!!
 
-## 關鍵字偵測到的信號: IRAN
+[14:05] Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out - 48 hours before all Hell will reign down on them. Glory be to GOD! President DONALD J. TRUMP
+
+## 關鍵字偵測到的信號: TARIFF, DEAL, IRAN
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆

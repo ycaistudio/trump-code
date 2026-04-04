@@ -960,5 +960,46 @@
         "origin": "crossover"
       }
     ]
+  },
+  {
+    "date": "2026-04-04",
+    "crossover": 16,
+    "mutation": 11,
+    "distill": 16,
+    "total_new": 43,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "open_tariffs",
+          "is_friday"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 88.9,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "open_ban",
+          "open_thank_you_for_your_attention"
+        ],
+        "direction": "LONG",
+        "hold": 2,
+        "score": 87.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_inflation",
+          "avg_len_long",
+          "kw_dow_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 87.5,
+        "origin": "crossover"
+      }
+    ]
   }
 ]

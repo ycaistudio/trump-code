@@ -1,12 +1,14 @@
 {
-  "date": "2026-04-03",
-  "generated_at": "2026-04-03T14:48:04Z",
-  "posts_today": 5,
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T14:37:42Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-04-03T12:22",
-    "content_preview": "With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO"
+    "time": "2026-04-04T14:05",
+    "content_preview": "Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out "
   },
   "signals_detected": [
+    "TARIFF",
+    "DEAL",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -25,9 +27,9 @@
     "close": 6582.69
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-03\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO",
-    "zh": "川普密碼每日報告 -- 2026-04-03\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO",
-    "ja": "トランプ・コード日次レポート -- 2026-04-03\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: With a little more time, we can easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE. IT WO"
+    "en": "Trump Code Daily Report -- 2026-04-04\nPosts today: 6 | Models triggered: 0\nSignals: TARIFF, DEAL, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out ",
+    "zh": "川普密碼每日報告 -- 2026-04-04\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out ",
+    "ja": "トランプ・コード日次レポート -- 2026-04-04\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out "
   },
   "triggered_rules_sample": []
 }
