@@ -1,12 +1,12 @@
 {
   "type": "flash",
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T22:58:11.287844+00:00",
-  "post_id": "116337483523761845",
-  "post_content": "I would like to thank the hardworking Commissioners and Staff of the National Capital Planning Commission, who just voted overwhelmingly, 8-1, to approve the magnificent White House Ballroom now risin",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116337483523761845",
+  "generated_at": "2026-04-04T22:58:18.825169+00:00",
+  "post_id": "116337474135003522",
+  "post_content": "",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116337474135003522",
   "post_source": "Truth Social",
-  "post_time": "Thu, 02 Apr 2026 22:32:01 +0000",
+  "post_time": "Thu, 02 Apr 2026 22:29:37 +0000",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2258-zh.md",
-      "length": 837
+      "length": 791
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2258-en.md",
-      "length": 1155
+      "length": 1024
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2258-ja.md",
-      "length": 830
+      "length": 472
     }
   }
 }
