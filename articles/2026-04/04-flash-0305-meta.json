@@ -1,0 +1,33 @@
+{
+  "type": "flash",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T03:05:27.043369+00:00",
+  "post_id": "116344212584161103",
+  "post_content": "178,000 new jobs in March. Unemployment DOWN. Great numbers by all accounts, even the Fake News. MAGA!",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116344212584161103",
+  "post_source": "Truth Social",
+  "post_time": "Sat, 04 Apr 2026 03:03:18 +0000",
+  "signals": "BULLISH",
+  "direction": "UP",
+  "confidence": 0.7999999999999999,
+  "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
+  "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
+  "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
+  "articles": {
+    "zh": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-0305-zh.md",
+      "length": 818
+    },
+    "en": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-0305-en.md",
+      "length": 2225
+    },
+    "ja": {
+      "status": "ok",
+      "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-0305-ja.md",
+      "length": 800
+    }
+  }
+}
