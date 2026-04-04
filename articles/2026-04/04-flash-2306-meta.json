@@ -1,12 +1,12 @@
 {
   "type": "flash",
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T23:06:29.570570+00:00",
-  "post_id": "116315542558262664",
-  "post_content": "",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116315542558262664",
+  "generated_at": "2026-04-04T23:06:36.428855+00:00",
+  "post_id": "116315538702242081",
+  "post_content": "Bill Pulte files new criminal referral against Trump foe Letitia James:",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116315538702242081",
   "post_source": "Truth Social",
-  "post_time": "Mon, 30 Mar 2026 01:32:08 +0000",
+  "post_time": "Mon, 30 Mar 2026 01:31:09 +0000",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2306-zh.md",
-      "length": 520
+      "length": 830
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2306-en.md",
-      "length": 1012
+      "length": 1159
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2306-ja.md",
-      "length": 497
+      "length": 867
     }
   }
 }
