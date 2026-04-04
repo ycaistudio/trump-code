@@ -1,15 +1,15 @@
 {
   "type": "flash",
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T23:05:36.605730+00:00",
-  "post_id": "116315768155415029",
-  "post_content": "Big day in Iran. Many long sought after targets have been taken out and destroyed by our GREAT MILITARY, the finest and most lethal in the World. God bless you all! President DJT",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116315768155415029",
+  "generated_at": "2026-04-04T23:05:45.716891+00:00",
+  "post_id": "116315744707013424",
+  "post_content": "Congratulations to a great guy, and golfer, Gary Woodland, on his big win today in the Texas Children’s Houston Open. He shot 21 under par! What a GREAT comeback from a serious health problem he has a",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116315744707013424",
   "post_source": "Truth Social",
-  "post_time": "Mon, 30 Mar 2026 02:29:30 +0000",
-  "signals": "ACTION, BEARISH",
+  "post_time": "Mon, 30 Mar 2026 02:23:33 +0000",
+  "signals": "",
   "direction": "NEUTRAL",
-  "confidence": 0.3,
+  "confidence": 0.0,
   "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
   "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
   "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2305-zh.md",
-      "length": 887
+      "length": 775
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2305-en.md",
-      "length": 1193
+      "length": 1997
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2305-ja.md",
-      "length": 928
+      "length": 825
     }
   }
 }
