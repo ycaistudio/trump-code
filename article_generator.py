@@ -66,7 +66,7 @@ def load_today_data(target_date: str):
     try:
         from multi_source_fetcher import fetch_all_sources
         all_posts, _ = fetch_all_sources()
-    except:
+    except Exception:
         all_posts = []
 
     # 過濾當天
@@ -299,7 +299,7 @@ def update_index():
 def notify_indexnow(urls: list[str]):
     """通知 Bing/Yandex IndexNow 有新頁面（即時索引）。"""
     # IndexNow key — 放在 public/.well-known/ 下驗證
-    key = "trumpcode2026washinmura"
+    key = os.environ.get("INDEXNOW_KEY", "trumpcode2026washinmura")
     payload = json.dumps({
         "host": "trumpcode.washinmura.jp",
         "key": key,

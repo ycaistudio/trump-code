@@ -42,7 +42,7 @@ def log(msg):
     try:
         with open(LOG_FILE, "a", encoding="utf-8") as f:
             f.write(line + "\n")
-    except:
+    except Exception:
         pass
 
 
@@ -160,8 +160,9 @@ def load_seen() -> set:
     """載入已看過的 ID（Truth Social）。"""
     if SEEN_FILE.exists():
         try:
-            return set(json.load(open(SEEN_FILE)))
-        except:
+            with open(SEEN_FILE) as f:
+                return set(json.load(f))
+        except Exception:
             pass
     return set()
 
@@ -170,8 +171,9 @@ def load_x_seen() -> set:
     """載入已看過的 X 推文 ID。"""
     if X_SEEN_FILE.exists():
         try:
-            return set(json.load(open(X_SEEN_FILE)))
-        except:
+            with open(X_SEEN_FILE) as f:
+                return set(json.load(f))
+        except Exception:
             pass
     return set()
 
@@ -211,8 +213,9 @@ def record_latency(post: dict, detect_time: float):
         entries = []
         if LATENCY_LOG.exists():
             try:
-                entries = json.load(open(LATENCY_LOG))
-            except:
+                with open(LATENCY_LOG) as f:
+                    entries = json.load(f)
+            except Exception:
                 pass
         entries.append(entry)
         entries = entries[-200:]  # 保留最近 200 筆
@@ -307,8 +310,9 @@ def _append_pipeline_log(post, detect_latency, classify_ms, predict_ms,
         entries = []
         if pipeline_log_file.exists():
             try:
-                entries = json.load(open(pipeline_log_file))
-            except:
+                with open(pipeline_log_file) as f:
+                    entries = json.load(f)
+            except Exception:
                 pass
 
         entries.append({

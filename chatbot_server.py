@@ -42,16 +42,21 @@ _analytics_cache = {
     'pages': {},       # {"/": 100, "/api/signals": 50}
     'user_agents': {}, # {"Mozilla": 30, "GPTBot": 5}
 }
+# 增量計算用的全域 set，啟動時從歷史資料建一次，之後只 add
+_all_ips_set: set[str] = set()
 
 def _load_analytics():
     """啟動時載入分析數據"""
-    global _analytics_cache
+    global _analytics_cache, _all_ips_set
     if ANALYTICS_FILE.exists():
         try:
             with open(ANALYTICS_FILE, encoding='utf-8') as f:
                 _analytics_cache = json.load(f)
         except Exception:
             pass
+    # 從歷史資料建立 IP set（只跑一次）
+    for d in _analytics_cache.get('daily', {}).values():
+        _all_ips_set.update(d.get('unique_ips', []))
 
 def _save_analytics():
     """每 50 次請求存一次檔"""
@@ -102,11 +107,10 @@ def _track_request(ip: str, path: str, user_agent: str):
     elif 'python' in ua_lower: ua_short = 'Python'
     _analytics_cache.setdefault('user_agents', {})[ua_short] = _analytics_cache.get('user_agents', {}).get(ua_short, 0) + 1
 
-    # 算 unique IPs 總數
-    all_ips = set()
-    for d in _analytics_cache.get('daily', {}).values():
-        all_ips.update(d.get('unique_ips', []))
-    _analytics_cache['total_unique_ips'] = len(all_ips)
+    # 增量計算 unique IPs 總數（用 set 快取，不每次重建）
+    global _all_ips_set
+    _all_ips_set.add(ip_hash)
+    _analytics_cache['total_unique_ips'] = len(_all_ips_set)
 
     # 每 50 次存檔
     if _analytics_cache['total_requests'] % 50 == 0:
@@ -117,12 +121,16 @@ _load_analytics()
 
 
 def _load(filename: str) -> dict | list | None:
-    """安全載入 data/ 下的 JSON 檔案。"""
+    """安全載入 data/ 下的 JSON 檔案。解析失敗回傳 None，不炸 handler。"""
     path = DATA / filename
     if not path.exists():
         return None
-    with open(path, encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open(path, encoding='utf-8') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, ValueError, OSError) as e:
+        print(f"⚠️ _load({filename}) 失敗: {e}")
+        return None
 
 # === 每日額度門檻 ===
 # 1 把 Gemini key 的免費額度 ≈ 500 次/天
@@ -242,20 +250,20 @@ def _anon_id(ip: str) -> str:
 def _next_key() -> str:
     """輪用三把 key，每次呼叫換一把。"""
     global _key_index
+    if not GEMINI_KEYS:
+        raise RuntimeError("GEMINI_KEYS 環境變數未設定")
     key = GEMINI_KEYS[_key_index % len(GEMINI_KEYS)]
     _key_index += 1
     return key
 
 
 def _load_system_context() -> str:
-    """載入 Opus 分析結果當 system prompt。"""
+    """載入 Opus 分析結果當 system prompt。用 _load() 統一走安全路徑。"""
     context_parts = []
 
     # Opus 分析
-    opus_file = DATA / "opus_analysis.json"
-    if opus_file.exists():
-        with open(opus_file, encoding='utf-8') as f:
-            opus = json.load(f)
+    opus = _load("opus_analysis.json") or {}
+    if opus:
         context_parts.append("=== Opus 分析摘要 ===")
         context_parts.append(f"系統狀態: {opus.get('overall_system_health', '?')}")
         context_parts.append(f"重點: {opus.get('priority_action', '?')}")
@@ -263,24 +271,19 @@ def _load_system_context() -> str:
             context_parts.append(f"模式變化: {opus.get('pattern_shift_details', '')[:200]}")
 
     # 模型排行
-    briefing_file = DATA / "opus_briefing.json"
-    if briefing_file.exists():
-        with open(briefing_file, encoding='utf-8') as f:
-            briefing = json.load(f)
-        perf = briefing.get('model_performance', {})
-        if perf:
-            context_parts.append("\n=== 模型排行 ===")
-            for mid, s in sorted(perf.items(), key=lambda x: -x[1].get('win_rate', 0)):
-                context_parts.append(
-                    f"  {s.get('name', mid)}: {s.get('win_rate', 0):.1f}% 命中率, "
-                    f"{s.get('avg_return', 0):+.3f}% 報酬, {s.get('total_trades', 0)} 筆"
-                )
+    briefing = _load("opus_briefing.json") or {}
+    perf = briefing.get('model_performance', {})
+    if perf:
+        context_parts.append("\n=== 模型排行 ===")
+        for mid, s in sorted(perf.items(), key=lambda x: -x[1].get('win_rate', 0)):
+            context_parts.append(
+                f"  {s.get('name', mid)}: {s.get('win_rate', 0):.1f}% 命中率, "
+                f"{s.get('avg_return', 0):+.3f}% 報酬, {s.get('total_trades', 0)} 筆"
+            )
 
     # 日報
-    report_file = DATA / "daily_report.json"
-    if report_file.exists():
-        with open(report_file, encoding='utf-8') as f:
-            report = json.load(f)
+    report = _load("daily_report.json") or {}
+    if report:
         context_parts.append(f"\n=== 最新日報 ({report.get('date', '?')}) ===")
         context_parts.append(f"推文數: {report.get('posts_today', 0)}")
         context_parts.append(f"信號: {', '.join(report.get('signals_detected', []))}")
@@ -289,10 +292,8 @@ def _load_system_context() -> str:
                            f"(多{direction.get('LONG', 0)} / 空{direction.get('SHORT', 0)})")
 
     # 信號信心度
-    sc_file = DATA / "signal_confidence.json"
-    if sc_file.exists():
-        with open(sc_file, encoding='utf-8') as f:
-            sc = json.load(f)
+    sc = _load("signal_confidence.json") or {}
+    if sc:
         context_parts.append(f"\n=== 信號信心度 ===")
         for sig, conf in sorted(sc.items()):
             context_parts.append(f"  {sig}: {conf:.0%}")
@@ -961,11 +962,12 @@ class ChatHandler(BaseHTTPRequestHandler):
     def _json_response(self, code: int, data: dict):
         self.send_response(code)
         self.send_header('Content-Type', 'application/json; charset=utf-8')
-        self.send_header('Access-Control-Allow-Origin', '*')
+        self.send_header('Access-Control-Allow-Origin', 'https://trumpcode.washinmura.jp')
         self.end_headers()
         self.wfile.write(json.dumps(data, ensure_ascii=False).encode('utf-8'))
 
     def do_GET(self):
+      try:
         # 追蹤每個 GET 請求（排除 favicon）
         if self.path != '/favicon.ico':
             _track_request(
@@ -1363,7 +1365,7 @@ class ChatHandler(BaseHTTPRequestHandler):
                 if filepath.exists():
                     self.send_response(200)
                     self.send_header('Content-Type', 'application/json; charset=utf-8')
-                    self.send_header('Access-Control-Allow-Origin', '*')
+                    self.send_header('Access-Control-Allow-Origin', 'https://trumpcode.washinmura.jp')
                     self.send_header('Content-Disposition', f'attachment; filename="{filename}"')
                     self.end_headers()
                     self.wfile.write(filepath.read_bytes())
@@ -1767,8 +1769,16 @@ class ChatHandler(BaseHTTPRequestHandler):
         else:
             self.send_response(404)
             self.end_headers()
+      except Exception as e:
+        # 頂層防護：任何未預期錯誤回傳 JSON，不回空回應
+        print(f"⚠️ do_GET {self.path} 錯誤: {e}")
+        try:
+            self._json_response(500, {'error': 'internal error', 'path': self.path})
+        except Exception:
+            pass
 
     def do_POST(self):
+      try:
         if self.path == '/api/chat':
             ip = self._get_ip()
             anon = _anon_id(ip)
@@ -1882,10 +1892,17 @@ class ChatHandler(BaseHTTPRequestHandler):
         else:
             self.send_response(404)
             self.end_headers()
+      except Exception as e:
+        # 頂層防護：任何未預期錯誤回傳 JSON，不回空回應
+        print(f"⚠️ do_POST {self.path} 錯誤: {e}")
+        try:
+            self._json_response(500, {'error': 'internal error', 'path': self.path})
+        except Exception:
+            pass
 
     def do_OPTIONS(self):
         self.send_response(200)
-        self.send_header('Access-Control-Allow-Origin', '*')
+        self.send_header('Access-Control-Allow-Origin', 'https://trumpcode.washinmura.jp')
         self.send_header('Access-Control-Allow-Methods', 'POST')
         self.send_header('Access-Control-Allow-Headers', 'Content-Type')
         self.end_headers()
