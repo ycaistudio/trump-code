@@ -1,12 +1,12 @@
 {
   "type": "flash",
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T23:00:37.129989+00:00",
-  "post_id": "116331986972530622",
-  "post_content": "I am pleased to nominate Arthur “Rob” Jones to serve on the United States District Court for the Southern District of Texas. Before becoming Executive Assistant U.S. Attorney for the Southern District",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116331986972530622",
+  "generated_at": "2026-04-04T23:00:44.614938+00:00",
+  "post_id": "116331984748685770",
+  "post_content": "I am pleased to nominate John Marck to serve on the United States District Court for the Southern District of Texas. As Acting U.S. Attorney for the Southern District of Texas, John has worked tireles",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116331984748685770",
   "post_source": "Truth Social",
-  "post_time": "Wed, 01 Apr 2026 23:14:10 +0000",
+  "post_time": "Wed, 01 Apr 2026 23:13:36 +0000",
   "signals": "",
   "direction": "NEUTRAL",
   "confidence": 0.0,
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2300-zh.md",
-      "length": 907
+      "length": 916
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2300-en.md",
-      "length": 1191
+      "length": 1301
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2300-ja.md",
-      "length": 840
+      "length": 843
     }
   }
 }
