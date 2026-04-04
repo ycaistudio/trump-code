@@ -1,31 +1,33 @@
-⚡ Trump Code | Flash — 空白貼文，訊號歸零
+⚡ Trump Code | Flash — ObamaCare 廢除論再起，健保股警報
 
-**川普說了什麼**
+**Signal: ACTION + BEARISH | Confidence: 30% (NEUTRAL)**
 
-這則 Truth Social 貼文（2026-03-29 13:41 UTC）**內容為空白**——沒有文字、沒有圖片、沒有連結。可能是誤發、已刪除、或平台擷取失敗。原文關鍵句：「（無內容）」。
+川普在 Truth Social 發文直攻 ObamaCare，稱其為「Unaffordable Care Act」，主張以直接補貼取代現行保險制度。關鍵句："must be replaced by payments being made directly to THE PEOPLE, so that they can buy their own Healthcare, rather than to bloated and uncaring Insurance Companies."
 
-**訊號偵測結果**
+## 為什麼重要
 
-NLP 分類器判定 **NEUTRAL，信心度 0%**。這是正確的——當輸入為空，551 條規則無一觸發，LLM 因果推理層同樣無法產出方向性判斷。0% 信心度 = 沒有可交易訊號。
+川普用「bloated and uncaring」定性保險公司，這是明確的政策風向信號。若推動立法，保險公司的中間人角色將被大幅削弱，直接衝擊：
 
-**為什麼仍值得注意**
+- **UNH**（UnitedHealth）、**CVS**（Aetna）、**CI**（Cigna）、**HUM**（Humana）— ACA 市場主要受益者
+- **XLV**（Health Care Select ETF）短期承壓
+- Managed Care 板塊 PE 重估風險
 
-1. **若為誤發後秒刪**：川普過去刪文後常在 30-120 分鐘內重新發布修正版，且修正版往往更具攻擊性。留意後續補發。
-2. **若為平台技術問題**：Truth Social API 偶有擷取失敗，原文可能含圖片或影片未被解析。需人工確認原始連結。
+但信心度僅 **30%**，原因：廢除 ACA 需國會立法，共和黨內部對替代方案無共識，2017 年已失敗一次。這更像政治表態而非即刻行動。
 
-**建議關注**
+## 建議關注
 
-- **未來 2 小時內**：監控同一帳號是否有後續貼文補發
-- **人工驗證**：點擊[原始連結](https://truthsocial.com/@realDonaldTrump/116312749951796210)確認貼文實際內容
-- **不建議交易**：信心度 0%，無方向性訊號，任何基於此貼文的倉位調整均無數據支撐
+1. **週一亞洲盤前** UNH、CI 期貨反應
+2. 國會共和黨領袖是否跟進表態（48hr 內）
+3. CBO 是否被要求評估「直接補貼」方案成本
+4. ACA 相關保險公司本週 options flow 異常
 
-**結論：Skip this one.** 等下一則有實質內容的貼文再動作。
+**Bottom line:** 噪音大於信號，但若出現立法草案或行政命令跡象，健保股下行風險將迅速升級。Watch, don't chase.
 
 ---
 **📋 Sources & Methodology**
 - Original post: Truth Social
-- Source URL: https://truthsocial.com/@realDonaldTrump/116312749951796210
-- Posted: Sun, 29 Mar 2026 13:41:56 +0000
+- Source URL: https://truthsocial.com/@realDonaldTrump/116312749090280206
+- Posted: Sun, 29 Mar 2026 13:41:43 +0000
 - Analysis engine: Trump Code AI (Claude Opus / Gemini Flash)
 - Signal detection: 551 validated rules from 7,400+ posts (z=5.39)
 - Method: NLP keyword classification → LLM causal reasoning → confidence scoring
