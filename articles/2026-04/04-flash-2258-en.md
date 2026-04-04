@@ -1,33 +1,35 @@
-⚡ Trump Code | Flash — AG Bondi Out, Deputy AG Todd Blanche Steps Up
+⚡ Trump Code | Flash — 伊朗橋梁遭摧毀，川普預告「更多將至」
 
-## What He Said
+## 川普說了什麼
 
-Trump announced Attorney General Pam Bondi's departure, praising her as "a Great American Patriot" who oversaw "a massive crackdown in Crime across our Country, with Murders plummeting to their lowest level since 1900." He confirmed Bondi "will be transitioning to a much needed and important new job in the private sector" and signaled Deputy AG Todd Blanche as her successor.
+川普在 Truth Social 確認美軍摧毀伊朗最大橋梁，並以全大寫發出最後通牒：**"Much more to follow!"** 及 **"IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE, AND THERE IS NOTHING LEFT."**
 
-## Why It Matters
+這不是外交暗示，是公開宣告：攻擊已發生，後續行動已排程。
 
-A sitting AG departure is a Tier-1 political event. Key market implications:
+## 信號偵測
 
-- **DOJ policy continuity risk**: Bondi led aggressive antitrust actions against tech and crypto enforcement cases. A leadership transition creates a policy vacuum — watch for pauses or pivots in active DOJ litigation (Google, Apple, crypto exchanges).
-- **Private prison / law enforcement equities**: Trump framed the move around crime stats, reinforcing his law-and-order brand. GEO Group (GEO), CoreCivic (CXW) may see sentiment moves.
-- **Todd Blanche factor**: Trump's former personal defense attorney. His elevation signals tighter White House-DOJ alignment, which markets may read as increased regulatory unpredictability.
+系統偵測三重信號 **ACTION + THREAT + DEAL**，預測方向 **UP**（信心度 **85%**）。ACTION 確認實質軍事打擊；THREAT 的「更多將至」鎖定後續升級預期；DEAL 語氣為最後通牒而非真正談判開口，短期降溫機率極低。
 
-## Signal Detection
+## 為什麼重要
 
-NLP classification: **NEUTRAL** (confidence 0%). The post is personnel announcement with no direct economic policy trigger. No tariff, trade, or fiscal keywords detected. Low immediate market-moving probability.
+- **原油**：伊朗基礎設施遭打擊 + 預告更多攻擊 → 荷莫茲海峽封鎖風險重新計價。Brent 即時關注 $90 心理關卡。
+- **避險**：黃金、美債需求將急升，VIX 預期跳漲。
+- **通膨**：油價飆升直接推高能源成本，Fed 降息時間表再度推遲的敘事將回歸。
+- **能源股**：XLE、OIH 短線受惠；航空、運輸承壓。
 
-## Watch List
+## 建議關注
 
-- Blanche confirmation timeline and Senate reaction
-- Any DOJ case pauses in the next 5 business days
-- Bondi's "private sector" destination — if it's Big Tech or crypto-adjacent, re-rate sector exposure
-- S&P 500 futures and VIX overnight for broader sentiment read
+1. **Brent / WTI** 開盤跳空幅度（>3% 為強信號）
+2. **美國國防部後續聲明**——確認打擊規模與目標清單
+3. **伊朗回應**——若威脅封鎖海峽，油價將二次跳升
+4. **VIX 30 關卡**——突破即確認市場進入避險模式
+5. **48 小時內**是否出現第二波打擊，驗證「Much more to follow」
 
 ---
 **📋 Sources & Methodology**
 - Original post: Truth Social
-- Source URL: https://truthsocial.com/@realDonaldTrump/116336247856387679
-- Posted: Thu, 02 Apr 2026 17:17:46 +0000
+- Source URL: https://truthsocial.com/@realDonaldTrump/116336091138489301
+- Posted: Thu, 02 Apr 2026 16:37:55 +0000
 - Analysis engine: Trump Code AI (Claude Opus / Gemini Flash)
 - Signal detection: 551 validated rules from 7,400+ posts (z=5.39)
 - Method: NLP keyword classification → LLM causal reasoning → confidence scoring

@@ -1,15 +1,15 @@
 {
   "type": "flash",
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T22:58:43.149538+00:00",
-  "post_id": "116336247856387679",
-  "post_content": "Pam Bondi is a Great American Patriot and a loyal friend, who faithfully served as my Attorney General over the past year. Pam did a tremendous job overseeing a massive crackdown in Crime across our C",
-  "post_url": "https://truthsocial.com/@realDonaldTrump/116336247856387679",
+  "generated_at": "2026-04-04T22:58:58.239322+00:00",
+  "post_id": "116336091138489301",
+  "post_content": "The biggest bridge in Iran comes tumbling down, never to be used again — Much more to follow! IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE, AND THERE IS NOTHING LEFT OF WHAT STILL COULD BE",
+  "post_url": "https://truthsocial.com/@realDonaldTrump/116336091138489301",
   "post_source": "Truth Social",
-  "post_time": "Thu, 02 Apr 2026 17:17:46 +0000",
-  "signals": "",
-  "direction": "NEUTRAL",
-  "confidence": 0.0,
+  "post_time": "Thu, 02 Apr 2026 16:37:55 +0000",
+  "signals": "ACTION, THREAT, DEAL",
+  "direction": "UP",
+  "confidence": 0.85,
   "analysis_engine": "Trump Code AI (Claude Opus / Gemini Flash)",
   "analysis_method": "NLP keyword classification → LLM causal reasoning → confidence scoring",
   "rules_base": "551 validated rules from 7,400+ posts (z=5.39)",
@@ -17,17 +17,17 @@
     "zh": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2258-zh.md",
-      "length": 954
+      "length": 844
     },
     "en": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2258-en.md",
-      "length": 2188
+      "length": 1230
     },
     "ja": {
       "status": "ok",
       "path": "/Users/tkman/Projects/trump-code/articles/2026-04/04-flash-2258-ja.md",
-      "length": 968
+      "length": 927
     }
   }
 }

@@ -1,20 +1,24 @@
 ⚡ 川普密碼｜即時快報
 
-## 司法部長乾坤大挪移——Pam Bondi 走人，權力重新洗牌
+## 伊朗大橋被炸，川普預告「還有更多」——中東全面升級
 
-川普剛在 Truth Social 宣布司法部長 Pam Bondi 即將離任，轉往私人部門，並由副司法部長 Todd Blanche 接手。川普稱讚 Bondi 主導了「a massive crackdown in Crime across our Country, with Murders plummeting to their lowest level since 1900」，並預告她將擔任一個「much needed and important new job in the private sector」。
+川普剛在 Truth Social 確認美軍摧毀伊朗最大橋樑，並直接喊話：「Much more to follow!」、「IT IS TIME FOR IRAN TO MAKE A DEAL BEFORE IT IS TOO LATE, AND THERE IS NOTHING LEFT」——這不是外交辭令，是最後通牒。
 
-**為什麼重要？** 司法部長是美國最具權力的執法角色之一，換人代表政策方向可能微調。Bondi 任內主打犯罪打擊，新任者 Todd Blanche 過去是川普的私人辯護律師，風格更偏法律攻防而非執法。這對反壟斷案、科技業監管、加密貨幣訴訟的走向都可能產生連鎖效應。
+**為什麼重要？** 系統偵測到三重信號：ACTION（軍事行動確認）、THREAT（預告後續攻擊）、DEAL（施壓談判），預測方向 UP，信心度 85%。基礎設施遭打擊代表衝突從「報復」升級到「癱瘓」層級，原油供應鏈直接受威脅。短期內油價、黃金、美元將同步拉升，科技股與航運股承壓。
 
-**信號偵測：NEUTRAL，信心度 0%。** 這是人事異動而非政策宣示，市場短期不會有劇烈反應，但中期要留意新任司法部長對科技股（META、GOOG）反壟斷態度，以及加密貨幣相關執法是否鬆綁。
+**建議關注：**
+- **WTI 原油**：若突破 $85 關卡，能源通膨敘事重啟
+- **VIX 恐慌指數**：觀察是否站上 20
+- **伊朗回應時間**：48 小時內若反擊，避險潮將加劇
+- **Fed 官員談話**：油價若飆，降息預期會被快速修正
 
-**建議關注：** 未來一週 Bondi 私部門新職公布（可能涉及遊說或顧問），以及 Todd Blanche 上任後首波政策聲明。
+川普說「還有更多」——市場最怕的就是這句。
 
 ---
 **📋 出處與方法**
 - 原文來源：Truth Social
-- 原文連結：https://truthsocial.com/@realDonaldTrump/116336247856387679
-- 發文時間：Thu, 02 Apr 2026 17:17:46 +0000
+- 原文連結：https://truthsocial.com/@realDonaldTrump/116336091138489301
+- 發文時間：Thu, 02 Apr 2026 16:37:55 +0000
 - 分析引擎：Trump Code AI（Claude Opus / Gemini Flash）
 - 信號偵測：基於 7,400+ 篇推文訓練的 551 條規則，z=5.39
 - 分析方法：NLP 關鍵字分類 → LLM 因果推理 → 信心度評分
