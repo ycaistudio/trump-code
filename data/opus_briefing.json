@@ -1,87 +1,50 @@
 {
-  "date": "2026-04-04",
-  "prepared_at": "2026-04-04T14:37:46Z",
+  "date": "2026-04-05",
+  "prepared_at": "2026-04-05T14:38:48Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 6,
-    "latest": "Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out - 48 hours before all Hell will reign down on them. Glory be to GOD! President DONALD J. TRUMP",
-    "earliest_time": "2026-04-04T02:58:15.255Z",
-    "latest_time": "2026-04-04T14:05:27.328Z",
+    "count": 3,
+    "latest": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin' Strait, you crazy bastards, or you'll be living in Hell - JUST WATCH!",
+    "earliest_time": "2026-04-05T04:08:57.523Z",
+    "latest_time": "2026-04-05T12:03:26.421Z",
     "sample": [
       {
-        "time": "02:58",
-        "text": "Third rate news \"anchor\" Jonathan Karl of ABC Fake News, the worst and most corrupt Network in the business, wrote another made up book about me where his stories and \"reporting\" bare no relationship to the truth. ABC was already forced to pay me $16,000,000 because of their false and misleading rep"
+        "time": "04:08",
+        "text": "FROM PRESIDENT DONALD J. TRUMPWE GOT HIM! My fellow Americans, over the past several hours, the United States Military pulled off one of the most daring Search and Rescue Operations in U.S. History, for one of our incredible Crew Member Officers, who also happens to be a highly respected Colonel, an"
       },
       {
-        "time": "03:03",
-        "text": "178,000 new jobs in March. Unemployment DOWN. Great numbers by all accounts, even the Fake News. MAGA!"
+        "time": "11:52",
+        "text": "We have rescued the seriously wounded, and really brave, F-15 Crew Member/Officer, from deep inside the mountains of Iran. The Iranian Military was looking hard, in big numbers, and getting close. He is a highly respected Colonel. This type of raid is seldom attempted because of the danger to \"man a"
       },
       {
-        "time": "03:21",
-        "text": "Believers and people of faith find safe harbor in Trump's White House this Easter: https://justthenews.com/government/white-house/he-risen-faith-finds-safe-harbor-trump-white-house"
-      },
-      {
-        "time": "13:24",
-        "text": "The Failing New York Times, whose lack of credibility, and their constant Fake News attacks on your favorite President, ME, has caused its circulation to absolutely PLUMMET, referred to our severely weakened and extremely unreliable \"partner,\"NATO, as the North American Treaty Organization. The corr"
-      },
-      {
-        "time": "13:32",
-        "text": "Not only were the jobs numbers GREAT yesterday, 178,000 new jobs, but the TRADE DEFICIT was down 55%, the biggest drop in history. THANK YOU MR. TARIFF! All of this and, simultaneously, getting rid of a Nuclear Iran. MAGA!!!"
-      },
-      {
-        "time": "14:05",
-        "text": "Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out - 48 hours before all Hell will reign down on them. Glory be to GOD! President DONALD J. TRUMP"
+        "time": "12:03",
+        "text": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin' Strait, you crazy bastards, or you'll be living in Hell - JUST WATCH! Praise be to Allah. President DONALD J. TRUMP"
       }
     ]
   },
   "keyword_signals": [
-    "TARIFF",
-    "DEAL",
     "IRAN"
   ],
   "today_features": {
-    "posts_6_10": true,
-    "avg_len_medium": true,
+    "posts_1_5": true,
+    "avg_len_very_long": true,
     "caps_medium": true,
-    "excl_heavy": true,
+    "excl_extreme": true,
     "questions_no": true,
-    "has_night": true,
-    "heavy_night": true,
-    "kw_tariff": true,
-    "open_tariff": true,
-    "kw_deal": true,
-    "open_deal": true,
-    "kw_trade": true,
-    "open_trade": true,
+    "mostly_premarket": true,
     "kw_iran": true,
     "kw_iran_2plus": true,
-    "open_iran": true,
+    "pre_iran": true,
     "kw_dow": true,
-    "kw_dow_2plus": true,
     "pre_dow": true,
-    "open_dow": true,
-    "kw_jobs": true,
-    "kw_jobs_2plus": true,
-    "open_jobs": true,
-    "kw_deficit": true,
-    "open_deficit": true,
     "kw_great": true,
-    "kw_great_2plus": true,
     "pre_great": true,
-    "open_great": true,
-    "kw_fake": true,
-    "kw_fake_2plus": true,
-    "pre_fake": true,
-    "kw_corrupt": true,
-    "kw_worst": true,
-    "kw_maga": true,
-    "kw_maga_2plus": true,
-    "open_maga": true,
-    "kw_president_djt": true,
-    "kw_president_djt_2plus": true,
-    "pre_president_djt": true,
+    "kw_incredible": true,
+    "pre_incredible": true,
+    "kw_amazing": true,
+    "pre_amazing": true,
     "is_weekend": true,
-    "both_tariff_and_deal": true
+    "volume_drop": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -190,17 +153,29 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-04-04",
+    "date": "2026-04-05",
     "crossover": 16,
-    "mutation": 11,
+    "mutation": 16,
     "distill": 16,
-    "total_new": 43,
+    "total_new": 48,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
-          "open_tariffs",
-          "is_friday"
+          "kw_tremendous",
+          "kw_interest_rate",
+          "kw_dow_2plus"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 100.0,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_economy",
+          "kw_signed",
+          "kw_thank_you_for_your_attention"
         ],
         "direction": "LONG",
         "hold": 3,
@@ -209,23 +184,12 @@
       },
       {
         "features": [
-          "open_ban",
-          "open_thank_you_for_your_attention"
-        ],
-        "direction": "LONG",
-        "hold": 2,
-        "score": 87.5,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_inflation",
-          "avg_len_long",
-          "kw_dow_2plus"
+          "open_trade",
+          "kw_tariffs_2plus"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 87.5,
+        "score": 83.3,
         "origin": "crossover"
       }
     ]
@@ -242,10 +206,8 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-04-04",
+    "date": "2026-04-05",
     "signals": [
-      "TARIFF",
-      "DEAL",
       "IRAN"
     ],
     "opportunities": [],

@@ -1,14 +1,12 @@
 {
-  "date": "2026-04-04",
-  "generated_at": "2026-04-04T14:37:42Z",
-  "posts_today": 6,
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T14:38:45Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-04-04T14:05",
-    "content_preview": "Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out "
+    "time": "2026-04-05T12:03",
+    "content_preview": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi"
   },
   "signals_detected": [
-    "TARIFF",
-    "DEAL",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -27,9 +25,9 @@
     "close": 6582.69
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-04\nPosts today: 6 | Models triggered: 0\nSignals: TARIFF, DEAL, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out ",
-    "zh": "川普密碼每日報告 -- 2026-04-04\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out ",
-    "ja": "トランプ・コード日次レポート -- 2026-04-04\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT. Time is running out "
+    "en": "Trump Code Daily Report -- 2026-04-05\nPosts today: 3 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi",
+    "zh": "川普密碼每日報告 -- 2026-04-05\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi",
+    "ja": "トランプ・コード日次レポート -- 2026-04-05\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi"
   },
   "triggered_rules_sample": []
 }
