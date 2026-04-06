@@ -1043,5 +1043,48 @@
         "origin": "crossover"
       }
     ]
+  },
+  {
+    "date": "2026-04-06",
+    "crossover": 16,
+    "mutation": 10,
+    "distill": 16,
+    "total_new": 42,
+    "total_rules_after": 600,
+    "top_3": [
+      {
+        "features": [
+          "kw_thank_you_for_your_attention",
+          "kw_energy",
+          "open_energy"
+        ],
+        "direction": "LONG",
+        "hold": 1,
+        "score": 94.1,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_tariff_2plus",
+          "kw_trade",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 87.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_tariff_2plus",
+          "kw_tremendous",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 87.5,
+        "origin": "crossover"
+      }
+    ]
   }
 ]

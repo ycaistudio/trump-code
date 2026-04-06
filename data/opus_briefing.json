@@ -1,50 +1,80 @@
 {
-  "date": "2026-04-05",
-  "prepared_at": "2026-04-05T14:38:48Z",
+  "date": "2026-04-06",
+  "prepared_at": "2026-04-06T14:53:57Z",
   "status": "PENDING",
   "today_posts": {
-    "count": 3,
-    "latest": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin' Strait, you crazy bastards, or you'll be living in Hell - JUST WATCH!",
-    "earliest_time": "2026-04-05T04:08:57.523Z",
-    "latest_time": "2026-04-05T12:03:26.421Z",
+    "count": 7,
+    "latest": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Caucus. Proud of you!!! President DJT",
+    "earliest_time": "2026-04-06T00:57:00.000Z",
+    "latest_time": "2026-04-06T11:08:11.676Z",
     "sample": [
       {
-        "time": "04:08",
-        "text": "FROM PRESIDENT DONALD J. TRUMPWE GOT HIM! My fellow Americans, over the past several hours, the United States Military pulled off one of the most daring Search and Rescue Operations in U.S. History, for one of our incredible Crew Member Officers, who also happens to be a highly respected Colonel, an"
+        "time": "00:57",
+        "text": ". @realdonaldtrump is fixing the problem of Iran - a problem other Presidents ignored  https://youtu.be/1yyWqBWH4Zs"
       },
       {
-        "time": "11:52",
-        "text": "We have rescued the seriously wounded, and really brave, F-15 Crew Member/Officer, from deep inside the mountains of Iran. The Iranian Military was looking hard, in big numbers, and getting close. He is a highly respected Colonel. This type of raid is seldom attempted because of the danger to \"man a"
+        "time": "04:29",
+        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116355875761591220"
       },
       {
-        "time": "12:03",
-        "text": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin' Strait, you crazy bastards, or you'll be living in Hell - JUST WATCH! Praise be to Allah. President DONALD J. TRUMP"
+        "time": "04:57",
+        "text": "It's too bad that the Supreme Court can't watch and study the Mark Levin Show tonight on the Birthright Citizenship Scam. If they saw it they would never allow that money making HOAX to continue. THEY SHOULD USE THEIR POWERS OF COMMON SENSE FOR THE GOOD OF OUR COUNTRY. They failed miserably on Tarif"
+      },
+      {
+        "time": "05:21",
+        "text": "I have known and respected Steve Hilton, who is running for Governor of California, for many years. He is a truly fine man, one who has watched as this once great State has gone to Hell. Gavin Newscum and the Democrats have done an absolutely horrendous job. People are fleeing, crime is increasing, "
+      },
+      {
+        "time": "07:07",
+        "text": "It’s too bad that the Supreme Court can’t watch and study the Mark Levin Show tonight on the Birthright Citizenship Scam. If they saw it they would never allow that money making HOAX to continue. THEY SHOULD USE THEIR POWERS OF COMMON SENSE FOR THE GOOD OF OUR COUNTRY. They failed miserably on Tarif"
+      },
+      {
+        "time": "07:08",
+        "text": "Great going Freedom Caucus. Proud of you!!! President DJT"
+      },
+      {
+        "time": "11:08",
+        "text": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Caucus. Proud of you!!! President DJT"
       }
     ]
   },
   "keyword_signals": [
-    "IRAN"
+    "TARIFF",
+    "IRAN",
+    "TARIFF_ONLY"
   ],
   "today_features": {
-    "posts_1_5": true,
-    "avg_len_very_long": true,
+    "posts_6_10": true,
+    "avg_len_medium": true,
     "caps_medium": true,
-    "excl_extreme": true,
-    "questions_no": true,
+    "excl_heavy": true,
+    "questions_yes": true,
     "mostly_premarket": true,
+    "has_night": true,
+    "kw_tariff": true,
+    "kw_tariff_2plus": true,
+    "pre_tariff": true,
+    "kw_tariffs": true,
+    "kw_tariffs_2plus": true,
+    "pre_tariffs": true,
     "kw_iran": true,
-    "kw_iran_2plus": true,
-    "pre_iran": true,
     "kw_dow": true,
     "pre_dow": true,
+    "kw_billion": true,
+    "kw_billion_2plus": true,
+    "pre_billion": true,
     "kw_great": true,
+    "kw_great_2plus": true,
     "pre_great": true,
-    "kw_incredible": true,
-    "pre_incredible": true,
-    "kw_amazing": true,
-    "pre_amazing": true,
-    "is_weekend": true,
-    "volume_drop": true
+    "kw_president_djt": true,
+    "kw_president_djt_2plus": true,
+    "pre_president_djt": true,
+    "kw_never_let_you_down": true,
+    "pre_never_let_you_down": true,
+    "is_monday": true,
+    "volume_rising_3d": true,
+    "tariff_without_deal": true,
+    "tariff_no_deal": true
   },
   "model_performance": {
     "A1_tariff_bearish": {
@@ -153,43 +183,44 @@
     "signal_adjusted": 0
   },
   "evolution_latest": {
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "crossover": 16,
-    "mutation": 16,
+    "mutation": 10,
     "distill": 16,
-    "total_new": 48,
+    "total_new": 42,
     "total_rules_after": 600,
     "top_3": [
       {
         "features": [
+          "kw_thank_you_for_your_attention",
+          "kw_energy",
+          "open_energy"
+        ],
+        "direction": "LONG",
+        "hold": 1,
+        "score": 94.1,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_tariff_2plus",
+          "kw_trade",
+          "kw_economy"
+        ],
+        "direction": "LONG",
+        "hold": 3,
+        "score": 87.5,
+        "origin": "crossover"
+      },
+      {
+        "features": [
+          "kw_tariff_2plus",
           "kw_tremendous",
-          "kw_interest_rate",
-          "kw_dow_2plus"
+          "kw_economy"
         ],
         "direction": "LONG",
         "hold": 3,
-        "score": 100.0,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "kw_economy",
-          "kw_signed",
-          "kw_thank_you_for_your_attention"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 88.9,
-        "origin": "crossover"
-      },
-      {
-        "features": [
-          "open_trade",
-          "kw_tariffs_2plus"
-        ],
-        "direction": "LONG",
-        "hold": 3,
-        "score": 83.3,
+        "score": 87.5,
         "origin": "crossover"
       }
     ]
@@ -206,9 +237,11 @@
     "DEAL_ONLY": 0.65
   },
   "prediction_market": {
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "signals": [
-      "IRAN"
+      "TARIFF",
+      "IRAN",
+      "TARIFF_ONLY"
     ],
     "opportunities": [],
     "total_scanned": 0

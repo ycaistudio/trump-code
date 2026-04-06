@@ -1,13 +1,15 @@
 {
-  "date": "2026-04-05",
-  "generated_at": "2026-04-05T14:38:45Z",
-  "posts_today": 3,
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T14:53:52Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-04-05T12:03",
-    "content_preview": "Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi"
+    "time": "2026-04-06T11:08",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Cau"
   },
   "signals_detected": [
-    "IRAN"
+    "TARIFF",
+    "IRAN",
+    "TARIFF_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -21,13 +23,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-02",
-    "close": 6582.69
+    "date": "2026-04-06",
+    "close": 6597.56
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-05\nPosts today: 3 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi",
-    "zh": "川普密碼每日報告 -- 2026-04-05\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi",
-    "ja": "トランプ・コード日次レポート -- 2026-04-05\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothi"
+    "en": "Trump Code Daily Report -- 2026-04-06\nPosts today: 7 | Models triggered: 0\nSignals: TARIFF, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Cau",
+    "zh": "川普密碼每日報告 -- 2026-04-06\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Cau",
+    "ja": "トランプ・コード日次レポート -- 2026-04-06\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: 関税, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Cau"
   },
   "triggered_rules_sample": []
 }

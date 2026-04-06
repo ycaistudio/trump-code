@@ -1,16 +1,24 @@
-# 川普密碼 Opus 簡報 — 2026-04-05
-準備時間: 2026-04-05T14:38:48Z
+# 川普密碼 Opus 簡報 — 2026-04-06
+準備時間: 2026-04-06T14:53:57Z
 
-## 今日推文: 3 篇
-時間: 2026-04-05T04:08:57.523Z ~ 2026-04-05T12:03:26.421Z
+## 今日推文: 7 篇
+時間: 2026-04-06T00:57:00.000Z ~ 2026-04-06T11:08:11.676Z
 
-[04:08] FROM PRESIDENT DONALD J. TRUMPWE GOT HIM! My fellow Americans, over the past several hours, the United States Military pulled off one of the most daring Search and Rescue Operations in U.S. History, for one of our incredible Crew Member Officers, who also happens to be a highly respected Colonel, an
+[00:57] . @realdonaldtrump is fixing the problem of Iran - a problem other Presidents ignored  https://youtu.be/1yyWqBWH4Zs
 
-[11:52] We have rescued the seriously wounded, and really brave, F-15 Crew Member/Officer, from deep inside the mountains of Iran. The Iranian Military was looking hard, in big numbers, and getting close. He is a highly respected Colonel. This type of raid is seldom attempted because of the danger to "man a
+[04:29] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116355875761591220
 
-[12:03] Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!! Open the Fuckin' Strait, you crazy bastards, or you'll be living in Hell - JUST WATCH! Praise be to Allah. President DONALD J. TRUMP
+[04:57] It's too bad that the Supreme Court can't watch and study the Mark Levin Show tonight on the Birthright Citizenship Scam. If they saw it they would never allow that money making HOAX to continue. THEY SHOULD USE THEIR POWERS OF COMMON SENSE FOR THE GOOD OF OUR COUNTRY. They failed miserably on Tarif
 
-## 關鍵字偵測到的信號: IRAN
+[05:21] I have known and respected Steve Hilton, who is running for Governor of California, for many years. He is a truly fine man, one who has watched as this once great State has gone to Hell. Gavin Newscum and the Democrats have done an absolutely horrendous job. People are fleeing, crime is increasing, 
+
+[07:07] It’s too bad that the Supreme Court can’t watch and study the Mark Levin Show tonight on the Birthright Citizenship Scam. If they saw it they would never allow that money making HOAX to continue. THEY SHOULD USE THEIR POWERS OF COMMON SENSE FOR THE GOOD OF OUR COUNTRY. They failed miserably on Tarif
+
+[07:08] Great going Freedom Caucus. Proud of you!!! President DJT
+
+[11:08] RT: https://truthsocial.com/users/realDonaldTrump/statuses/116357442556060490Great going Freedom Caucus. Proud of you!!! President DJT
+
+## 關鍵字偵測到的信號: TARIFF, IRAN, TARIFF_ONLY
 
 ## 模型績效排行
   A3_relief_rocket (盤前 RELIEF→當天飆): 72.7% | 報酬 +1.206% | 11 筆
@@ -34,7 +42,7 @@
 
 ## 學習引擎上次動作: 4 升級 / 1 降級 / 1 淘汰
 
-## 規則進化: 新增 48 條規則
+## 規則進化: 新增 42 條規則
 
 ## 信號信心度
   ACTION: 0.95
