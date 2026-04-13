@@ -1,13 +1,15 @@
 {
-  "date": "2026-04-12",
-  "generated_at": "2026-04-12T14:39:26Z",
-  "posts_today": 8,
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T15:15:58Z",
+  "posts_today": 16,
   "latest_post": {
-    "time": "2026-04-12T12:53",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116391828823240211Iran promised to open t"
+    "time": "2026-04-13T14:23",
+    "content_preview": "Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not"
   },
   "signals_detected": [
-    "IRAN"
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -21,13 +23,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-10",
-    "close": 6816.89
+    "date": "2026-04-13",
+    "close": 6822.9
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-12\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116391828823240211Iran promised to open t",
-    "zh": "川普密碼每日報告 -- 2026-04-12\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116391828823240211Iran promised to open t",
-    "ja": "トランプ・コード日次レポート -- 2026-04-12\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116391828823240211Iran promised to open t"
+    "en": "Trump Code Daily Report -- 2026-04-13\nPosts today: 16 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not",
+    "zh": "川普密碼每日報告 -- 2026-04-13\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not",
+    "ja": "トランプ・コード日次レポート -- 2026-04-13\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Iran's Navy is laying at the bottom of the sea, completely obliterated - 158 ships. What we have not"
   },
   "triggered_rules_sample": []
 }
