@@ -1,12 +1,16 @@
 {
-  "date": "2026-04-16",
-  "generated_at": "2026-04-16T15:25:05Z",
-  "posts_today": 2,
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T15:00:24Z",
+  "posts_today": 15,
   "latest_post": {
-    "time": "2026-04-16T03:26",
-    "content_preview": "Trying to get a little breathing room between Israel and Lebanon. It has been a long time since the "
+    "time": "2026-04-17T14:40",
+    "content_preview": "Iran has agreed to never close the Strait of Hormuz again. It will no longer be used as a weapon aga"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-16",
-    "close": 7040.5
+    "date": "2026-04-17",
+    "close": 7128.15
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-16\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Trying to get a little breathing room between Israel and Lebanon. It has been a long time since the ",
-    "zh": "川普密碼每日報告 -- 2026-04-16\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Trying to get a little breathing room between Israel and Lebanon. It has been a long time since the ",
-    "ja": "トランプ・コード日次レポート -- 2026-04-16\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Trying to get a little breathing room between Israel and Lebanon. It has been a long time since the "
+    "en": "Trump Code Daily Report -- 2026-04-17\nPosts today: 15 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Iran has agreed to never close the Strait of Hormuz again. It will no longer be used as a weapon aga",
+    "zh": "川普密碼每日報告 -- 2026-04-17\n今日推文: 15 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Iran has agreed to never close the Strait of Hormuz again. It will no longer be used as a weapon aga",
+    "ja": "トランプ・コード日次レポート -- 2026-04-17\n本日の投稿: 15件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Iran has agreed to never close the Strait of Hormuz again. It will no longer be used as a weapon aga"
   },
   "triggered_rules_sample": []
 }
