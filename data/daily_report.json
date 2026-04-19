@@ -1,14 +1,15 @@
 {
-  "date": "2026-04-18",
-  "generated_at": "2026-04-18T14:43:38Z",
-  "posts_today": 19,
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T14:43:55Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-04-18T12:14",
-    "content_preview": "Has anybody looked at how badly the country of Spain is doing. Their financial numbers, despite cont"
+    "time": "2026-04-19T12:10",
+    "content_preview": "Iran decided to fire bullets yesterday in the Strait of Hormuz — A Total Violation of our Ceasefire "
   },
   "signals_detected": [
-    "CHINA",
-    "IRAN"
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -26,9 +27,9 @@
     "close": 7126.06
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-18\nPosts today: 19 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Has anybody looked at how badly the country of Spain is doing. Their financial numbers, despite cont",
-    "zh": "川普密碼每日報告 -- 2026-04-18\n今日推文: 19 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Has anybody looked at how badly the country of Spain is doing. Their financial numbers, despite cont",
-    "ja": "トランプ・コード日次レポート -- 2026-04-18\n本日の投稿: 19件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Has anybody looked at how badly the country of Spain is doing. Their financial numbers, despite cont"
+    "en": "Trump Code Daily Report -- 2026-04-19\nPosts today: 9 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Iran decided to fire bullets yesterday in the Strait of Hormuz — A Total Violation of our Ceasefire ",
+    "zh": "川普密碼每日報告 -- 2026-04-19\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Iran decided to fire bullets yesterday in the Strait of Hormuz — A Total Violation of our Ceasefire ",
+    "ja": "トランプ・コード日次レポート -- 2026-04-19\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Iran decided to fire bullets yesterday in the Strait of Hormuz — A Total Violation of our Ceasefire "
   },
   "triggered_rules_sample": []
 }
