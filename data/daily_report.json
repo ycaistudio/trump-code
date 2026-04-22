@@ -1,12 +1,15 @@
 {
-  "date": "2026-04-21",
-  "generated_at": "2026-04-21T15:18:07Z",
-  "posts_today": 12,
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T15:18:15Z",
+  "posts_today": 14,
   "latest_post": {
-    "time": "2026-04-21T13:37",
-    "content_preview": "Never allow the Traitor Democrats like Low IQ person Hakeem Jeffries, or Cryin' Chuck Schumer, or th"
+    "time": "2026-04-22T13:41",
+    "content_preview": "How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe"
   },
   "signals_detected": [
+    "TARIFF",
+    "DEAL",
+    "CHINA",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -21,13 +24,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-21",
-    "close": 7098.88
+    "date": "2026-04-22",
+    "close": 7120.47
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-21\nPosts today: 12 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Never allow the Traitor Democrats like Low IQ person Hakeem Jeffries, or Cryin' Chuck Schumer, or th",
-    "zh": "川普密碼每日報告 -- 2026-04-21\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Never allow the Traitor Democrats like Low IQ person Hakeem Jeffries, or Cryin' Chuck Schumer, or th",
-    "ja": "トランプ・コード日次レポート -- 2026-04-21\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Never allow the Traitor Democrats like Low IQ person Hakeem Jeffries, or Cryin' Chuck Schumer, or th"
+    "en": "Trump Code Daily Report -- 2026-04-22\nPosts today: 14 | Models triggered: 0\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe",
+    "zh": "川普密碼每日報告 -- 2026-04-22\n今日推文: 14 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe",
+    "ja": "トランプ・コード日次レポート -- 2026-04-22\n本日の投稿: 14件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe"
   },
   "triggered_rules_sample": []
 }
