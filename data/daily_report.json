@@ -1,16 +1,15 @@
 {
-  "date": "2026-04-22",
-  "generated_at": "2026-04-22T15:18:15Z",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T15:58:05Z",
   "posts_today": 14,
   "latest_post": {
-    "time": "2026-04-22T13:41",
-    "content_preview": "How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe"
+    "time": "2026-04-23T14:25",
+    "content_preview": "Wow! Cryin' Chuck Schumer just said, for the whole World to hear, that \"NOBODY RESPECTS BORDER PATRO"
   },
   "signals_detected": [
-    "TARIFF",
     "DEAL",
-    "CHINA",
-    "IRAN"
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -24,13 +23,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-22",
-    "close": 7120.47
+    "date": "2026-04-23",
+    "close": 7134.04
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-22\nPosts today: 14 | Models triggered: 0\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe",
-    "zh": "川普密碼每日報告 -- 2026-04-22\n今日推文: 14 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe",
-    "ja": "トランプ・コード日次レポート -- 2026-04-22\n本日の投稿: 14件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: How can the Democrats not like how the U.S. Supreme Court votes. The Democrat Justices stick togethe"
+    "en": "Trump Code Daily Report -- 2026-04-23\nPosts today: 14 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Wow! Cryin' Chuck Schumer just said, for the whole World to hear, that \"NOBODY RESPECTS BORDER PATRO",
+    "zh": "川普密碼每日報告 -- 2026-04-23\n今日推文: 14 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Wow! Cryin' Chuck Schumer just said, for the whole World to hear, that \"NOBODY RESPECTS BORDER PATRO",
+    "ja": "トランプ・コード日次レポート -- 2026-04-23\n本日の投稿: 14件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Wow! Cryin' Chuck Schumer just said, for the whole World to hear, that \"NOBODY RESPECTS BORDER PATRO"
   },
   "triggered_rules_sample": []
 }
