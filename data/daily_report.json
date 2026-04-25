@@ -1,17 +1,20 @@
 {
-  "date": "2026-04-24",
-  "generated_at": "2026-04-24T15:12:27Z",
-  "posts_today": 14,
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T14:46:39Z",
+  "posts_today": 20,
   "latest_post": {
-    "time": "2026-04-24T11:33",
-    "content_preview": "Trump push to restrain birthright citizenship gets ammo from unlikely source: liberal polling group:"
+    "time": "2026-04-24T22:17",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405"
   },
-  "signals_detected": [],
-  "models_triggered": 0,
+  "signals_detected": [
+    "TARIFF",
+    "TARIFF_ONLY"
+  ],
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 0,
@@ -20,12 +23,24 @@
   },
   "sp500_latest": {
     "date": "2026-04-24",
-    "close": 7141.42
+    "close": 7165.08
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-24\nPosts today: 14 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Trump push to restrain birthright citizenship gets ammo from unlikely source: liberal polling group:",
-    "zh": "川普密碼每日報告 -- 2026-04-24\n今日推文: 14 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Trump push to restrain birthright citizenship gets ammo from unlikely source: liberal polling group:",
-    "ja": "トランプ・コード日次レポート -- 2026-04-24\n本日の投稿: 14件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Trump push to restrain birthright citizenship gets ammo from unlikely source: liberal polling group:"
+    "en": "Trump Code Daily Report -- 2026-04-25\nPosts today: 20 | Models triggered: 1\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405",
+    "zh": "川普密碼每日報告 -- 2026-04-25\n今日推文: 20 篇 | 觸發模型: 1 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405",
+    "ja": "トランプ・コード日次レポート -- 2026-04-25\n本日の投稿: 20件 | トリガーモデル: 1組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116461727359731405"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "is_friday",
+        "open_tariff",
+        "questions_yes"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
