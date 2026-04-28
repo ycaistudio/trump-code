@@ -1,12 +1,14 @@
 {
-  "date": "2026-04-27",
-  "generated_at": "2026-04-27T15:51:57Z",
-  "posts_today": 2,
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T16:10:29Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-04-27T03:00",
-    "content_preview": "GREAT IDEA!!! DO IT.  President DJT"
+    "time": "2026-04-28T13:29",
+    "content_preview": "Iran has just informed us that they are in a \"State of Collapse.\" They want us to \"Open the Hormuz S"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-27",
-    "close": 7156.03
+    "date": "2026-04-28",
+    "close": 7125.97
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-27\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: GREAT IDEA!!! DO IT.  President DJT",
-    "zh": "川普密碼每日報告 -- 2026-04-27\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: GREAT IDEA!!! DO IT.  President DJT",
-    "ja": "トランプ・コード日次レポート -- 2026-04-27\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: GREAT IDEA!!! DO IT.  President DJT"
+    "en": "Trump Code Daily Report -- 2026-04-28\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Iran has just informed us that they are in a \"State of Collapse.\" They want us to \"Open the Hormuz S",
+    "zh": "川普密碼每日報告 -- 2026-04-28\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Iran has just informed us that they are in a \"State of Collapse.\" They want us to \"Open the Hormuz S",
+    "ja": "トランプ・コード日次レポート -- 2026-04-28\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Iran has just informed us that they are in a \"State of Collapse.\" They want us to \"Open the Hormuz S"
   },
   "triggered_rules_sample": []
 }
