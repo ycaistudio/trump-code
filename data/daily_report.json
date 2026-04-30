@@ -1,15 +1,13 @@
 {
-  "date": "2026-04-29",
-  "generated_at": "2026-04-29T15:58:18Z",
-  "posts_today": 2,
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T15:49:43Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-04-29T08:05",
-    "content_preview": "Iran can't get their act together. They don't know how to sign a nonnuclear deal. They better get sm"
+    "time": "2026-04-30T13:51",
+    "content_preview": "How much abuse can the Republican Senate take from the Radical Left Lunatics in the form of Democrat"
   },
   "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -23,13 +21,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-04-29",
-    "close": 7121.3
+    "date": "2026-04-30",
+    "close": 7162.2
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-04-29\nPosts today: 2 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Iran can't get their act together. They don't know how to sign a nonnuclear deal. They better get sm",
-    "zh": "川普密碼每日報告 -- 2026-04-29\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Iran can't get their act together. They don't know how to sign a nonnuclear deal. They better get sm",
-    "ja": "トランプ・コード日次レポート -- 2026-04-29\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Iran can't get their act together. They don't know how to sign a nonnuclear deal. They better get sm"
+    "en": "Trump Code Daily Report -- 2026-04-30\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: How much abuse can the Republican Senate take from the Radical Left Lunatics in the form of Democrat",
+    "zh": "川普密碼每日報告 -- 2026-04-30\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: How much abuse can the Republican Senate take from the Radical Left Lunatics in the form of Democrat",
+    "ja": "トランプ・コード日次レポート -- 2026-04-30\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: How much abuse can the Republican Senate take from the Radical Left Lunatics in the form of Democrat"
   },
   "triggered_rules_sample": []
 }
