@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-03",
-  "generated_at": "2026-05-03T14:53:04Z",
-  "posts_today": 1,
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T16:04:58Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-05-03T10:40",
-    "content_preview": "Exclusive — Deputy Italian Prime Minister Matteo Salvini: Trump’s ‘Courage’ for ‘Cultural Foundation"
+    "time": "2026-05-04T12:20",
+    "content_preview": "When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 0.0
   },
   "sp500_latest": {
-    "date": "2026-05-01",
-    "close": 7230.12
+    "date": "2026-05-04",
+    "close": 7196.04
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-03\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: Exclusive — Deputy Italian Prime Minister Matteo Salvini: Trump’s ‘Courage’ for ‘Cultural Foundation",
-    "zh": "川普密碼每日報告 -- 2026-05-03\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: Exclusive — Deputy Italian Prime Minister Matteo Salvini: Trump’s ‘Courage’ for ‘Cultural Foundation",
-    "ja": "トランプ・コード日次レポート -- 2026-05-03\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: Exclusive — Deputy Italian Prime Minister Matteo Salvini: Trump’s ‘Courage’ for ‘Cultural Foundation"
+    "en": "Trump Code Daily Report -- 2026-05-04\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A",
+    "zh": "川普密碼每日報告 -- 2026-05-04\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A",
+    "ja": "トランプ・コード日次レポート -- 2026-05-04\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A"
   },
   "triggered_rules_sample": []
 }
