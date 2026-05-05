@@ -1,31 +1,152 @@
 {
-  "date": "2026-05-04",
-  "generated_at": "2026-05-04T16:04:58Z",
-  "posts_today": 2,
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T15:58:16Z",
+  "posts_today": 14,
   "latest_post": {
-    "time": "2026-05-04T12:20",
-    "content_preview": "When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A"
+    "time": "2026-05-04T19:31",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490"
   },
-  "signals_detected": [],
-  "models_triggered": 0,
+  "signals_detected": [
+    "IRAN"
+  ],
+  "models_triggered": 11,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 11,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
-    "verified": 0,
-    "correct": 0,
-    "rate": 0.0
+    "verified": 11,
+    "correct": 11,
+    "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-04",
-    "close": 7196.04
+    "date": "2026-05-05",
+    "close": 7252.97
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-04\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 0.0% (0/0)\nLatest post: When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A",
-    "zh": "川普密碼每日報告 -- 2026-05-04\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 0.0% (0/0)\n最新推文: When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A",
-    "ja": "トランプ・コード日次レポート -- 2026-05-04\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 0.0% (0/0)\n最新投稿: When a devastated (he was crying like a baby!) Van Jones of CNN came to me with a group of African A"
+    "en": "Trump Code Daily Report -- 2026-05-05\nPosts today: 14 | Models triggered: 11\nSignals: IRAN\nConsensus: 11 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490",
+    "zh": "川普密碼每日報告 -- 2026-05-05\n今日推文: 14 篇 | 觸發模型: 11 組\n偵測信號: 伊朗\n共識方向: 11 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490",
+    "ja": "トランプ・コード日次レポート -- 2026-05-05\n本日の投稿: 14件 | トリガーモデル: 11組\n検出シグナル: イラン\nコンセンサス: 11組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_economy",
+        "kw_energy",
+        "kw_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_dow_2plus",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_energy",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_dow_2plus",
+        "kw_energy",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_dow_2plus",
+        "kw_interest_rate",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_dow_2plus",
+        "open_dow",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_energy",
+        "kw_interest_rate",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_energy",
+        "open_dow",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_interest_rate",
+        "open_energy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_energy",
+        "kw_interest_rate",
+        "open_energy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_economy",
+        "kw_interest_rate",
+        "open_dow"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }

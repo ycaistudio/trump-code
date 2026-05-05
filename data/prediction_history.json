@@ -1,1 +1,175 @@
-[]
+[
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0016",
+    "features": [
+      "kw_economy",
+      "kw_energy",
+      "kw_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0046",
+    "features": [
+      "kw_dow_2plus",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0047",
+    "features": [
+      "kw_energy",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0048",
+    "features": [
+      "kw_dow_2plus",
+      "kw_energy",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0049",
+    "features": [
+      "kw_dow_2plus",
+      "kw_interest_rate",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0050",
+    "features": [
+      "kw_dow_2plus",
+      "open_dow",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0051",
+    "features": [
+      "kw_energy",
+      "kw_interest_rate",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0052",
+    "features": [
+      "kw_energy",
+      "open_dow",
+      "open_interest_rate"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0056",
+    "features": [
+      "kw_interest_rate",
+      "open_energy"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0059",
+    "features": [
+      "kw_energy",
+      "kw_interest_rate",
+      "open_energy"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  },
+  {
+    "signal_date": "2026-05-04",
+    "entry_date": "2026-05-05",
+    "exit_date": "2026-05-05",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0076",
+    "features": [
+      "kw_economy",
+      "kw_interest_rate",
+      "open_dow"
+    ],
+    "status": "VERIFIED",
+    "actual_return": 0.268,
+    "correct": true
+  }
+]
