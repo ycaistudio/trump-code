@@ -1,19 +1,21 @@
 {
-  "date": "2026-05-05",
-  "generated_at": "2026-05-05T15:58:16Z",
-  "posts_today": 14,
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T16:04:04Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-05-04T19:31",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490"
+    "time": "2026-05-06T15:08",
+    "content_preview": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene"
   },
   "signals_detected": [
-    "IRAN"
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
   ],
-  "models_triggered": 11,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 11,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -21,132 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-05",
-    "close": 7252.97
+    "date": "2026-05-06",
+    "close": 7342.47
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-05\nPosts today: 14 | Models triggered: 11\nSignals: IRAN\nConsensus: 11 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490",
-    "zh": "川普密碼每日報告 -- 2026-05-05\n今日推文: 14 篇 | 觸發模型: 11 組\n偵測信號: 伊朗\n共識方向: 11 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490",
-    "ja": "トランプ・コード日次レポート -- 2026-05-05\n本日の投稿: 14件 | トリガーモデル: 11組\n検出シグナル: イラン\nコンセンサス: 11組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116517965109663490"
+    "en": "Trump Code Daily Report -- 2026-05-06\nPosts today: 8 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene",
+    "zh": "川普密碼每日報告 -- 2026-05-06\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene",
+    "ja": "トランプ・コード日次レポート -- 2026-05-06\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_economy",
-        "kw_energy",
-        "kw_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_dow_2plus",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_energy",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_dow_2plus",
-        "kw_energy",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_dow_2plus",
-        "kw_interest_rate",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_dow_2plus",
-        "open_dow",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_energy",
-        "kw_interest_rate",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_energy",
-        "open_dow",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_interest_rate",
-        "open_energy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_energy",
-        "kw_interest_rate",
-        "open_energy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_economy",
-        "kw_interest_rate",
-        "open_dow"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
