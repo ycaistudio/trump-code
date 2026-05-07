@@ -1,14 +1,13 @@
 {
-  "date": "2026-05-06",
-  "generated_at": "2026-05-06T16:04:04Z",
-  "posts_today": 8,
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T16:09:04Z",
+  "posts_today": 12,
   "latest_post": {
-    "time": "2026-05-06T15:08",
-    "content_preview": "Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene"
+    "time": "2026-05-07T14:14",
+    "content_preview": "Barry Moore, running for United States Senate in the GREAT State of Alabama, one of my all time favo"
   },
   "signals_detected": [
     "DEAL",
-    "IRAN",
     "DEAL_ONLY"
   ],
   "models_triggered": 0,
@@ -23,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-06",
-    "close": 7342.47
+    "date": "2026-05-07",
+    "close": 7354.27
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-06\nPosts today: 8 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene",
-    "zh": "川普密碼每日報告 -- 2026-05-06\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene",
-    "ja": "トランプ・コード日次レポート -- 2026-05-06\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Lilly commits additional $4.5 billion across Indiana manufacturing sites, opens first dedicated gene"
+    "en": "Trump Code Daily Report -- 2026-05-07\nPosts today: 12 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Barry Moore, running for United States Senate in the GREAT State of Alabama, one of my all time favo",
+    "zh": "川普密碼每日報告 -- 2026-05-07\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Barry Moore, running for United States Senate in the GREAT State of Alabama, one of my all time favo",
+    "ja": "トランプ・コード日次レポート -- 2026-05-07\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Barry Moore, running for United States Senate in the GREAT State of Alabama, one of my all time favo"
   },
   "triggered_rules_sample": []
 }
