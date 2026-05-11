@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-10",
-  "generated_at": "2026-05-10T14:57:15Z",
-  "posts_today": 3,
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T16:35:36Z",
+  "posts_today": 20,
   "latest_post": {
-    "time": "2026-05-10T12:45",
-    "content_preview": "Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www.newsmax."
+    "time": "2026-05-11T11:56",
+    "content_preview": "Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-08",
-    "close": 7398.93
+    "date": "2026-05-11",
+    "close": 7423.87
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-10\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www.newsmax.",
-    "zh": "川普密碼每日報告 -- 2026-05-10\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www.newsmax.",
-    "ja": "トランプ・コード日次レポート -- 2026-05-10\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Exclusive: Israel's Foreign Minister Saar Praises Trump, Remarkable Leadership: https://www.newsmax."
+    "en": "Trump Code Daily Report -- 2026-05-11\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen",
+    "zh": "川普密碼每日報告 -- 2026-05-11\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen",
+    "ja": "トランプ・コード日次レポート -- 2026-05-11\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen"
   },
   "triggered_rules_sample": []
 }
