@@ -1,12 +1,14 @@
 {
-  "date": "2026-05-11",
-  "generated_at": "2026-05-11T16:35:36Z",
-  "posts_today": 20,
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T16:22:48Z",
+  "posts_today": 14,
   "latest_post": {
-    "time": "2026-05-11T11:56",
-    "content_preview": "Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen"
+    "time": "2026-05-12T11:52",
+    "content_preview": "No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one di"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "CHINA"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-11",
-    "close": 7423.87
+    "date": "2026-05-12",
+    "close": 7348.61
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-11\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen",
-    "zh": "川普密碼每日報告 -- 2026-05-11\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen",
-    "ja": "トランプ・コード日次レポート -- 2026-05-11\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Red states follow Trump's model, seek to rid Islamist influence in local lawmaking: https://justthen"
+    "en": "Trump Code Daily Report -- 2026-05-12\nPosts today: 14 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one di",
+    "zh": "川普密碼每日報告 -- 2026-05-12\n今日推文: 14 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one di",
+    "ja": "トランプ・コード日次レポート -- 2026-05-12\n本日の投稿: 14件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: No Republican has ever spoken to me about Cuba, which is a failed country and only heading in one di"
   },
   "triggered_rules_sample": []
 }
