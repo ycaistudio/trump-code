@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T16:22:56Z",
+  "timestamp": "2026-05-14T16:11:58Z",
   "sources": {
     "cnn": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "trumpstruth": {
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": null
     },
     "truthsocial_direct": {
