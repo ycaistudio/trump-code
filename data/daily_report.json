@@ -1,19 +1,19 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T16:11:58Z",
-  "posts_today": 2,
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T16:05:34Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-05-13T04:11",
-    "content_preview": "The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and start"
+    "time": "2026-05-15T15:24",
+    "content_preview": "Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/"
   },
   "signals_detected": [
     "CHINA"
   ],
-  "models_triggered": 0,
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -21,13 +21,25 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-14",
-    "close": 7514.17
+    "date": "2026-05-15",
+    "close": 7419.56
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-14\nPosts today: 2 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and start",
-    "zh": "川普密碼每日報告 -- 2026-05-14\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and start",
-    "ja": "トランプ・コード日次レポート -- 2026-05-14\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The guy that came up to Mitch McConnell today when McConnell thought the hearing was over, and start"
+    "en": "Trump Code Daily Report -- 2026-05-15\nPosts today: 6 | Models triggered: 1\nSignals: CHINA\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/",
+    "zh": "川普密碼每日報告 -- 2026-05-15\n今日推文: 6 篇 | 觸發模型: 1 組\n偵測信號: 中國\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/",
+    "ja": "トランプ・コード日次レポート -- 2026-05-15\n本日の投稿: 6件 | トリガーモデル: 1組\n検出シグナル: 中国\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "is_friday",
+        "kw_china",
+        "kw_economy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
