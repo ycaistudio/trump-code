@@ -1,19 +1,17 @@
 {
-  "date": "2026-05-15",
-  "generated_at": "2026-05-15T16:05:34Z",
-  "posts_today": 6,
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T15:00:39Z",
+  "posts_today": 16,
   "latest_post": {
-    "time": "2026-05-15T15:24",
-    "content_preview": "Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/"
+    "time": "2026-05-16T14:03",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116584624895292658"
   },
-  "signals_detected": [
-    "CHINA"
-  ],
-  "models_triggered": 1,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 1,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -22,24 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-05-15",
-    "close": 7419.56
+    "close": 7408.5
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-15\nPosts today: 6 | Models triggered: 1\nSignals: CHINA\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/",
-    "zh": "川普密碼每日報告 -- 2026-05-15\n今日推文: 6 篇 | 觸發模型: 1 組\n偵測信號: 中國\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/",
-    "ja": "トランプ・コード日次レポート -- 2026-05-15\n本日の投稿: 6件 | トリガーモデル: 1組\n検出シグナル: 中国\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Henry Clay and the architecture of American strength: https://www.washingtontimes.com/news/2026/apr/"
+    "en": "Trump Code Daily Report -- 2026-05-16\nPosts today: 16 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116584624895292658",
+    "zh": "川普密碼每日報告 -- 2026-05-16\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116584624895292658",
+    "ja": "トランプ・コード日次レポート -- 2026-05-16\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116584624895292658"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "is_friday",
-        "kw_china",
-        "kw_economy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
