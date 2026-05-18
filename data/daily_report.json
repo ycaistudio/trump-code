@@ -1,13 +1,14 @@
 {
-  "date": "2026-05-17",
-  "generated_at": "2026-05-17T15:00:31Z",
-  "posts_today": 7,
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T16:49:13Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-05-17T12:30",
-    "content_preview": "I HOPE EVERYBODY AT REDEDICATE 250 IS HAVING A GOOD TIME. IF THERE IS ANYTHING I CAN DO TO HELP, JUS"
+    "time": "2026-05-18T14:47",
+    "content_preview": "The worst Congressman in the long and storied history of the Republican Party, is Thomas Massie. He "
   },
   "signals_detected": [
-    "CHINA"
+    "CHINA",
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -21,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-15",
-    "close": 7408.5
+    "date": "2026-05-18",
+    "close": 7372.68
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-17\nPosts today: 7 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I HOPE EVERYBODY AT REDEDICATE 250 IS HAVING A GOOD TIME. IF THERE IS ANYTHING I CAN DO TO HELP, JUS",
-    "zh": "川普密碼每日報告 -- 2026-05-17\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I HOPE EVERYBODY AT REDEDICATE 250 IS HAVING A GOOD TIME. IF THERE IS ANYTHING I CAN DO TO HELP, JUS",
-    "ja": "トランプ・コード日次レポート -- 2026-05-17\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I HOPE EVERYBODY AT REDEDICATE 250 IS HAVING A GOOD TIME. IF THERE IS ANYTHING I CAN DO TO HELP, JUS"
+    "en": "Trump Code Daily Report -- 2026-05-18\nPosts today: 3 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The worst Congressman in the long and storied history of the Republican Party, is Thomas Massie. He ",
+    "zh": "川普密碼每日報告 -- 2026-05-18\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The worst Congressman in the long and storied history of the Republican Party, is Thomas Massie. He ",
+    "ja": "トランプ・コード日次レポート -- 2026-05-18\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The worst Congressman in the long and storied history of the Republican Party, is Thomas Massie. He "
   },
   "triggered_rules_sample": []
 }
