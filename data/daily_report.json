@@ -1,12 +1,15 @@
 {
-  "date": "2026-05-20",
-  "generated_at": "2026-05-20T16:55:08Z",
-  "posts_today": 1,
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T16:40:48Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-05-20T15:13",
-    "content_preview": "Shockingly, Republicans have kept the very important position of \"Parliamentarian\" in the hands of a"
+    "time": "2026-05-21T12:49",
+    "content_preview": "https://nypost.com/2026/05/01/opinion/heres-how-to-crush-tehran-in-three-moves/"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "TARIFF",
+    "TARIFF_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-20",
-    "close": 7412.1
+    "date": "2026-05-21",
+    "close": 7404.48
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-20\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Shockingly, Republicans have kept the very important position of \"Parliamentarian\" in the hands of a",
-    "zh": "川普密碼每日報告 -- 2026-05-20\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Shockingly, Republicans have kept the very important position of \"Parliamentarian\" in the hands of a",
-    "ja": "トランプ・コード日次レポート -- 2026-05-20\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Shockingly, Republicans have kept the very important position of \"Parliamentarian\" in the hands of a"
+    "en": "Trump Code Daily Report -- 2026-05-21\nPosts today: 4 | Models triggered: 0\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: https://nypost.com/2026/05/01/opinion/heres-how-to-crush-tehran-in-three-moves/",
+    "zh": "川普密碼每日報告 -- 2026-05-21\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: https://nypost.com/2026/05/01/opinion/heres-how-to-crush-tehran-in-three-moves/",
+    "ja": "トランプ・コード日次レポート -- 2026-05-21\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: https://nypost.com/2026/05/01/opinion/heres-how-to-crush-tehran-in-three-moves/"
   },
   "triggered_rules_sample": []
 }
