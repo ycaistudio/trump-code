@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-22",
-  "generated_at": "2026-05-22T16:29:46Z",
-  "posts_today": 10,
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T15:04:41Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-05-22T13:49",
-    "content_preview": "I gave up a lot of money in allowing the just announced Anti-Weaponization Fund to go forward. I cou"
+    "time": "2026-05-23T13:07",
+    "content_preview": "A Dumocrat!Don't allow this lying sleazebag on FoxNews!"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-05-22",
-    "close": 7490.69
+    "close": 7473.47
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-22\nPosts today: 10 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I gave up a lot of money in allowing the just announced Anti-Weaponization Fund to go forward. I cou",
-    "zh": "川普密碼每日報告 -- 2026-05-22\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I gave up a lot of money in allowing the just announced Anti-Weaponization Fund to go forward. I cou",
-    "ja": "トランプ・コード日次レポート -- 2026-05-22\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I gave up a lot of money in allowing the just announced Anti-Weaponization Fund to go forward. I cou"
+    "en": "Trump Code Daily Report -- 2026-05-23\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: A Dumocrat!Don't allow this lying sleazebag on FoxNews!",
+    "zh": "川普密碼每日報告 -- 2026-05-23\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: A Dumocrat!Don't allow this lying sleazebag on FoxNews!",
+    "ja": "トランプ・コード日次レポート -- 2026-05-23\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: A Dumocrat!Don't allow this lying sleazebag on FoxNews!"
   },
   "triggered_rules_sample": []
 }
