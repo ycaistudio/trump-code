@@ -1,12 +1,16 @@
 {
-  "date": "2026-05-23",
-  "generated_at": "2026-05-23T15:04:41Z",
-  "posts_today": 2,
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T15:07:34Z",
+  "posts_today": 11,
   "latest_post": {
-    "time": "2026-05-23T13:07",
-    "content_preview": "A Dumocrat!Don't allow this lying sleazebag on FoxNews!"
+    "time": "2026-05-24T14:10",
+    "content_preview": "One of the worst deals ever made by our Country was the Iran Nuclear Deal, put forth and signed into"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,9 +27,9 @@
     "close": 7473.47
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-23\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: A Dumocrat!Don't allow this lying sleazebag on FoxNews!",
-    "zh": "川普密碼每日報告 -- 2026-05-23\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: A Dumocrat!Don't allow this lying sleazebag on FoxNews!",
-    "ja": "トランプ・コード日次レポート -- 2026-05-23\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: A Dumocrat!Don't allow this lying sleazebag on FoxNews!"
+    "en": "Trump Code Daily Report -- 2026-05-24\nPosts today: 11 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: One of the worst deals ever made by our Country was the Iran Nuclear Deal, put forth and signed into",
+    "zh": "川普密碼每日報告 -- 2026-05-24\n今日推文: 11 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: One of the worst deals ever made by our Country was the Iran Nuclear Deal, put forth and signed into",
+    "ja": "トランプ・コード日次レポート -- 2026-05-24\n本日の投稿: 11件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: One of the worst deals ever made by our Country was the Iran Nuclear Deal, put forth and signed into"
   },
   "triggered_rules_sample": []
 }
