@@ -1,16 +1,12 @@
 {
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T16:25:27Z",
-  "posts_today": 11,
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T17:30:26Z",
+  "posts_today": 22,
   "latest_post": {
-    "time": "2026-05-25T15:27",
-    "content_preview": "https://truthsocial.com/users/dpritsky/statuses/116634745889324010"
+    "time": "2026-05-26T16:47",
+    "content_preview": "Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for"
   },
-  "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-22",
-    "close": 7473.47
+    "date": "2026-05-26",
+    "close": 7504.51
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-25\nPosts today: 11 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: https://truthsocial.com/users/dpritsky/statuses/116634745889324010",
-    "zh": "川普密碼每日報告 -- 2026-05-25\n今日推文: 11 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: https://truthsocial.com/users/dpritsky/statuses/116634745889324010",
-    "ja": "トランプ・コード日次レポート -- 2026-05-25\n本日の投稿: 11件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: https://truthsocial.com/users/dpritsky/statuses/116634745889324010"
+    "en": "Trump Code Daily Report -- 2026-05-26\nPosts today: 22 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for",
+    "zh": "川普密碼每日報告 -- 2026-05-26\n今日推文: 22 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for",
+    "ja": "トランプ・コード日次レポート -- 2026-05-26\n本日の投稿: 22件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for"
   },
   "triggered_rules_sample": []
 }
