@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T17:30:26Z",
-  "posts_today": 22,
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T17:21:28Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-05-26T16:47",
-    "content_preview": "Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for"
+    "time": "2026-05-27T14:39",
+    "content_preview": "Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-26",
-    "close": 7504.51
+    "date": "2026-05-27",
+    "close": 7510.58
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-26\nPosts today: 22 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for",
-    "zh": "川普密碼每日報告 -- 2026-05-26\n今日推文: 22 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for",
-    "ja": "トランプ・コード日次レポート -- 2026-05-26\n本日の投稿: 22件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Teen takeover in Chicago. Five officers badly hurt. Mayor and Governor are terrible. Should call for"
+    "en": "Trump Code Daily Report -- 2026-05-27\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t",
+    "zh": "川普密碼每日報告 -- 2026-05-27\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t",
+    "ja": "トランプ・コード日次レポート -- 2026-05-27\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t"
   },
   "triggered_rules_sample": []
 }
