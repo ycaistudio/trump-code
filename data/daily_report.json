@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-27",
-  "generated_at": "2026-05-27T17:21:28Z",
-  "posts_today": 6,
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T17:36:38Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-05-27T14:39",
-    "content_preview": "Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t"
+    "time": "2026-05-28T13:10",
+    "content_preview": "Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-27",
-    "close": 7510.58
+    "date": "2026-05-28",
+    "close": 7558.41
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-27\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t",
-    "zh": "川普密碼每日報告 -- 2026-05-27\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t",
-    "ja": "トランプ・コード日次レポート -- 2026-05-27\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Congratulations to the Dumocrat Party! Al Green, one of the most mentally deficient Congressmen in t"
+    "en": "Trump Code Daily Report -- 2026-05-28\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit",
+    "zh": "川普密碼每日報告 -- 2026-05-28\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit",
+    "ja": "トランプ・コード日次レポート -- 2026-05-28\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit"
   },
   "triggered_rules_sample": []
 }
