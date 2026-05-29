@@ -1,17 +1,22 @@
 {
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T17:36:38Z",
-  "posts_today": 3,
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T17:36:32Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-05-28T13:10",
-    "content_preview": "Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit"
+    "time": "2026-05-29T14:51",
+    "content_preview": "Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi"
   },
-  "signals_detected": [],
-  "models_triggered": 0,
+  "signals_detected": [
+    "DEAL",
+    "CHINA",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
+  "models_triggered": 3,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 3,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -19,13 +24,47 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-28",
-    "close": 7558.41
+    "date": "2026-05-29",
+    "close": 7580.87
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-28\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit",
-    "zh": "川普密碼每日報告 -- 2026-05-28\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit",
-    "ja": "トランプ・コード日次レポート -- 2026-05-28\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Gary Gensler and the “Anti-Crypto Army” nearly DESTROYED the American Crypto Industry by driving Bit"
+    "en": "Trump Code Daily Report -- 2026-05-29\nPosts today: 7 | Models triggered: 3\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 3 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi",
+    "zh": "川普密碼每日報告 -- 2026-05-29\n今日推文: 7 篇 | 觸發模型: 3 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 3 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi",
+    "ja": "トランプ・コード日次レポート -- 2026-05-29\n本日の投稿: 7件 | トリガーモデル: 3組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 3組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "is_friday",
+        "open_china",
+        "pre_great"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_tremendous",
+        "open_thank_you_for_your_attention",
+        "volume_falling_3d"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_thank_you_for_your_attention",
+        "open_china"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
