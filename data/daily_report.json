@@ -1,22 +1,17 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T17:36:32Z",
-  "posts_today": 7,
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T15:11:52Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-05-29T14:51",
-    "content_preview": "Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi"
+    "time": "2026-05-30T04:46",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116661706730496718"
   },
-  "signals_detected": [
-    "DEAL",
-    "CHINA",
-    "IRAN",
-    "DEAL_ONLY"
-  ],
-  "models_triggered": 3,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 3,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -25,46 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-05-29",
-    "close": 7580.87
+    "close": 7580.06
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-29\nPosts today: 7 | Models triggered: 3\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 3 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi",
-    "zh": "川普密碼每日報告 -- 2026-05-29\n今日推文: 7 篇 | 觸發模型: 3 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 3 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi",
-    "ja": "トランプ・コード日次レポート -- 2026-05-29\n本日の投稿: 7件 | トリガーモデル: 3組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 3組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Iran must agree that they will never have a Nuclear Weapon or Bomb. The Hormuz Strait must be immedi"
+    "en": "Trump Code Daily Report -- 2026-05-30\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116661706730496718",
+    "zh": "川普密碼每日報告 -- 2026-05-30\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116661706730496718",
+    "ja": "トランプ・コード日次レポート -- 2026-05-30\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116661706730496718"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "is_friday",
-        "open_china",
-        "pre_great"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_tremendous",
-        "open_thank_you_for_your_attention",
-        "volume_falling_3d"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "is_friday",
-        "kw_thank_you_for_your_attention",
-        "open_china"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
