@@ -1,12 +1,16 @@
 {
-  "date": "2026-05-31",
-  "generated_at": "2026-05-31T15:19:37Z",
-  "posts_today": 6,
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T19:22:52Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-05-31T14:28",
-    "content_preview": "Counter to The Failing New York Times on the Fake Reflecting Pool story, it will be MAGNIFICENT! Pre"
+    "time": "2026-06-01T17:43",
+    "content_preview": "Talks are continuing, at a rapid pace, with the Islamic Republic of Iran. Thank you for your attenti"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-05-29",
-    "close": 7580.06
+    "date": "2026-06-01",
+    "close": 7611.91
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-05-31\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Counter to The Failing New York Times on the Fake Reflecting Pool story, it will be MAGNIFICENT! Pre",
-    "zh": "川普密碼每日報告 -- 2026-05-31\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Counter to The Failing New York Times on the Fake Reflecting Pool story, it will be MAGNIFICENT! Pre",
-    "ja": "トランプ・コード日次レポート -- 2026-05-31\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Counter to The Failing New York Times on the Fake Reflecting Pool story, it will be MAGNIFICENT! Pre"
+    "en": "Trump Code Daily Report -- 2026-06-01\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Talks are continuing, at a rapid pace, with the Islamic Republic of Iran. Thank you for your attenti",
+    "zh": "川普密碼每日報告 -- 2026-06-01\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Talks are continuing, at a rapid pace, with the Islamic Republic of Iran. Thank you for your attenti",
+    "ja": "トランプ・コード日次レポート -- 2026-06-01\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Talks are continuing, at a rapid pace, with the Islamic Republic of Iran. Thank you for your attenti"
   },
   "triggered_rules_sample": []
 }
