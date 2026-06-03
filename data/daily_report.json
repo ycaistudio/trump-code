@@ -1,22 +1,20 @@
 {
-  "date": "2026-06-02",
-  "generated_at": "2026-06-02T18:07:38Z",
-  "posts_today": 40,
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T18:24:58Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-06-02T17:50",
-    "content_preview": "In a sign of Strength and Fortitude, it was just announced that The White House Correspondents' Dinn"
+    "time": "2026-06-03T02:54",
+    "content_preview": "EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:"
   },
   "signals_detected": [
     "DEAL",
-    "CHINA",
-    "IRAN",
     "DEAL_ONLY"
   ],
-  "models_triggered": 6,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 5,
-    "SHORT": 1,
-    "consensus": "BULLISH"
+    "LONG": 0,
+    "SHORT": 0,
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -24,80 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-02",
-    "close": 7606.5
+    "date": "2026-06-03",
+    "close": 7572.68
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-02\nPosts today: 40 | Models triggered: 6\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 5 LONG vs 1 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: In a sign of Strength and Fortitude, it was just announced that The White House Correspondents' Dinn",
-    "zh": "川普密碼每日報告 -- 2026-06-02\n今日推文: 40 篇 | 觸發模型: 6 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 5 組看多 vs 1 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: In a sign of Strength and Fortitude, it was just announced that The White House Correspondents' Dinn",
-    "ja": "トランプ・コード日次レポート -- 2026-06-02\n本日の投稿: 40件 | トリガーモデル: 6組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 5組ロング vs 1組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: In a sign of Strength and Fortitude, it was just announced that The White House Correspondents' Dinn"
+    "en": "Trump Code Daily Report -- 2026-06-03\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:",
+    "zh": "川普密碼每日報告 -- 2026-06-03\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:",
+    "ja": "トランプ・コード日次レポート -- 2026-06-03\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_economy",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_dow_2plus",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_economy",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_dow_2plus",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_china",
-        "kw_corrupt",
-        "kw_economy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_america_first",
-        "kw_beautiful",
-        "kw_terrible"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
