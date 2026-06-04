@@ -1,14 +1,13 @@
 {
-  "date": "2026-06-03",
-  "generated_at": "2026-06-03T18:24:58Z",
-  "posts_today": 4,
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T16:56:37Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-06-03T02:54",
-    "content_preview": "EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:"
+    "time": "2026-06-04T14:59",
+    "content_preview": "FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and"
   },
   "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -22,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-03",
-    "close": 7572.68
+    "date": "2026-06-04",
+    "close": 7583.96
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-03\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:",
-    "zh": "川普密碼每日報告 -- 2026-06-03\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:",
-    "ja": "トランプ・コード日次レポート -- 2026-06-03\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: EPA boss made criminal referrals alleging Democrats 'self-dealing' in lucrative green energy grants:"
+    "en": "Trump Code Daily Report -- 2026-06-04\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and",
+    "zh": "川普密碼每日報告 -- 2026-06-04\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and",
+    "ja": "トランプ・コード日次レポート -- 2026-06-04\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and"
   },
   "triggered_rules_sample": []
 }
