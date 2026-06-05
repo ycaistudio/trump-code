@@ -1,19 +1,17 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T16:56:37Z",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T16:31:37Z",
   "posts_today": 8,
   "latest_post": {
-    "time": "2026-06-04T14:59",
-    "content_preview": "FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and"
+    "time": "2026-06-05T15:26",
+    "content_preview": "The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, "
   },
-  "signals_detected": [
-    "IRAN"
-  ],
-  "models_triggered": 0,
+  "signals_detected": [],
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -21,13 +19,25 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-04",
-    "close": 7583.96
+    "date": "2026-06-05",
+    "close": 7456.34
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-04\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and",
-    "zh": "川普密碼每日報告 -- 2026-06-04\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and",
-    "ja": "トランプ・コード日次レポート -- 2026-06-04\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: FoxNews should get rid of sloppy RINO Karl Rove. He's called ME and MAGA wrong for 11 years now, and"
+    "en": "Trump Code Daily Report -- 2026-06-05\nPosts today: 8 | Models triggered: 1\nSignals: None\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, ",
+    "zh": "川普密碼每日報告 -- 2026-06-05\n今日推文: 8 篇 | 觸發模型: 1 組\n偵測信號: 無\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, ",
+    "ja": "トランプ・コード日次レポート -- 2026-06-05\n本日の投稿: 8件 | トリガーモデル: 1組\n検出シグナル: なし\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, "
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "is_friday",
+        "kw_beautiful",
+        "open_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
