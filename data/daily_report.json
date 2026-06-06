@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T16:31:37Z",
-  "posts_today": 8,
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T15:19:56Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-06-05T15:26",
-    "content_preview": "The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, "
+    "time": "2026-06-06T12:12",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376"
   },
   "signals_detected": [],
-  "models_triggered": 1,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 1,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -20,24 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-06-05",
-    "close": 7456.34
+    "close": 7383.74
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-05\nPosts today: 8 | Models triggered: 1\nSignals: None\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, ",
-    "zh": "川普密碼每日報告 -- 2026-06-05\n今日推文: 8 篇 | 觸發模型: 1 組\n偵測信號: 無\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, ",
-    "ja": "トランプ・コード日次レポート -- 2026-06-05\n本日の投稿: 8件 | トリガーモデル: 1組\n検出シグナル: なし\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Great Reflecting Pool, that stretches between The Lincoln Memorial and The Washington Monument, "
+    "en": "Trump Code Daily Report -- 2026-06-06\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
+    "zh": "川普密碼每日報告 -- 2026-06-06\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
+    "ja": "トランプ・コード日次レポート -- 2026-06-06\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "is_friday",
-        "kw_beautiful",
-        "open_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
