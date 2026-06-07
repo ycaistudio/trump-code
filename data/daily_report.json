@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-06",
-  "generated_at": "2026-06-06T15:19:56Z",
-  "posts_today": 4,
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T15:26:22Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-06-06T12:12",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376"
+    "time": "2026-06-06T20:24",
+    "content_preview": "This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -23,9 +23,9 @@
     "close": 7383.74
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-06\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
-    "zh": "川普密碼每日報告 -- 2026-06-06\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376",
-    "ja": "トランプ・コード日次レポート -- 2026-06-06\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116703094991947376"
+    "en": "Trump Code Daily Report -- 2026-06-07\nPosts today: 7 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our",
+    "zh": "川普密碼每日報告 -- 2026-06-07\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our",
+    "ja": "トランプ・コード日次レポート -- 2026-06-07\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our"
   },
   "triggered_rules_sample": []
 }
