@@ -1,12 +1,16 @@
 {
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T15:26:22Z",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T17:25:34Z",
   "posts_today": 7,
   "latest_post": {
-    "time": "2026-06-06T20:24",
-    "content_preview": "This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our"
+    "time": "2026-06-08T16:16",
+    "content_preview": "Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-05",
-    "close": 7383.74
+    "date": "2026-06-08",
+    "close": 7420.58
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-07\nPosts today: 7 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our",
-    "zh": "川普密碼每日報告 -- 2026-06-07\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our",
-    "ja": "トランプ・コード日次レポート -- 2026-06-07\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: This will someday save Washington. Judge Leon has to get out of the way, and FAST. He is putting our"
+    "en": "Trump Code Daily Report -- 2026-06-08\nPosts today: 7 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na",
+    "zh": "川普密碼每日報告 -- 2026-06-08\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na",
+    "ja": "トランプ・コード日次レポート -- 2026-06-08\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na"
   },
   "triggered_rules_sample": []
 }
