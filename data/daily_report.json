@@ -1,16 +1,12 @@
 {
-  "date": "2026-06-08",
-  "generated_at": "2026-06-08T17:25:34Z",
-  "posts_today": 7,
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T16:34:11Z",
+  "posts_today": 1,
   "latest_post": {
-    "time": "2026-06-08T16:16",
-    "content_preview": "Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na"
+    "time": "2026-06-09T06:11",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337"
   },
-  "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-08",
-    "close": 7420.58
+    "date": "2026-06-09",
+    "close": 7289.51
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-08\nPosts today: 7 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na",
-    "zh": "川普密碼每日報告 -- 2026-06-08\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na",
-    "ja": "トランプ・コード日次レポート -- 2026-06-08\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Not possible for Spencer Pratt to have lost the L.A. runoffs after the big lead he had. 3rd World Na"
+    "en": "Trump Code Daily Report -- 2026-06-09\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337",
+    "zh": "川普密碼每日報告 -- 2026-06-09\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337",
+    "ja": "トランプ・コード日次レポート -- 2026-06-09\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337"
   },
   "triggered_rules_sample": []
 }
