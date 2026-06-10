@@ -1,12 +1,16 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T16:34:11Z",
-  "posts_today": 1,
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T17:24:13Z",
+  "posts_today": 16,
   "latest_post": {
-    "time": "2026-06-09T06:11",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337"
+    "time": "2026-06-10T15:06",
+    "content_preview": "Just like they did on Border Funding, the Radical Left Dumocrats are trying to take our National Sec"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-09",
-    "close": 7289.51
+    "date": "2026-06-10",
+    "close": 7306.25
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-09\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337",
-    "zh": "川普密碼每日報告 -- 2026-06-09\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337",
-    "ja": "トランプ・コード日次レポート -- 2026-06-09\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116718662947146337"
+    "en": "Trump Code Daily Report -- 2026-06-10\nPosts today: 16 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Just like they did on Border Funding, the Radical Left Dumocrats are trying to take our National Sec",
+    "zh": "川普密碼每日報告 -- 2026-06-10\n今日推文: 16 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Just like they did on Border Funding, the Radical Left Dumocrats are trying to take our National Sec",
+    "ja": "トランプ・コード日次レポート -- 2026-06-10\n本日の投稿: 16件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Just like they did on Border Funding, the Radical Left Dumocrats are trying to take our National Sec"
   },
   "triggered_rules_sample": []
 }
