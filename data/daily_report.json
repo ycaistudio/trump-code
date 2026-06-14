@@ -1,12 +1,16 @@
 {
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T15:44:47Z",
-  "posts_today": 2,
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T15:50:35Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-06-13T14:50",
-    "content_preview": "Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team. Keep it going! Pr"
+    "time": "2026-06-14T15:26",
+    "content_preview": "Thank you Michael. The Dumocrats Weaponized Government at levels never seen before, and you survived"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,9 +27,9 @@
     "close": 7431.46
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-13\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team. Keep it going! Pr",
-    "zh": "川普密碼每日報告 -- 2026-06-13\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team. Keep it going! Pr",
-    "ja": "トランプ・コード日次レポート -- 2026-06-13\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Congratulations to Team USA on their Big Win, 4-1, over a very good Paraguay team. Keep it going! Pr"
+    "en": "Trump Code Daily Report -- 2026-06-14\nPosts today: 6 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Thank you Michael. The Dumocrats Weaponized Government at levels never seen before, and you survived",
+    "zh": "川普密碼每日報告 -- 2026-06-14\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Thank you Michael. The Dumocrats Weaponized Government at levels never seen before, and you survived",
+    "ja": "トランプ・コード日次レポート -- 2026-06-14\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Thank you Michael. The Dumocrats Weaponized Government at levels never seen before, and you survived"
   },
   "triggered_rules_sample": []
 }
