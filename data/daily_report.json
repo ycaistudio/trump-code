@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-15T18:41:37Z",
-  "posts_today": 20,
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T18:28:49Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-06-15T13:11",
-    "content_preview": "Sadly, if you import people from Third World Countries, you quickly become a Third World Country — A"
+    "time": "2026-06-16T16:12",
+    "content_preview": "Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h"
   },
   "signals_detected": [
     "DEAL",
     "IRAN",
     "DEAL_ONLY"
   ],
-  "models_triggered": 5,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 5,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -23,67 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-15",
-    "close": 7564.08
+    "date": "2026-06-16",
+    "close": 7531.93
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-15\nPosts today: 20 | Models triggered: 5\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 5 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Sadly, if you import people from Third World Countries, you quickly become a Third World Country — A",
-    "zh": "川普密碼每日報告 -- 2026-06-15\n今日推文: 20 篇 | 觸發模型: 5 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 5 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Sadly, if you import people from Third World Countries, you quickly become a Third World Country — A",
-    "ja": "トランプ・コード日次レポート -- 2026-06-15\n本日の投稿: 20件 | トリガーモデル: 5組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 5組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Sadly, if you import people from Third World Countries, you quickly become a Third World Country — A"
+    "en": "Trump Code Daily Report -- 2026-06-16\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h",
+    "zh": "川普密碼每日報告 -- 2026-06-16\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h",
+    "ja": "トランプ・コード日次レポート -- 2026-06-16\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_perfect",
-        "kw_thank_you_for_your_attention",
-        "posts_11_20"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
