@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T18:28:49Z",
-  "posts_today": 4,
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T16:56:45Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-06-16T16:12",
-    "content_preview": "Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h"
+    "time": "2026-06-17T14:01",
+    "content_preview": "I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for"
   },
   "signals_detected": [
     "DEAL",
@@ -23,13 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-16",
-    "close": 7531.93
+    "date": "2026-06-17",
+    "close": 7511.56
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-16\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h",
-    "zh": "川普密碼每日報告 -- 2026-06-16\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h",
-    "ja": "トランプ・コード日次レポート -- 2026-06-16\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Biden DOJ targeted parents at school board meetings despite FBI, sheriffs' objections, memos show: h"
+    "en": "Trump Code Daily Report -- 2026-06-17\nPosts today: 9 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for",
+    "zh": "川普密碼每日報告 -- 2026-06-17\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for",
+    "ja": "トランプ・コード日次レポート -- 2026-06-17\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for"
   },
   "triggered_rules_sample": []
 }
