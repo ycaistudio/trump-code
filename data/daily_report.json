@@ -1,21 +1,22 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-17T16:56:45Z",
-  "posts_today": 9,
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T16:59:19Z",
+  "posts_today": 23,
   "latest_post": {
-    "time": "2026-06-17T14:01",
-    "content_preview": "I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for"
+    "time": "2026-06-18T13:59",
+    "content_preview": "OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR"
   },
   "signals_detected": [
+    "TARIFF",
     "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "CHINA",
+    "IRAN"
   ],
-  "models_triggered": 0,
+  "models_triggered": 2,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 2,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -23,13 +24,36 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-17",
-    "close": 7511.56
+    "date": "2026-06-18",
+    "close": 7495.28
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-17\nPosts today: 9 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for",
-    "zh": "川普密碼每日報告 -- 2026-06-17\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for",
-    "ja": "トランプ・コード日次レポート -- 2026-06-17\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I will be doing a Press Conference in 45 minutes from France. I'll then be heading to Versailles for"
+    "en": "Trump Code Daily Report -- 2026-06-18\nPosts today: 23 | Models triggered: 2\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 2 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR",
+    "zh": "川普密碼每日報告 -- 2026-06-18\n今日推文: 23 篇 | 觸發模型: 2 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 2 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR",
+    "ja": "トランプ・コード日次レポート -- 2026-06-18\n本日の投稿: 23件 | トリガーモデル: 2組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 2組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_china",
+        "kw_corrupt",
+        "kw_economy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "both_tariff_and_deal",
+        "kw_dow_2plus",
+        "kw_signed"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
