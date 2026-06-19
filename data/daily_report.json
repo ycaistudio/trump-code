@@ -1,22 +1,21 @@
 {
-  "date": "2026-06-18",
-  "generated_at": "2026-06-18T16:59:19Z",
-  "posts_today": 23,
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T16:33:32Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-06-18T13:59",
-    "content_preview": "OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR"
+    "time": "2026-06-19T15:10",
+    "content_preview": "Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I "
   },
   "signals_detected": [
-    "TARIFF",
     "DEAL",
-    "CHINA",
-    "IRAN"
+    "IRAN",
+    "DEAL_ONLY"
   ],
-  "models_triggered": 2,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 2,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -25,35 +24,12 @@
   },
   "sp500_latest": {
     "date": "2026-06-18",
-    "close": 7495.28
+    "close": 7500.58
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-18\nPosts today: 23 | Models triggered: 2\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 2 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR",
-    "zh": "川普密碼每日報告 -- 2026-06-18\n今日推文: 23 篇 | 觸發模型: 2 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 2 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR",
-    "ja": "トランプ・コード日次レポート -- 2026-06-18\n本日の投稿: 23件 | トリガーモデル: 2組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 2組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: OIL IS FLOWING, IRAN CAN NEVER HAVE A NUCLEAR WEAPON (THE WORLD WILL BE SAFE!), THE STOCK MARKETS AR"
+    "en": "Trump Code Daily Report -- 2026-06-19\nPosts today: 8 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I ",
+    "zh": "川普密碼每日報告 -- 2026-06-19\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I ",
+    "ja": "トランプ・コード日次レポート -- 2026-06-19\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I "
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_china",
-        "kw_corrupt",
-        "kw_economy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "both_tariff_and_deal",
-        "kw_dow_2plus",
-        "kw_signed"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
