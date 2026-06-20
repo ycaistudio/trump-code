@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-19T16:33:32Z",
-  "posts_today": 8,
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T15:47:47Z",
+  "posts_today": 12,
   "latest_post": {
-    "time": "2026-06-19T15:10",
-    "content_preview": "Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I "
+    "time": "2026-06-20T14:52",
+    "content_preview": "POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the \"e\" for \"u,\" "
   },
   "signals_detected": [
     "DEAL",
@@ -24,12 +24,12 @@
   },
   "sp500_latest": {
     "date": "2026-06-18",
-    "close": 7500.58
+    "close": NaN
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-19\nPosts today: 8 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I ",
-    "zh": "川普密碼每日報告 -- 2026-06-19\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I ",
-    "ja": "トランプ・コード日次レポート -- 2026-06-19\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Senator Lindsey Graham is working incredibly hard for the Great People of South Carolina, a State I "
+    "en": "Trump Code Daily Report -- 2026-06-20\nPosts today: 12 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the \"e\" for \"u,\" ",
+    "zh": "川普密碼每日報告 -- 2026-06-20\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the \"e\" for \"u,\" ",
+    "ja": "トランプ・コード日次レポート -- 2026-06-20\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: POLL: Which do you prefer, Dumocrat or Dumbocrat? In one case, you simply exchange the \"e\" for \"u,\" "
   },
   "triggered_rules_sample": []
 }
