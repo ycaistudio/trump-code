@@ -1,21 +1,19 @@
 {
-  "date": "2026-06-21",
-  "generated_at": "2026-06-21T15:55:46Z",
-  "posts_today": 7,
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T18:14:20Z",
+  "posts_today": 15,
   "latest_post": {
-    "time": "2026-06-21T13:59",
-    "content_preview": "Keir Starmer will resign as Prime Minister of The United Kingdom. He failed badly on two very import"
+    "time": "2026-06-22T17:16",
+    "content_preview": "It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of"
   },
   "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
-  "models_triggered": 4,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 4,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -23,56 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-18",
-    "close": 7500.58
+    "date": "2026-06-22",
+    "close": 7478.47
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-21\nPosts today: 7 | Models triggered: 4\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 4 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Keir Starmer will resign as Prime Minister of The United Kingdom. He failed badly on two very import",
-    "zh": "川普密碼每日報告 -- 2026-06-21\n今日推文: 7 篇 | 觸發模型: 4 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 4 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Keir Starmer will resign as Prime Minister of The United Kingdom. He failed badly on two very import",
-    "ja": "トランプ・コード日次レポート -- 2026-06-21\n本日の投稿: 7件 | トリガーモデル: 4組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 4組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Keir Starmer will resign as Prime Minister of The United Kingdom. He failed badly on two very import"
+    "en": "Trump Code Daily Report -- 2026-06-22\nPosts today: 15 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of",
+    "zh": "川普密碼每日報告 -- 2026-06-22\n今日推文: 15 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of",
+    "ja": "トランプ・コード日次レポート -- 2026-06-22\n本日の投稿: 15件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: It is my Great Honor to endorse Congressman Mike Kennedy, M.D., to represent the wonderful people of"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
