@@ -1,21 +1,19 @@
 {
-  "date": "2026-06-23",
-  "generated_at": "2026-06-23T16:28:55Z",
-  "posts_today": 17,
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T16:24:42Z",
+  "posts_today": 16,
   "latest_post": {
-    "time": "2026-06-23T14:58",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116800007587633396These pictures were tak"
+    "time": "2026-06-24T15:18",
+    "content_preview": "This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!"
   },
   "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "IRAN"
   ],
-  "models_triggered": 0,
+  "models_triggered": 2,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 2,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -23,13 +21,35 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-23",
-    "close": 7402.48
+    "date": "2026-06-24",
+    "close": 7414.17
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-23\nPosts today: 17 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116800007587633396These pictures were tak",
-    "zh": "川普密碼每日報告 -- 2026-06-23\n今日推文: 17 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116800007587633396These pictures were tak",
-    "ja": "トランプ・コード日次レポート -- 2026-06-23\n本日の投稿: 17件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/116800007587633396These pictures were tak"
+    "en": "Trump Code Daily Report -- 2026-06-24\nPosts today: 16 | Models triggered: 2\nSignals: IRAN\nConsensus: 2 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
+    "zh": "川普密碼每日報告 -- 2026-06-24\n今日推文: 16 篇 | 觸發模型: 2 組\n偵測信號: 伊朗\n共識方向: 2 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
+    "ja": "トランプ・コード日次レポート -- 2026-06-24\n本日の投稿: 16件 | トリガーモデル: 2組\n検出シグナル: イラン\nコンセンサス: 2組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_dow_2plus",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_dow_2plus",
+        "kw_interest_rate",
+        "open_interest_rate"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
