@@ -1,19 +1,19 @@
 {
-  "date": "2026-06-24",
-  "generated_at": "2026-06-24T16:24:42Z",
-  "posts_today": 16,
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T16:28:52Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-06-24T15:18",
-    "content_preview": "This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!"
+    "time": "2026-06-25T09:30",
+    "content_preview": "After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j"
   },
   "signals_detected": [
     "IRAN"
   ],
-  "models_triggered": 2,
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 2,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -21,35 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-24",
-    "close": 7414.17
+    "date": "2026-06-25",
+    "close": 7368.91
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-24\nPosts today: 16 | Models triggered: 2\nSignals: IRAN\nConsensus: 2 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
-    "zh": "川普密碼每日報告 -- 2026-06-24\n今日推文: 16 篇 | 觸發模型: 2 組\n偵測信號: 伊朗\n共識方向: 2 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!",
-    "ja": "トランプ・コード日次レポート -- 2026-06-24\n本日の投稿: 16件 | トリガーモデル: 2組\n検出シグナル: イラン\nコンセンサス: 2組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: This is the hard rubber surface — No Paint — Before the Vandals cut and pulled it apart!"
+    "en": "Trump Code Daily Report -- 2026-06-25\nPosts today: 6 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j",
+    "zh": "川普密碼每日報告 -- 2026-06-25\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j",
+    "ja": "トランプ・コード日次レポート -- 2026-06-25\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_dow_2plus",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_dow_2plus",
-        "kw_interest_rate",
-        "open_interest_rate"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
