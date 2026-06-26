@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-25",
-  "generated_at": "2026-06-25T16:28:52Z",
-  "posts_today": 6,
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T16:21:06Z",
+  "posts_today": 10,
   "latest_post": {
-    "time": "2026-06-25T09:30",
-    "content_preview": "After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j"
+    "time": "2026-06-26T15:04",
+    "content_preview": "It was just announced that, and I'm not necessarily thrilled to be talking about it because it does "
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-25",
-    "close": 7368.91
+    "date": "2026-06-26",
+    "close": 7362.0
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-25\nPosts today: 6 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j",
-    "zh": "川普密碼每日報告 -- 2026-06-25\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j",
-    "ja": "トランプ・コード日次レポート -- 2026-06-25\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: After testy exchange, Senate hands Trump win by rejecting bill to rein in his war on Iran: https://j"
+    "en": "Trump Code Daily Report -- 2026-06-26\nPosts today: 10 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: It was just announced that, and I'm not necessarily thrilled to be talking about it because it does ",
+    "zh": "川普密碼每日報告 -- 2026-06-26\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: It was just announced that, and I'm not necessarily thrilled to be talking about it because it does ",
+    "ja": "トランプ・コード日次レポート -- 2026-06-26\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: It was just announced that, and I'm not necessarily thrilled to be talking about it because it does "
   },
   "triggered_rules_sample": []
 }
