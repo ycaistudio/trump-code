@@ -1,13 +1,14 @@
 {
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T16:21:06Z",
-  "posts_today": 10,
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T15:18:31Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-06-26T15:04",
-    "content_preview": "It was just announced that, and I'm not necessarily thrilled to be talking about it because it does "
+    "time": "2026-06-27T14:00",
+    "content_preview": "Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews"
   },
   "signals_detected": [
-    "IRAN"
+    "DEAL",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -22,12 +23,12 @@
   },
   "sp500_latest": {
     "date": "2026-06-26",
-    "close": 7362.0
+    "close": 7354.02
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-26\nPosts today: 10 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: It was just announced that, and I'm not necessarily thrilled to be talking about it because it does ",
-    "zh": "川普密碼每日報告 -- 2026-06-26\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: It was just announced that, and I'm not necessarily thrilled to be talking about it because it does ",
-    "ja": "トランプ・コード日次レポート -- 2026-06-26\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: It was just announced that, and I'm not necessarily thrilled to be talking about it because it does "
+    "en": "Trump Code Daily Report -- 2026-06-27\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews",
+    "zh": "川普密碼每日報告 -- 2026-06-27\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews",
+    "ja": "トランプ・コード日次レポート -- 2026-06-27\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews"
   },
   "triggered_rules_sample": []
 }
