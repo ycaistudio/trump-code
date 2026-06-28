@@ -1,14 +1,15 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T15:18:31Z",
-  "posts_today": 4,
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T15:20:55Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-06-27T14:00",
-    "content_preview": "Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews"
+    "time": "2026-06-28T04:22",
+    "content_preview": "Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly "
   },
   "signals_detected": [
+    "TARIFF",
     "DEAL",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -26,9 +27,9 @@
     "close": 7354.02
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-27\nPosts today: 4 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews",
-    "zh": "川普密碼每日報告 -- 2026-06-27\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews",
-    "ja": "トランプ・コード日次レポート -- 2026-06-27\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Reeling Democratic establishment accuses socialists of exploiting ballot access: https://justthenews"
+    "en": "Trump Code Daily Report -- 2026-06-28\nPosts today: 8 | Models triggered: 0\nSignals: TARIFF, DEAL, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly ",
+    "zh": "川普密碼每日報告 -- 2026-06-28\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly ",
+    "ja": "トランプ・コード日次レポート -- 2026-06-28\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly "
   },
   "triggered_rules_sample": []
 }
