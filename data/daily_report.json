@@ -1,14 +1,12 @@
 {
-  "date": "2026-06-28",
-  "generated_at": "2026-06-28T15:20:55Z",
-  "posts_today": 8,
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T16:54:54Z",
+  "posts_today": 15,
   "latest_post": {
-    "time": "2026-06-28T04:22",
-    "content_preview": "Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly "
+    "time": "2026-06-29T15:24",
+    "content_preview": "To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO"
   },
   "signals_detected": [
-    "TARIFF",
-    "DEAL",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -23,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-26",
-    "close": 7354.02
+    "date": "2026-06-29",
+    "close": 7417.97
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-28\nPosts today: 8 | Models triggered: 0\nSignals: TARIFF, DEAL, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly ",
-    "zh": "川普密碼每日報告 -- 2026-06-28\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly ",
-    "ja": "トランプ・コード日次レポート -- 2026-06-28\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Based on a very quick and boring briefing concerning the Magot Hagerman book about me, it is mostly "
+    "en": "Trump Code Daily Report -- 2026-06-29\nPosts today: 15 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO",
+    "zh": "川普密碼每日報告 -- 2026-06-29\n今日推文: 15 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO",
+    "ja": "トランプ・コード日次レポート -- 2026-06-29\n本日の投稿: 15件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO"
   },
   "triggered_rules_sample": []
 }
