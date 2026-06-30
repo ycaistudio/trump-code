@@ -1,14 +1,12 @@
 {
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T16:54:54Z",
-  "posts_today": 15,
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T16:24:55Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-06-29T15:24",
-    "content_preview": "To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO"
+    "time": "2026-06-30T14:56",
+    "content_preview": "The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more"
   },
-  "signals_detected": [
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -21,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-06-29",
-    "close": 7417.97
+    "date": "2026-06-30",
+    "close": 7492.93
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-06-29\nPosts today: 15 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO",
-    "zh": "川普密碼每日報告 -- 2026-06-29\n今日推文: 15 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO",
-    "ja": "トランプ・コード日次レポート -- 2026-06-29\n本日の投稿: 15件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: To show the importance of the Slaughter Case, 90 years of precedent has been COMPLETELY AND UNEQUIVO"
+    "en": "Trump Code Daily Report -- 2026-06-30\nPosts today: 9 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more",
+    "zh": "川普密碼每日報告 -- 2026-06-30\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more",
+    "ja": "トランプ・コード日次レポート -- 2026-06-30\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Supreme Court just took restrictions off political spending! A BIG WIN FOR REPUBLICANS and, more"
   },
   "triggered_rules_sample": []
 }
