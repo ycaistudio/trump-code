@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-02",
-  "generated_at": "2026-07-02T16:08:14Z",
-  "posts_today": 6,
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T15:54:43Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-07-02T13:23",
-    "content_preview": "How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dol"
+    "time": "2026-07-03T02:56",
+    "content_preview": "Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not recipro"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-07-02",
-    "close": 7466.07
+    "close": 7483.24
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-02\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dol",
-    "zh": "川普密碼每日報告 -- 2026-07-02\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dol",
-    "ja": "トランプ・コード日次レポート -- 2026-07-02\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: How about this? Micron, a GREAT American Company, announced that they are putting in 250 Million Dol"
+    "en": "Trump Code Daily Report -- 2026-07-03\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not recipro",
+    "zh": "川普密碼每日報告 -- 2026-07-03\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not recipro",
+    "ja": "トランプ・コード日次レポート -- 2026-07-03\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Ridiculous for the U.S.A. to continue along this one sided path when the relationship is not recipro"
   },
   "triggered_rules_sample": []
 }
