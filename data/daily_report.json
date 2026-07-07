@@ -1,12 +1,15 @@
 {
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T16:54:07Z",
-  "posts_today": 8,
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T16:34:03Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-07-06T15:12",
-    "content_preview": "From Greg Wischer at the United States Department of the Interior: \"The regilding of the sculpture \""
+    "time": "2026-07-07T15:51",
+    "content_preview": "Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "TARIFF",
+    "DEAL"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-06",
-    "close": 7534.79
+    "date": "2026-07-07",
+    "close": 7512.38
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-06\nPosts today: 8 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: From Greg Wischer at the United States Department of the Interior: \"The regilding of the sculpture \"",
-    "zh": "川普密碼每日報告 -- 2026-07-06\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: From Greg Wischer at the United States Department of the Interior: \"The regilding of the sculpture \"",
-    "ja": "トランプ・コード日次レポート -- 2026-07-06\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: From Greg Wischer at the United States Department of the Interior: \"The regilding of the sculpture \""
+    "en": "Trump Code Daily Report -- 2026-07-07\nPosts today: 7 | Models triggered: 0\nSignals: TARIFF, DEAL\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46",
+    "zh": "川普密碼每日報告 -- 2026-07-07\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46",
+    "ja": "トランプ・コード日次レポート -- 2026-07-07\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46"
   },
   "triggered_rules_sample": []
 }
