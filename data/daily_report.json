@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-07",
-  "generated_at": "2026-07-07T16:34:03Z",
-  "posts_today": 7,
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T16:04:19Z",
+  "posts_today": 12,
   "latest_post": {
-    "time": "2026-07-07T15:51",
-    "content_preview": "Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46"
+    "time": "2026-07-08T13:33",
+    "content_preview": "President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod"
   },
   "signals_detected": [
-    "TARIFF",
-    "DEAL"
+    "DEAL",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -22,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-07",
-    "close": 7512.38
+    "date": "2026-07-08",
+    "close": 7436.73
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-07\nPosts today: 7 | Models triggered: 0\nSignals: TARIFF, DEAL\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46",
-    "zh": "川普密碼每日報告 -- 2026-07-07\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46",
-    "ja": "トランプ・コード日次レポート -- 2026-07-07\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Thank you!NATO is stronger because Trump demanded more: https://www.washingtonexaminer.com/op-eds/46"
+    "en": "Trump Code Daily Report -- 2026-07-08\nPosts today: 12 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod",
+    "zh": "川普密碼每日報告 -- 2026-07-08\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod",
+    "ja": "トランプ・コード日次レポート -- 2026-07-08\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod"
   },
   "triggered_rules_sample": []
 }
