@@ -1,15 +1,12 @@
 {
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T16:04:19Z",
-  "posts_today": 12,
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T16:29:54Z",
+  "posts_today": 1,
   "latest_post": {
-    "time": "2026-07-08T13:33",
-    "content_preview": "President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod"
+    "time": "2026-07-09T01:39",
+    "content_preview": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their "
   },
-  "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -22,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-08",
-    "close": 7436.73
+    "date": "2026-07-09",
+    "close": 7533.25
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-08\nPosts today: 12 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod",
-    "zh": "川普密碼每日報告 -- 2026-07-08\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod",
-    "ja": "トランプ・コード日次レポート -- 2026-07-08\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: President Zelenskyy and I just had a News Conference with the Fake News. It went very well. Everybod"
+    "en": "Trump Code Daily Report -- 2026-07-09\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their ",
+    "zh": "川普密碼每日報告 -- 2026-07-09\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their ",
+    "ja": "トランプ・コード日次レポート -- 2026-07-09\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their "
   },
   "triggered_rules_sample": []
 }
