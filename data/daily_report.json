@@ -1,12 +1,14 @@
 {
-  "date": "2026-07-09",
-  "generated_at": "2026-07-09T16:29:54Z",
-  "posts_today": 1,
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T16:28:11Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-07-09T01:39",
-    "content_preview": "Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their "
+    "time": "2026-07-10T14:32",
+    "content_preview": "The Islamic Republic of Iran has asked us to continue \"talks.\" We have agreed to do so, but the Unit"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-09",
-    "close": 7533.25
+    "date": "2026-07-10",
+    "close": 7560.22
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-09\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their ",
-    "zh": "川普密碼每日報告 -- 2026-07-09\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their ",
-    "ja": "トランプ・コード日次レポート -- 2026-07-09\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Thank you to the brilliant and highly respected Gwynne Shotwell, and her husband, Robert, for their "
+    "en": "Trump Code Daily Report -- 2026-07-10\nPosts today: 3 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Islamic Republic of Iran has asked us to continue \"talks.\" We have agreed to do so, but the Unit",
+    "zh": "川普密碼每日報告 -- 2026-07-10\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Islamic Republic of Iran has asked us to continue \"talks.\" We have agreed to do so, but the Unit",
+    "ja": "トランプ・コード日次レポート -- 2026-07-10\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Islamic Republic of Iran has asked us to continue \"talks.\" We have agreed to do so, but the Unit"
   },
   "triggered_rules_sample": []
 }
