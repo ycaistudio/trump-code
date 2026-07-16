@@ -1,12 +1,15 @@
 {
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T15:28:21Z",
-  "posts_today": 8,
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T15:41:09Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-07-15T11:34",
-    "content_preview": "So cool!!! President DJT"
+    "time": "2026-07-16T05:06",
+    "content_preview": "https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-tru"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-15",
-    "close": 7558.99
+    "date": "2026-07-16",
+    "close": 7567.08
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-15\nPosts today: 8 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: So cool!!! President DJT",
-    "zh": "川普密碼每日報告 -- 2026-07-15\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: So cool!!! President DJT",
-    "ja": "トランプ・コード日次レポート -- 2026-07-15\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: So cool!!! President DJT"
+    "en": "Trump Code Daily Report -- 2026-07-16\nPosts today: 6 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-tru",
+    "zh": "川普密碼每日報告 -- 2026-07-16\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-tru",
+    "ja": "トランプ・コード日次レポート -- 2026-07-16\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: https://www.breitbart.com/politics/2026/07/15/exclusive-azerbaijani-president-ilham-aliyev-lauds-tru"
   },
   "triggered_rules_sample": []
 }
