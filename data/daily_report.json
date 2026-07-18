@@ -1,12 +1,14 @@
 {
-  "date": "2026-07-17",
-  "generated_at": "2026-07-17T15:17:12Z",
-  "posts_today": 6,
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T14:56:53Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-07-17T13:46",
-    "content_preview": "The Reflecting Pool, so badly damaged by Deranged Vandals, has been emptied as the massive slash get"
+    "time": "2026-07-18T02:18",
+    "content_preview": "Tim Sheehy is GREAT. A Winner!!! President DJT"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "CHINA"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -20,12 +22,12 @@
   },
   "sp500_latest": {
     "date": "2026-07-17",
-    "close": 7466.56
+    "close": 7457.69
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-17\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Reflecting Pool, so badly damaged by Deranged Vandals, has been emptied as the massive slash get",
-    "zh": "川普密碼每日報告 -- 2026-07-17\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Reflecting Pool, so badly damaged by Deranged Vandals, has been emptied as the massive slash get",
-    "ja": "トランプ・コード日次レポート -- 2026-07-17\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Reflecting Pool, so badly damaged by Deranged Vandals, has been emptied as the massive slash get"
+    "en": "Trump Code Daily Report -- 2026-07-18\nPosts today: 4 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Tim Sheehy is GREAT. A Winner!!! President DJT",
+    "zh": "川普密碼每日報告 -- 2026-07-18\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Tim Sheehy is GREAT. A Winner!!! President DJT",
+    "ja": "トランプ・コード日次レポート -- 2026-07-18\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Tim Sheehy is GREAT. A Winner!!! President DJT"
   },
   "triggered_rules_sample": []
 }
