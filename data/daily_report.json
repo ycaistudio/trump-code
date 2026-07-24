@@ -1,15 +1,14 @@
 {
-  "date": "2026-07-23",
-  "generated_at": "2026-07-23T15:57:12Z",
-  "posts_today": 5,
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T15:27:23Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-07-23T12:16",
-    "content_preview": "A year ago the United States of America attacked, very powerfully, the Houthis, for their interferen"
+    "time": "2026-07-24T11:15",
+    "content_preview": "President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst"
   },
   "signals_detected": [
-    "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "CHINA",
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -23,13 +22,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-23",
-    "close": 7397.87
+    "date": "2026-07-24",
+    "close": 7450.03
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-23\nPosts today: 5 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: A year ago the United States of America attacked, very powerfully, the Houthis, for their interferen",
-    "zh": "川普密碼每日報告 -- 2026-07-23\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: A year ago the United States of America attacked, very powerfully, the Houthis, for their interferen",
-    "ja": "トランプ・コード日次レポート -- 2026-07-23\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: A year ago the United States of America attacked, very powerfully, the Houthis, for their interferen"
+    "en": "Trump Code Daily Report -- 2026-07-24\nPosts today: 6 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst",
+    "zh": "川普密碼每日報告 -- 2026-07-24\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst",
+    "ja": "トランプ・コード日次レポート -- 2026-07-24\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst"
   },
   "triggered_rules_sample": []
 }
