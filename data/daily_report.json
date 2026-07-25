@@ -1,15 +1,12 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T15:27:23Z",
-  "posts_today": 6,
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T15:05:38Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-07-24T11:15",
-    "content_preview": "President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst"
+    "time": "2026-07-25T03:32",
+    "content_preview": "https://x.com/lauraloomer/status/2080657818466586812?s=46"
   },
-  "signals_detected": [
-    "CHINA",
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-07-24",
-    "close": 7450.03
+    "close": 7411.98
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-24\nPosts today: 6 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst",
-    "zh": "川普密碼每日報告 -- 2026-07-24\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst",
-    "ja": "トランプ・コード日次レポート -- 2026-07-24\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: President Xi, at our recent meeting in Beijing, China, told me that he would not, under any circumst"
+    "en": "Trump Code Daily Report -- 2026-07-25\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: https://x.com/lauraloomer/status/2080657818466586812?s=46",
+    "zh": "川普密碼每日報告 -- 2026-07-25\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: https://x.com/lauraloomer/status/2080657818466586812?s=46",
+    "ja": "トランプ・コード日次レポート -- 2026-07-25\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: https://x.com/lauraloomer/status/2080657818466586812?s=46"
   },
   "triggered_rules_sample": []
 }
