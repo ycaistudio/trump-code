@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T15:05:38Z",
-  "posts_today": 2,
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T15:08:15Z",
+  "posts_today": 13,
   "latest_post": {
-    "time": "2026-07-25T03:32",
-    "content_preview": "https://x.com/lauraloomer/status/2080657818466586812?s=46"
+    "time": "2026-07-26T13:46",
+    "content_preview": "Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward "
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -23,9 +23,9 @@
     "close": 7411.98
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-25\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: https://x.com/lauraloomer/status/2080657818466586812?s=46",
-    "zh": "川普密碼每日報告 -- 2026-07-25\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: https://x.com/lauraloomer/status/2080657818466586812?s=46",
-    "ja": "トランプ・コード日次レポート -- 2026-07-25\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: https://x.com/lauraloomer/status/2080657818466586812?s=46"
+    "en": "Trump Code Daily Report -- 2026-07-26\nPosts today: 13 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward ",
+    "zh": "川普密碼每日報告 -- 2026-07-26\n今日推文: 13 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward ",
+    "ja": "トランプ・コード日次レポート -- 2026-07-26\n本日の投稿: 13件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward "
   },
   "triggered_rules_sample": []
 }
