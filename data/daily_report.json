@@ -1,14 +1,12 @@
 {
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T15:51:29Z",
-  "posts_today": 6,
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T15:54:02Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-07-29T11:46",
-    "content_preview": "Many more people died of Covid under the Biden Administration than under the Trump Administration. \""
+    "time": "2026-07-30T15:15",
+    "content_preview": "Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greates"
   },
-  "signals_detected": [
-    "CHINA"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -21,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-07-29",
-    "close": 7366.38
+    "date": "2026-07-30",
+    "close": 7394.6
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-29\nPosts today: 6 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Many more people died of Covid under the Biden Administration than under the Trump Administration. \"",
-    "zh": "川普密碼每日報告 -- 2026-07-29\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Many more people died of Covid under the Biden Administration than under the Trump Administration. \"",
-    "ja": "トランプ・コード日次レポート -- 2026-07-29\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Many more people died of Covid under the Biden Administration than under the Trump Administration. \""
+    "en": "Trump Code Daily Report -- 2026-07-30\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greates",
+    "zh": "川普密碼每日報告 -- 2026-07-30\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greates",
+    "ja": "トランプ・コード日次レポート -- 2026-07-30\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greates"
   },
   "triggered_rules_sample": []
 }
