@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-31",
-  "generated_at": "2026-07-31T16:03:03Z",
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T15:03:05Z",
   "posts_today": 2,
   "latest_post": {
-    "time": "2026-07-31T14:50",
-    "content_preview": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost eve"
+    "time": "2026-08-01T11:32",
+    "content_preview": "If Senators Cornyn and Tillis, both upset because I wouldn't Endorse them (they lost, and quit, resp"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-07-31",
-    "close": 7454.1
+    "close": 7489.72
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-07-31\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost eve",
-    "zh": "川普密碼每日報告 -- 2026-07-31\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost eve",
-    "ja": "トランプ・コード日次レポート -- 2026-07-31\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost eve"
+    "en": "Trump Code Daily Report -- 2026-08-01\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: If Senators Cornyn and Tillis, both upset because I wouldn't Endorse them (they lost, and quit, resp",
+    "zh": "川普密碼每日報告 -- 2026-08-01\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: If Senators Cornyn and Tillis, both upset because I wouldn't Endorse them (they lost, and quit, resp",
+    "ja": "トランプ・コード日次レポート -- 2026-08-01\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: If Senators Cornyn and Tillis, both upset because I wouldn't Endorse them (they lost, and quit, resp"
   },
   "triggered_rules_sample": []
 }
