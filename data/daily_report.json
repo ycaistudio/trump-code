@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-09",
-  "generated_at": "2026-08-09T14:38:01Z",
-  "posts_today": 7,
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T15:01:37Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-08-09T02:20",
-    "content_preview": "Trump's Vegas Visit Hammers Tax Wins: https://townhall.com/news/cameron-arcand/2026/08/05/trumps-veg"
+    "time": "2026-08-10T12:09",
+    "content_preview": "This is big news! Lazy Senators don't play well in Iowa. President DJTIowa Democrats' U.S. Senate ca"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-07",
-    "close": 7757.64
+    "date": "2026-08-10",
+    "close": 7759.22
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-09\nPosts today: 7 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Trump's Vegas Visit Hammers Tax Wins: https://townhall.com/news/cameron-arcand/2026/08/05/trumps-veg",
-    "zh": "川普密碼每日報告 -- 2026-08-09\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Trump's Vegas Visit Hammers Tax Wins: https://townhall.com/news/cameron-arcand/2026/08/05/trumps-veg",
-    "ja": "トランプ・コード日次レポート -- 2026-08-09\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Trump's Vegas Visit Hammers Tax Wins: https://townhall.com/news/cameron-arcand/2026/08/05/trumps-veg"
+    "en": "Trump Code Daily Report -- 2026-08-10\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: This is big news! Lazy Senators don't play well in Iowa. President DJTIowa Democrats' U.S. Senate ca",
+    "zh": "川普密碼每日報告 -- 2026-08-10\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: This is big news! Lazy Senators don't play well in Iowa. President DJTIowa Democrats' U.S. Senate ca",
+    "ja": "トランプ・コード日次レポート -- 2026-08-10\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: This is big news! Lazy Senators don't play well in Iowa. President DJTIowa Democrats' U.S. Senate ca"
   },
   "triggered_rules_sample": []
 }
