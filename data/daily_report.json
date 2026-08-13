@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-12",
-  "generated_at": "2026-08-12T15:00:16Z",
-  "posts_today": 5,
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T15:01:18Z",
+  "posts_today": 28,
   "latest_post": {
-    "time": "2026-08-12T14:31",
-    "content_preview": "The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade "
+    "time": "2026-08-12T22:58",
+    "content_preview": "I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th"
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-12",
-    "close": 7745.42
+    "date": "2026-08-13",
+    "close": 7804.65
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-12\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade ",
-    "zh": "川普密碼每日報告 -- 2026-08-12\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade ",
-    "ja": "トランプ・コード日次レポート -- 2026-08-12\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT! Our Naval Blockade "
+    "en": "Trump Code Daily Report -- 2026-08-13\nPosts today: 28 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th",
+    "zh": "川普密碼每日報告 -- 2026-08-13\n今日推文: 28 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th",
+    "ja": "トランプ・コード日次レポート -- 2026-08-13\n本日の投稿: 28件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th"
   },
   "triggered_rules_sample": []
 }
