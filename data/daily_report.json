@@ -1,13 +1,15 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-13T15:01:18Z",
-  "posts_today": 28,
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T14:54:37Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-08-12T22:58",
-    "content_preview": "I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th"
+    "time": "2026-08-14T12:52",
+    "content_preview": "Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER "
   },
   "signals_detected": [
-    "IRAN"
+    "TARIFF",
+    "IRAN",
+    "TARIFF_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -21,13 +23,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-13",
-    "close": 7804.65
+    "date": "2026-08-14",
+    "close": 7792.63
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-13\nPosts today: 28 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th",
-    "zh": "川普密碼每日報告 -- 2026-08-13\n今日推文: 28 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th",
-    "ja": "トランプ・コード日次レポート -- 2026-08-13\n本日の投稿: 28件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for th"
+    "en": "Trump Code Daily Report -- 2026-08-14\nPosts today: 5 | Models triggered: 0\nSignals: TARIFF, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER ",
+    "zh": "川普密碼每日報告 -- 2026-08-14\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER ",
+    "ja": "トランプ・コード日次レポート -- 2026-08-14\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: 関税, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER "
   },
   "triggered_rules_sample": []
 }
