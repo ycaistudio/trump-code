@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T14:25:20Z",
-  "posts_today": 10,
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T14:26:28Z",
+  "posts_today": 14,
   "latest_post": {
-    "time": "2026-08-15T12:31",
-    "content_preview": "White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: ht"
+    "time": "2026-08-16T13:28",
+    "content_preview": "Todd Blanche sworn in as AG; White House celebrates 'huge win': https://heartlandernews.com/todd-bla"
   },
   "signals_detected": [
     "TARIFF",
@@ -27,9 +27,9 @@
     "close": 7785.76
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-15\nPosts today: 10 | Models triggered: 0\nSignals: TARIFF, CHINA, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: ht",
-    "zh": "川普密碼每日報告 -- 2026-08-15\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 中國, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: ht",
-    "ja": "トランプ・コード日次レポート -- 2026-08-15\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: 関税, 中国, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: White House report details 'Great Transshipment Scam' costing tens of billions in tariff evasion: ht"
+    "en": "Trump Code Daily Report -- 2026-08-16\nPosts today: 14 | Models triggered: 0\nSignals: TARIFF, CHINA, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Todd Blanche sworn in as AG; White House celebrates 'huge win': https://heartlandernews.com/todd-bla",
+    "zh": "川普密碼每日報告 -- 2026-08-16\n今日推文: 14 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 中國, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Todd Blanche sworn in as AG; White House celebrates 'huge win': https://heartlandernews.com/todd-bla",
+    "ja": "トランプ・コード日次レポート -- 2026-08-16\n本日の投稿: 14件 | トリガーモデル: 0組\n検出シグナル: 関税, 中国, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Todd Blanche sworn in as AG; White House celebrates 'huge win': https://heartlandernews.com/todd-bla"
   },
   "triggered_rules_sample": []
 }
