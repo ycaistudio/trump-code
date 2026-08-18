@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T14:30:37Z",
-  "posts_today": 7,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T14:36:47Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-08-17T10:55",
-    "content_preview": "Trump Bump: Tax refunds jumped 17% after president's signature law, GAO reports: https://justthenews"
+    "time": "2026-08-18T14:00",
+    "content_preview": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: https://www."
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-17",
-    "close": 7774.9
+    "date": "2026-08-18",
+    "close": 7709.74
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-17\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Trump Bump: Tax refunds jumped 17% after president's signature law, GAO reports: https://justthenews",
-    "zh": "川普密碼每日報告 -- 2026-08-17\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Trump Bump: Tax refunds jumped 17% after president's signature law, GAO reports: https://justthenews",
-    "ja": "トランプ・コード日次レポート -- 2026-08-17\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Trump Bump: Tax refunds jumped 17% after president's signature law, GAO reports: https://justthenews"
+    "en": "Trump Code Daily Report -- 2026-08-18\nPosts today: 9 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: https://www.",
+    "zh": "川普密碼每日報告 -- 2026-08-18\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: https://www.",
+    "ja": "トランプ・コード日次レポート -- 2026-08-18\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed: https://www."
   },
   "triggered_rules_sample": []
 }
