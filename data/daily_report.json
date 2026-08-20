@@ -1,15 +1,12 @@
 {
-  "date": "2026-08-19",
-  "generated_at": "2026-08-19T14:36:33Z",
-  "posts_today": 4,
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T14:38:52Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-08-19T13:40",
-    "content_preview": "I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn't "
+    "time": "2026-08-20T13:40",
+    "content_preview": "James Braid, our Director of Legislative Affairs, will be leaving the White House in September. Jame"
   },
-  "signals_detected": [
-    "TARIFF",
-    "DEAL"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -22,13 +19,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-19",
-    "close": 7724.44
+    "date": "2026-08-20",
+    "close": 7686.12
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-19\nPosts today: 4 | Models triggered: 0\nSignals: TARIFF, DEAL\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn't ",
-    "zh": "川普密碼每日報告 -- 2026-08-19\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn't ",
-    "ja": "トランプ・コード日次レポート -- 2026-08-19\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn't "
+    "en": "Trump Code Daily Report -- 2026-08-20\nPosts today: 9 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: James Braid, our Director of Legislative Affairs, will be leaving the White House in September. Jame",
+    "zh": "川普密碼每日報告 -- 2026-08-20\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: James Braid, our Director of Legislative Affairs, will be leaving the White House in September. Jame",
+    "ja": "トランプ・コード日次レポート -- 2026-08-20\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: James Braid, our Director of Legislative Affairs, will be leaving the White House in September. Jame"
   },
   "triggered_rules_sample": []
 }
