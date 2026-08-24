@@ -1,20 +1,22 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T14:26:28Z",
-  "posts_today": 2,
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T14:45:02Z",
+  "posts_today": 20,
   "latest_post": {
-    "time": "2026-08-23T05:06",
-    "content_preview": "Canada wants the benefits of being a State, without being one!!! They have also charged our great fa"
+    "time": "2026-08-24T13:38",
+    "content_preview": "Canada has been ripping off the United States of America for years. Their ridiculously high tariffs "
   },
   "signals_detected": [
     "TARIFF",
-    "TARIFF_ONLY"
+    "DEAL",
+    "CHINA",
+    "IRAN"
   ],
-  "models_triggered": 0,
+  "models_triggered": 1,
   "direction_summary": {
     "LONG": 0,
-    "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "SHORT": 1,
+    "consensus": "BEARISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -22,13 +24,25 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-21",
-    "close": 7674.37
+    "date": "2026-08-24",
+    "close": 7655.19
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-23\nPosts today: 2 | Models triggered: 0\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Canada wants the benefits of being a State, without being one!!! They have also charged our great fa",
-    "zh": "川普密碼每日報告 -- 2026-08-23\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Canada wants the benefits of being a State, without being one!!! They have also charged our great fa",
-    "ja": "トランプ・コード日次レポート -- 2026-08-23\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Canada wants the benefits of being a State, without being one!!! They have also charged our great fa"
+    "en": "Trump Code Daily Report -- 2026-08-24\nPosts today: 20 | Models triggered: 1\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 0 LONG vs 1 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Canada has been ripping off the United States of America for years. Their ridiculously high tariffs ",
+    "zh": "川普密碼每日報告 -- 2026-08-24\n今日推文: 20 篇 | 觸發模型: 1 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 0 組看多 vs 1 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Canada has been ripping off the United States of America for years. Their ridiculously high tariffs ",
+    "ja": "トランプ・コード日次レポート -- 2026-08-24\n本日の投稿: 20件 | トリガーモデル: 1組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 0組ロング vs 1組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Canada has been ripping off the United States of America for years. Their ridiculously high tariffs "
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_biden",
+        "kw_india",
+        "kw_tariffs"
+      ],
+      "direction": "SHORT",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
