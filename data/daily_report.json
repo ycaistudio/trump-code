@@ -1,21 +1,22 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T23:40:25Z",
-  "posts_today": 13,
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T23:28:54Z",
+  "posts_today": 29,
   "latest_post": {
-    "time": "2026-08-27T22:34",
-    "content_preview": "Just arrived in the Great State of Texas! President DJT"
+    "time": "2026-08-28T22:47",
+    "content_preview": "BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of V"
   },
   "signals_detected": [
+    "TARIFF",
     "DEAL",
-    "IRAN",
-    "DEAL_ONLY"
+    "CHINA",
+    "IRAN"
   ],
-  "models_triggered": 0,
+  "models_triggered": 21,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 21,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -23,13 +24,232 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-27",
-    "close": 7730.99
+    "date": "2026-08-28",
+    "close": 7711.76
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-27\nPosts today: 13 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Just arrived in the Great State of Texas! President DJT",
-    "zh": "川普密碼每日報告 -- 2026-08-27\n今日推文: 13 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Just arrived in the Great State of Texas! President DJT",
-    "ja": "トランプ・コード日次レポート -- 2026-08-27\n本日の投稿: 13件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Just arrived in the Great State of Texas! President DJT"
+    "en": "Trump Code Daily Report -- 2026-08-28\nPosts today: 29 | Models triggered: 21\nSignals: TARIFF, DEAL, CHINA, IRAN\nConsensus: 21 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of V",
+    "zh": "川普密碼每日報告 -- 2026-08-28\n今日推文: 29 篇 | 觸發模型: 21 組\n偵測信號: 關稅, Deal, 中國, 伊朗\n共識方向: 21 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of V",
+    "ja": "トランプ・コード日次レポート -- 2026-08-28\n本日の投稿: 29件 | トリガーモデル: 21組\n検出シグナル: 関税, ディール, 中国, イラン\nコンセンサス: 21組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of V"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_deal",
+        "kw_perfect",
+        "kw_thank_you_for_your_attention"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "open_dow",
+        "open_trade",
+        "questions_yes"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal",
+        "kw_perfect"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_china",
+        "kw_economy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_economy",
+        "open_china"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_tariffs_2plus",
+        "kw_tremendous"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_economy",
+        "open_tariffs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_tariffs_2plus",
+        "questions_yes"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_dow_2plus",
+        "kw_tariffs_2plus"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_dow_2plus",
+        "open_tariff"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_dow_2plus",
+        "open_tariffs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_beautiful",
+        "kw_corrupt"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_tariff_2plus",
+        "open_trade",
+        "questions_yes"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_perfect",
+        "kw_thank_you_for_your_attention",
+        "questions_yes"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_thank_you_for_your_attention",
+        "open_china"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_china",
+        "kw_corrupt",
+        "kw_economy"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "kw_beautiful",
+        "open_tariffs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "is_friday",
+        "open_tariff",
+        "questions_yes"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal",
+        "kw_perfect"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal",
+        "kw_perfect",
+        "kw_thank_you_for_your_attention"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
