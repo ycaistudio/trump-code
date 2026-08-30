@@ -1,21 +1,20 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T17:33:59Z",
-  "posts_today": 8,
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T17:59:26Z",
+  "posts_today": 12,
   "latest_post": {
-    "time": "2026-08-29T15:17",
-    "content_preview": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP"
+    "time": "2026-08-30T15:46",
+    "content_preview": "Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor"
   },
   "signals_detected": [
     "DEAL",
-    "IRAN",
     "DEAL_ONLY"
   ],
-  "models_triggered": 0,
+  "models_triggered": 2,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 2,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -24,12 +23,35 @@
   },
   "sp500_latest": {
     "date": "2026-08-28",
-    "close": NaN
+    "close": 7711.76
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-29\nPosts today: 8 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
-    "zh": "川普密碼每日報告 -- 2026-08-29\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
-    "ja": "トランプ・コード日次レポート -- 2026-08-29\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP"
+    "en": "Trump Code Daily Report -- 2026-08-30\nPosts today: 12 | Models triggered: 2\nSignals: DEAL, DEAL_ONLY\nConsensus: 2 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor",
+    "zh": "川普密碼每日報告 -- 2026-08-30\n今日推文: 12 篇 | 觸發模型: 2 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 2 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor",
+    "ja": "トランプ・コード日次レポート -- 2026-08-30\n本日の投稿: 12件 | トリガーモデル: 2組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 2組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_deal_2plus",
+        "kw_economy",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal_2plus",
+        "kw_economy",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
