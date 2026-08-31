@@ -1,20 +1,22 @@
 {
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T17:59:26Z",
-  "posts_today": 12,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T19:53:12Z",
+  "posts_today": 25,
   "latest_post": {
-    "time": "2026-08-30T15:46",
-    "content_preview": "Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor"
+    "time": "2026-08-31T15:35",
+    "content_preview": "The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o"
   },
   "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
+    "TARIFF",
+    "CHINA",
+    "IRAN",
+    "TARIFF_ONLY"
   ],
-  "models_triggered": 2,
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 2,
-    "SHORT": 0,
-    "consensus": "BULLISH"
+    "LONG": 0,
+    "SHORT": 1,
+    "consensus": "BEARISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -22,34 +24,23 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-28",
-    "close": 7711.76
+    "date": "2026-08-31",
+    "close": 7691.08
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-30\nPosts today: 12 | Models triggered: 2\nSignals: DEAL, DEAL_ONLY\nConsensus: 2 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor",
-    "zh": "川普密碼每日報告 -- 2026-08-30\n今日推文: 12 篇 | 觸發模型: 2 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 2 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor",
-    "ja": "トランプ・コード日次レポート -- 2026-08-30\n本日の投稿: 12件 | トリガーモデル: 2組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 2組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Google Maps changes Lake Ontario to 'Lake America' on US phones: https://thehill.com/policy/transpor"
+    "en": "Trump Code Daily Report -- 2026-08-31\nPosts today: 25 | Models triggered: 1\nSignals: TARIFF, CHINA, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 1 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o",
+    "zh": "川普密碼每日報告 -- 2026-08-31\n今日推文: 25 篇 | 觸發模型: 1 組\n偵測信號: 關稅, 中國, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 1 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o",
+    "ja": "トランプ・コード日次レポート -- 2026-08-31\n本日の投稿: 25件 | トリガーモデル: 1組\n検出シグナル: 関税, 中国, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 1組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o"
   },
   "triggered_rules_sample": [
     {
       "features": [
-        "kw_deal_2plus",
-        "kw_economy",
-        "kw_jobs"
+        "kw_biden",
+        "kw_india",
+        "kw_tariffs"
       ],
-      "direction": "LONG",
+      "direction": "SHORT",
       "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_economy",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 3,
       "train_wr": 100.0,
       "test_wr": 100.0
     }
