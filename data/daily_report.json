@@ -1,22 +1,19 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T19:53:12Z",
-  "posts_today": 25,
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T17:42:19Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-08-31T15:35",
-    "content_preview": "The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o"
+    "time": "2026-09-01T17:25",
+    "content_preview": "The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a"
   },
   "signals_detected": [
-    "TARIFF",
-    "CHINA",
-    "IRAN",
-    "TARIFF_ONLY"
+    "IRAN"
   ],
-  "models_triggered": 1,
+  "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
-    "SHORT": 1,
-    "consensus": "BEARISH"
+    "SHORT": 0,
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -24,25 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-08-31",
-    "close": 7691.08
+    "date": "2026-09-01",
+    "close": 7637.22
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-08-31\nPosts today: 25 | Models triggered: 1\nSignals: TARIFF, CHINA, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 1 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o",
-    "zh": "川普密碼每日報告 -- 2026-08-31\n今日推文: 25 篇 | 觸發模型: 1 組\n偵測信號: 關稅, 中國, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 1 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o",
-    "ja": "トランプ・コード日次レポート -- 2026-08-31\n本日の投稿: 25件 | トリガーモデル: 1組\n検出シグナル: 関税, 中国, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 1組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The Supreme Court will not survive another Democratic trifecta: https://www.washingtonexaminer.com/o"
+    "en": "Trump Code Daily Report -- 2026-09-01\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a",
+    "zh": "川普密碼每日報告 -- 2026-09-01\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a",
+    "ja": "トランプ・コード日次レポート -- 2026-09-01\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_biden",
-        "kw_india",
-        "kw_tariffs"
-      ],
-      "direction": "SHORT",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
