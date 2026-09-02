@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T17:42:19Z",
-  "posts_today": 7,
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T17:43:22Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-09-01T17:25",
-    "content_preview": "The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a"
+    "time": "2026-09-02T15:23",
+    "content_preview": "Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???"
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-09-01",
-    "close": 7637.22
+    "date": "2026-09-02",
+    "close": 7663.72
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-01\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a",
-    "zh": "川普密碼每日報告 -- 2026-09-01\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a",
-    "ja": "トランプ・コード日次レポート -- 2026-09-01\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: The United States is, as we speak, striking Iranian Targets near the Strait of Hormuz. The strikes a"
+    "en": "Trump Code Daily Report -- 2026-09-02\nPosts today: 9 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???",
+    "zh": "川普密碼每日報告 -- 2026-09-02\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???",
+    "ja": "トランプ・コード日次レポート -- 2026-09-02\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT???"
   },
   "triggered_rules_sample": []
 }
