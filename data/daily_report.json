@@ -1,19 +1,21 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T17:38:38Z",
-  "posts_today": 7,
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T17:27:18Z",
+  "posts_today": 11,
   "latest_post": {
-    "time": "2026-09-03T15:14",
-    "content_preview": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trum"
+    "time": "2026-09-04T16:31",
+    "content_preview": "I am pleased to report that Michael Cohen, the Prosecution's Star Witness and, in actuality, only Wi"
   },
   "signals_detected": [
+    "TARIFF",
+    "DEAL",
     "IRAN"
   ],
-  "models_triggered": 0,
+  "models_triggered": 5,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 5,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -21,13 +23,68 @@
     "rate": 100.0
   },
   "sp500_latest": {
-    "date": "2026-09-03",
-    "close": 7746.36
+    "date": "2026-09-04",
+    "close": 7716.2
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-03\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trum",
-    "zh": "川普密碼每日報告 -- 2026-09-03\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trum",
-    "ja": "トランプ・コード日次レポート -- 2026-09-03\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trum"
+    "en": "Trump Code Daily Report -- 2026-09-04\nPosts today: 11 | Models triggered: 5\nSignals: TARIFF, DEAL, IRAN\nConsensus: 5 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: I am pleased to report that Michael Cohen, the Prosecution's Star Witness and, in actuality, only Wi",
+    "zh": "川普密碼每日報告 -- 2026-09-04\n今日推文: 11 篇 | 觸發模型: 5 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 5 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: I am pleased to report that Michael Cohen, the Prosecution's Star Witness and, in actuality, only Wi",
+    "ja": "トランプ・コード日次レポート -- 2026-09-04\n本日の投稿: 11件 | トリガーモデル: 5組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 5組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: I am pleased to report that Michael Cohen, the Prosecution's Star Witness and, in actuality, only Wi"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "is_friday",
+        "kw_economy",
+        "open_tariffs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_economy",
+        "open_tariffs",
+        "open_thank_you_for_your_attention"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal",
+        "kw_inflation",
+        "volume_falling_3d"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_economy",
+        "kw_interest_rate",
+        "open_dow"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_interest_rate",
+        "volume_falling_3d"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
