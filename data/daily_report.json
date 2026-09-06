@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-05",
-  "generated_at": "2026-09-05T16:38:29Z",
-  "posts_today": 4,
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T16:46:47Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-09-05T02:56",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514"
+    "time": "2026-09-06T15:54",
+    "content_preview": "Even this jerk is beginning to get it!"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -23,9 +23,9 @@
     "close": 7718.6
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-05\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
-    "zh": "川普密碼每日報告 -- 2026-09-05\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
-    "ja": "トランプ・コード日次レポート -- 2026-09-05\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514"
+    "en": "Trump Code Daily Report -- 2026-09-06\nPosts today: 5 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Even this jerk is beginning to get it!",
+    "zh": "川普密碼每日報告 -- 2026-09-06\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Even this jerk is beginning to get it!",
+    "ja": "トランプ・コード日次レポート -- 2026-09-06\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Even this jerk is beginning to get it!"
   },
   "triggered_rules_sample": []
 }
