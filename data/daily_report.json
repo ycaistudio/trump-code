@@ -1,17 +1,19 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T16:46:47Z",
-  "posts_today": 5,
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T18:39:20Z",
+  "posts_today": 23,
   "latest_post": {
-    "time": "2026-09-06T15:54",
-    "content_preview": "Even this jerk is beginning to get it!"
+    "time": "2026-09-07T17:39",
+    "content_preview": "NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei"
   },
-  "signals_detected": [],
-  "models_triggered": 0,
+  "signals_detected": [
+    "IRAN"
+  ],
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 11,
@@ -23,9 +25,21 @@
     "close": 7718.6
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-06\nPosts today: 5 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: Even this jerk is beginning to get it!",
-    "zh": "川普密碼每日報告 -- 2026-09-06\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: Even this jerk is beginning to get it!",
-    "ja": "トランプ・コード日次レポート -- 2026-09-06\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: Even this jerk is beginning to get it!"
+    "en": "Trump Code Daily Report -- 2026-09-07\nPosts today: 23 | Models triggered: 1\nSignals: IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei",
+    "zh": "川普密碼每日報告 -- 2026-09-07\n今日推文: 23 篇 | 觸發模型: 1 組\n偵測信號: 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei",
+    "ja": "トランプ・コード日次レポート -- 2026-09-07\n本日の投稿: 23件 | トリガーモデル: 1組\n検出シグナル: イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_economy",
+        "kw_interest_rate",
+        "open_dow"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
