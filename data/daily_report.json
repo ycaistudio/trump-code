@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T18:39:20Z",
-  "posts_today": 23,
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T17:49:40Z",
+  "posts_today": 29,
   "latest_post": {
-    "time": "2026-09-07T17:39",
-    "content_preview": "NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei"
+    "time": "2026-09-07T23:17",
+    "content_preview": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus"
   },
   "signals_detected": [
     "IRAN"
@@ -16,18 +16,18 @@
     "consensus": "BULLISH"
   },
   "historical_hit_rate": {
-    "verified": 11,
+    "verified": 12,
     "correct": 11,
-    "rate": 100.0
+    "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-04",
-    "close": 7718.6
+    "date": "2026-09-08",
+    "close": 7690.9
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-07\nPosts today: 23 | Models triggered: 1\nSignals: IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 100.0% (11/11)\nLatest post: NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei",
-    "zh": "川普密碼每日報告 -- 2026-09-07\n今日推文: 23 篇 | 觸發模型: 1 組\n偵測信號: 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 100.0% (11/11)\n最新推文: NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei",
-    "ja": "トランプ・コード日次レポート -- 2026-09-07\n本日の投稿: 23件 | トリガーモデル: 1組\n検出シグナル: イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 100.0% (11/11)\n最新投稿: NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren't good enough! Over 50% of thei"
+    "en": "Trump Code Daily Report -- 2026-09-08\nPosts today: 29 | Models triggered: 1\nSignals: IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus",
+    "zh": "川普密碼每日報告 -- 2026-09-08\n今日推文: 29 篇 | 觸發模型: 1 組\n偵測信號: 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus",
+    "ja": "トランプ・コード日次レポート -- 2026-09-08\n本日の投稿: 29件 | トリガーモデル: 1組\n検出シグナル: イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus"
   },
   "triggered_rules_sample": [
     {

@@ -171,5 +171,21 @@
     "status": "VERIFIED",
     "actual_return": 0.268,
     "correct": true
+  },
+  {
+    "signal_date": "2026-09-07",
+    "entry_date": "2026-09-08",
+    "exit_date": "2026-09-08",
+    "direction": "LONG",
+    "hold_days": 2,
+    "rule_id": "R0076",
+    "features": [
+      "kw_economy",
+      "kw_interest_rate",
+      "open_dow"
+    ],
+    "status": "VERIFIED",
+    "actual_return": -0.349,
+    "correct": false
   }
 ]
