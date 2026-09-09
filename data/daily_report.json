@@ -1,19 +1,17 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T17:49:40Z",
-  "posts_today": 29,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T17:41:53Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-09-07T23:17",
-    "content_preview": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus"
+    "time": "2026-09-09T13:41",
+    "content_preview": "\"Words of Wisdom\" from Phil Flynn, one of the World's Great Oil and Energy Analysts — A MUST SEE! Pr"
   },
-  "signals_detected": [
-    "IRAN"
-  ],
-  "models_triggered": 1,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 1,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -21,25 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-08",
-    "close": 7690.9
+    "date": "2026-09-09",
+    "close": 7640.71
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-08\nPosts today: 29 | Models triggered: 1\nSignals: IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus",
-    "zh": "川普密碼每日報告 -- 2026-09-08\n今日推文: 29 篇 | 觸發模型: 1 組\n偵測信號: 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus",
-    "ja": "トランプ・コード日次レポート -- 2026-09-08\n本日の投稿: 29件 | トリガーモデル: 1組\n検出シグナル: イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerus"
+    "en": "Trump Code Daily Report -- 2026-09-09\nPosts today: 5 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: \"Words of Wisdom\" from Phil Flynn, one of the World's Great Oil and Energy Analysts — A MUST SEE! Pr",
+    "zh": "川普密碼每日報告 -- 2026-09-09\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: \"Words of Wisdom\" from Phil Flynn, one of the World's Great Oil and Energy Analysts — A MUST SEE! Pr",
+    "ja": "トランプ・コード日次レポート -- 2026-09-09\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: \"Words of Wisdom\" from Phil Flynn, one of the World's Great Oil and Energy Analysts — A MUST SEE! Pr"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_economy",
-        "kw_interest_rate",
-        "open_dow"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
