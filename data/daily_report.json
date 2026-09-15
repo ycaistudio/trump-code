@@ -1,20 +1,18 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T19:06:34Z",
-  "posts_today": 13,
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T18:02:10Z",
+  "posts_today": 10,
   "latest_post": {
-    "time": "2026-09-14T17:33",
-    "content_preview": "Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for "
+    "time": "2026-09-15T15:49",
+    "content_preview": "The Kennedy Center is in a virtual state of collapse, and has been for many years. A large piece of "
   },
   "signals_detected": [
-    "DEAL",
-    "CHINA",
-    "IRAN",
-    "DEAL_ONLY"
+    "TARIFF",
+    "TARIFF_ONLY"
   ],
-  "models_triggered": 6,
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 6,
+    "LONG": 1,
     "SHORT": 0,
     "consensus": "BULLISH"
   },
@@ -24,76 +22,23 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-14",
-    "close": 7630.99
+    "date": "2026-09-15",
+    "close": 7585.43
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-14\nPosts today: 13 | Models triggered: 6\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 6 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for ",
-    "zh": "川普密碼每日報告 -- 2026-09-14\n今日推文: 13 篇 | 觸發模型: 6 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 6 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for ",
-    "ja": "トランプ・コード日次レポート -- 2026-09-14\n本日の投稿: 13件 | トリガーモデル: 6組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 6組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for "
+    "en": "Trump Code Daily Report -- 2026-09-15\nPosts today: 10 | Models triggered: 1\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The Kennedy Center is in a virtual state of collapse, and has been for many years. A large piece of ",
+    "zh": "川普密碼每日報告 -- 2026-09-15\n今日推文: 10 篇 | 觸發模型: 1 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The Kennedy Center is in a virtual state of collapse, and has been for many years. A large piece of ",
+    "ja": "トランプ・コード日次レポート -- 2026-09-15\n本日の投稿: 10件 | トリガーモデル: 1組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The Kennedy Center is in a virtual state of collapse, and has been for many years. A large piece of "
   },
   "triggered_rules_sample": [
     {
       "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_perfect",
-        "kw_thank_you_for_your_attention",
-        "posts_11_20"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_beautiful",
+        "kw_tariffs",
         "open_thank_you_for_your_attention",
-        "open_tremendous"
+        "questions_yes"
       ],
       "direction": "LONG",
       "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 3,
       "train_wr": 100.0,
       "test_wr": 100.0
     }
