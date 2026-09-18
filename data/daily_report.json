@@ -1,12 +1,14 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T18:01:07Z",
-  "posts_today": 3,
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T17:35:24Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-09-17T17:25",
-    "content_preview": "GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major p"
+    "time": "2026-09-18T14:52",
+    "content_preview": "Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +21,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-17",
-    "close": 7637.56
+    "date": "2026-09-18",
+    "close": 7625.29
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-17\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major p",
-    "zh": "川普密碼每日報告 -- 2026-09-17\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major p",
-    "ja": "トランプ・コード日次レポート -- 2026-09-17\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: GREAT NEWS! Thanks to the bold leadership of my friend, Karol Nawrocki, President of Poland, major p"
+    "en": "Trump Code Daily Report -- 2026-09-18\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P",
+    "zh": "川普密碼每日報告 -- 2026-09-18\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P",
+    "ja": "トランプ・コード日次レポート -- 2026-09-18\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P"
   },
   "triggered_rules_sample": []
 }
