@@ -1,13 +1,14 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T17:35:24Z",
-  "posts_today": 7,
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T17:04:12Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-09-18T14:52",
-    "content_preview": "Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P"
+    "time": "2026-09-19T16:52",
+    "content_preview": "Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. O"
   },
   "signals_detected": [
-    "IRAN"
+    "TARIFF",
+    "TARIFF_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -22,12 +23,12 @@
   },
   "sp500_latest": {
     "date": "2026-09-18",
-    "close": 7625.29
+    "close": 7650.5
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-18\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P",
-    "zh": "川普密碼每日報告 -- 2026-09-18\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P",
-    "ja": "トランプ・コード日次レポート -- 2026-09-18\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Unwatchable and Failing CNN is so dishonest. Everything they say is slanted against the Republican P"
+    "en": "Trump Code Daily Report -- 2026-09-19\nPosts today: 2 | Models triggered: 0\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. O",
+    "zh": "川普密碼每日報告 -- 2026-09-19\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. O",
+    "ja": "トランプ・コード日次レポート -- 2026-09-19\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. O"
   },
   "triggered_rules_sample": []
 }
