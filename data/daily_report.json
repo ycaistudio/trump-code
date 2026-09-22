@@ -1,20 +1,16 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T19:08:41Z",
-  "posts_today": 17,
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T18:00:49Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-09-21T18:43",
-    "content_preview": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative fro"
+    "time": "2026-09-22T11:14",
+    "content_preview": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We "
   },
-  "signals_detected": [
-    "DEAL",
-    "CHINA",
-    "DEAL_ONLY"
-  ],
-  "models_triggered": 4,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 2,
-    "SHORT": 2,
+    "LONG": 0,
+    "SHORT": 0,
     "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
@@ -23,58 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-21",
-    "close": 7771.35
+    "date": "2026-09-22",
+    "close": 7769.27
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-21\nPosts today: 17 | Models triggered: 4\nSignals: DEAL, CHINA, DEAL_ONLY\nConsensus: 2 LONG vs 2 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative fro",
-    "zh": "川普密碼每日報告 -- 2026-09-21\n今日推文: 17 篇 | 觸發模型: 4 組\n偵測信號: Deal, 中國, 只有Deal沒有關稅\n共識方向: 2 組看多 vs 2 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative fro",
-    "ja": "トランプ・コード日次レポート -- 2026-09-21\n本日の投稿: 17件 | トリガーモデル: 4組\n検出シグナル: ディール, 中国, Dealのみ（関税無し）\nコンセンサス: 2組ロング vs 2組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative fro"
+    "en": "Trump Code Daily Report -- 2026-09-22\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The cowards and traitors would love to say the United States is low on munitions. It's not true. We ",
+    "zh": "川普密碼每日報告 -- 2026-09-22\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The cowards and traitors would love to say the United States is low on munitions. It's not true. We ",
+    "ja": "トランプ・コード日次レポート -- 2026-09-22\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The cowards and traitors would love to say the United States is low on munitions. It's not true. We "
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_biden",
-        "kw_china",
-        "open_disaster"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_beautiful",
-        "open_thank_you_for_your_attention",
-        "open_tremendous"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_tremendous",
-        "open_thank_you_for_your_attention",
-        "volume_falling_3d"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_biden",
-        "kw_deal",
-        "open_disaster"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
