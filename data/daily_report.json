@@ -1,12 +1,16 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T18:00:49Z",
-  "posts_today": 3,
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T18:19:13Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-09-22T11:14",
-    "content_preview": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We "
+    "time": "2026-09-23T13:26",
+    "content_preview": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-22",
-    "close": 7769.27
+    "date": "2026-09-23",
+    "close": 7716.58
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-22\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The cowards and traitors would love to say the United States is low on munitions. It's not true. We ",
-    "zh": "川普密碼每日報告 -- 2026-09-22\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The cowards and traitors would love to say the United States is low on munitions. It's not true. We ",
-    "ja": "トランプ・コード日次レポート -- 2026-09-22\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The cowards and traitors would love to say the United States is low on munitions. It's not true. We "
+    "en": "Trump Code Daily Report -- 2026-09-23\nPosts today: 7 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+    "zh": "川普密碼每日報告 -- 2026-09-23\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
+    "ja": "トランプ・コード日次レポート -- 2026-09-23\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP"
   },
   "triggered_rules_sample": []
 }
