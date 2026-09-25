@@ -1,15 +1,13 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T18:19:44Z",
-  "posts_today": 10,
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T18:19:41Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-09-24T13:18",
-    "content_preview": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP"
+    "time": "2026-09-25T18:11",
+    "content_preview": "Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim"
   },
   "signals_detected": [
-    "TARIFF",
-    "CHINA",
-    "TARIFF_ONLY"
+    "CHINA"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -23,13 +21,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-24",
-    "close": 7702.62
+    "date": "2026-09-25",
+    "close": 7743.19
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-24\nPosts today: 10 | Models triggered: 0\nSignals: TARIFF, CHINA, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-    "zh": "川普密碼每日報告 -- 2026-09-24\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 中國, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-    "ja": "トランプ・コード日次レポート -- 2026-09-24\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: 関税, 中国, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP"
+    "en": "Trump Code Daily Report -- 2026-09-25\nPosts today: 5 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim",
+    "zh": "川普密碼每日報告 -- 2026-09-25\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim",
+    "ja": "トランプ・コード日次レポート -- 2026-09-25\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim"
   },
   "triggered_rules_sample": []
 }
