@@ -1,13 +1,16 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T18:19:41Z",
-  "posts_today": 5,
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T17:40:16Z",
+  "posts_today": 18,
   "latest_post": {
-    "time": "2026-09-25T18:11",
-    "content_preview": "Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim"
+    "time": "2026-09-26T15:58",
+    "content_preview": "Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, "
   },
   "signals_detected": [
-    "CHINA"
+    "DEAL",
+    "CHINA",
+    "IRAN",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -22,12 +25,12 @@
   },
   "sp500_latest": {
     "date": "2026-09-25",
-    "close": 7743.19
+    "close": 7743.41
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-25\nPosts today: 5 | Models triggered: 0\nSignals: CHINA\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim",
-    "zh": "川普密碼每日報告 -- 2026-09-25\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 中國\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim",
-    "ja": "トランプ・コード日次レポート -- 2026-09-25\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: 中国\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Congratulations to America First Patriot, Jerry Kassar, who I very strongly supported, on his unanim"
+    "en": "Trump Code Daily Report -- 2026-09-26\nPosts today: 18 | Models triggered: 0\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, ",
+    "zh": "川普密碼每日報告 -- 2026-09-26\n今日推文: 18 篇 | 觸發模型: 0 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, ",
+    "ja": "トランプ・コード日次レポート -- 2026-09-26\n本日の投稿: 18件 | トリガーモデル: 0組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, "
   },
   "triggered_rules_sample": []
 }
