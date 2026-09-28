@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T18:07:49Z",
-  "posts_today": 3,
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T20:26:03Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-09-27T15:19",
-    "content_preview": "The Supreme Court of the United States will just not let Missouri have an Election Victory. They con"
+    "time": "2026-09-28T12:02",
+    "content_preview": "Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-25",
-    "close": 7743.41
+    "date": "2026-09-28",
+    "close": 7683.69
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-27\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The Supreme Court of the United States will just not let Missouri have an Election Victory. They con",
-    "zh": "川普密碼每日報告 -- 2026-09-27\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The Supreme Court of the United States will just not let Missouri have an Election Victory. They con",
-    "ja": "トランプ・コード日次レポート -- 2026-09-27\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The Supreme Court of the United States will just not let Missouri have an Election Victory. They con"
+    "en": "Trump Code Daily Report -- 2026-09-28\nPosts today: 9 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R",
+    "zh": "川普密碼每日報告 -- 2026-09-28\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R",
+    "ja": "トランプ・コード日次レポート -- 2026-09-28\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R"
   },
   "triggered_rules_sample": []
 }
