@@ -1,12 +1,15 @@
 {
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T20:26:03Z",
-  "posts_today": 9,
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T19:12:35Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-09-28T12:02",
-    "content_preview": "Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R"
+    "time": "2026-09-29T12:30",
+    "content_preview": "From a great journalist! President DJT"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +22,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-28",
-    "close": 7683.69
+    "date": "2026-09-29",
+    "close": 7675.5
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-28\nPosts today: 9 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R",
-    "zh": "川普密碼每日報告 -- 2026-09-28\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R",
-    "ja": "トランプ・コード日次レポート -- 2026-09-28\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Joe Scarborough's show has been cut way back, and will soon be \"dead!\" Too predictable and boring! R"
+    "en": "Trump Code Daily Report -- 2026-09-29\nPosts today: 2 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: From a great journalist! President DJT",
+    "zh": "川普密碼每日報告 -- 2026-09-29\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: From a great journalist! President DJT",
+    "ja": "トランプ・コード日次レポート -- 2026-09-29\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: From a great journalist! President DJT"
   },
   "triggered_rules_sample": []
 }
