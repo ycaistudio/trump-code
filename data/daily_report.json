@@ -1,12 +1,16 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T18:54:58Z",
-  "posts_today": 3,
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T19:20:58Z",
+  "posts_today": 22,
   "latest_post": {
-    "time": "2026-09-30T17:17",
-    "content_preview": "Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long "
+    "time": "2026-10-01T18:38",
+    "content_preview": "Prices are way down from what Biden and the Dumocrats left us. It's why I won the Election, and now "
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "DEAL",
+    "IRAN",
+    "DEAL_ONLY"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-09-30",
-    "close": 7691.19
+    "date": "2026-10-01",
+    "close": 7675.45
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-09-30\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long ",
-    "zh": "川普密碼每日報告 -- 2026-09-30\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long ",
-    "ja": "トランプ・コード日次レポート -- 2026-09-30\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long "
+    "en": "Trump Code Daily Report -- 2026-10-01\nPosts today: 22 | Models triggered: 0\nSignals: DEAL, IRAN, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Prices are way down from what Biden and the Dumocrats left us. It's why I won the Election, and now ",
+    "zh": "川普密碼每日報告 -- 2026-10-01\n今日推文: 22 篇 | 觸發模型: 0 組\n偵測信號: Deal, 伊朗, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Prices are way down from what Biden and the Dumocrats left us. It's why I won the Election, and now ",
+    "ja": "トランプ・コード日次レポート -- 2026-10-01\n本日の投稿: 22件 | トリガーモデル: 0組\n検出シグナル: ディール, イラン, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Prices are way down from what Biden and the Dumocrats left us. It's why I won the Election, and now "
   },
   "triggered_rules_sample": []
 }
