@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T19:03:54Z",
-  "posts_today": 7,
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T17:51:31Z",
+  "posts_today": 26,
   "latest_post": {
-    "time": "2026-10-02T18:38",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421"
+    "time": "2026-10-03T14:32",
+    "content_preview": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle"
   },
   "signals_detected": [
     "DEAL",
@@ -23,12 +23,12 @@
   },
   "sp500_latest": {
     "date": "2026-10-02",
-    "close": 7720.97
+    "close": 7722.72
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-02\nPosts today: 7 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421",
-    "zh": "川普密碼每日報告 -- 2026-10-02\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421",
-    "ja": "トランプ・コード日次レポート -- 2026-10-02\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421"
+    "en": "Trump Code Daily Report -- 2026-10-03\nPosts today: 26 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle",
+    "zh": "川普密碼每日報告 -- 2026-10-03\n今日推文: 26 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle",
+    "ja": "トランプ・コード日次レポート -- 2026-10-03\n本日の投稿: 26件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle"
   },
   "triggered_rules_sample": []
 }
