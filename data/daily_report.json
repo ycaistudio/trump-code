@@ -1,14 +1,13 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T17:51:31Z",
-  "posts_today": 26,
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T18:02:59Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-10-03T14:32",
-    "content_preview": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle"
+    "time": "2026-10-04T17:08",
+    "content_preview": "The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It's been this way f"
   },
   "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
+    "IRAN"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -26,9 +25,9 @@
     "close": 7722.72
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-03\nPosts today: 26 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle",
-    "zh": "川普密碼每日報告 -- 2026-10-03\n今日推文: 26 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle",
-    "ja": "トランプ・コード日次レポート -- 2026-10-03\n本日の投稿: 26件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's calle"
+    "en": "Trump Code Daily Report -- 2026-10-04\nPosts today: 9 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It's been this way f",
+    "zh": "川普密碼每日報告 -- 2026-10-04\n今日推文: 9 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It's been this way f",
+    "ja": "トランプ・コード日次レポート -- 2026-10-04\n本日の投稿: 9件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The Kennedy Center is crumbling, and a great danger to anyone who walks inside. It's been this way f"
   },
   "triggered_rules_sample": []
 }
