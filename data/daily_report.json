@@ -1,15 +1,12 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T19:21:34Z",
-  "posts_today": 12,
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T19:49:19Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-10-06T15:25",
-    "content_preview": "What's happening in France is nothing less than out of control mass migration. This isn't about scho"
+    "time": "2026-10-07T18:29",
+    "content_preview": "Steve Witkoff keeps the light on: https://www.washingtonexaminer.com/opinion/columnists/4755159/stev"
   },
-  "signals_detected": [
-    "TARIFF",
-    "TARIFF_ONLY"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -22,13 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-06",
-    "close": 7826.33
+    "date": "2026-10-07",
+    "close": 7797.0
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-06\nPosts today: 12 | Models triggered: 0\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: What's happening in France is nothing less than out of control mass migration. This isn't about scho",
-    "zh": "川普密碼每日報告 -- 2026-10-06\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: What's happening in France is nothing less than out of control mass migration. This isn't about scho",
-    "ja": "トランプ・コード日次レポート -- 2026-10-06\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: What's happening in France is nothing less than out of control mass migration. This isn't about scho"
+    "en": "Trump Code Daily Report -- 2026-10-07\nPosts today: 7 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Steve Witkoff keeps the light on: https://www.washingtonexaminer.com/opinion/columnists/4755159/stev",
+    "zh": "川普密碼每日報告 -- 2026-10-07\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Steve Witkoff keeps the light on: https://www.washingtonexaminer.com/opinion/columnists/4755159/stev",
+    "ja": "トランプ・コード日次レポート -- 2026-10-07\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Steve Witkoff keeps the light on: https://www.washingtonexaminer.com/opinion/columnists/4755159/stev"
   },
   "triggered_rules_sample": []
 }
