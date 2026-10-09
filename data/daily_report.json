@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T19:43:48Z",
-  "posts_today": 6,
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T19:20:15Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-10-08T18:59",
-    "content_preview": "The Fake and Artificial News is out there trying to say that I'm inviting the enemy to bomb San Dieg"
+    "time": "2026-10-09T18:46",
+    "content_preview": "I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where"
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-08",
-    "close": 7760.91
+    "date": "2026-10-09",
+    "close": 7819.45
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-08\nPosts today: 6 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The Fake and Artificial News is out there trying to say that I'm inviting the enemy to bomb San Dieg",
-    "zh": "川普密碼每日報告 -- 2026-10-08\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The Fake and Artificial News is out there trying to say that I'm inviting the enemy to bomb San Dieg",
-    "ja": "トランプ・コード日次レポート -- 2026-10-08\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The Fake and Artificial News is out there trying to say that I'm inviting the enemy to bomb San Dieg"
+    "en": "Trump Code Daily Report -- 2026-10-09\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where",
+    "zh": "川普密碼每日報告 -- 2026-10-09\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where",
+    "ja": "トランプ・コード日次レポート -- 2026-10-09\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where"
   },
   "triggered_rules_sample": []
 }
