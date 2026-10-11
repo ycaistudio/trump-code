@@ -1,15 +1,12 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T18:18:01Z",
-  "posts_today": 8,
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T18:42:06Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-10-10T14:42",
-    "content_preview": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced "
+    "time": "2026-10-11T15:21",
+    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902"
   },
-  "signals_detected": [
-    "CHINA",
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -26,9 +23,9 @@
     "close": 7811.54
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-10\nPosts today: 8 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced ",
-    "zh": "川普密碼每日報告 -- 2026-10-10\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced ",
-    "ja": "トランプ・コード日次レポート -- 2026-10-10\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced "
+    "en": "Trump Code Daily Report -- 2026-10-11\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902",
+    "zh": "川普密碼每日報告 -- 2026-10-11\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902",
+    "ja": "トランプ・コード日次レポート -- 2026-10-11\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902"
   },
   "triggered_rules_sample": []
 }
