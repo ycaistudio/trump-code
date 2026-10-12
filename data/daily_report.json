@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T18:42:06Z",
-  "posts_today": 6,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T22:00:46Z",
+  "posts_today": 20,
   "latest_post": {
-    "time": "2026-10-11T15:21",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902"
+    "time": "2026-10-12T19:23",
+    "content_preview": "Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-09",
-    "close": 7811.54
+    "date": "2026-10-12",
+    "close": 7807.24
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-11\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902",
-    "zh": "川普密碼每日報告 -- 2026-10-11\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902",
-    "ja": "トランプ・コード日次レポート -- 2026-10-11\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117422953300698902"
+    "en": "Trump Code Daily Report -- 2026-10-12\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of",
+    "zh": "川普密碼每日報告 -- 2026-10-12\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of",
+    "ja": "トランプ・コード日次レポート -- 2026-10-12\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of"
   },
   "triggered_rules_sample": []
 }
