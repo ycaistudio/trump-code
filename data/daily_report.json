@@ -1,17 +1,20 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T22:00:46Z",
-  "posts_today": 20,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T20:08:23Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-10-12T19:23",
-    "content_preview": "Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of"
+    "time": "2026-10-13T19:54",
+    "content_preview": "Don't ever mess with nature! President DJT"
   },
-  "signals_detected": [],
-  "models_triggered": 0,
+  "signals_detected": [
+    "CHINA",
+    "IRAN"
+  ],
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -19,13 +22,25 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-12",
-    "close": 7807.24
+    "date": "2026-10-13",
+    "close": 7805.45
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-12\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of",
-    "zh": "川普密碼每日報告 -- 2026-10-12\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of",
-    "ja": "トランプ・コード日次レポート -- 2026-10-12\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Look what happened in Ohio since my last Rally, and I have another one today. It's The Golden Age of"
+    "en": "Trump Code Daily Report -- 2026-10-13\nPosts today: 7 | Models triggered: 1\nSignals: CHINA, IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Don't ever mess with nature! President DJT",
+    "zh": "川普密碼每日報告 -- 2026-10-13\n今日推文: 7 篇 | 觸發模型: 1 組\n偵測信號: 中國, 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Don't ever mess with nature! President DJT",
+    "ja": "トランプ・コード日次レポート -- 2026-10-13\n本日の投稿: 7件 | トリガーモデル: 1組\n検出シグナル: 中国, イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Don't ever mess with nature! President DJT"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_china",
+        "kw_thank_you_for_your_attention",
+        "open_inflation"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
