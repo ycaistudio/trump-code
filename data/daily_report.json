@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T20:08:23Z",
-  "posts_today": 7,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T18:23:44Z",
+  "posts_today": 10,
   "latest_post": {
-    "time": "2026-10-13T19:54",
-    "content_preview": "Don't ever mess with nature! President DJT"
+    "time": "2026-10-14T16:39",
+    "content_preview": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries"
   },
   "signals_detected": [
-    "CHINA",
-    "IRAN"
+    "DEAL",
+    "DEAL_ONLY"
   ],
-  "models_triggered": 1,
+  "models_triggered": 4,
   "direction_summary": {
-    "LONG": 1,
+    "LONG": 4,
     "SHORT": 0,
     "consensus": "BULLISH"
   },
@@ -22,20 +22,53 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-13",
-    "close": 7805.45
+    "date": "2026-10-14",
+    "close": 7708.22
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-13\nPosts today: 7 | Models triggered: 1\nSignals: CHINA, IRAN\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Don't ever mess with nature! President DJT",
-    "zh": "川普密碼每日報告 -- 2026-10-13\n今日推文: 7 篇 | 觸發模型: 1 組\n偵測信號: 中國, 伊朗\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Don't ever mess with nature! President DJT",
-    "ja": "トランプ・コード日次レポート -- 2026-10-13\n本日の投稿: 7件 | トリガーモデル: 1組\n検出シグナル: 中国, イラン\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Don't ever mess with nature! President DJT"
+    "en": "Trump Code Daily Report -- 2026-10-14\nPosts today: 10 | Models triggered: 4\nSignals: DEAL, DEAL_ONLY\nConsensus: 4 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries",
+    "zh": "川普密碼每日報告 -- 2026-10-14\n今日推文: 10 篇 | 觸發模型: 4 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 4 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries",
+    "ja": "トランプ・コード日次レポート -- 2026-10-14\n本日の投稿: 10件 | トリガーモデル: 4組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 4組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries"
   },
   "triggered_rules_sample": [
     {
       "features": [
-        "kw_china",
-        "kw_thank_you_for_your_attention",
-        "open_inflation"
+        "kw_deal_2plus",
+        "kw_economy",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal_2plus",
+        "kw_europe",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal_2plus",
+        "kw_economy",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_agreement",
+        "kw_jobs",
+        "kw_thank_you_for_your_attention"
       ],
       "direction": "LONG",
       "hold": 2,
