@@ -1,20 +1,17 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T18:06:16Z",
-  "posts_today": 5,
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T17:51:41Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-10-15T16:12",
-    "content_preview": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016"
+    "time": "2026-10-16T08:47",
+    "content_preview": "A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic"
   },
-  "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
-  ],
-  "models_triggered": 1,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 1,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -22,25 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-15",
-    "close": 7730.93
+    "date": "2026-10-16",
+    "close": 7666.86
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-15\nPosts today: 5 | Models triggered: 1\nSignals: DEAL, DEAL_ONLY\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016",
-    "zh": "川普密碼每日報告 -- 2026-10-15\n今日推文: 5 篇 | 觸發模型: 1 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016",
-    "ja": "トランプ・コード日次レポート -- 2026-10-15\n本日の投稿: 5件 | トリガーモデル: 1組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: RT: https://truthsocial.com/users/realDonaldTrump/statuses/117445800565005016"
+    "en": "Trump Code Daily Report -- 2026-10-16\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic",
+    "zh": "川普密碼每日報告 -- 2026-10-16\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic",
+    "ja": "トランプ・コード日次レポート -- 2026-10-16\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_tremendous",
-        "open_thank_you_for_your_attention",
-        "volume_falling_3d"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
