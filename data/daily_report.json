@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T17:51:41Z",
-  "posts_today": 3,
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T16:55:08Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-10-16T08:47",
-    "content_preview": "A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic"
+    "time": "2026-10-17T16:31",
+    "content_preview": "Heading to Kentucky! Will be landing soon. Big Crowd. I'm watching it now on RSBN. The coverage is s"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-10-16",
-    "close": 7666.86
+    "close": 7659.44
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-16\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic",
-    "zh": "川普密碼每日報告 -- 2026-10-16\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic",
-    "ja": "トランプ・コード日次レポート -- 2026-10-16\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: A great man!!! President DJTJustice Alito confirms he is considering retirement: https://www.politic"
+    "en": "Trump Code Daily Report -- 2026-10-17\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Heading to Kentucky! Will be landing soon. Big Crowd. I'm watching it now on RSBN. The coverage is s",
+    "zh": "川普密碼每日報告 -- 2026-10-17\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Heading to Kentucky! Will be landing soon. Big Crowd. I'm watching it now on RSBN. The coverage is s",
+    "ja": "トランプ・コード日次レポート -- 2026-10-17\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Heading to Kentucky! Will be landing soon. Big Crowd. I'm watching it now on RSBN. The coverage is s"
   },
   "triggered_rules_sample": []
 }
