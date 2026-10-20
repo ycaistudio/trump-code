@@ -1,13 +1,15 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T19:42:35Z",
-  "posts_today": 22,
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T18:24:07Z",
+  "posts_today": 36,
   "latest_post": {
-    "time": "2026-10-19T19:07",
-    "content_preview": "A big WIN for Massapequa and DJT!NY plans to drop part of Native American logo ban in 'huge victory'"
+    "time": "2026-10-20T17:09",
+    "content_preview": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially"
   },
   "signals_detected": [
-    "IRAN"
+    "TARIFF",
+    "IRAN",
+    "TARIFF_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -21,13 +23,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-19",
-    "close": 7709.66
+    "date": "2026-10-20",
+    "close": 7718.75
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-19\nPosts today: 22 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: A big WIN for Massapequa and DJT!NY plans to drop part of Native American logo ban in 'huge victory'",
-    "zh": "川普密碼每日報告 -- 2026-10-19\n今日推文: 22 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: A big WIN for Massapequa and DJT!NY plans to drop part of Native American logo ban in 'huge victory'",
-    "ja": "トランプ・コード日次レポート -- 2026-10-19\n本日の投稿: 22件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: A big WIN for Massapequa and DJT!NY plans to drop part of Native American logo ban in 'huge victory'"
+    "en": "Trump Code Daily Report -- 2026-10-20\nPosts today: 36 | Models triggered: 0\nSignals: TARIFF, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Because of my belief in the Republican Party, and all of our Policies and Principles, and especially",
+    "zh": "川普密碼每日報告 -- 2026-10-20\n今日推文: 36 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Because of my belief in the Republican Party, and all of our Policies and Principles, and especially",
+    "ja": "トランプ・コード日次レポート -- 2026-10-20\n本日の投稿: 36件 | トリガーモデル: 0組\n検出シグナル: 関税, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Because of my belief in the Republican Party, and all of our Policies and Principles, and especially"
   },
   "triggered_rules_sample": []
 }
