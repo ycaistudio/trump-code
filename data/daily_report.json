@@ -1,15 +1,14 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T18:24:07Z",
-  "posts_today": 36,
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T18:29:38Z",
+  "posts_today": 15,
   "latest_post": {
-    "time": "2026-10-20T17:09",
-    "content_preview": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially"
+    "time": "2026-10-21T17:20",
+    "content_preview": "Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy "
   },
   "signals_detected": [
-    "TARIFF",
-    "IRAN",
-    "TARIFF_ONLY"
+    "DEAL",
+    "DEAL_ONLY"
   ],
   "models_triggered": 0,
   "direction_summary": {
@@ -23,13 +22,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-20",
-    "close": 7718.75
+    "date": "2026-10-21",
+    "close": 7768.64
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-20\nPosts today: 36 | Models triggered: 0\nSignals: TARIFF, IRAN, TARIFF_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Because of my belief in the Republican Party, and all of our Policies and Principles, and especially",
-    "zh": "川普密碼每日報告 -- 2026-10-20\n今日推文: 36 篇 | 觸發模型: 0 組\n偵測信號: 關稅, 伊朗, 只有關稅沒有Deal\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Because of my belief in the Republican Party, and all of our Policies and Principles, and especially",
-    "ja": "トランプ・コード日次レポート -- 2026-10-20\n本日の投稿: 36件 | トリガーモデル: 0組\n検出シグナル: 関税, イラン, 関税のみ（Deal無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Because of my belief in the Republican Party, and all of our Policies and Principles, and especially"
+    "en": "Trump Code Daily Report -- 2026-10-21\nPosts today: 15 | Models triggered: 0\nSignals: DEAL, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy ",
+    "zh": "川普密碼每日報告 -- 2026-10-21\n今日推文: 15 篇 | 觸發模型: 0 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy ",
+    "ja": "トランプ・コード日次レポート -- 2026-10-21\n本日の投稿: 15件 | トリガーモデル: 0組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy "
   },
   "triggered_rules_sample": []
 }
