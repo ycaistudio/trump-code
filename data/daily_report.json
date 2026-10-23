@@ -1,19 +1,20 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T18:24:40Z",
-  "posts_today": 38,
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T18:10:36Z",
+  "posts_today": 9,
   "latest_post": {
-    "time": "2026-10-22T18:04",
-    "content_preview": "The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for "
+    "time": "2026-10-23T17:44",
+    "content_preview": "A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD"
   },
   "signals_detected": [
-    "IRAN"
+    "DEAL",
+    "DEAL_ONLY"
   ],
-  "models_triggered": 0,
+  "models_triggered": 3,
   "direction_summary": {
-    "LONG": 0,
-    "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "LONG": 2,
+    "SHORT": 1,
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -21,13 +22,47 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-22",
-    "close": 7659.09
+    "date": "2026-10-23",
+    "close": 7633.34
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-22\nPosts today: 38 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for ",
-    "zh": "川普密碼每日報告 -- 2026-10-22\n今日推文: 38 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for ",
-    "ja": "トランプ・コード日次レポート -- 2026-10-22\n本日の投稿: 38件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: The Horse-drawn Carriage in New York City is a quintessential New York experience. So sad that, for "
+    "en": "Trump Code Daily Report -- 2026-10-23\nPosts today: 9 | Models triggered: 3\nSignals: DEAL, DEAL_ONLY\nConsensus: 2 LONG vs 1 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD",
+    "zh": "川普密碼每日報告 -- 2026-10-23\n今日推文: 9 篇 | 觸發模型: 3 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 2 組看多 vs 1 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD",
+    "ja": "トランプ・コード日次レポート -- 2026-10-23\n本日の投稿: 9件 | トリガーモデル: 3組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 2組ロング vs 1組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_deal_2plus",
+        "kw_economy",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_deal_2plus",
+        "kw_economy",
+        "kw_jobs"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    },
+    {
+      "features": [
+        "kw_america_first",
+        "kw_beautiful",
+        "kw_terrible"
+      ],
+      "direction": "SHORT",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
