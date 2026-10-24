@@ -1,20 +1,17 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T18:10:36Z",
-  "posts_today": 9,
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T17:16:12Z",
+  "posts_today": 12,
   "latest_post": {
-    "time": "2026-10-23T17:44",
-    "content_preview": "A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD"
+    "time": "2026-10-24T16:46",
+    "content_preview": "https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp"
   },
-  "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
-  ],
-  "models_triggered": 3,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 2,
-    "SHORT": 1,
-    "consensus": "BULLISH"
+    "LONG": 0,
+    "SHORT": 0,
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -23,46 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-10-23",
-    "close": 7633.34
+    "close": 7623.68
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-23\nPosts today: 9 | Models triggered: 3\nSignals: DEAL, DEAL_ONLY\nConsensus: 2 LONG vs 1 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD",
-    "zh": "川普密碼每日報告 -- 2026-10-23\n今日推文: 9 篇 | 觸發模型: 3 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 2 組看多 vs 1 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD",
-    "ja": "トランプ・コード日次レポート -- 2026-10-23\n本日の投稿: 9件 | トリガーモデル: 3組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 2組ロング vs 1組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD"
+    "en": "Trump Code Daily Report -- 2026-10-24\nPosts today: 12 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
+    "zh": "川普密碼每日報告 -- 2026-10-24\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
+    "ja": "トランプ・コード日次レポート -- 2026-10-24\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_economy",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal_2plus",
-        "kw_economy",
-        "kw_jobs"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_america_first",
-        "kw_beautiful",
-        "kw_terrible"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
