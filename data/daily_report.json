@@ -1,12 +1,14 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T17:16:12Z",
-  "posts_today": 12,
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T17:28:59Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-10-24T16:46",
-    "content_preview": "https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp"
+    "time": "2026-10-25T16:49",
+    "content_preview": "FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,9 +25,9 @@
     "close": 7623.68
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-24\nPosts today: 12 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
-    "zh": "川普密碼每日報告 -- 2026-10-24\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp",
-    "ja": "トランプ・コード日次レポート -- 2026-10-24\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: https://www.youtube.com/live/9eW9_If62pc?si=v4kLaTJTayJhAlTp"
+    "en": "Trump Code Daily Report -- 2026-10-25\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl",
+    "zh": "川普密碼每日報告 -- 2026-10-25\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl",
+    "ja": "トランプ・コード日次レポート -- 2026-10-25\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl"
   },
   "triggered_rules_sample": []
 }
