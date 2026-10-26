@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T17:28:59Z",
-  "posts_today": 8,
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T19:47:37Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-10-25T16:49",
-    "content_preview": "FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl"
+    "time": "2026-10-26T19:31",
+    "content_preview": "Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be "
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-23",
-    "close": 7623.68
+    "date": "2026-10-26",
+    "close": 7680.42
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-25\nPosts today: 8 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl",
-    "zh": "川普密碼每日報告 -- 2026-10-25\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl",
-    "ja": "トランプ・コード日次レポート -- 2026-10-25\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, peopl"
+    "en": "Trump Code Daily Report -- 2026-10-26\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be ",
+    "zh": "川普密碼每日報告 -- 2026-10-26\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be ",
+    "ja": "トランプ・コード日次レポート -- 2026-10-26\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be "
   },
   "triggered_rules_sample": []
 }
