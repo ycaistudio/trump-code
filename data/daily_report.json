@@ -1,19 +1,20 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T19:47:37Z",
-  "posts_today": 5,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T19:16:38Z",
+  "posts_today": 23,
   "latest_post": {
-    "time": "2026-10-26T19:31",
-    "content_preview": "Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be "
+    "time": "2026-10-27T19:04",
+    "content_preview": "https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47"
   },
   "signals_detected": [
-    "IRAN"
+    "DEAL",
+    "DEAL_ONLY"
   ],
-  "models_triggered": 0,
+  "models_triggered": 1,
   "direction_summary": {
-    "LONG": 0,
+    "LONG": 1,
     "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "consensus": "BULLISH"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -21,13 +22,25 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-26",
-    "close": 7680.42
+    "date": "2026-10-27",
+    "close": 7728.45
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-26\nPosts today: 5 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be ",
-    "zh": "川普密碼每日報告 -- 2026-10-26\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be ",
-    "ja": "トランプ・コード日次レポート -- 2026-10-26\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be "
+    "en": "Trump Code Daily Report -- 2026-10-27\nPosts today: 23 | Models triggered: 1\nSignals: DEAL, DEAL_ONLY\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47",
+    "zh": "川普密碼每日報告 -- 2026-10-27\n今日推文: 23 篇 | 觸發模型: 1 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47",
+    "ja": "トランプ・コード日次レポート -- 2026-10-27\n本日の投稿: 23件 | トリガーモデル: 1組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_beautiful",
+        "open_thank_you_for_your_attention",
+        "open_tremendous"
+      ],
+      "direction": "LONG",
+      "hold": 2,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
