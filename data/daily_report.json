@@ -1,20 +1,17 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T19:16:38Z",
-  "posts_today": 23,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T19:23:49Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-10-27T19:04",
-    "content_preview": "https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47"
+    "time": "2026-10-28T19:20",
+    "content_preview": "CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt"
   },
-  "signals_detected": [
-    "DEAL",
-    "DEAL_ONLY"
-  ],
-  "models_triggered": 1,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 1,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -22,25 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-27",
-    "close": 7728.45
+    "date": "2026-10-28",
+    "close": 7732.47
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-27\nPosts today: 23 | Models triggered: 1\nSignals: DEAL, DEAL_ONLY\nConsensus: 1 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47",
-    "zh": "川普密碼每日報告 -- 2026-10-27\n今日推文: 23 篇 | 觸發模型: 1 組\n偵測信號: Deal, 只有Deal沒有關稅\n共識方向: 1 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47",
-    "ja": "トランプ・コード日次レポート -- 2026-10-27\n本日の投稿: 23件 | トリガーモデル: 1組\n検出シグナル: ディール, Dealのみ（関税無し）\nコンセンサス: 1組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: https://events.gop.com/events/midterm-rally-in-chillicothe-ohio-with-president-donald-j-trump-djt47"
+    "en": "Trump Code Daily Report -- 2026-10-28\nPosts today: 5 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt",
+    "zh": "川普密碼每日報告 -- 2026-10-28\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt",
+    "ja": "トランプ・コード日次レポート -- 2026-10-28\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_beautiful",
-        "open_thank_you_for_your_attention",
-        "open_tremendous"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
