@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T19:23:49Z",
-  "posts_today": 5,
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T19:28:22Z",
+  "posts_today": 29,
   "latest_post": {
-    "time": "2026-10-28T19:20",
-    "content_preview": "CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt"
+    "time": "2026-10-29T19:17",
+    "content_preview": "Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe"
   },
   "signals_detected": [],
-  "models_triggered": 0,
+  "models_triggered": 1,
   "direction_summary": {
     "LONG": 0,
-    "SHORT": 0,
-    "consensus": "NEUTRAL"
+    "SHORT": 1,
+    "consensus": "BEARISH"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -19,13 +19,25 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-28",
-    "close": 7732.47
+    "date": "2026-10-29",
+    "close": 7706.86
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-28\nPosts today: 5 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt",
-    "zh": "川普密碼每日報告 -- 2026-10-28\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt",
-    "ja": "トランプ・コード日次レポート -- 2026-10-28\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: CROOKED ELECTION IN ALASKA!Inside Democrats' Secret Effort to Stack Alaska's Ballot: https://www.nyt"
+    "en": "Trump Code Daily Report -- 2026-10-29\nPosts today: 29 | Models triggered: 1\nSignals: None\nConsensus: 0 LONG vs 1 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe",
+    "zh": "川普密碼每日報告 -- 2026-10-29\n今日推文: 29 篇 | 觸發模型: 1 組\n偵測信號: 無\n共識方向: 0 組看多 vs 1 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe",
+    "ja": "トランプ・コード日次レポート -- 2026-10-29\n本日の投稿: 29件 | トリガーモデル: 1組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 1組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe"
   },
-  "triggered_rules_sample": []
+  "triggered_rules_sample": [
+    {
+      "features": [
+        "kw_america_first",
+        "kw_beautiful",
+        "kw_terrible"
+      ],
+      "direction": "SHORT",
+      "hold": 3,
+      "train_wr": 100.0,
+      "test_wr": 100.0
+    }
+  ]
 }
