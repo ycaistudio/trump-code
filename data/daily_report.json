@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T19:28:22Z",
-  "posts_today": 29,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T19:02:46Z",
+  "posts_today": 10,
   "latest_post": {
-    "time": "2026-10-29T19:17",
-    "content_preview": "Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe"
+    "time": "2026-10-30T11:29",
+    "content_preview": "https://conservativebrief.com/senate-race-poll-midterm-105503/"
   },
   "signals_detected": [],
-  "models_triggered": 1,
+  "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
-    "SHORT": 1,
-    "consensus": "BEARISH"
+    "SHORT": 0,
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 12,
@@ -19,25 +19,13 @@
     "rate": 91.7
   },
   "sp500_latest": {
-    "date": "2026-10-29",
-    "close": 7706.86
+    "date": "2026-10-30",
+    "close": 7539.43
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-29\nPosts today: 29 | Models triggered: 1\nSignals: None\nConsensus: 0 LONG vs 1 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe",
-    "zh": "川普密碼每日報告 -- 2026-10-29\n今日推文: 29 篇 | 觸發模型: 1 組\n偵測信號: 無\n共識方向: 0 組看多 vs 1 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe",
-    "ja": "トランプ・コード日次レポート -- 2026-10-29\n本日の投稿: 29件 | トリガーモデル: 1組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 1組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pe"
+    "en": "Trump Code Daily Report -- 2026-10-30\nPosts today: 10 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: https://conservativebrief.com/senate-race-poll-midterm-105503/",
+    "zh": "川普密碼每日報告 -- 2026-10-30\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: https://conservativebrief.com/senate-race-poll-midterm-105503/",
+    "ja": "トランプ・コード日次レポート -- 2026-10-30\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: https://conservativebrief.com/senate-race-poll-midterm-105503/"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_america_first",
-        "kw_beautiful",
-        "kw_terrible"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
