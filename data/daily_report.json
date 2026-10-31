@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T19:02:46Z",
-  "posts_today": 10,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T18:20:01Z",
+  "posts_today": 12,
   "latest_post": {
-    "time": "2026-10-30T11:29",
-    "content_preview": "https://conservativebrief.com/senate-race-poll-midterm-105503/"
+    "time": "2026-10-31T18:14",
+    "content_preview": "Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John "
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-10-30",
-    "close": 7539.43
+    "close": 7580.07
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-30\nPosts today: 10 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: https://conservativebrief.com/senate-race-poll-midterm-105503/",
-    "zh": "川普密碼每日報告 -- 2026-10-30\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: https://conservativebrief.com/senate-race-poll-midterm-105503/",
-    "ja": "トランプ・コード日次レポート -- 2026-10-30\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: https://conservativebrief.com/senate-race-poll-midterm-105503/"
+    "en": "Trump Code Daily Report -- 2026-10-31\nPosts today: 12 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John ",
+    "zh": "川普密碼每日報告 -- 2026-10-31\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John ",
+    "ja": "トランプ・コード日次レポート -- 2026-10-31\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John "
   },
   "triggered_rules_sample": []
 }
