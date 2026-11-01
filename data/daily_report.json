@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T18:20:01Z",
-  "posts_today": 12,
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:48:15Z",
+  "posts_today": 20,
   "latest_post": {
-    "time": "2026-10-31T18:14",
-    "content_preview": "Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John "
+    "time": "2026-11-01T18:38",
+    "content_preview": "Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -23,9 +23,9 @@
     "close": 7580.07
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-31\nPosts today: 12 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John ",
-    "zh": "川普密碼每日報告 -- 2026-10-31\n今日推文: 12 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John ",
-    "ja": "トランプ・コード日次レポート -- 2026-10-31\n本日の投稿: 12件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Congressman John Joyce is a fantastic Champion for Pennsylvania's 13th Congressional District! John "
+    "en": "Trump Code Daily Report -- 2026-11-01\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 91.7% (11/12)\nLatest post: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the",
+    "zh": "川普密碼每日報告 -- 2026-11-01\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 91.7% (11/12)\n最新推文: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the",
+    "ja": "トランプ・コード日次レポート -- 2026-11-01\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 91.7% (11/12)\n最新投稿: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the"
   },
   "triggered_rules_sample": []
 }
